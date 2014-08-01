@@ -58,6 +58,10 @@ Events for which no location was found are ALSO output to ./results/unmatched_ca
 
 This module merges camp ids nested in the Playa Events API Event feed (some Events have a **hosted_by_camp** parameter, which reveals **name** and **id** of the host camp) into a JSON listing of camps.
 
+# Warping Map Data Between Years
+
+We used [OpenJUMP](http://www.openjump.org) to create a warp vector between the boundary points from 2013->2014, and then warped all the data for 2013->2014 from that same vector. Check out the `.jmp` file...
+
 # TODO
 
 * Cleanup this README
