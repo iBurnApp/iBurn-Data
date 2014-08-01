@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+        "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.2043,
+                    40.787
+                ]
+            },
+            "properties": {
+                "id": 0,
+                "name": "The Man"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.23348,
+                    40.78355
+                ]
+            },
+            "properties": {
+                "id": 1
+            }
+        },
+        {
+        "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.21772,
+                    40.80688
+                ]
+            },
+            "properties": {
+                "id": 2
+            }
+        }
+        ,
+        {
+        "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.18346,
+                    40.80278
+                ]
+            },
+            "properties": {
+                "id": 3
+            }
+        },
+        {
+        "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.17794,
+                    40.77683
+                ]
+            },
+            "properties": {
+                "id": 4
+            }
+        },
+        {
+        "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.20880,
+                    40.76492
+                ]
+            },
+            "properties": {
+                "id": 5
+            }
+        }
+    ]
+}
