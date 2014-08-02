@@ -1,3 +1,7 @@
+# Hide the Embargoed Data until Gates Opens
+data/2014/*.json
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
