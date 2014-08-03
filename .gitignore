@@ -1,5 +1,7 @@
 # Hide the Embargoed Data until Gates Opens
-data/2014/*.json
+data/2014/art.json
+data/2014/camps.json
+data/2014/events.json
 
 
 # Byte-compiled / optimized / DLL files
