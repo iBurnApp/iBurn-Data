@@ -2,7 +2,7 @@
 data/2014/art.json
 data/2014/camps.json
 data/2014/events.json
-
+data/2014/iBurn-database/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
