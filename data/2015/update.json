@@ -1,0 +1,10 @@
+{
+	"art": {"file": "art.json",
+			"updated": "2015-06-25 16:30:00"},
+	"camps": {"file": "camps.json",
+			  "updated": "2015-06-25 16:30:00"},
+	"events": {"file": "events.json",
+			   "updated": "2015-06-25 16:30:00"},
+	"tiles": {"file": "iburn.mbtiles",
+			  "updated": "2015-06-25 16:30:00"}
+}
