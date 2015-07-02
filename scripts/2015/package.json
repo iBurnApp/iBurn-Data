@@ -9,7 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test":  "tape test.js"
+    "test":  "tape tests/test.js"
   },
   "author": "",
   "license": "ISC"
