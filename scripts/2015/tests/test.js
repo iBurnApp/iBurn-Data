@@ -1,6 +1,7 @@
 var test = require('tape');
 var turf  = require('turf');
 var Geocoder = require('../geocoder.js');
+var City = require('../city.js')
 
 var streets = require('./streets2014.json')
 
@@ -10,11 +11,38 @@ var cityCenter = {
   "geometry": {"type": "Point", "coordinates": [-119.20315, 40.78880]}
   };
 
+var centerCamp = {
+  "type": "Feature",
+  "geometry": {"type": "Point", "coordinates": [ -119.21044571526275, 40.78338244255566 ]}
+  };
+
 var cityBearingDegrees = 45;
+
+test('Bearing', function(t){
+  var bearing = City.bearing(streets)
+
+  t.equal(bearing,cityBearingDegrees,"Should be equal city bearing")
+  t.end()
+});
+
+test('CityCenter', function(t){
+  var calculatedCenter = City.center(streets);
+
+  var error = turf.distance(calculatedCenter,cityCenter,'miles')
+  console.log(error);
+  t.end()
+});
+
+test('CenterCamp', function(t){
+  var calculatedCenterCamp = City.centerCamp(streets);
+  var error = turf.distance(calculatedCenterCamp,centerCamp,'miles')
+  t.ok(error<.0001,"Should be close to center camp")
+  t.end()
+});
 
 test('TimeAndDistance', function(t) {
 
-  var coder = new Geocoder(cityCenter,cityBearingDegrees);
+  var coder = new Geocoder(cityCenter,cityBearingDegrees,centerCamp);
   var distance = 0.5;
   var unit = 'miles';
 
@@ -42,22 +70,21 @@ test('TimeAndDistance', function(t) {
 
 test ('StreetIntersection', function(t) {
 
-  var coder = new Geocoder(cityCenter,cityBearingDegrees);
+  var coder = new Geocoder(cityCenter,cityBearingDegrees,centerCamp);
   coder.addFeatures(streets);
 
   var testSearches = [
     turf.point([ -119.214674486961, 40.78016725641976 ],{street1:'6:00',street2:"Holy"}),
-    turf.point([ -119.21159929425116, 40.787157193576945 ],{street1:'Esplanade',street2:"7:00"})
+    turf.point([ -119.21159929425116, 40.787157193576945 ],{street1:'Esplanade',street2:"7:00"}),
+    turf.point([ -119.21230712260505, 40.781972688048306 ],{street1:'Rod\'s Rd.',street2:"6:00"})
   ];
 
   for (var i =0; i < testSearches.length; i++) {
     var testIntersection = testSearches[i];
     var intersection = coder.streetIntersectionToLatLon(testIntersection.properties.street1,testIntersection.properties.street2);
-    var distance = turf.distance(intersection,testIntersection)
-    t.ok(distance < 0.001, "Intersection should be close")
+    var distance = turf.distance(intersection,testIntersection);
+    t.ok(distance < 0.001, "Intersection should be close");
   }
 
-  var intersection = coder.streetIntersectionToLatLon("Rod's Rd.","Airstrip");
-  console.log(intersection)
   t.end()
 });
