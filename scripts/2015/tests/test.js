@@ -29,7 +29,9 @@ test('CityCenter', function(t){
   var calculatedCenter = City.center(streets);
 
   var error = turf.distance(calculatedCenter,cityCenter,'miles')
-  console.log(error);
+  //Using 50 feet because seems to be some difference
+  //This is not great
+  t.ok(error<.01,"Should be close to the center")
   t.end()
 });
 

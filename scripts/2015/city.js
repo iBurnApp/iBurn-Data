@@ -1,15 +1,14 @@
 var turf  = require('turf');
+var each = require('turf-meta').coordEach;
 
 //find the two closest points in each line and then draw straight line between them
-function connectingLine(line1,line2) {
+function connectingLine(lineSet1,lineSet2) {
 
-  line1Points = linePoints(line1);
-  line2Points = linePoints(line2);
+  line1Points = linePoints(lineSet1);
+  line2Points = linePoints(lineSet2);
 
   var points = nearestPoints(line1Points,line2Points);
-  console.log(points)
   var line = turf.linestring([points[0].geometry.coordinates,points[1].geometry.coordinates])
-  console.log("calculatedLine")
   return line;
 }
 
@@ -26,7 +25,6 @@ function nearestPoints(points1,points2) {
       //console.log("Point1: %j",point1);
       //console.log("Point2: %j",point2);
       var distance = turf.distance(point1,point2,'miles');
-      console.log(distance)
       if (distance < winningDistance) {
         winningDistance = distance
         nearest1 = point1
@@ -34,26 +32,14 @@ function nearestPoints(points1,points2) {
       }
     }
   }
-
   return [nearest1,nearest2]
 }
 
 function linePoints(line) {
-  points = []
-  var coordinates = line.geometry.coordinates;
-  if (line.geometry.type === "MultiLineString") {
-    for (var i =0; i < coordinates.length; i++) {
-        points = points.concat(linePoints(turf.linestring(coordinates[i]),line.properties));
-    }
-  } else {
-    for (var i =0; i < coordinates.length; i++) {
-      var coordinate = coordinates[i];
-      points.push(coordinate)
-    }
-  }
-
-  console.log("Line: %f",line)
-  console.log("points: "+points)
+  points = [];
+  each(line, function(coords) {
+    points.push(coords);
+  });
 
   return points;
 }
@@ -73,15 +59,12 @@ module.exports  = {
     twelfveFiltered = turf.filter(features,"Name","12:00");
 
 //can't just use first one
-    northLine = connectingLine(sixFiltered.features[0],twelfveFiltered.features[0]);
+    northLine = connectingLine(sixFiltered,twelfveFiltered);
 
     nineFiltered = turf.filter(features,"Name","9:00");
     threeFiltered = turf.filter(features,"Name","3:00")
 
-    southLine = connectingLine(nineFiltered.features[0],threeFiltered.features[0]);
-
-    console.log("North: %j %f", northLine,turf.lineDistance(northLine,'miles'));
-    console.log("South: %j %f", southLine,turf.lineDistance(southLine,'miles'));
+    southLine = connectingLine(nineFiltered,threeFiltered);
 
     return turf.intersect(northLine,southLine);
   },
