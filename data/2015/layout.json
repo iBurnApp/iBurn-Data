@@ -1,0 +1,212 @@
+{
+  "center": {
+    "type": "Feature",
+    "properties": {
+      "ref":"golden_spike",
+      "name":"The Man"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.2065, 40.7864]
+    }
+  },
+  "fence": {
+    "type": "Feature",
+    "properties": {
+      "ref": "fence",
+      "name": "Trash Fence"
+    },
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [-119.2357, 40.783],
+        [-119.2199, 40.8063],
+        [-119.1857, 40.8022],
+        [-119.1802, 40.7762],
+        [-119.2111, 40.7644],
+        [-119.2357, 40.783]
+      ]
+    }
+  },
+  "bearing": 45,
+  "road_width": 40,
+  "center_camp_distance": 2907,
+  "rod_road_distance":750,
+  "cafe_plaza_radius":330,
+  "cafe_radius":110,
+  "cStreets":[
+    {
+      "distance":2500,
+      "segments":[["2:00","10:00"]],
+      "ref":"esplanade"
+    },
+    {
+      "distance":2940,
+      "segments":[["2:00","10:00"]],
+      "ref":"a",
+      "name": "Arcade"
+    },
+    {
+      "distance":3180,
+      "segments":[["2:00","10:00"]],
+      "ref":"b",
+      "name": "Ballyhoo"
+    },
+    {
+      "distance":3420,
+      "segments":[["2:00","10:00"]],
+      "ref":"c",
+      "name": "Carny"
+    },
+    {
+      "distance":3660,
+      "segments":[["2:00","10:00"]],
+      "ref":"d",
+      "name": "Donniker"
+    },
+    {
+      "distance":3900,
+      "segments":[["2:00","10:00"]],
+      "ref":"e",
+      "name": "Ersatz"
+    },
+    {
+      "distance":4140,
+      "segments":[["2:30","3:30"],["4:00","5:00"],["7:00","8:00"],["8:30","9:30"]],
+      "ref":"f",
+      "name": "Freakshow"
+    },
+    {
+      "distance":4380,
+      "segments":[["2:00","10:00"]],
+      "ref":"g",
+      "name": "Geek"
+    },
+    {
+      "distance":4620,
+      "segments":[["2:00","10:00"]],
+      "ref":"h",
+      "name": "Hankypanky"
+    },
+    {
+      "distance":4860,
+      "segments":[["2:00","10:00"]],
+      "ref":"i",
+      "name": "Illusion"
+    },
+    {
+      "distance":5100,
+      "segments":[["2:00","10:00"]],
+      "ref":"j",
+      "name": "Jolly"
+    },
+    {
+      "distance":5340,
+      "segments":[["2:00","10:00"]],
+      "ref":"k",
+      "name": "Kook"
+    },
+    {
+      "distance":5580,
+      "segments":[["2:00","10:00"]],
+      "ref":"l",
+      "name": "LaffingSal"
+    }
+  ],
+  "tStreets":[
+    {
+      "refs":["12:00"],
+      "segments":[[0,"esplanade"]]
+    },
+    {
+      "refs":[
+        "3:00",
+        "6:00",
+        "9:00"
+      ],
+      "segments":[[0,"l"]]
+    },
+    {
+      "refs":[
+        "2:00",
+        "2:30",
+        "3:30",
+        "4:00",
+        "4:30",
+        "5:00",
+        "5:30",
+        "6:30",
+        "7:00",
+        "7:30",
+        "8:00",
+        "8:30",
+        "9:30",
+        "10:00"],
+      "segments":[["esplanade","l"]]
+    },
+    {
+      "refs":[
+        "2:15",
+        "2:45",
+        "3:15",
+        "3:45",
+        "4:15",
+        "4:45",
+        "5:15",
+        "5:45",
+        "6:15",
+        "6:45",
+        "7:15",
+        "7:45",
+        "8:15",
+        "8:45",
+        "9:15",
+        "9:45"],
+      "segments":[["g","l"]],
+      "width":30
+    }
+  ],
+  "plazas":[
+    {
+      "name":"9:00 Civic Plaza",
+      "intersection":["9:00","b"],
+      "diameter": 250
+    },
+    {
+      "name":"3:00 Civic Plaza",
+      "intersection":["3:00","b"],
+      "diameter": 250
+    },
+    {
+      "name":"4:30 Art Plaza",
+      "intersection":["4:30","g"],
+      "diameter": 200
+    },
+    {
+      "name":"7:30 Art Plaza",
+      "intersection":["7:30","g"],
+      "diameter": 200
+    },
+    {
+      "name":"9:00 Public Plaza",
+      "intersection":["9:00","k"],
+      "diameter": 200
+    },
+    {
+      "name":"6:00 Public Plaza",
+      "intersection":["6:00","k"],
+      "diameter": 200
+    },
+    {
+      "name":"3:00 Public Plaza",
+      "intersection":["3:00","k"],
+      "diameter": 200
+    },
+    {
+      "name":"The Man Plaza",
+      "intersection":["12:00","3:00"],
+      "diameter": 800
+    }
+  ],
+  "runway":{}
+}
