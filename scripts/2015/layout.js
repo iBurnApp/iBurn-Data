@@ -13,18 +13,86 @@ var layoutFile = require(process.argv[2]);
 console.log("Creating Circle Streets...")
 var circleStreets = circleStreetsFeatureCollection(layoutFile);
 console.log("Creating Time Streets...")
-var timeStreets = tieStreetsFeatureCollection(layoutFile);
-timeStreets.features = timeStreets.features.concat(circleStreets.features)
-console.log("%j",timeStreets);
+var allStreets = timeStreetsFeatureCollection(layoutFile);
+allStreets.features = allStreets.features.concat(circleStreets.features)
+console.log("Creating Plazas...")
+var plazas = plazasFeatureCollection(layoutFile);
+allStreets.features = allStreets.features.concat(plazas.features)
+console.log("Creating Center Camp...")
+var centerCamp = centerCampFeatureCollection(layoutFile);
+allStreets.features = allStreets.features.concat(centerCamp.features)
+console.log("%j",allStreets);
 
-function tieStreetsFeatureCollection(jsonFile) {
+function centerCampFeatureCollection(jsonFile) {
+  var cityBearing  = jsonFile.bearing;
+  var cityCenter = jsonFile.center;
+  var centerCampDistance = utils.feetToMiles(jsonFile.center_camp.distance);
+  var bearing = utils.timeToCompassDegrees("6","0",cityBearing);
+  var centerCampCenter = turf.destination(cityCenter,centerCampDistance,bearing,'miles');
+
+  //Cafe
+  var cafeRadius = utils.feetToMiles(jsonFile.center_camp.cafe_radius);
+  var cafe = createArc(centerCampCenter, cafeRadius, 'miles', 0, 360, 5);
+  cafe.properties = {
+    "name":"Café",
+    "ref":"cafe"
+  }
+
+  //Plaza
+  var plazaRadius = utils.feetToMiles(jsonFile.center_camp.cafe_plaza_radius);
+  var plaza = createArc(centerCampCenter, plazaRadius, 'miles', 0, 360, 5);
+  //Create hole for cafe
+  plaza.geometry.coordinates.push(cafe.geometry.coordinates[0]);
+
+  //Rod's Road
+  var roadRadius = utils.feetToMiles(jsonFile.center_camp.rod_road_distance);
+  var rodRoad = createArc(centerCampCenter, roadRadius, 'miles', 0, 360, 5);
+  rodRoad = turf.linestring(rodRoad.geometry.coordinates[0]);
+  rodRoad.properties = {
+    "name": "Rod's Road",
+    "ref": "rod"
+  }
+
+  return turf.featurecollection([cafe,plaza,rodRoad]);
+}
+
+function plazasFeatureCollection(jsonFile) {
+  var features = []
   var cityBearing  = jsonFile.bearing;
   var cityCenter = jsonFile.center;
 
-  var distanceLookup = {};
-  jsonFile.cStreets.map(function(item){
-    distanceLookup[item.ref] = item.distance;
-  });
+  var lookupDistance = streetDistanceLookup(jsonFile);
+  jsonFile.plazas.map(function(item){
+    var distance = item.distance;
+    var point;
+    if( distance === 0) {
+      point = cityCenter;
+    } else {
+      distance = utils.feetToMiles(distanceFromCenter(lookupDistance,distance));
+      var timeArray = utils.splitTimeString(item.time);
+      var hour = timeArray[0];
+      var minute = timeArray[1];
+      var bearing = utils.timeToCompassDegrees(hour,minute,cityBearing);
+      point = turf.destination(cityCenter,distance,bearing,'miles');
+    }
+
+    var radius = utils.feetToMiles(item.diameter)/2.0;
+
+    var buffer = createArc(point, radius, 'miles', 0, 360, 5);
+    buffer.properties = {
+      "name":item.name
+    }
+    features.push(buffer);
+  })
+  return turf.featurecollection(features);
+}
+
+//Creates the time or radial streets based on the jsonFile
+function timeStreetsFeatureCollection(jsonFile) {
+  var cityBearing  = jsonFile.bearing;
+  var cityCenter = jsonFile.center;
+
+  var distanceLookup = streetDistanceLookup(jsonFile);
   var features = [];
   jsonFile.tStreets.map(function(item){
 
@@ -48,6 +116,14 @@ function tieStreetsFeatureCollection(jsonFile) {
 
   });
   return turf.featurecollection(features);
+}
+
+function streetDistanceLookup(jsonFile){
+  var distanceLookup = {};
+  jsonFile.cStreets.map(function(item){
+    distanceLookup[item.ref] = item.distance;
+  });
+  return distanceLookup;
 }
 
 function distanceFromCenter(lookup, value) {
@@ -96,11 +172,16 @@ function circleStreetsFeatureCollection(jsonFile) {
 //Always works clockwise
 function createArc(center, distance, units, startBearing, endBearing, bearingFrequency) {
 
+  var fullCircle = false;
+  if (endBearing % 360 === startBearing % 360) {
+    fullCircle = true;
+    endBearing += -1 *bearingFrequency;
+  }
+
   var points = [];
 
   var currentBearing = startBearing;
-  while (bearingCompare(endBearing, currentBearing) || currentBearing !== endBearing) {
-
+  while (bearingCompare(endBearing, currentBearing)) {
     var currentPoint = turf.destination(center,distance,currentBearing,units);
     points.push(currentPoint.geometry.coordinates);
 
@@ -113,6 +194,11 @@ function createArc(center, distance, units, startBearing, endBearing, bearingFre
   //One more for the end
   var currentPoint = turf.destination(center,distance,endBearing,units);
   points.push(currentPoint.geometry.coordinates);
+  if(fullCircle) {
+    var currentPoint = turf.destination(center,distance,endBearing+bearingFrequency,units);
+    points.push(currentPoint.geometry.coordinates);
+    return turf.polygon([points]);
+  }
 
   return turf.linestring(points);
 }
@@ -122,7 +208,9 @@ function createArc(center, distance, units, startBearing, endBearing, bearingFre
 function bearingCompare(firstBearing, secondBearing) {
   //convert to [0, 360]
   firstBearing = (firstBearing % 360 + 360) % 360;
+
   secondBearing = (secondBearing % 360 + 360) % 360;
+
 
   return secondBearing < firstBearing;
 }

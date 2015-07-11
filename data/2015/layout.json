@@ -30,10 +30,12 @@
   },
   "bearing": 45,
   "road_width": 40,
-  "center_camp_distance": 2907,
-  "rod_road_distance":750,
-  "cafe_plaza_radius":330,
-  "cafe_radius":110,
+  "center_camp":{
+    "distance": 2907,
+    "rod_road_distance":750,
+    "cafe_plaza_radius":330,
+    "cafe_radius":110
+  },
   "cStreets":[
     {
       "distance":2500,
@@ -169,43 +171,51 @@
   "plazas":[
     {
       "name":"9:00 Civic Plaza",
-      "intersection":["9:00","b"],
+      "time":"9:00",
+      "distance":"b",
       "diameter": 250
     },
     {
       "name":"3:00 Civic Plaza",
-      "intersection":["3:00","b"],
+      "time":"3:00",
+      "distance":"b",
       "diameter": 250
     },
     {
       "name":"4:30 Art Plaza",
-      "intersection":["4:30","g"],
+      "time":"4:30",
+      "distance":"g",
       "diameter": 200
     },
     {
       "name":"7:30 Art Plaza",
-      "intersection":["7:30","g"],
+      "time":"7:30",
+      "distance":"g",
       "diameter": 200
     },
     {
       "name":"9:00 Public Plaza",
-      "intersection":["9:00","k"],
+      "time":"9:00",
+      "distance":"k",
       "diameter": 200
     },
     {
       "name":"6:00 Public Plaza",
-      "intersection":["6:00","k"],
+      "time":"6:00",
+      "distance":"k",
       "diameter": 200
     },
     {
       "name":"3:00 Public Plaza",
-      "intersection":["3:00","k"],
+      "time":"3:00",
+      "distance":"k",
       "diameter": 200
     },
     {
       "name":"The Man Plaza",
-      "intersection":["12:00","3:00"],
-      "diameter": 800
+      "time":"12:00",
+      "distance": 0,
+      "diameter": 400
     }
   ],
   "runway":{}
