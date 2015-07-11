@@ -1,5 +1,6 @@
 
 var turf  = require('turf');
+var utils = require('./utils.js');
 
 var Geocoder = function(centerPoint, cityBearing, centerCamp, hardcodedLocations) {
   this.centerPoint = centerPoint;
@@ -16,11 +17,11 @@ Geocoder.prototype.addFeatures = function(features) {
 //units must be 'miles', 'kilometers', 'degrees', 'radians'
 Geocoder.prototype.timeDistanceToLatLon = function(time, distance, units) {
 
-  var timeArray = splitTimeString(time);
+  var timeArray = utils.splitTimeString(time);
   var hour = timeArray[0];
   var minute = timeArray[1];
 
-  var compassDegrees = timeToCompassDegrees(hour,minute, this.cityBearing);
+  var compassDegrees = utils.timeToCompassDegrees(hour,minute, this.cityBearing);
 
 
   var destination = turf.destination(this.centerPoint, distance, compassDegrees, units);
@@ -37,14 +38,14 @@ Geocoder.prototype.streetIntersectionToLatLon = function(street1, street2) {
   if (street1 === rodString || street2 === rodString) {
     //Rod's Road special clock direction
 
-    var time = splitTimeString(street1);
+    var time = utils.splitTimeString(street1);
     if (time.length !== 2) {
-      time = splitTimeString(street2);
+      time = utils.splitTimeString(street2);
     }
     var hour = time[0];
     var min = time[1];
 
-    var timeBearing = timeToCompassDegrees(hour,min,this.cityBearing)
+    var timeBearing = utils.timeToCompassDegrees(hour,min,this.cityBearing)
     var secondPoint = turf.destination(this.centerCamp, 1, timeBearing, 'miles')
     var radialLine = turf.linestring([this.centerCamp.geometry.coordinates,secondPoint.geometry.coordinates]);
     features1 = this.fuzzyMatchFeatures('Name',rodString);
@@ -99,21 +100,6 @@ function intersectingPoints(features1,features2) {
     }
   }
   return intersections;
-}
-
-// -180 to 180
-function timeToCompassDegrees(hour, minute, cityBearing) {
-  var clockDegrees = .5*(60*(parseInt(hour)%12)+parseInt(minute))
-  var compassDegrees = (clockDegrees + cityBearing) % 360;
-  //Need to convert to -180 to 180 where North is 0
-  if (compassDegrees > 180) {
-    compassDegrees = compassDegrees - 360;
-  }
-  return compassDegrees
-}
-
-function splitTimeString(timeString) {
-  return timeString.split(":");
 }
 
 function parseLocationString(locationStirng) {
