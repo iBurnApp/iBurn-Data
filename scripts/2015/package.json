@@ -1,0 +1,22 @@
+{
+  "name": "iburn-data",
+  "version": "1.0.0",
+  "description": "A basic geocoder for burning man",
+  "main": "index.js",
+  "dependencies": {
+    "tape": "^4.0.0",
+    "turf": "^2.0.2",
+    "turf-meta": "^1.0.2",
+    "turf-multilinestring": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "tape tests/test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "preferGlobal": true,
+  "bin": {
+    "layout": "./layout.js"
+  }
+}
