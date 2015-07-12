@@ -562,7 +562,7 @@
     },
     {
         "name": "ART OF SUCH N SUCH",
-        "url": null,
+        "url": "http://www.artofsuchnsuch.com/",
         "contact_email": null,
         "year": {
             "id": 11,
@@ -860,13 +860,13 @@
     {
         "name": "Bad Asstronauts",
         "url": "http://www.badasstronauts.org",
-        "contact_email": "missoncontrol@badasstronauts.org",
+        "contact_email": "missioncontrol@badasstronauts.org",
         "year": {
             "id": 11,
             "year": "2015"
         },
         "id": 7327,
-        "description": "Bad Asstronauts, Burning Man's official galactic space port. Come explore Uranus and other interesting celestial bodies. http://www.badasstronauts.org"
+        "description": "Bad Asstronauts, Burning Man's official galactic space port. Come explore Uranus and other interesting celestial bodies."
     },
     {
         "name": "Baggage Check",
@@ -1054,6 +1054,17 @@
         },
         "id": 7575,
         "description": "The BC Village is the amalgamation of four separate camps hailing from British Columbia: Space Jam; The Troll Bridge; The Peanut Gallery; and The Return of the Daisy. All British Columbia based, all dedicated to bringing our unique blend of fun, function, and fundamental respect for our fellow burners and planet to Burning Man 2015. In addition to being polite, Canadian burners are known for their hospitality, generosity of spirit, and livers of steel. Come by and help us put the BC back in BRC!"
+    },
+    {
+        "name": "Beach @ The End of The Universe",
+        "url": "https://www.facebook.com/dontpanicbeach",
+        "contact_email": "sunkist@offbeatwear.com",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "id": 7331,
+        "description": "The ultimate playa oasis!"
     },
     {
         "name": "Beans, Beans, the Musical Camp",
@@ -4411,6 +4422,17 @@
         "description": "Dilated Peoples is where weary souls come to be rejuvenated, renewed, and find their inner bliss."
     },
     {
+        "name": "Dirty Beetles",
+        "url": "http://dirtybeetles.com",
+        "contact_email": null,
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "id": 8067,
+        "description": "Dirty Beetles…the name says it all."
+    },
+    {
         "name": "Disciples of the Dust",
         "url": "https://www.facebook.com/disciplesofthedust?ref=aymt_homepage_panel",
         "contact_email": "tangenjeff@gmail.com",
@@ -5029,7 +5051,7 @@
     {
         "name": "Empire of Dirt",
         "url": "http://www.aerospacepunk.com/",
-        "contact_email": "jon@formandreform.com",
+        "contact_email": null,
         "year": {
             "id": 11,
             "year": "2015"
@@ -5431,7 +5453,7 @@
             "year": "2015"
         },
         "id": 7304,
-        "description": "Flying Falafels invites you to come experience and enjoy a Mediterranean oriented camp , offering great discussions , music , flavors - with awesome hospitality and great vibes .\r\nAs the tradition goes on don't miss our Falafel party on Friday 2 pm."
+        "description": "Flying Falafels invites you to come experience and enjoy a Mediterranean oriented camp, offering great discussions, music, flavors - with awesome hospitality and great vibes .\r\nAs the tradition goes on don't miss our Falafel party on Friday 2 pm."
     },
     {
         "name": "Forestchild Village",
@@ -5597,6 +5619,17 @@
         },
         "id": 7771,
         "description": "Fuck Balls YEAH!!! Presents: The Roving Big Ball Derby, a series of raucous roaming races throughout the week involving any and all willing participants racing around an obstacle course track on kangaroo balls. races will be judged based on style or speed, or both, or neither!  feel free to sparkle your pony before the race with a cocktail or watch from the astroturf viewing section while placing bets. Keep an eye out for the races playa wide!"
+    },
+    {
+        "name": "Fucking Flamingos",
+        "url": "http://www.fuckingflamingos.com",
+        "contact_email": "emorysimson@gmail.com",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "id": 8252,
+        "description": "Not all Flamingos are the same and we want you to meet us."
     },
     {
         "name": "Fun Connection",
@@ -6248,6 +6281,17 @@
         "description": "Are you tired of spinning your wheels in default world? Hamster Camp is back, promising to deliver millions of fucking hamsters (of course) and lots of completely random mischief! These nocturnal creatures, with their fuzzy and cuddly demeanor but razor sharp teeth and quick feet, celebrate random thoughts, booze, boobs, tea parties, staring contests, clouds, body paint and so much more!"
     },
     {
+        "name": "Hanging Gardens of BRC",
+        "url": null,
+        "contact_email": "hanginggardensbrc@gmail.com",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "id": 8249,
+        "description": "None"
+    },
+    {
         "name": "Hang-Out, the",
         "url": "https://www.facebook.com/groups/150704538339546/",
         "contact_email": "satyr.wells@facebook.com",
@@ -6619,7 +6663,7 @@
             "year": "2015"
         },
         "id": 7689,
-        "description": "A mirage appears in Deep Playa, the aroma of fresh icy Homojitos stimulates your hypothalamus while giant bright puffy flowers belt out groovy dance beats. Leave it to serendipity and the boys of Homojitoville! The Mobile Homojito Dance Bar & Sound Garden of Eden appear at our camp or out on the playa, erupting in a fabulous cocktail and dance party, then disappear. Never in the same place twice, this is no mirage. Shake your groove thing where spontaneity rules! Bring your cup we’ll fill it with love!"
+        "description": "Amidst the dust and in from the blind, A caravan begins to arrive. Their color is FULL, and their energy BRIGHT! Thank heavens it’s the Homos coming into sight! They bring with them drink, the most refreshing to be found; A Homojito they call it, better than ANY around! Its succulent tartness with fresh pulled mint, you’re sure to enjoy each and every sip. Come with us and clown! We’ll be all around town! You'll see the fur coming while sweet music abounds!"
     },
     {
         "name": "Honeysuckle Hood",
@@ -6733,7 +6777,7 @@
     },
     {
         "name": "Huggzilla",
-        "url": null,
+        "url": "http://huggzilla.com/",
         "contact_email": "martinettila@yahoo.com",
         "year": {
             "id": 11,
@@ -7378,7 +7422,7 @@
             "year": "2015"
         },
         "id": 7720,
-        "description": "None"
+        "description": "Look for the Star Tunnel for iced tea, lemonade and cookies or play in our motion activated sound garden.  Chill in the shade of our Kosmik Kafe or pedal with us across the playa under the cool canopy of the Pedal pub, our pedal powered bike bar."
     },
     {
         "name": "Kostume Kult",
@@ -7492,7 +7536,7 @@
     },
     {
         "name": "Last Resort Country Club (LRC)",
-        "url": null,
+        "url": "http://www.thelastresortcamp.com/",
         "contact_email": "lastresort@gtgcamp.com",
         "year": {
             "id": 11,
@@ -8129,6 +8173,17 @@
         "description": "Feeling the need to blow, beat or stroke on something?   \r\nCome to MINSTREL CrAMP and get your creative \"musical juices\" flowing.\r\nStop in, Listen in , Join in, to some great live acoustic, jamming with our house band \"THE BURNING SENSATIONS\".\r\nCheck the schedule board out front to see what's happening or sign -up for a slot to perform with your own band (or ours)\r\nIt's all good!   \r\nListeners welcome!"
     },
     {
+        "name": "Miracle Wonderland Carnival Comp.",
+        "url": null,
+        "contact_email": "mark.mcgothigan@gmail.com",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "id": 8247,
+        "description": "The Miracle Wonderland Carnival Company is the firm that employed the Wizard of OZ as a balloonist prior to his being whisked away to OZ."
+    },
+    {
         "name": "Mirage at the Oasis",
         "url": null,
         "contact_email": "lea@goodsellgroup.com",
@@ -8291,7 +8346,7 @@
             "year": "2015"
         },
         "id": 7899,
-        "description": "We're More Carrot, the Black Rock City farmer's market. Tuesday through Friday from 8AM to 11AM, we will be in French Quarter serving much needed nutrients to playa in the form a fresh locally sourced produce."
+        "description": "We're More Carrot, the Black Rock City farmer's market. Tuesday through Friday from 8AM to 10AM, we will be in French Quarter serving much needed nutrients to playa in the form a fresh locally sourced produce."
     },
     {
         "name": "Mo's Mini Martini and Erotica",
@@ -8369,6 +8424,17 @@
         },
         "id": 7630,
         "description": "The mycodelic magic of the redwoods awaits you! We'll be dancing and giving away free hugs 24/7. If your timing is right, our Wizard has been perfecting his homebrew to quench your thirst! Maybe you'll stumble across a peaceful massage, a read aloud at sunset or an impromptu dance party! Our family is full of enchantment, each with our own talents to offer, bring your hOOp, your glow and fire toys, your cup, and that smile and we'd love to move with you!"
+    },
+    {
+        "name": "Mystic Midway",
+        "url": "http://www.mysticmidway.com",
+        "contact_email": null,
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "id": 8251,
+        "description": "The Mystic Midway Pop-Up Carnival Camp and Tea Tent Town"
     },
     {
         "name": "Mystics",
@@ -9779,6 +9845,17 @@
         "description": "We will amuse, entertain, and exhilarate you as well as compliment your shoes.  We are the perfect place for your pussy to visit to be pampered, refreshed, relaxed, and rejuvenated."
     },
     {
+        "name": "Queen Dick",
+        "url": null,
+        "contact_email": null,
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "id": 8250,
+        "description": "Lost? Tired? Thirsty? Looking for some company? Fancy a chin-wag? Want a good old knees-up? Don’t know what knees-up means? Doesn’t matter, step out of the desert and into our marvelous time and mind bending new-age-old-fashioned boozer the Queen Dick, and its village green, where anything and everything could happen, and maybe more."
+    },
+    {
         "name": "Questionable Behavior",
         "url": null,
         "contact_email": null,
@@ -10351,7 +10428,7 @@
         "description": "You will be rewarded greatly for showing us your scars! Talk, drink, relax, and brag at the Scar Bar!"
     },
     {
-        "name": "Scarbutt's Coffee",
+        "name": "Scarbutts Coffee",
         "url": null,
         "contact_email": "scarbuttscafe@gmail.com",
         "year": {
@@ -10359,7 +10436,7 @@
             "year": "2015"
         },
         "id": 7483,
-        "description": "Scarbutts Coffee wakes you up with a brisk spanking and a great coffee. We serve coffe from 9am to 1pm teusday through Friday. We wake your ass up."
+        "description": "Scarbutts Coffee wakes you up with a brisk spanking and a great coffee. We serve coffee from 9am to 1pm Tuesday through Friday. We wake your ass up."
     },
     {
         "name": "School of Consensual Kink",
@@ -10956,7 +11033,7 @@
         "description": "Soho gardens provide daily Ashtanga Yoga sessions, morning Chillits parties, relaxtion session, English Tea Time, projection of old back & white movie and a 60 feet observation tower."
     },
     {
-        "name": "Solnishko Ezh Reflections",
+        "name": "Solnishko Yozh Reflections",
         "url": null,
         "contact_email": "mhmeln57@gmail.com",
         "year": {
@@ -10964,7 +11041,7 @@
             "year": "2015"
         },
         "id": 8212,
-        "description": "Solnishko - russian word for baby-sun, Ezh - russian word for hedgehog. We are an eclectic group of Bay Areatouchy-feelers, international russian affectionados and uncategorizable veteran burners. We will offer space for\r\nself-reflection and contact, rest and challenge, olfactory and body stimulation and facilitate sensory and sensible connections. We will recreate the life-giving atmosphere of the Sun, the life-affirming energy of hedgegog and space for reflection in our Temple, beverages and snacks, in unapologetic soul mating rituals."
+        "description": "Solnishko – russian word for baby-sun, Yozh – russian word for hedgehog. We are an eclectic group of Bay Area touchy-feelers, international russian affectionados and uncategorizable veteran burners. We will offer space for self-reflection and contact, rest and challenge, olfactory and body stimulation and facilitate sensory and sensible connections. We will recreate the life-giving atmosphere of the Sun, the life-affirming energy of hedgehog and space for reflection in our Temple, beverages and snacks, in unapologetic soul mating rituals."
     },
     {
         "name": "Something Freaky This Way Foams",
@@ -11119,6 +11196,17 @@
         },
         "id": 8000,
         "description": "Wet your whistle at the Spank the Monkey Lounge, enjoy virgin burner shots, playa friendly poontang (aka the playa screwdriver) as well as other refreshing beverages.  They come with free harassment from our assortment of monkey clad bartenders, we'll try not to throw poo."
+    },
+    {
+        "name": "Spanky's Village and Wine Bar",
+        "url": null,
+        "contact_email": "jimhillas_gc@yahoo.com",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "id": 8248,
+        "description": "None"
     },
     {
         "name": "Sparkle Camels Costume Bazaar",
@@ -11429,17 +11517,6 @@
         "description": "The best place to watch the sunset on the playa. Come join burners to say thanks for another great day and welcome whatever mysteries the night may bring"
     },
     {
-        "name": "Sunset Trip Mall",
-        "url": "http://dirtybeetles.com",
-        "contact_email": null,
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "id": 8067,
-        "description": "Dirty Beetles…the name says it all."
-    },
-    {
         "name": "Super Friends Synaesthesia",
         "url": "https://www.facebook.com/SuperFriendsNeighborhood",
         "contact_email": null,
@@ -11539,8 +11616,8 @@
         "description": "Syncytium is an incubator, open to all who want to PLAY, we create beautiful experiences for others and ourselves.  We follow the burning man \r\nethos, and we also believe in ACTIVE PARTICIPATION in our camp."
     },
     {
-        "name": "Taiwan Village",
-        "url": null,
+        "name": "Taiwanderlust",
+        "url": "https://www.facebook.com/taiwanvillageburningman",
         "contact_email": null,
         "year": {
             "id": 11,
@@ -11628,7 +11705,7 @@
     },
     {
         "name": "Tautology",
-        "url": null,
+        "url": "http://tautology.io/",
         "contact_email": null,
         "year": {
             "id": 11,
@@ -11716,7 +11793,7 @@
     },
     {
         "name": "Temple O'Flying Spaghetti Monster",
-        "url": null,
+        "url": "http://www.fsmtemple.com/",
         "contact_email": null,
         "year": {
             "id": 11,
@@ -12504,7 +12581,7 @@
             "year": "2015"
         },
         "id": 7992,
-        "description": "Come one come all and join the bacon boys, Porta poty pigs and tge Twisted G spot for some fun. Daily events and some special surprises swing by for a calendar."
+        "description": "Loosely knit group of burners offer for your pleasure the Twisted G Spot Bar serving up PVD's (Playa Vodka Drinks) w/ mostly organic fruit juices.  (Bring mixers if you can)  Dudeist Priest available in his playa confessional \"Penance is Hell\", two ordained burners available to marry you and then marry you again if you so desire. DJ N8Tron spinning dance party music. Otter Pops upon request - both cold and hard and early morning powdered donuts, that's not just playa dust,  delivered by Kristi Kreams on a silver platter at 8:30 am Thursday through Monday. Glasses cleaned, both eye and drinking and massages given or taken when the table is up! Look for schedule in the Twisted G Mailbox on playa."
     },
     {
         "name": "Twisted Swan",
@@ -12747,17 +12824,6 @@
         },
         "id": 7974,
         "description": "Are you hot and thirsty on the playa? Come to VICE for refreshing, hand-made Vietnamese Iced Coffee, afternoons from 2pm to 4pm. Mix and mingle with friends and neighbors! Make new friends! Make new neighbors! Update your Flamebook status while waiting. Get your Beard pampered, learn to walk on Stilts, dance with Silk-Poi Flags, or create Perler Bead keepsakes at one of our interactive workshops. VICE is a friendly, diverse camp who wants to see YOU in line for coffee!"
-    },
-    {
-        "name": "Village @ The Beach",
-        "url": "https://www.facebook.com/dontpanicbeach",
-        "contact_email": "sunkist@offbeatwear.com",
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "id": 7331,
-        "description": "Beach @ The End of the Universe\r\nhttps://www.facebook.com/dontpanicbeach\r\nThe ultimate playa oasis!"
     },
     {
         "name": "Vines Without Borders",
@@ -13351,7 +13417,7 @@
             "year": "2015"
         },
         "id": 8246,
-        "description": "Feeling out of sorts and looking for a place to recoup? Zendo volunteers are available 24/7 to offer psychological support and education for drug-related concerns. Come by one of our open-air yurts by the 9 o'clock & 3 o'clock ESD/RHQ stations.\n\nOR (without the word \"drug\"):\nFeeling out of sorts and looking for a place to recoup? Zendo volunteers are available 24/7 to offer psychological support to frazzled burners. Come by one of our open-air yurts by the 9 o'clock & 3 o'clock ESD/RHQ stations."
+        "description": "Feeling out of sorts and looking for a place to recoup? Zendo volunteers are available 24/7 to offer psychological support to frazzled burners. Come by one of our open-air yurts by the 9 o'clock & 3 o'clock ESD/RHQ stations."
     },
     {
         "name": "Zendo",
