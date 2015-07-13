@@ -34,13 +34,18 @@
     "distance": 2907,
     "rod_road_distance":750,
     "cafe_plaza_radius":330,
-    "cafe_radius":110
+    "cafe_radius":110,
+    "six_six_distance":{
+      "man_facing": 500,
+      "six_facing": 560
+    }
   },
   "cStreets":[
     {
       "distance":2500,
       "segments":[["2:00","10:00"]],
-      "ref":"esplanade"
+      "ref":"esplanade",
+      "name":"Esplanade"
     },
     {
       "distance":2940,
