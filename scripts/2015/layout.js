@@ -19,10 +19,14 @@ allStreets.features = allStreets.features.concat(circleStreets.features)
 console.log("Creating Plazas...")
 var plazas = plazasFeatureCollection(layoutFile);
 allStreets.features = allStreets.features.concat(plazas.features)
+console.log("Creating Portals...")
+var portals = portalsFeatureCollection(layoutFile);
+allStreets.features = allStreets.features.concat(portals.features)
+console.log("%j",allStreets);
 console.log("Creating Center Camp...")
 var centerCampStreets = centerCampStreets(layoutFile);
 allStreets.features = allStreets.features.concat(centerCampStreets.features)
-console.log("%j",centerCampStreets);
+
 
 // var road = rodRoad(layoutFile);
 // road.geometry.type = "Polygon"
@@ -38,11 +42,23 @@ function cutStreets(street,polygon) {
   var reader = new jsts.io.GeoJSONReader();
   var a = reader.read(street);
   var b = reader.read(polygon);
-  console.log("%j",a);
-  console.log("%j",a.geometry.getCoordinates());
+  //console.log("%j",a);
+  //console.log("%j",a.geometry.getCoordinates());
   var diff = a.geometry.difference(b.geometry);
   var parser = new jsts.io.GeoJSONParser();
   diff = parser.write(diff);
+  return diff;
+}
+
+function createPortal(polygon,street) {
+  var reader = new jsts.io.GeoJSONReader();
+  var a = reader.read(street);
+  var b = reader.read(polygon);
+  //console.log("%j",a.geometry)
+  var inter = b.geometry.difference(a.geometry.convexHull());
+  var parser = new jsts.io.GeoJSONParser();
+  //console.log("%j",inter);
+  diff = parser.write(inter);
   return diff;
 }
 
@@ -70,21 +86,37 @@ function centerCampPolygons(jsonFile){
   return turf.featurecollection([cafe,plaza]);
 }
 
-function centerCampStreets(jsonFile) {
-  var cityBearing  = jsonFile.bearing;
-  var cityCenter = jsonFile.center;
-  var centerCampDistance = utils.feetToMiles(jsonFile.center_camp.distance);
-  var bearing = utils.timeToCompassDegrees("6","0",cityBearing);
-  var centerCampCenter = turf.destination(cityCenter,centerCampDistance,bearing,'miles');
-
-  //Rod's Road
-  var roadRadius = utils.feetToMiles(jsonFile.center_camp.rod_road_distance);
-  var rodRoad = createArc(centerCampCenter, roadRadius, 'miles', 0, 360, 5);
+function rodRoad(centerCenterCamp, distance, units) {
+  var rodRoad = createArc(centerCenterCamp, distance, units, 0, 360, 5);
   rodRoad = turf.linestring(rodRoad.geometry.coordinates[0]);
   rodRoad.properties = {
     "name": "Rod's Road",
     "ref": "rod"
   }
+
+  return rodRoad
+}
+
+function centerCampCenter(jsonFile) {
+  var cityBearing  = jsonFile.bearing;
+  var cityCenter = jsonFile.center;
+  var centerCampDistance = utils.feetToMiles(jsonFile.center_camp.distance);
+  var bearing = utils.timeToCompassDegrees("6","0",cityBearing);
+  var ccc = turf.destination(cityCenter,centerCampDistance,bearing,'miles');
+
+  return ccc;
+}
+
+function centerCampStreets(jsonFile) {
+  var cityBearing  = jsonFile.bearing;
+  var cityCenter = jsonFile.center;
+  var centerCampDistance = utils.feetToMiles(jsonFile.center_camp.distance);
+  var bearing = utils.timeToCompassDegrees("6","0",cityBearing);
+  var centerCampCenter = centerCampCenter(jsonFile);
+
+  //Rod's Road
+  var roadRadius = utils.feetToMiles(jsonFile.center_camp.rod_road_distance);
+  var rodRoad = rodRoad(centerCampCenter,raodRadius,'miles');
 
   //Plaza road - This is half way between cafe and where the camps start
   var cafeRadius = jsonFile.center_camp.cafe_radius;
@@ -110,8 +142,6 @@ function centerCampStreets(jsonFile) {
   //Route 66
   a1Bearing = turf.bearing(turf.point(a1.geometry.coordinates[0]),turf.point(a1.geometry.coordinates[1]));
   a2Bearing = turf.bearing(turf.point(a2.geometry.coordinates[0]),turf.point(a2.geometry.coordinates[1]));
-  console.log("a1 ",a1Bearing);
-  console.log("a2 ",a2Bearing);
 
   var negativeBearing;
   var positiveBearing;
@@ -127,9 +157,6 @@ function centerCampStreets(jsonFile) {
   var arc0 = createArc(centerCampCenter,ManDistance,'miles',negativeBearing,360,5);
   arc0.geometry.coordinates.pop();
   var arc1 = createArc(centerCampCenter,ManDistance,'miles',0,positiveBearing,5);
-  console.log("Pos ",positiveBearing);
-  console.log("Neg ",negativeBearing);
-  console.log("arc0: %j",arc0)
   arc1.geometry.coordinates = arc0.geometry.coordinates.concat(arc1.geometry.coordinates);
 
   var sixDistance = utils.feetToMiles(jsonFile.center_camp.six_six_distance.six_facing);
@@ -143,6 +170,58 @@ function centerCampStreets(jsonFile) {
   })
 
   return turf.featurecollection([rodRoad, plazaRoad, a1, a2,routeSS]);
+}
+
+function portalsFeatureCollection(jsonFile) {
+  var cityCenter = jsonFile.center;
+  var portalsInfoList = jsonFile.portals;
+
+  var distanceLookup = streetDistanceLookup(jsonFile);
+
+  var circleStreets = circleStreetsFeatureCollection(jsonFile);
+  var esplanade = turf.filter(circleStreets,"ref","esplanade").features[0];
+
+  var ccc = centerCampCenter(jsonFile);
+
+  //Rod's Road
+  var roadRadius = utils.feetToMiles(jsonFile.center_camp.rod_road_distance);
+  var rr = rodRoad(ccc,roadRadius,'miles');
+
+  var features = [];
+  portalsInfoList.map(function(item){
+    var distance = utils.feetToMiles(distanceFromCenter(distanceLookup,item.distance));
+    var units = 'miles';
+    var timeString = item.time;
+    var timeBearing = utils.timeStringToCompaassDegress(timeString,jsonFile.bearing);
+    var angle = item.angle;
+    var properties = {
+      "name":item.name,
+      "ref":item.ref
+    };
+
+    var start = turf.destination(cityCenter,distance,timeBearing,units);
+
+    //flip bearing around
+    portalBearing = 180 - Math.abs(timeBearing);
+    if (timeBearing > 0) {
+      portalBearing = portalBearing * -1;
+    }
+
+    firstBearing = portalBearing - angle/2;
+    secondBearing = portalBearing + angle/2;
+
+    var firstPoint = turf.destination(start,0.5,firstBearing,'miles');
+    var secondPoint = turf.destination(start,0.5,secondBearing,'miles');
+
+    var triangle = turf.polygon([[start.geometry.coordinates,firstPoint.geometry.coordinates,secondPoint.geometry.coordinates,start.geometry.coordinates]])
+    console.log(turf.area(triangle))
+
+    var cut = createPortal(triangle,esplanade);
+    cut = turf.polygon(cut.coordinates);
+    features.push(cut);
+
+  });
+  return turf.featurecollection(features);
 }
 
 function plazasFeatureCollection(jsonFile) {

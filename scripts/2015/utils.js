@@ -1,8 +1,7 @@
 var turf  = require('turf');
 
-module.exports  = {
   // -180 to 180
-  timeToCompassDegrees: function(hour, minute, cityBearing) {
+var  timeToCompassDegrees = function(hour, minute, cityBearing) {
     var clockDegrees = .5*(60*(parseInt(hour)%12)+parseInt(minute))
     var compassDegrees = (clockDegrees + cityBearing) % 360;
     //Need to convert to -180 to 180 where North is 0
@@ -10,11 +9,25 @@ module.exports  = {
       compassDegrees = compassDegrees - 360;
     }
     return compassDegrees
-  },
-  splitTimeString: function(timeString) {
+  }
+
+var  timeStringToCompaassDegress = function(string,cityBearing) {
+    var array = splitTimeString(string);
+    return timeToCompassDegrees(array[0],array[1],cityBearing);
+  }
+
+var splitTimeString = function(timeString) {
     return timeString.split(":");
-  },
-  feetToMiles: function(feet) {
+  }
+
+var feetToMiles = function(feet) {
     return feet * 0.000189394;
   }
+
+
+module.exports = {
+  timeToCompassDegrees : timeToCompassDegrees,
+  timeStringToCompaassDegress : timeStringToCompaassDegress,
+  splitTimeString : splitTimeString,
+  feetToMiles: feetToMiles
 }
