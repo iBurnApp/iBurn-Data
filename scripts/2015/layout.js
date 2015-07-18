@@ -2,6 +2,7 @@
 var turf = require('turf');
 var utils = require('./utils.js');
 turf.multilinestring = require('turf-multilinestring');
+turf.difference = require('turf-difference');
 var jsts = require("jsts");
 
 if (!process.argv[2]) {
@@ -14,12 +15,67 @@ var layoutFile = require(process.argv[2]);
 console.log("Creating Streets...")
 var s = streets(layoutFile);
 console.log("Creating Areas...")
-var plazas = plazasFeatureCollection(layoutFile);
-var portals = portalsFeatureCollection(layoutFile);
-var camp = centerCampPolygons(layoutFile);
-var allAreas = turf.featurecollection(plazas.features.concat(portals.features).concat(camp.features));
-console.log("%j",turf.featurecollection(s.features.concat(allAreas.features)));
+var a = areas(layoutFile);
+var out = outline(layoutFile);
+console.log("%j",out);
 
+function outline(jsonFile) {
+  var s = streets(jsonFile);
+  var a = areas(jsonFile);
+  var defaultWidth = jsonFile.road_width;
+
+  var outline = a.features[0]
+  var reader = new jsts.io.GeoJSONReader();
+  var parser = new jsts.io.GeoJSONParser();
+
+  s.features.map(function(item){
+    var geo = reader.read(item).geometry;
+    var width = defaultWidth;
+    if (item.properties.width) {
+      width = item.properties.width;
+    }
+    radius = width/ 2 / 364568.0;
+    var params = new jsts.operation.buffer.BufferParameters();
+    params.setEndCapStyle(jsts.operation.buffer.BufferParameters.CAP_FLAT);
+    var buffer = geo.buffer(radius,params)
+    buffer = parser.write(buffer);
+    var newBuffer = {
+      "type": "Feature",
+      "properties": {}
+    }
+    newBuffer.geometry = buffer;
+    outline = turf.union(outline,newBuffer);
+  })
+
+  a.features.map(function(item){
+    if(item.properties.ref !== 'cafe') {
+      outline = turf.union(outline,item);
+    }
+  })
+
+
+  return turf.featurecollection([outline]);
+}
+
+function areas(jsonFile){
+  var plazas = plazasFeatureCollection(layoutFile);
+  var portals = portalsFeatureCollection(layoutFile);
+  var camp = centerCampPolygons(layoutFile);
+  var allAreas = turf.featurecollection(plazas.features.concat(camp.features));
+
+  var newPortals  = [];
+  portals.features.map(function(portal){
+    var newPortal = portal
+    allAreas.features.map(function(other){
+      newPortal = turf.difference(newPortal,other);
+    })
+    newPortals.push(newPortal);
+  });
+
+  allAreas.features = allAreas.features.concat(newPortals);
+
+  return allAreas;
+}
 
 function streets(jsonFile) {
 
@@ -181,7 +237,8 @@ function centerCampStreets(jsonFile) {
 
   var routeSS = turf.multilinestring([arc1.geometry.coordinates,arc2.geometry.coordinates],{
     "ref":"66",
-    "name":"Route 66"
+    "name":"Route 66",
+    "width":jsonFile.center_camp.six_six_width
   })
 
   routeSS = turf.multilinestring(cutStreets(routeSS,portal).coordinates,routeSS.properties);
@@ -231,7 +288,6 @@ function portalsFeatureCollection(jsonFile) {
     var secondPoint = turf.destination(start,0.5,secondBearing,'miles');
 
     var triangle = turf.polygon([[start.geometry.coordinates,firstPoint.geometry.coordinates,secondPoint.geometry.coordinates,start.geometry.coordinates]])
-    console.log(turf.area(triangle))
 
     var reader = new jsts.io.GeoJSONReader();
     var poly = reader.read(triangle);
@@ -312,7 +368,7 @@ function timeStreetsFeatureCollection(jsonFile) {
 
         lines.push([startPoint.geometry.coordinates,endPoint.geometry.coordinates]);
       })
-      features.push(turf.multilinestring(lines,{"ref":timeString,"name":timeString}));
+      features.push(turf.multilinestring(lines,{"ref":timeString,"name":timeString,"width":item.width}));
     });
 
   });
