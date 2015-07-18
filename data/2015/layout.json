@@ -35,6 +35,7 @@
     "rod_road_distance":750,
     "cafe_plaza_radius":330,
     "cafe_radius":110,
+    "six_six_width": 25,
     "six_six_distance":{
       "man_facing": 500,
       "six_facing": 560
@@ -221,6 +222,43 @@
       "time":"12:00",
       "distance": 0,
       "diameter": 400
+    }
+  ],
+  "portals":[
+    {
+      "distance":"b",
+      "time":"3:00",
+      "angle":20,
+      "name":"3:00 Portal",
+      "ref":"3portal"
+    },
+    {
+      "distance":"a",
+      "time":"4:30",
+      "angle":30,
+      "name":"4:30 Portal",
+      "ref":"43portal"
+    },
+    {
+      "distance":2907,
+      "time":"6:00",
+      "angle":30,
+      "name":"6:00 Portal",
+      "ref":"6portal"
+    },
+    {
+      "distance":"a",
+      "time":"7:30",
+      "angle":30,
+      "name":"7:30 Portal",
+      "ref":"73portal"
+    },
+    {
+      "distance":"b",
+      "time":"9:00",
+      "angle":20,
+      "name":"9:00 Portal",
+      "ref":"9portal"
     }
   ],
   "runway":{}

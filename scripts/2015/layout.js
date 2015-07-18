@@ -11,54 +11,63 @@ if (!process.argv[2]) {
 
 var layoutFile = require(process.argv[2]);
 
-console.log("Creating Circle Streets...")
-var circleStreets = circleStreetsFeatureCollection(layoutFile);
-console.log("Creating Time Streets...")
-var allStreets = timeStreetsFeatureCollection(layoutFile);
-allStreets.features = allStreets.features.concat(circleStreets.features)
-console.log("Creating Plazas...")
+console.log("Creating Streets...")
+var s = streets(layoutFile);
+console.log("Creating Areas...")
 var plazas = plazasFeatureCollection(layoutFile);
-allStreets.features = allStreets.features.concat(plazas.features)
-console.log("Creating Portals...")
 var portals = portalsFeatureCollection(layoutFile);
-allStreets.features = allStreets.features.concat(portals.features)
-console.log("%j",allStreets);
-console.log("Creating Center Camp...")
-var centerCampStreets = centerCampStreets(layoutFile);
-allStreets.features = allStreets.features.concat(centerCampStreets.features)
+var camp = centerCampPolygons(layoutFile);
+var allAreas = turf.featurecollection(plazas.features.concat(portals.features).concat(camp.features));
+console.log("%j",turf.featurecollection(s.features.concat(allAreas.features)));
 
 
-// var road = rodRoad(layoutFile);
-// road.geometry.type = "Polygon"
-// road.geometry.coordinates = [road.geometry.coordinates];
-// var esp = turf.filter(circleStreets,"ref","esplanade").features[0];
-// esp.geometry.type = "LineString"
-// esp.geometry.coordinates = esp.geometry.coordinates[0]
-// console.log("%j",esp);
-//
-// console.log("%j",cutStreets(esp,road));
+function streets(jsonFile) {
+
+  var ccStreets = centerCampStreets(jsonFile);
+  var cStreets = circleStreetsFeatureCollection(layoutFile);
+  var tStreets = timeStreetsFeatureCollection(layoutFile);
+
+  var rr = turf.filter(ccStreets,"ref","rod").features[0];
+  var rodPolygon = turf.polygon([rr.geometry.coordinates])
+
+  var features = ccStreets.features
+
+  cStreets.features.map(function(item){
+    var newStreet = {
+      "type": "Feature"
+    }
+    newStreet.properties = item.properties;
+    newStreet.geometry = cutStreets(item,rodPolygon);
+
+    features.push(newStreet);
+  })
+
+  var centerPlazaStreet = turf.filter(ccStreets,"ref","centerCampPlazaRoad").features[0];
+  var plazaPolygon = turf.polygon([centerPlazaStreet.geometry.coordinates]);
+
+  tStreets.features.map(function(item){
+    var newStreet = {
+      "type": "Feature"
+    }
+    newStreet.properties = item.properties;
+    newStreet.geometry = cutStreets(item,plazaPolygon);
+
+    features.push(newStreet);
+  })
+
+  return turf.featurecollection(features)
+
+}
 
 function cutStreets(street,polygon) {
   var reader = new jsts.io.GeoJSONReader();
   var a = reader.read(street);
   var b = reader.read(polygon);
-  //console.log("%j",a);
-  //console.log("%j",a.geometry.getCoordinates());
+  // console.log("%j",b);
+  // console.log("%j",b.geometry.getCoordinates());
   var diff = a.geometry.difference(b.geometry);
   var parser = new jsts.io.GeoJSONParser();
   diff = parser.write(diff);
-  return diff;
-}
-
-function createPortal(polygon,street) {
-  var reader = new jsts.io.GeoJSONReader();
-  var a = reader.read(street);
-  var b = reader.read(polygon);
-  //console.log("%j",a.geometry)
-  var inter = b.geometry.difference(a.geometry.convexHull());
-  var parser = new jsts.io.GeoJSONParser();
-  //console.log("%j",inter);
-  diff = parser.write(inter);
   return diff;
 }
 
@@ -112,20 +121,20 @@ function centerCampStreets(jsonFile) {
   var cityCenter = jsonFile.center;
   var centerCampDistance = utils.feetToMiles(jsonFile.center_camp.distance);
   var bearing = utils.timeToCompassDegrees("6","0",cityBearing);
-  var centerCampCenter = centerCampCenter(jsonFile);
+  var ccc = centerCampCenter(jsonFile);
 
   //Rod's Road
   var roadRadius = utils.feetToMiles(jsonFile.center_camp.rod_road_distance);
-  var rodRoad = rodRoad(centerCampCenter,raodRadius,'miles');
+  var rr = rodRoad(ccc,roadRadius,'miles');
 
   //Plaza road - This is half way between cafe and where the camps start
   var cafeRadius = jsonFile.center_camp.cafe_radius;
   var plazaRadius = jsonFile.center_camp.cafe_plaza_radius;
   var plazaRoadRadius = utils.feetToMiles(cafeRadius+ (plazaRadius-cafeRadius)/2.0);
-  var plazaRoad = createArc(centerCampCenter, plazaRoadRadius, 'miles', 0, 360, 5);
-  plazaRoad = turf.linestring(plazaRoad.geometry.coordinates[0]),{
+  var plazaRoad = createArc(ccc, plazaRoadRadius, 'miles', 0, 360, 5);
+  plazaRoad = turf.linestring(plazaRoad.geometry.coordinates[0],{
     "ref": "centerCampPlazaRoad"
-  };
+  });
 
   //Two roads that go out at about 3:00 & 9:00 to intersect at A Road
   var streets = jsonFile.cStreets.filter(function(item){
@@ -135,9 +144,15 @@ function centerCampStreets(jsonFile) {
   var distance = utils.feetToMiles(aInfo.distance);
   var aStreet = circleStreet(jsonFile.center,jsonFile.bearing, distance, 'miles', aInfo.segments, aInfo.ref, aInfo.name);
 
-  var points = turf.intersect(aStreet, rodRoad);
-  var a1 = turf.linestring([centerCampCenter.geometry.coordinates,points.geometry.coordinates[0]],aStreet.properties);
-  var a2 = turf.linestring([centerCampCenter.geometry.coordinates,points.geometry.coordinates[1]],aStreet.properties);
+  var points = turf.intersect(aStreet, rr);
+  var a1 = turf.linestring([ccc.geometry.coordinates,points.geometry.coordinates[0]],aStreet.properties);
+  var a2 = turf.linestring([ccc.geometry.coordinates,points.geometry.coordinates[1]],aStreet.properties);
+
+  //cut roads with plaza road
+  var plazaPolygon = turf.polygon([plazaRoad.geometry.coordinates]);
+
+  a1 = turf.linestring(cutStreets(a1,plazaPolygon).coordinates,a1.properties);
+  a2 = turf.linestring(cutStreets(a2,plazaPolygon).coordinates,a2.properties);
 
   //Route 66
   a1Bearing = turf.bearing(turf.point(a1.geometry.coordinates[0]),turf.point(a1.geometry.coordinates[1]));
@@ -154,22 +169,24 @@ function centerCampStreets(jsonFile) {
   }
 
   var ManDistance = utils.feetToMiles(jsonFile.center_camp.six_six_distance.man_facing);
-  var arc0 = createArc(centerCampCenter,ManDistance,'miles',negativeBearing,360,5);
+  var arc0 = createArc(ccc,ManDistance,'miles',negativeBearing,360,5);
   arc0.geometry.coordinates.pop();
-  var arc1 = createArc(centerCampCenter,ManDistance,'miles',0,positiveBearing,5);
+  var arc1 = createArc(ccc,ManDistance,'miles',0,positiveBearing,5);
   arc1.geometry.coordinates = arc0.geometry.coordinates.concat(arc1.geometry.coordinates);
 
   var sixDistance = utils.feetToMiles(jsonFile.center_camp.six_six_distance.six_facing);
-  var arc2 = createArc(centerCampCenter,sixDistance,'miles',positiveBearing,negativeBearing,5);
-  // console.log("Pos ",positiveBearing);
-  // console.log("Neg ",negativeBearing);
-  // console.log("arc2: %j",arc2)
+  var arc2 = createArc(ccc,sixDistance,'miles',positiveBearing,negativeBearing,5);
+
+  var portal = turf.filter(portalsFeatureCollection(jsonFile),"ref","6portal").features[0];
 
   var routeSS = turf.multilinestring([arc1.geometry.coordinates,arc2.geometry.coordinates],{
-    "ref":"66"
+    "ref":"66",
+    "name":"Route 66"
   })
 
-  return turf.featurecollection([rodRoad, plazaRoad, a1, a2,routeSS]);
+  routeSS = turf.multilinestring(cutStreets(routeSS,portal).coordinates,routeSS.properties);
+
+  return turf.featurecollection([rr, plazaRoad, a1, a2,routeSS]);
 }
 
 function portalsFeatureCollection(jsonFile) {
@@ -216,9 +233,25 @@ function portalsFeatureCollection(jsonFile) {
     var triangle = turf.polygon([[start.geometry.coordinates,firstPoint.geometry.coordinates,secondPoint.geometry.coordinates,start.geometry.coordinates]])
     console.log(turf.area(triangle))
 
-    var cut = createPortal(triangle,esplanade);
-    cut = turf.polygon(cut.coordinates);
-    features.push(cut);
+    var reader = new jsts.io.GeoJSONReader();
+    var poly = reader.read(triangle);
+    var street;
+    var result;
+    if (timeString === "6:00") {
+      //For center camp portal get intersectin of Rod road as polygon and expanded triangle
+      street = reader.read(rr);
+      result = poly.geometry.intersection(street.geometry.convexHull());
+    } else {
+      //For all other take convex hull of esplanade (the open playa) and find difference with expanded triangle
+      street = reader.read(esplanade);
+      result = poly.geometry.difference(street.geometry.convexHull());
+    }
+
+    var parser = new jsts.io.GeoJSONParser();
+    result = parser.write(result);
+    result = turf.polygon(result.coordinates);
+    result.properties = properties;
+    features.push(result);
 
   });
   return turf.featurecollection(features);
