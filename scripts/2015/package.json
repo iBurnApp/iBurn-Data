@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "jsts": "^0.16.0",
+    "nopt": "^3.0.3",
     "tape": "^4.0.0",
     "turf": "^2.0.2",
     "turf-difference": "^2.0.0",
