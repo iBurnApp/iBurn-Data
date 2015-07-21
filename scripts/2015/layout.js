@@ -1,6 +1,7 @@
 #! /usr/bin/env node
 var streets = require('./streets.js');
 var polygons = require('./polygons.js');
+var fence = require('./fence.js');
 var fs = require('fs');
 
 var nopt = require("nopt")
@@ -9,13 +10,13 @@ var nopt = require("nopt")
   , knownOpts = {
     "file" : path,
     "out": path,
-    "type" : [ "streets", "polygons", "outline" ],
-                }
+    "type" : [ "streets", "polygons", "outline", "fence" ],
+  }
   , shortHands = {
      "f" : ["--file"],
      "o" : ["--out"],
      "t" : ["--type"]
-                 }
+   }
   , parsed = nopt(knownOpts, shortHands, process.argv, 2)
 
 var jsonFile = require(parsed.file);
@@ -31,6 +32,9 @@ switch (parsed.type) {
     break;
   case 'outline':
     output = polygons.cityOutline(jsonFile);
+    break;
+  case 'fence':
+    output = fence.fence(jsonFile);
     break;
 }
 

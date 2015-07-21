@@ -5,6 +5,7 @@ turf.difference = require('turf-difference');
 var jsts = require("jsts");
 var points = require('./points.js');
 var polygons = require('./polygons.js');
+var fence = require('./fence.js')
 
 exports.circularStreets = function(jsonFile) {
   var cityBearing  = jsonFile.bearing;
@@ -143,6 +144,7 @@ exports.allStreets = function(jsonFile) {
   var ccStreets = exports.centerCampStreets(jsonFile);
   var cStreets = exports.circularStreets(jsonFile);
   var tStreets = exports.radialStreets(jsonFile);
+  var f = fence.fence(jsonFile);
 
   var rr = turf.filter(ccStreets,"ref","rod").features[0];
   var rodPolygon = turf.polygon([rr.geometry.coordinates])
@@ -170,6 +172,30 @@ exports.allStreets = function(jsonFile) {
     newStreet.geometry = utils.cutStreets(item,plazaPolygon);
 
     features.push(newStreet);
+
+    //Airport Road
+    if (newStreet.properties.ref === '5:00')
+    {
+      var startPoint = turf.point(newStreet.geometry.coordinates[newStreet.geometry.coordinates.length-1])
+      var winningPoint;
+      var winningDistance = 300;
+      f.features[0].geometry.coordinates.map(function(c){
+        var pt = turf.point(c);
+        var distance = turf.distance(pt,startPoint);
+
+        if (distance < winningDistance) {
+          winningDistance = distance;
+          winningPoint = pt;
+        }
+      });
+
+      var airportRoad = turf.linestring([startPoint.geometry.coordinates,winningPoint.geometry.coordinates],{
+        'ref': 'airport',
+        'name': 'Airport Road'
+      })
+      console.log("%j",airportRoad)
+      features.push(airportRoad);
+    }
   })
 
   return turf.featurecollection(features)

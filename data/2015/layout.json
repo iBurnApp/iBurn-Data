@@ -10,24 +10,7 @@
       "coordinates": [-119.2065, 40.7864]
     }
   },
-  "fence": {
-    "type": "Feature",
-    "properties": {
-      "ref": "fence",
-      "name": "Trash Fence"
-    },
-    "geometry": {
-      "type": "LineString",
-      "coordinates": [
-        [-119.2357, 40.783],
-        [-119.2199, 40.8063],
-        [-119.1857, 40.8022],
-        [-119.1802, 40.7762],
-        [-119.2111, 40.7644],
-        [-119.2357, 40.783]
-      ]
-    }
-  },
+  "fence_distance": 8175,
   "bearing": 45,
   "road_width": 40,
   "center_camp":{
