@@ -261,20 +261,20 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-03 14:00:00",
-                "end_time": "2015-09-03 15:30:00"
+                "start_time": "2015-09-01 14:00:00",
+                "end_time": "2015-09-01 15:30:00"
             }
         ],
         "description": "Come with 1 topic or question-love, manifestation, career, patterns that are coming up for you here on the playa etc.During readings, we see things in the form of pictures which are literal or symbolic and the blocks or karmic patterns that are standing in the way.  These blocks and patterns can have roots in past lives or may be influenced from the energy of other people. Our work together hones in on the finding and removing the origins of patterns that no longer serve you.  We end each session with a few minutes of healing.",
         "title": "20 min Clairvoyant Readings/Healings",
-        "url": "http://sharaogin.com/",
+        "url": "http://www.sharaogin.com/",
         "year": {
             "id": 11,
             "year": "2015"
         },
         "all_day": false,
-        "id": 14388,
-        "print_description": "Come with 1 topic or question-love, manifestation, career, patterns that are coming up for you here on the playa etc.. Held in the Chakra Temple Dome.",
+        "id": 13947,
+        "print_description": "Come with 1 topic or question-love, manifestation, career, patterns that are coming up for you here on the playa etc. Held in the Chakra Temple Dome.",
         "check_location": false,
         "slug": "20-min-clairvoyant-readingshealings",
         "other_location": "",
@@ -290,20 +290,20 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-01 14:00:00",
-                "end_time": "2015-09-01 15:30:00"
+                "start_time": "2015-09-03 14:00:00",
+                "end_time": "2015-09-03 15:30:00"
             }
         ],
         "description": "Come with 1 topic or question-love, manifestation, career, patterns that are coming up for you here on the playa etc.During readings, we see things in the form of pictures which are literal or symbolic and the blocks or karmic patterns that are standing in the way.  These blocks and patterns can have roots in past lives or may be influenced from the energy of other people. Our work together hones in on the finding and removing the origins of patterns that no longer serve you.  We end each session with a few minutes of healing.",
         "title": "20 min Clairvoyant Readings/Healings",
-        "url": "http://www.sharaogin.com/",
+        "url": "http://sharaogin.com/",
         "year": {
             "id": 11,
             "year": "2015"
         },
         "all_day": false,
-        "id": 13947,
-        "print_description": "Come with 1 topic or question-love, manifestation, career, patterns that are coming up for you here on the playa etc. Held in the Chakra Temple Dome.",
+        "id": 14388,
+        "print_description": "Come with 1 topic or question-love, manifestation, career, patterns that are coming up for you here on the playa etc.. Held in the Chakra Temple Dome.",
         "check_location": false,
         "slug": "20-min-clairvoyant-readingshealings",
         "other_location": "",
@@ -724,6 +724,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "PLAYA 54",
+            "id": 7096
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 12:00:00",
+                "end_time": "2015-09-02 16:00:00"
+            }
+        ],
+        "description": "Celebrate PLAYA 54's 5th Anniversary - DJ 6 spins the Best 80's Music as you DANCE enjoy Bloody Mary's...Need we say more?!",
+        "title": "4th Annual BLOODY 80s PARTY Hosted By PLAYA 54",
+        "url": "http://www.facebook.com/playa54",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15530,
+        "print_description": "Celebrate PLAYA 54's 5th Anniversary - OLD SCHOOL STYLE...as DJ 6 spins the best 80's music and you'll enjoy Bloody Mary's...Need we say more?!",
+        "check_location": true,
+        "slug": "4th-annual-bloody-80s-party-hosted-by-playa-54",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Comfort and Joy",
             "id": 8125
         },
@@ -1010,8 +1039,8 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-08-31 19:00:00",
-                "end_time": "2015-08-31 21:30:00"
+                "start_time": "2015-09-04 10:00:00",
+                "end_time": "2015-09-04 11:30:00"
             }
         ],
         "description": "5Rhythms is an in-bodied, out of your mind dance experience not to be missed. It is a simple yet powerful moving meditation that anyone – of any age, size, or physical ability – can practice. There are no steps to follow, no choreography to learn, no way to do it wrong. The only requirement is a body that is still breathing, a heart that is still beating, and a mind that is still curious! All are welcome to join Eugene Hedlund on the bamboo at RhythmWave as we flow through our 9th consecutive year in BRC!",
@@ -1022,7 +1051,7 @@
             "year": "2015"
         },
         "all_day": false,
-        "id": 13805,
+        "id": 14608,
         "print_description": "5Rhythms is an in-bodied, out of your mind dance experience not to be missed. Please join Eugene Hedlund on the bamboo at RhythmWave!",
         "check_location": false,
         "slug": "5rhythms-dance-weugene-hedlund-rhythmwave",
@@ -1039,8 +1068,8 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-04 10:00:00",
-                "end_time": "2015-09-04 11:30:00"
+                "start_time": "2015-08-31 19:00:00",
+                "end_time": "2015-08-31 21:30:00"
             }
         ],
         "description": "5Rhythms is an in-bodied, out of your mind dance experience not to be missed. It is a simple yet powerful moving meditation that anyone – of any age, size, or physical ability – can practice. There are no steps to follow, no choreography to learn, no way to do it wrong. The only requirement is a body that is still breathing, a heart that is still beating, and a mind that is still curious! All are welcome to join Eugene Hedlund on the bamboo at RhythmWave as we flow through our 9th consecutive year in BRC!",
@@ -1051,7 +1080,7 @@
             "year": "2015"
         },
         "all_day": false,
-        "id": 14608,
+        "id": 13805,
         "print_description": "5Rhythms is an in-bodied, out of your mind dance experience not to be missed. Please join Eugene Hedlund on the bamboo at RhythmWave!",
         "check_location": false,
         "slug": "5rhythms-dance-weugene-hedlund-rhythmwave",
@@ -1084,6 +1113,35 @@
         "print_description": "5Rhythms dance is a simple, yet powerful moving meditation. Come \"Sweat Your Prayers\" the Santa Fe way with Chloe Goodwin at RhythmWave!",
         "check_location": false,
         "slug": "5rhythms-dance-wjilsarah-moscowitz-rhythmwave",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "RhythmWave",
+            "id": 7237
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 10:00:00",
+                "end_time": "2015-09-01 11:30:00"
+            }
+        ],
+        "description": "5Rhythms is an in-bodied, out of your mind dance experience not to be missed. It is a simple yet powerful moving meditation that anyone – of any age, size, or physical ability – can practice. There are no steps to follow, no choreography to learn, no way to do it wrong. The only requirements are a body that's still breathing, a heart that's still beating, and a mind that is still curious! Come Sweat Your Prayers the Taos way with Visudha de Los Santos at RhythmWave!",
+        "title": "5Rhythms Dance w/Visudha de Los Santos",
+        "url": "http://www.rhythmwave.org/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 13975,
+        "print_description": "5Rhythms dance is a simple, yet powerful moving meditation. Come \"Sweat Your Prayers\" the Taos way with Visudha de Los Santos at RhythmWave!",
+        "check_location": false,
+        "slug": "5rhythms-dance-wvisudha-de-los-santos",
         "other_location": "",
         "event_type": {
             "abbr": "work",
@@ -1472,6 +1530,35 @@
         "print_description": "Camp HOT Mayo is so excited to hold its 7th annual Irish Car Bomb Party! We will be serving 1000 Irish Car Bombs and you get to keep a souvenir glass.",
         "check_location": true,
         "slug": "7th-annual-irish-car-bomb-party",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Magic Pancakes Project",
+            "id": 8088
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 20:00:00",
+                "end_time": "2015-09-01 22:00:00"
+            }
+        ],
+        "description": "Didn't get to go to prom? Did and rocked it? Come to Prom Night! Bring a partner or go stag! DJ H4ckrabbit presiding, prizes and open bar! Come dance!",
+        "title": "80-90s Prom Night",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15564,
+        "print_description": "Didn't get to go to prom? Did and rocked it? Come to Prom Night! Bring a partner or go stag! DJ H4ckrabbit presiding, prizes and open bar! Come dance!",
+        "check_location": false,
+        "slug": "80-90s-prom-night",
         "other_location": "",
         "event_type": {
             "abbr": "prty",
@@ -2383,6 +2470,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Listen",
+            "id": 7696
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 15:00:00",
+                "end_time": "2015-09-02 16:30:00"
+            }
+        ],
+        "description": "In this powerful workshop designed by Joanna Macy, you will have an opportunity to dialogue with your future or present self to gain insight and wisdom about our current global situation.",
+        "title": "A Conversation with Your Future Self",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15652,
+        "print_description": "In this powerful workshop, you will dialogue with your future or present self to gain insight and wisdom about our current global situation.",
+        "check_location": true,
+        "slug": "a-conversation-with-your-future-self",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Ludus Symposium",
             "id": 7149
         },
@@ -2821,6 +2937,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Dr.Baron von Realz esq. Steampunk",
+            "id": 7156
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 12:30:00",
+                "end_time": "2015-09-02 14:00:00"
+            }
+        ],
+        "description": "Learn to use our fabric to wrap, suspend, fall, swing, and spiral your body into and out of various positions. Aerial silks may be used to fly through the air, striking poses and figures while flying.",
+        "title": "Aerial silks workshop",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15503,
+        "print_description": "Learn to use our fabric to wrap, suspend, fall, swing, and spiral your body into and out of various positions. fly through the air, striking poses.",
+        "check_location": false,
+        "slug": "aerial-silks-workshop",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Alternative Energy Zone",
             "id": 7235
         },
@@ -3011,35 +3156,6 @@
     },
     {
         "hosted_by_camp": {
-            "name": "Down Low Club",
-            "id": 7094
-        },
-        "occurrence_set": [
-            {
-                "start_time": "2015-09-05 22:00:00",
-                "end_time": "2015-09-06 05:00:00"
-            }
-        ],
-        "description": "As the hot coals of the Man burn cool from white and red to black and grey, adult Gay, Queer, Bi & Curious men of the Playa crowd into Down Low Club to enjoy a night of über hot man-to-man action. After being open 24/7 all week, our discreet, enclosed & air-conditioned manplay tent celebrates all things male until dawn. As we close another testosterone-fueled year on the Playa, this night at Down Low Club is yours to live, men! Still curious? Fantasies yet to live? Don't go home without checking it out. Remember, what happens at Burning Man stays at Burning Man.",
-        "title": "After the Burn Man-to-Man Play",
-        "url": "https://www.facebook.com/groups/557666564336453/",
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "all_day": false,
-        "id": 15120,
-        "print_description": "As coals from the Man burn cool Gay, Queer, Bi & Curious adult men crowd into Down Low Club's discreet, enclosed tent for uber-hot manplay til dawn",
-        "check_location": false,
-        "slug": "after-the-burn-man-to-man-play",
-        "other_location": "",
-        "event_type": {
-            "abbr": "adlt",
-            "label": "Adult-oriented"
-        }
-    },
-    {
-        "hosted_by_camp": {
             "name": "Red Lightning",
             "id": 7232
         },
@@ -3065,6 +3181,35 @@
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Airport Village",
+            "id": 7900
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 09:00:00",
+                "end_time": "2015-09-03 11:30:00"
+            }
+        ],
+        "description": "Come out to Black Rock City Municipal Airport at 5 o'clock and the trash fence for our annual Pancake Breakfast Open House",
+        "title": "Airport Pancake Breakfast",
+        "url": "http://88nv.burningman.com/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15761,
+        "print_description": "Come out to Black Rock City Municipal Airport at 5 o'clock and the trash fence for our annual Pancake Breakfast Open House",
+        "check_location": false,
+        "slug": "airport-pancake-breakfast",
+        "other_location": "",
+        "event_type": {
+            "abbr": "food",
+            "label": "Food"
         }
     },
     {
@@ -3274,6 +3419,35 @@
         "event_type": {
             "abbr": "prty",
             "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Dr.Baron von Realz esq. Steampunk",
+            "id": 7156
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 12:00:00",
+                "end_time": "2015-09-01 14:00:00"
+            }
+        ],
+        "description": "'Who are you?' said the Caterpillar. This was not an encouraging opening for a conversation. Alice replied, rather shyly, 'I — I hardly know, sir, just at present — at least I know who I WAS when I got up this morning, but I think I must have been changed several times since then.' Come join Caterpillar and Alice under our giant mushroom for “tea”.",
+        "title": "Alice in wonderland steampunk tea party",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15519,
+        "print_description": "'Who are you?' said the Caterpillar. This was not an encouraging opening for a conversation. Alice replied, rather shyly, 'I — I hardly know, sir.",
+        "check_location": false,
+        "slug": "alice-in-wonderland-steampunk-tea-party",
+        "other_location": "",
+        "event_type": {
+            "abbr": "cere",
+            "label": "Ritual/Ceremony"
         }
     },
     {
@@ -3955,6 +4129,55 @@
     },
     {
         "hosted_by_camp": {
+            "name": "FreeStyle Palace",
+            "id": 7874
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 13:00:00",
+                "end_time": "2015-08-31 17:00:00"
+            },
+            {
+                "start_time": "2015-09-01 13:00:00",
+                "end_time": "2015-09-01 17:00:00"
+            },
+            {
+                "start_time": "2015-09-02 13:00:00",
+                "end_time": "2015-09-02 17:00:00"
+            },
+            {
+                "start_time": "2015-09-03 13:00:00",
+                "end_time": "2015-09-03 17:00:00"
+            },
+            {
+                "start_time": "2015-09-04 13:00:00",
+                "end_time": "2015-09-04 17:00:00"
+            },
+            {
+                "start_time": "2015-09-05 13:00:00",
+                "end_time": "2015-09-05 17:00:00"
+            }
+        ],
+        "description": "Angels, Aliens and Outlaws: A Hip-Hop House Party & Water-Gun Fight.  Squirt'n'Twerk.  Some water-guns provided. Bring a gallon of water and help cool down all these Playa Hotties! Booty Shaking encouraged! Monday-Saturday 1-5pm. Freestyle Palace.",
+        "title": "Angels, Aliens and Outlaws: HipHop Watergun Fight",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15568,
+        "print_description": "Angels, Aliens and Outlaws: A Hip-Hop House Party & Water-Gun Fight. Bring a gallon of water; some guns provided. Mon-Sat1-5pm. Freestyle Palace",
+        "check_location": false,
+        "slug": "angels-aliens-and-outlaws-hiphop-watergun-fight",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Swish Embassy",
             "id": 7084
         },
@@ -4436,35 +4659,6 @@
     },
     {
         "hosted_by_camp": {
-            "name": "Down Low Club",
-            "id": 7094
-        },
-        "occurrence_set": [
-            {
-                "start_time": "2015-09-02 13:00:00",
-                "end_time": "2015-09-02 18:00:00"
-            }
-        ],
-        "description": "Following today's Naked Pub Crawl, Down Low Club is the perfect venue for frisky and woozy adult male naked pub crawlers to stagger in, cool down, let their inhibitions go and create some man-to-man heat. Open 24/7 all week, Down Low Club's discreet, enclosed and air-conditioned manplay tent is fully outfitted for hot 18+ man-to-man action with other adult Gay, Queer, Bi & Curious men of the Playa. Remember, what happens at Burning Man, stays at Burning Man…",
-        "title": "Apres Naked Pub Crawl Manplay",
-        "url": "https://www.facebook.com/groups/557666564336453/",
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "all_day": false,
-        "id": 15123,
-        "print_description": "Frisky & woozy adult men crawl into Down Low Club's discreet, enclosed, air-cooled tent to cool down & play hot w/other Gay, Queer, Bi & Curious men",
-        "check_location": true,
-        "slug": "apres-naked-pub-crawl-manplay",
-        "other_location": "",
-        "event_type": {
-            "abbr": "adlt",
-            "label": "Adult-oriented"
-        }
-    },
-    {
-        "hosted_by_camp": {
             "name": "Apres Ski BRC",
             "id": 7366
         },
@@ -4493,140 +4687,25 @@
         }
     },
     {
-        "hosted_by_camp": {
-            "name": "Camp Gallavant",
-            "id": 7766
-        },
         "occurrence_set": [
-            {
-                "start_time": "2015-09-03 16:00:00",
-                "end_time": "2015-09-03 18:00:00"
-            }
-        ],
-        "description": "SSSHHH....It's  a surprise party....and it's going to be AWESOME --- don't miss it !",
-        "title": "ARRGH BAR - GALLAVANT",
-        "url": "http://www.rickmetz.com/",
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "all_day": false,
-        "id": 15063,
-        "print_description": "SSSHHH....It's  a surprise party....and it's going to be AWESOME --- don't miss it !",
-        "check_location": false,
-        "slug": "arrgh-bar-gallavant",
-        "other_location": "",
-        "event_type": {
-            "abbr": "prty",
-            "label": "Gathering/Party"
-        }
-    },
-    {
-        "hosted_by_camp": {
-            "name": "Camp Gallavant",
-            "id": 7766
-        },
-        "occurrence_set": [
-            {
-                "start_time": "2015-08-31 10:00:00",
-                "end_time": "2015-08-31 12:00:00"
-            }
-        ],
-        "description": "Arrgh Bar officially opens at 10am and we \"belly up to the bar and say ARRGH\" with Naked Pirate Shots",
-        "title": "ARRGH BAR - GALLAVANT",
-        "url": "http://www.rickmetz.com/",
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "all_day": false,
-        "id": 15028,
-        "print_description": "Arrgh Bar officially opens at 10am and we \"belly up to the bar and say ARRGH\" with Naked Pirate Shots",
-        "check_location": false,
-        "slug": "arrgh-bar-gallavant",
-        "other_location": "",
-        "event_type": {
-            "abbr": "prty",
-            "label": "Gathering/Party"
-        }
-    },
-    {
-        "hosted_by_camp": {
-            "name": "Camp Gallavant",
-            "id": 7766
-        },
-        "occurrence_set": [
-            {
-                "start_time": "2015-08-31 00:00:00",
-                "end_time": "2015-08-31 23:59:00"
-            },
             {
                 "start_time": "2015-09-01 00:00:00",
-                "end_time": "2015-09-01 23:59:00"
-            },
-            {
-                "start_time": "2015-09-02 00:00:00",
                 "end_time": "2015-09-02 23:59:00"
-            },
-            {
-                "start_time": "2015-09-03 00:00:00",
-                "end_time": "2015-09-03 23:59:00"
-            },
-            {
-                "start_time": "2015-09-04 00:00:00",
-                "end_time": "2015-09-04 23:59:00"
-            },
-            {
-                "start_time": "2015-09-05 00:00:00",
-                "end_time": "2015-09-05 23:59:00"
-            },
-            {
-                "start_time": "2015-09-06 00:00:00",
-                "end_time": "2015-09-06 23:59:00"
             }
         ],
-        "description": "Come party with the Pirates of the Playa at Gallavant, home of our mighty ship the \"USS Nevada\" and our infamous ARRGH Bar, serving up our \"Se(a)men\" and other grogs...We \"officially\" open Monday with Naked Pirate shots from 10am-12pm, Scottish Bucks Fizz and Bucky shots from 12pm-3pm, Tuesday from 12pm-2pm we try to \"Prevent Scurvy\" with citrus rum shots and JESUS and BABYCAKES are getting married and we'll celebrate from 5pm-whenever...Wednesday we celebrate Danish Christmas with breakfast herring and schnapps and will indulge on Apple Pie Moonshine from 4pm-6pm, Thursday...it's a surprise party from 4pm-6pm, Friday we head to the \"Great White North\" for Canuck kisses from 2pm-4pm, Saturday from 2pm-4pm join us for yet another surprise party and of course, amazing Bloody Marys on Sunday morning from 10am-12pm..We have an awesome \"chill space\" with lots of couches and shade, great music and a rowdy crew of Wicked Wenches and Swashbuckling Pirates that are always up for the best time possible as we \"Belly up to the bar and say \"AARRRRGGGHHH\"",
-        "title": "ARRGH BAR - GALLAVANT",
+        "description": "On Tuesday the Queen Dick pub's Village Green will be the scene of a genteel tea party.  This is a quintessential British daytime party with outrageous games that will start on the Village Green and flow into the evening:\r\nKnights on Bikes: 'Lance-A-Lot' - Amateur jousting,\r\nHuman fruit machine,\r\nBlindfolded-roly-poly-cuppa-tea-relay,\r\nLemon and spoon battle,\r\nMorris prancing,\r\nHuman snake,\r\nRobbie Burns' Remix Reeling,\r\nAlongside these lovely games we will also have some S&M thrown in for some naughty measure. Beneath the thin veneer of respectability, all is never what it seems; we’ll offer soft (and comfortable) slipper spankings, corduroy chaps and lavender scented latex. \r\nAnd of course all day banging party music that'll pushes the party up to an 11!  And don't forget, the Queen Dick will have cold beer on tap all day to refresh you throughout the day.\r\nCome join us!!",
+        "title": "A quintessential tea party on the Village Green",
         "url": "",
         "year": {
             "id": 11,
             "year": "2015"
         },
         "all_day": true,
-        "id": 15019,
-        "print_description": "Arrgh Bar officially opens and we \"Belly up to the Bar and say \"ARRGH\" with Naked Pirate Shots",
-        "check_location": false,
-        "slug": "arrgh-bar-gallavant",
-        "other_location": "",
-        "event_type": {
-            "abbr": "prty",
-            "label": "Gathering/Party"
-        }
-    },
-    {
-        "hosted_by_camp": {
-            "name": "Camp Gallavant",
-            "id": 7766
-        },
-        "occurrence_set": [
-            {
-                "start_time": "2015-08-31 12:00:00",
-                "end_time": "2015-08-31 15:00:00"
-            }
-        ],
-        "description": "Get yer Bucky down ya at the Scottish Scuttlebucks Lost at Sea Party...Scallywags and Swashbucklers welcome...Yaldi !!!",
-        "title": "ARRGH BAR - GALLAVANT",
-        "url": "http://www.rickmetz.com/",
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "all_day": false,
-        "id": 15034,
-        "print_description": "Get yer Bucky down ya at the Scottish Scuttlebucks Lost at Sea party...Scallywags and Swashbucklers welcome...Yaldi !!!",
-        "check_location": false,
-        "slug": "arrgh-bar-gallavant",
-        "other_location": "",
+        "id": 15293,
+        "print_description": "On Tuesday, an all day party on Queen Dick pub's Village Green! Come for fun, fabulous games and some extra naughtiness for good measure.",
+        "check_location": true,
+        "slug": "a-quintessential-tea-party-on-the-village-green",
+        "other_location": "Queen Dick Pub (Village Green)",
         "event_type": {
             "abbr": "prty",
             "label": "Gathering/Party"
@@ -4726,6 +4805,64 @@
         },
         "occurrence_set": [
             {
+                "start_time": "2015-09-05 14:00:00",
+                "end_time": "2015-09-05 16:00:00"
+            }
+        ],
+        "description": "well we just have to have a party on Saturday - so come get your drink on ...you won't be disappointed !!",
+        "title": "ARRGH BAR - GALLAVANT",
+        "url": "http://www.rickmetz.com/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15069,
+        "print_description": "well we just have to have a party on Saturday - so come get your drink on ...you won't be disappointed !!",
+        "check_location": false,
+        "slug": "arrgh-bar-gallavant",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Camp Gallavant",
+            "id": 7766
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 12:00:00",
+                "end_time": "2015-08-31 15:00:00"
+            }
+        ],
+        "description": "Get yer Bucky down ya at the Scottish Scuttlebucks Lost at Sea Party...Scallywags and Swashbucklers welcome...Yaldi !!!",
+        "title": "ARRGH BAR - GALLAVANT",
+        "url": "http://www.rickmetz.com/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15034,
+        "print_description": "Get yer Bucky down ya at the Scottish Scuttlebucks Lost at Sea party...Scallywags and Swashbucklers welcome...Yaldi !!!",
+        "check_location": false,
+        "slug": "arrgh-bar-gallavant",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Camp Gallavant",
+            "id": 7766
+        },
+        "occurrence_set": [
+            {
                 "start_time": "2015-09-02 10:00:00",
                 "end_time": "2015-09-02 12:00:00"
             }
@@ -4740,6 +4877,64 @@
         "all_day": false,
         "id": 15056,
         "print_description": "Let's celebrate Christmas with a Traditional Danish Christmas Breakfast of herring and Schnapps......Skoal !",
+        "check_location": false,
+        "slug": "arrgh-bar-gallavant",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Camp Gallavant",
+            "id": 7766
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 16:00:00",
+                "end_time": "2015-09-03 18:00:00"
+            }
+        ],
+        "description": "SSSHHH....It's  a surprise party....and it's going to be AWESOME --- don't miss it !",
+        "title": "ARRGH BAR - GALLAVANT",
+        "url": "http://www.rickmetz.com/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15063,
+        "print_description": "SSSHHH....It's  a surprise party....and it's going to be AWESOME --- don't miss it !",
+        "check_location": false,
+        "slug": "arrgh-bar-gallavant",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Camp Gallavant",
+            "id": 7766
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 10:00:00",
+                "end_time": "2015-08-31 12:00:00"
+            }
+        ],
+        "description": "Arrgh Bar officially opens at 10am and we \"belly up to the bar and say ARRGH\" with Naked Pirate Shots",
+        "title": "ARRGH BAR - GALLAVANT",
+        "url": "http://www.rickmetz.com/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15028,
+        "print_description": "Arrgh Bar officially opens at 10am and we \"belly up to the bar and say ARRGH\" with Naked Pirate Shots",
         "check_location": false,
         "slug": "arrgh-bar-gallavant",
         "other_location": "",
@@ -4784,20 +4979,44 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-05 14:00:00",
-                "end_time": "2015-09-05 16:00:00"
+                "start_time": "2015-08-31 00:00:00",
+                "end_time": "2015-08-31 23:59:00"
+            },
+            {
+                "start_time": "2015-09-01 00:00:00",
+                "end_time": "2015-09-01 23:59:00"
+            },
+            {
+                "start_time": "2015-09-02 00:00:00",
+                "end_time": "2015-09-02 23:59:00"
+            },
+            {
+                "start_time": "2015-09-03 00:00:00",
+                "end_time": "2015-09-03 23:59:00"
+            },
+            {
+                "start_time": "2015-09-04 00:00:00",
+                "end_time": "2015-09-04 23:59:00"
+            },
+            {
+                "start_time": "2015-09-05 00:00:00",
+                "end_time": "2015-09-05 23:59:00"
+            },
+            {
+                "start_time": "2015-09-06 00:00:00",
+                "end_time": "2015-09-06 23:59:00"
             }
         ],
-        "description": "well we just have to have a party on Saturday - so come get your drink on ...you won't be disappointed !!",
+        "description": "Come party with the Pirates of the Playa at Gallavant, home of our mighty ship the \"USS Nevada\" and our infamous ARRGH Bar, serving up our \"Se(a)men\" and other grogs...We \"officially\" open Monday with Naked Pirate shots from 10am-12pm, Scottish Bucks Fizz and Bucky shots from 12pm-3pm, Tuesday from 12pm-2pm we try to \"Prevent Scurvy\" with citrus rum shots and JESUS and BABYCAKES are getting married and we'll celebrate from 5pm-whenever...Wednesday we celebrate Danish Christmas with breakfast herring and schnapps and will indulge on Apple Pie Moonshine from 4pm-6pm, Thursday...it's a surprise party from 4pm-6pm, Friday we head to the \"Great White North\" for Canuck kisses from 2pm-4pm, Saturday from 2pm-4pm join us for yet another surprise party and of course, amazing Bloody Marys on Sunday morning from 10am-12pm..We have an awesome \"chill space\" with lots of couches and shade, great music and a rowdy crew of Wicked Wenches and Swashbuckling Pirates that are always up for the best time possible as we \"Belly up to the bar and say \"AARRRRGGGHHH\"",
         "title": "ARRGH BAR - GALLAVANT",
-        "url": "http://www.rickmetz.com/",
+        "url": "",
         "year": {
             "id": 11,
             "year": "2015"
         },
-        "all_day": false,
-        "id": 15069,
-        "print_description": "well we just have to have a party on Saturday - so come get your drink on ...you won't be disappointed !!",
+        "all_day": true,
+        "id": 15019,
+        "print_description": "Arrgh Bar officially opens and we \"Belly up to the Bar and say \"ARRGH\" with Naked Pirate Shots",
         "check_location": false,
         "slug": "arrgh-bar-gallavant",
         "other_location": "",
@@ -4859,6 +5078,31 @@
         "check_location": false,
         "slug": "arrogance-and-conceit-permission-hour",
         "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 14:00:00",
+                "end_time": "2015-09-02 15:00:00"
+            }
+        ],
+        "description": "A body painting session celebrating human nature and body as a medium.  Take paint to a responsive canvas, a canvas made of cells, thoughts and feelings; and enhance your awareness of another living human being by enhancing his shapes, playing with this irregular surface and aliveness.",
+        "title": "Art by Nature: Body Painting",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15653,
+        "print_description": "Celebrate human nature and the body as a medium through this body painting session.",
+        "check_location": false,
+        "slug": "art-by-nature-body-painting",
+        "other_location": "Camp Galapagos",
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
@@ -5232,6 +5476,60 @@
         }
     },
     {
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-04 14:00:00",
+                "end_time": "2015-09-04 15:00:00"
+            }
+        ],
+        "description": "Have you ever experienced an indescribable tingly, calming sensation wash over you in certain situations? This mysterious tingly feeling is called Autonomous Sensory Meridian Response (ASMR), and we feel it too! Join us for a session of relaxation and tingles as we explore sounds and touches that can trigger your ASMR.",
+        "title": "ASMR Exploration: Giving and Receiving",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15655,
+        "print_description": "Join us for a session of relaxation and tingles as we explore sounds and touches that can trigger your ASMR.",
+        "check_location": true,
+        "slug": "asmr-exploration-giving-and-receiving",
+        "other_location": "Camp Galapagos",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Pandora's Lounge & Fix-it Shoppe",
+            "id": 7196
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 20:00:00",
+                "end_time": "2015-09-02 23:45:00"
+            }
+        ],
+        "description": "Take your ass out for Chappy Hour. We want to see your moon glow. Chaps are recommended, less is more.\r\n\r\n\r\nOut your ass for Chappy Hour. \r\n\r\nAssless Chaps Party - leave your ass out and come celebrate Chappy Hour with us. We love seeing fancy chaps, but if you don't have any, we can help you out (we are a fix-it shop by day!)\r\n\r\nJoin us for chappy hour wearing your chaps with your ass out, at least have your ass out, or we're cutting your ass out.",
+        "title": "Ass-less Chaps Party",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15644,
+        "print_description": "Take your ass out for Chappy Hour. We want to see your moon glow. Chaps are recommended, less is more.\r\n\r\n\r\nOut your ass for Chappy Hour.",
+        "check_location": true,
+        "slug": "ass-less-chaps-party",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
         "hosted_by_camp": {
             "name": "Battlestar Erotica",
             "id": 7049
@@ -5254,7 +5552,7 @@
         "print_description": "Show off your booty for our judges and compete for prizes in a series of challenges! Competition will be fierce so come with your game face… and ass!",
         "check_location": false,
         "slug": "asstravaganza-at-battlestar-erotica",
-        "other_location": "watchyourfeet",
+        "other_location": "2:30 & Ballyhoo",
         "event_type": {
             "abbr": "adlt",
             "label": "Adult-oriented"
@@ -5325,6 +5623,80 @@
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
+        }
+    },
+    {
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 13:00:00",
+                "end_time": "2015-09-03 14:00:00"
+            }
+        ],
+        "description": "Learn the basics of reading your astrology chart so you can tune into the wild wisdom of your lucky stars.",
+        "title": "Astrology Workshop",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15756,
+        "print_description": "Learn the basics of reading your astrology chart so you can tune into the wild wisdom of your lucky stars.",
+        "check_location": false,
+        "slug": "astrology-workshop",
+        "other_location": "XOXO &  Short Bus",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Astro Cats",
+            "id": 7470
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 11:00:00",
+                "end_time": "2015-08-31 14:00:00"
+            },
+            {
+                "start_time": "2015-09-01 11:00:00",
+                "end_time": "2015-09-01 14:00:00"
+            },
+            {
+                "start_time": "2015-09-02 11:00:00",
+                "end_time": "2015-09-02 14:00:00"
+            },
+            {
+                "start_time": "2015-09-03 11:00:00",
+                "end_time": "2015-09-03 14:00:00"
+            },
+            {
+                "start_time": "2015-09-04 11:00:00",
+                "end_time": "2015-09-04 14:00:00"
+            },
+            {
+                "start_time": "2015-09-05 11:00:00",
+                "end_time": "2015-09-05 14:00:00"
+            }
+        ],
+        "description": "A day bar from 11 AM to 2 PM Monday thru Saturday. We will be serving two different alcoholic beverages (Space Cum and Pussy Juice) with our special cocktail ingredients. Burners can chill inside our lounge from the daytime heat.",
+        "title": "Astro Lounge",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15687,
+        "print_description": "A day bar from 11 AM to 2 PM Monday thru Saturday. We will be serving two special alcoholic beverages - Space Cum and Pussy Juice.",
+        "check_location": true,
+        "slug": "astro-lounge",
+        "other_location": "",
+        "event_type": {
+            "abbr": "food",
+            "label": "Food"
         }
     },
     {
@@ -5589,6 +5961,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Salute Your Jorts!",
+            "id": 7684
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 10:00:00",
+                "end_time": "2015-08-31 11:00:00"
+            }
+        ],
+        "description": "40 minute buns workout incorporating Pilates and Ballet.  Bring a yoga mat.  After class, pick out a pair of jorts to accentuate your ASS-ets.",
+        "title": "Baby it ain't the heat burnin', it's my booty!",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15483,
+        "print_description": "40 minute buns workout incorporating Pilates and Ballet.  Bring a yoga mat.  After class, pick out a pair of jorts to accentuate your ASS-ets.",
+        "check_location": false,
+        "slug": "baby-it-aint-the-heat-burnin-its-my-booty",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Cirque Brûlée",
             "id": 7332
         },
@@ -5695,6 +6096,55 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Lip Service",
+            "id": 7640
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 00:00:00",
+                "end_time": "2015-08-31 23:59:00"
+            },
+            {
+                "start_time": "2015-09-01 00:00:00",
+                "end_time": "2015-09-01 23:59:00"
+            },
+            {
+                "start_time": "2015-09-02 00:00:00",
+                "end_time": "2015-09-02 23:59:00"
+            },
+            {
+                "start_time": "2015-09-03 00:00:00",
+                "end_time": "2015-09-03 23:59:00"
+            },
+            {
+                "start_time": "2015-09-04 00:00:00",
+                "end_time": "2015-09-04 23:59:00"
+            },
+            {
+                "start_time": "2015-09-05 00:00:00",
+                "end_time": "2015-09-05 23:59:00"
+            }
+        ],
+        "description": "Bad Advice, Free!\r\nLife not working? Come to LIP SERVICE where we believe no problem is so big it can’t be run away from, and blame is the first step towards healing.",
+        "title": "Bad Advice Booth",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": true,
+        "id": 15242,
+        "print_description": "Life not working? Come to LIP SERVICE where we believe no problem is so big it can’t be run away from, and blame is the first step to healing.",
+        "check_location": true,
+        "slug": "bad-advice-booth",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "F.A.R.T. Kamp",
             "id": 7446
         },
@@ -5748,55 +6198,6 @@
         "event_type": {
             "abbr": "care",
             "label": "Care/Support"
-        }
-    },
-    {
-        "hosted_by_camp": {
-            "name": "Lip Service",
-            "id": 7640
-        },
-        "occurrence_set": [
-            {
-                "start_time": "2015-08-31 00:00:00",
-                "end_time": "2015-08-31 23:59:00"
-            },
-            {
-                "start_time": "2015-09-01 00:00:00",
-                "end_time": "2015-09-01 23:59:00"
-            },
-            {
-                "start_time": "2015-09-02 00:00:00",
-                "end_time": "2015-09-02 23:59:00"
-            },
-            {
-                "start_time": "2015-09-03 00:00:00",
-                "end_time": "2015-09-03 23:59:00"
-            },
-            {
-                "start_time": "2015-09-04 00:00:00",
-                "end_time": "2015-09-04 23:59:00"
-            },
-            {
-                "start_time": "2015-09-05 00:00:00",
-                "end_time": "2015-09-05 23:59:00"
-            }
-        ],
-        "description": "Bad Advice, Free!\r\nLife not working? Come to LIP SERVICE where we believe no problem is so big it can’t be run away from, and blame is the first step towards healing.",
-        "title": "Bad Advice Booth",
-        "url": "",
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "all_day": true,
-        "id": 15242,
-        "print_description": "Life not working? Come to LIP SERVICE where we believe no problem is so big it can’t be run away from, and blame is the first step to healing.",
-        "check_location": true,
-        "slug": "bad-advice-booth",
-        "other_location": "",
-        "event_type": {
-            "abbr": "work",
-            "label": "Class/Workshop"
         }
     },
     {
@@ -6134,6 +6535,59 @@
     },
     {
         "hosted_by_camp": {
+            "name": "EPIC",
+            "id": 7998
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 14:00:00",
+                "end_time": "2015-08-31 16:00:00"
+            },
+            {
+                "start_time": "2015-09-01 14:00:00",
+                "end_time": "2015-09-01 16:00:00"
+            },
+            {
+                "start_time": "2015-09-02 14:00:00",
+                "end_time": "2015-09-02 16:00:00"
+            },
+            {
+                "start_time": "2015-09-03 14:00:00",
+                "end_time": "2015-09-03 16:00:00"
+            },
+            {
+                "start_time": "2015-09-04 14:00:00",
+                "end_time": "2015-09-04 16:00:00"
+            },
+            {
+                "start_time": "2015-09-05 14:00:00",
+                "end_time": "2015-09-05 16:00:00"
+            },
+            {
+                "start_time": "2015-09-06 14:00:00",
+                "end_time": "2015-09-06 16:00:00"
+            }
+        ],
+        "description": "Burgers and Hot Dogs with plenty of seating area.  Shade and games while you wait. \r\nServed hot for 2 hours.  Come hungry!  Don't forget to try our Burn Famous Spicy Nipple Sauce.",
+        "title": "Bardar & Bardar BBQ - Burgers and Hot Dogs",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15784,
+        "print_description": "Burgers and Hot Dogs with plenty of seating area.  Shade and games while you wait. \r\nServed hot for 2 hours.  Come hungry!",
+        "check_location": true,
+        "slug": "bardar-bardar-bbq-burgers-and-hot-dogs",
+        "other_location": "around Donniker & 9:15",
+        "event_type": {
+            "abbr": "food",
+            "label": "Food"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Raised by Wolves",
             "id": 8049
         },
@@ -6183,6 +6637,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Disco Knights",
+            "id": 7664
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 09:00:00",
+                "end_time": "2015-09-01 10:00:00"
+            }
+        ],
+        "description": "Bar-lattes, pilates, hot bodies! Come stretch, bend, and strengthen your soul's vessel with Barre moves by Pilates master J SmileZ, a fantastically fun group of people and your choice of a boozy or non-boozy iced latte. We think you may know which we suggest.  80s workout gear recommended and an excellent attitude required.",
+        "title": "Barre Lattes Stretch",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15541,
+        "print_description": "Iced lattes, pilates, hot bodies! Come stretch and strengthen your soul's vessel with Barre moves by Pilates master J SmileZ. 80's attire recommended.",
+        "check_location": false,
+        "slug": "barre-lattes-stretch",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Love Potion",
             "id": 7478
         },
@@ -6192,7 +6675,7 @@
                 "end_time": "2015-09-02 14:00:00"
             }
         ],
-        "description": "Dip your toes into this hoppy acrobatic art on our giant steel AcroCube!",
+        "description": "Dip your toes into this hoopy acrobatic art on our giant steel AcroCube!",
         "title": "Basic Aerial Lyra",
         "url": "http://facebook.com/lovepotioncollective",
         "year": {
@@ -6201,7 +6684,7 @@
         },
         "all_day": false,
         "id": 13781,
-        "print_description": "Dip your toes into this hoppy acrobatic art on our giant steel AcroCube!",
+        "print_description": "Dip your toes into this hoopy acrobatic art on our giant steel AcroCube!",
         "check_location": false,
         "slug": "basic-aerial-lyra",
         "other_location": "",
@@ -6266,6 +6749,35 @@
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Dr.Baron von Realz esq. Steampunk",
+            "id": 7156
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-06 00:00:00",
+                "end_time": "2015-09-06 02:00:00"
+            }
+        ],
+        "description": "Bday bash in your BEST homemade FUNDERWEAR: help us celebrate any Virgo burning man bday by styling your underwear with artistic panache and flare. We can provide some new clean boxers, briefs, bras etc. plus decoration stuff and craft our own fun undies.",
+        "title": "Bday bash",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15515,
+        "print_description": "Bday bash in your BEST homemade FUNDERWEAR: help us celebrate any Virgo burning man bday by styling your underwear with artistic panache and flare.",
+        "check_location": false,
+        "slug": "bday-bash",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
         }
     },
     {
@@ -6555,11 +7067,11 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-03 15:00:00",
-                "end_time": "2015-09-03 19:00:00"
+                "start_time": "2015-09-01 15:00:00",
+                "end_time": "2015-09-01 19:00:00"
             }
         ],
-        "description": "Aroused from the afternoon’s Bear Shower Happy Hour at Astropups, adult Gay, Queer, Bi, Curious & Bearish men of the Playa and the adult men that admire them go play in Down Low Club. Open 24/7 all week, no Bear Cave is better outfitted for hot, adult man-to-man play than Down Low Club’s discreet, enclosed and air-cooled manplay tent. GRRRRRRRRR!! Remember, what happens at Burning Man stays at Burning Man.",
+        "description": "Aroused from the afternoon’s Bear Shower Happy Hour at Astropups, adult Gay, Queer, Bi, Curious & Bearish men of the Playa and the adult men that admire them go play in Down Low Club @ 7:45 D. Open 24/7 all week, no Bear Cave is better outfitted for hot, adult man-to-man play than Down Low Club’s discreet, enclosed and air-cooled manplay tent. GRRRRRRRRR!! Remember, what happens at Burning Man stays at Burning Man.",
         "title": "Bear Cave Manplay",
         "url": "https://www.facebook.com/groups/557666564336453/",
         "year": {
@@ -6567,8 +7079,8 @@
             "year": "2015"
         },
         "all_day": false,
-        "id": 15121,
-        "print_description": "After the Bear Wash, the ultimate Bear Cave for hot adult man-to-man play is Down Low Club's discreet, enclosed & air-cooled tent open 24/7 all week",
+        "id": 15794,
+        "print_description": "Erotic manplay for adult Gay/Bi/Curious/Bearish men & the men that admire them in Down Low Club's discreet, enclosed, air conditioned tent @ 7:45 & D",
         "check_location": true,
         "slug": "bear-cave-manplay",
         "other_location": "",
@@ -6649,6 +7161,47 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Playfully Yours",
+            "id": 7666
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 00:00:00",
+                "end_time": "2015-09-01 14:00:00"
+            },
+            {
+                "start_time": "2015-09-02 00:00:00",
+                "end_time": "2015-09-02 14:00:00"
+            },
+            {
+                "start_time": "2015-09-03 00:00:00",
+                "end_time": "2015-09-03 14:00:00"
+            },
+            {
+                "start_time": "2015-09-04 00:00:00",
+                "end_time": "2015-09-04 14:00:00"
+            }
+        ],
+        "description": "Intimate Portraits\r\nCome enjoy our sick pro-photo session. It’s fun, It’s surprising. And best of all, it’s sexy. Not comfortable posing? No worries. Spin the Wheel-of-Karma, and you’ll pose like a pro-model. \r\n\r\nCome alone, with a friend, or bring all your whole camp. Don’t have a friend? We’ll match you with a total stranger for your intimate couple’s portrait. Come dressed in your finest frock, your badass tux, or in your best faux fur. Bust out of your bustier. Strut your stuff shirt cock, or just get naked. \r\n\r\nIt’s free, it’s intimate, and it’s confidential. All final photos will be delivered to you via emailed link to a secure folder.",
+        "title": "Bear Naked Tramps Photo Studio",
+        "url": "http://bentang.smugmug.com/People/Intimate-Portraits/46869269_JsBDDb#!i=1814285372&k=R8Tq5Px&lb=1&s=A",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15805,
+        "print_description": "Intimate Portraits. Come enjoy our sick pro-photo session. It’s fun, It’s surprising. And best of all, it’s sexy. Photos delivered confidentially.",
+        "check_location": false,
+        "slug": "bear-naked-tramps-photo-studio",
+        "other_location": "8:00 and Arcade ",
+        "event_type": {
+            "abbr": "adlt",
+            "label": "Adult-oriented"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Home Rule",
             "id": 7549
         },
@@ -6707,6 +7260,84 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Dare to be Rare",
+            "id": 7542
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 13:00:00",
+                "end_time": "2015-09-01 15:00:00"
+            }
+        ],
+        "description": "Come and make your memorable burning man dog tag. Lots of fun, How creative can you be. We provide metal blanks, letters stamps and a bench for people to hammer out a meaningful saying and then retain the badge as a memorable keepsake.",
+        "title": "Beat Your Own Badges - Make your own Burner Badge",
+        "url": "http://www.daretoberare.rocks/signature-event.html",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15591,
+        "print_description": "Come and make your memorable burning man dog tag. Lots of fun, How creative can you be. Make your badge as a memorable keepsake of your 2015 Burn",
+        "check_location": true,
+        "slug": "beat-your-own-badges-make-your-own-burner-badge",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Ego Trip",
+            "id": 7144
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 00:00:00",
+                "end_time": "2015-08-31 23:59:00"
+            },
+            {
+                "start_time": "2015-09-01 00:00:00",
+                "end_time": "2015-09-01 23:59:00"
+            },
+            {
+                "start_time": "2015-09-02 00:00:00",
+                "end_time": "2015-09-02 23:59:00"
+            },
+            {
+                "start_time": "2015-09-03 00:00:00",
+                "end_time": "2015-09-03 23:59:00"
+            },
+            {
+                "start_time": "2015-09-04 00:00:00",
+                "end_time": "2015-09-04 23:59:00"
+            },
+            {
+                "start_time": "2015-09-05 00:00:00",
+                "end_time": "2015-09-05 23:59:00"
+            }
+        ],
+        "description": "We have the necessary accouterments to look and smell your best. Trying to impress a date? See us first. Ego Trip is equipped with various necessities such as vanities, mirrors, cologne, make-up, nail polish, deodorant, baby wipes, and lotion… just to name a few. Do not hesitate to come by and freshen up 24 hours a day.",
+        "title": "Beauty Bar",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": true,
+        "id": 15783,
+        "print_description": "Come by 24/7 to us our vanities, mirrors, cologne, make-up, nail polish, deodorant, baby wipes, and lotion and more!",
+        "check_location": false,
+        "slug": "beauty-bar",
+        "other_location": "",
+        "event_type": {
+            "abbr": "care",
+            "label": "Care/Support"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Sacred Spaces Village",
             "id": 7816
         },
@@ -6758,6 +7389,35 @@
         "check_location": false,
         "slug": "becoming-the-parent-you-always-wanted",
         "other_location": "Camp Mystic @ The Healing Sanctuary",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Virgin Hooper Camp",
+            "id": 7177
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 12:30:00",
+                "end_time": "2015-09-01 13:30:00"
+            }
+        ],
+        "description": "ITS BEER THIRTY! Come for hooping and beer, Free beer till its gone ! Tim & Christy will show you how to hoop with beer... And how to look cool doing it!",
+        "title": "BEER THIRTY! hula hooping with beer....",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15811,
+        "print_description": "ITS BEER THIRTY! Come for hooping and beer, Free beer till its gone ! Tim & Christy will show you how to hoop with beer And how to look cool doing it!",
+        "check_location": false,
+        "slug": "beer-thirty-hula-hooping-with-beer",
+        "other_location": "",
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
@@ -6942,6 +7602,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Gypsy Nebula Village",
+            "id": 7200
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 13:00:00",
+                "end_time": "2015-09-02 14:30:00"
+            }
+        ],
+        "description": "Join us at Morning Cock & Tales in the Gypsy Nebula village for a demo of the basics of Japanese rope bondage. learn how to bind your lover while building trust and intimacy.  Rope will be provided for the first 15-25 people to show up but feel free to bring your own.  basics of safety will be covered as well as technique.  we plan to start around 1:00 but feel free to show up early for a coffee or cocktail and stories of the playa.",
+        "title": "Beginners Shibari",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15478,
+        "print_description": "Join us at Morning Cock & Tales in the Gypsy Nebula village for a demo of the basics of Japanese rope bondage.",
+        "check_location": true,
+        "slug": "beginners-shibari",
+        "other_location": "Morning Cock & Tales",
+        "event_type": {
+            "abbr": "adlt",
+            "label": "Adult-oriented"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Earth Guardians",
             "id": 7287
         },
@@ -7058,6 +7747,64 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Le Kafé",
+            "id": 7660
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 18:15:00",
+                "end_time": "2015-09-03 19:15:00"
+            }
+        ],
+        "description": "Join us at Le Kafe Thursday night when Paulina and KC-opeah invoke the Belly Dance - where smoke & mirrors come together to create a visual fantasy not to be missed.  Come to watch, come to dance!",
+        "title": "Belly Dancing with Paulina and KC-opeah",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15577,
+        "print_description": "Join us at Le Kafe Thursday night when Paulina and KC-opeah invoke the Belly Dance - where smoke & mirrors come together to create a visual fantasy!",
+        "check_location": false,
+        "slug": "belly-dancing-with-paulina-and-kc-opeah",
+        "other_location": "",
+        "event_type": {
+            "abbr": "perf",
+            "label": "Performance"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Camp Shark Cage",
+            "id": 8199
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 14:00:00",
+                "end_time": "2015-09-01 16:00:00"
+            }
+        ],
+        "description": "Wanna start off Burning Man with a clean soul?  Well don't fucking head our way.  If you want to give your soul to Nicolas Cage and pound drinks with Camp Shark Cage, we're here for you!  Come enjoy a sermon as we read terrible Nic Cage fanfiction, anoint you with his image and partake our Nicolas Cage themed drink of the day or oceanic themed drink of the day. \r\n\r\nRemember, you can cage a shark but can you shark a cage?",
+        "title": "Be Reborn In the Image of the Lord",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15656,
+        "print_description": "Wanna start off Burning Man with a clean soul?  Well don't fucking head our way.  If you wanna get shitty, Camp Shark Cage is here for you",
+        "check_location": true,
+        "slug": "be-reborn-in-the-image-of-the-lord",
+        "other_location": "",
+        "event_type": {
+            "abbr": "cere",
+            "label": "Ritual/Ceremony"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "F.A.R.T. Kamp",
             "id": 7446
         },
@@ -7158,6 +7905,31 @@
         "check_location": false,
         "slug": "beyond-vibrator-addiction",
         "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 15:00:00",
+                "end_time": "2015-09-03 17:00:00"
+            }
+        ],
+        "description": "Tune into your most wild self-expression, reconnecting with your primal instincts and deepest knowledge of self.  Join us for a guided meditation, wild play activities and photo shoot.",
+        "title": "Be Your Creature Workshop and Photo Shoot",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15759,
+        "print_description": "Join us for a guided meditation, wild play activities and photo shoot.",
+        "check_location": false,
+        "slug": "be-your-creature-workshop-and-photo-shoot",
+        "other_location": "XOXO &  Short Bus",
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
@@ -7353,6 +8125,55 @@
         }
     },
     {
+        "hosted_by_camp": {
+            "name": "EPIC",
+            "id": 7998
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 06:00:00",
+                "end_time": "2015-08-31 18:00:00"
+            },
+            {
+                "start_time": "2015-09-01 06:00:00",
+                "end_time": "2015-09-01 18:00:00"
+            },
+            {
+                "start_time": "2015-09-02 06:00:00",
+                "end_time": "2015-09-02 18:00:00"
+            },
+            {
+                "start_time": "2015-09-03 06:00:00",
+                "end_time": "2015-09-03 18:00:00"
+            },
+            {
+                "start_time": "2015-09-04 06:00:00",
+                "end_time": "2015-09-04 18:00:00"
+            },
+            {
+                "start_time": "2015-09-05 06:00:00",
+                "end_time": "2015-09-05 18:00:00"
+            }
+        ],
+        "description": "Open all sun hours - come by to spruce up your bike.  make it special.  lots of spray colors available.  the booth is equipped with a filtered suction fan to protect the Playa from paint and help dry your bike fast!",
+        "title": "Bike Spray Paint Booth",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15785,
+        "print_description": "Open all day - come by to spruce up your generic bike.  make it yours.",
+        "check_location": false,
+        "slug": "bike-spray-paint-booth",
+        "other_location": "around Donniker & 9:15",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
         "occurrence_set": [
             {
                 "start_time": "2015-09-03 16:00:00",
@@ -7432,6 +8253,35 @@
         "event_type": {
             "abbr": "kid",
             "label": "Kid-friendly"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Dr.Baron von Realz esq. Steampunk",
+            "id": 7156
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 15:30:00",
+                "end_time": "2015-08-31 17:00:00"
+            }
+        ],
+        "description": "Biochemistry of Psychedelics and \"Harm Reduction”- Sure everyone knows what they do, but how do they work? Learn about the biochemistry of psychedelics, how they work, and how one might prevent the damage they could cause.",
+        "title": "biochemistry of psychedelics and \"harm reduction",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15513,
+        "print_description": "Sure everyone knows what they do, but how do they work? Learn about the biochemistry of psychedelics, how they work, and how one might prevent harm.",
+        "check_location": false,
+        "slug": "biochemistry-of-psychedelics-and-harm-reduction",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
         }
     },
     {
@@ -7597,6 +8447,35 @@
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Hamster Camp",
+            "id": 7422
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 22:00:00",
+                "end_time": "2015-09-02 03:00:00"
+            }
+        ],
+        "description": "Hamsters only wake up when the sun goes down and of course, they like to party like animals (because they are animals) after a full day's sleep. Come cool down from the hot sun in our night of blacklight body painting, music, and dancing under the illumination of black lights in our Sparkle Dome! Our hamsters will trade their spinning wheels for spinning limbs. We will trade our food pellets for power ballads. Instead of a sawdust covered floor, we've got booty shaking that'll leave you begging for more. You'll have more fun than a gerbil in Richard Gere's rear.",
+        "title": "Black Light Hamster Hoorah",
+        "url": "http://WWW.Hamstercamp.com/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15583,
+        "print_description": "Cool down from the hot sun in our night of blacklight body painting, music, and dancing under the illumination of black lights in our Sparkle Dome.",
+        "check_location": true,
+        "slug": "black-light-hamster-hoorah",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
         }
     },
     {
@@ -7853,6 +8732,35 @@
         "event_type": {
             "abbr": "cere",
             "label": "Ritual/Ceremony"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "People of Color Camp",
+            "id": 8108
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 15:00:00",
+                "end_time": "2015-09-03 16:00:00"
+            }
+        ],
+        "description": "What does pop culture say about the Black American experience?  How does it celebrate or denigrate us? Come for open forum talk.",
+        "title": "Blackness Versus Pop Culture",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15797,
+        "print_description": "What does pop culture say about the Black American experience?  How does it celebrate or denigrate us? Come for open forum talk.",
+        "check_location": true,
+        "slug": "blackness-versus-pop-culture",
+        "other_location": "egophobia",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
         }
     },
     {
@@ -8534,6 +9442,43 @@
     },
     {
         "hosted_by_camp": {
+            "name": "DISORIENT",
+            "id": 7718
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 16:00:00",
+                "end_time": "2015-09-03 18:00:00"
+            },
+            {
+                "start_time": "2015-09-04 16:00:00",
+                "end_time": "2015-09-04 18:00:00"
+            },
+            {
+                "start_time": "2015-09-05 16:00:00",
+                "end_time": "2015-09-05 18:00:00"
+            }
+        ],
+        "description": "Has your outfit gone dark? EL Wire dead, LEDs won't blink? Come have a consult with our team of soldering iron-wielding Emergency Mending Personnel and step back out into the night lit up nice and bright.",
+        "title": "Blinky Hospital",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15612,
+        "print_description": "Has your outfit gone dark? EL Wire dead, LEDs won't blink? Have a consult with our team of Emergency Mending Personnel and stay nice and bright.",
+        "check_location": false,
+        "slug": "blinky-hospital",
+        "other_location": "",
+        "event_type": {
+            "abbr": "care",
+            "label": "Care/Support"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Yard, The",
             "id": 7079
         },
@@ -8646,6 +9591,51 @@
         "event_type": {
             "abbr": "adlt",
             "label": "Adult-oriented"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "EBB and Glow",
+            "id": 7596
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 14:00:00",
+                "end_time": "2015-08-31 15:30:00"
+            },
+            {
+                "start_time": "2015-09-01 14:00:00",
+                "end_time": "2015-09-01 15:30:00"
+            },
+            {
+                "start_time": "2015-09-02 14:00:00",
+                "end_time": "2015-09-02 15:30:00"
+            },
+            {
+                "start_time": "2015-09-03 14:00:00",
+                "end_time": "2015-09-03 15:30:00"
+            },
+            {
+                "start_time": "2015-09-04 14:00:00",
+                "end_time": "2015-09-04 15:30:00"
+            }
+        ],
+        "description": "Come as you are, solo or groups, and have BlueFox Studio portraits taken by a professional photographer in the EBB & Glow Village. Have fun in front of the camera and you will receive a high resolution digital file. A nice way to remember your look, your friends and your time on the playa. M, T, Wed, Th & Fri, 2:00-3:30 pm.",
+        "title": "BlueFox Photo Studio in EBB & Glow Village",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15538,
+        "print_description": "Come as you are, solo or groups, for a studio portrait. Have fun in front of the camera with a pro photographer, receive digital file.",
+        "check_location": true,
+        "slug": "bluefox-photo-studio-in-ebb-glow-village",
+        "other_location": "",
+        "event_type": {
+            "abbr": "none",
+            "label": "None"
         }
     },
     {
@@ -8830,6 +9820,47 @@
         "event_type": {
             "abbr": "care",
             "label": "Care/Support"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Tango'd Up In Blues",
+            "id": 8139
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 16:00:00",
+                "end_time": "2015-08-31 17:00:00"
+            },
+            {
+                "start_time": "2015-09-01 16:00:00",
+                "end_time": "2015-09-01 17:00:00"
+            },
+            {
+                "start_time": "2015-09-02 16:00:00",
+                "end_time": "2015-09-02 17:00:00"
+            },
+            {
+                "start_time": "2015-09-03 16:00:00",
+                "end_time": "2015-09-03 17:00:00"
+            }
+        ],
+        "description": "You want to move better?  Come learn to blues dance with international instructors!  Growing out of oppression and hardship in the American South, today almost all music has some ancestry in the Blues.  Blues dancing is relaxed, sassy, and badass, so come up and learn how to get down.  You don't need to bring a partner  - we will rotate in class.",
+        "title": "Blues in the Dust",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15639,
+        "print_description": "Come learn to blues dance with international instructors!  Get down and funky in this awesome partner dance - and dance the night away with us too!",
+        "check_location": false,
+        "slug": "blues-in-the-dust",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
         }
     },
     {
@@ -9147,6 +10178,64 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Dr.Baron von Realz esq. Steampunk",
+            "id": 7156
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 15:00:00",
+                "end_time": "2015-09-03 17:00:00"
+            }
+        ],
+        "description": "Body painting- Indigenous tribes worldwide defined themselves by marking colors and patterns on faces and bodies. Become our canvas, our master artists will be painting bodies. Come get a burning man glyph, an animal, a symbol. Become a work of art, you know you want to.",
+        "title": "Body painting",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15507,
+        "print_description": "Indigenous tribes worldwide defined themselves by marking colors and patterns on faces and bodies. Become our canvas.",
+        "check_location": false,
+        "slug": "body-painting",
+        "other_location": "",
+        "event_type": {
+            "abbr": "cere",
+            "label": "Ritual/Ceremony"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Dr.Baron von Realz esq. Steampunk",
+            "id": 7156
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-05 14:00:00",
+                "end_time": "2015-09-05 17:00:00"
+            }
+        ],
+        "description": "Indigenous tribes worldwide defined themselves by marking colors and patterns on faces and bodies. Become our canvas, our master artists will be painting bodies. Come get a burning man glyph, an animal, a symbol. Become a work of art, you know you want to.",
+        "title": "Body painting ",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15512,
+        "print_description": "Indigenous tribes worldwide defined themselves by marking colors and patterns on faces and bodies. Become our canvas for our master artists.",
+        "check_location": false,
+        "slug": "body-painting",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "PlayGround",
             "id": 7428
         },
@@ -9421,8 +10510,8 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-05 15:30:00",
-                "end_time": "2015-09-05 18:30:00"
+                "start_time": "2015-09-01 21:00:00",
+                "end_time": "2015-09-01 23:45:00"
             }
         ],
         "description": "Learn to fly! Explore the unique experience of being bound in rope and suspended in mid-air. Our crew of expert riggers can give you a ride that is relaxing, beautiful, thrilling, sexy, or excruciating. Participants only; Suspended Animation restricts photography, drugs, and alcohol; 18+ ID required.",
@@ -9433,7 +10522,7 @@
             "year": "2015"
         },
         "all_day": false,
-        "id": 15284,
+        "id": 15278,
         "print_description": "Learn to fly! Our expert riggers will bind you in rope and suspend you in mid air, an experience that can be beautiful, erotic, blissful, or a thrill.",
         "check_location": false,
         "slug": "bondage-rides-get-suspended",
@@ -9479,8 +10568,8 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-01 21:00:00",
-                "end_time": "2015-09-01 23:45:00"
+                "start_time": "2015-09-05 15:30:00",
+                "end_time": "2015-09-05 18:30:00"
             }
         ],
         "description": "Learn to fly! Explore the unique experience of being bound in rope and suspended in mid-air. Our crew of expert riggers can give you a ride that is relaxing, beautiful, thrilling, sexy, or excruciating. Participants only; Suspended Animation restricts photography, drugs, and alcohol; 18+ ID required.",
@@ -9491,7 +10580,7 @@
             "year": "2015"
         },
         "all_day": false,
-        "id": 15278,
+        "id": 15284,
         "print_description": "Learn to fly! Our expert riggers will bind you in rope and suspend you in mid air, an experience that can be beautiful, erotic, blissful, or a thrill.",
         "check_location": false,
         "slug": "bondage-rides-get-suspended",
@@ -9594,6 +10683,31 @@
         "event_type": {
             "abbr": "adlt",
             "label": "Adult-oriented"
+        }
+    },
+    {
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 14:00:00",
+                "end_time": "2015-09-02 16:00:00"
+            }
+        ],
+        "description": "Feel rejuvenated with our boobie wash for woman by woman. You will select from a variety of infused essential oil mists to wash the playa away. We promise you will feel clean and refreshed. Afterwards, enjoy a crisp mojito and a shaded comfty seat in our camp lounge.",
+        "title": "Boobie Wash for woman by woman",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15754,
+        "print_description": "You will select from a variety of infused essential oil mists to wash the playa away. We promise you will feel clean and refreshed.",
+        "check_location": false,
+        "slug": "boobie-wash-for-woman-by-woman",
+        "other_location": "XOXO &  Short Bus",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
         }
     },
     {
@@ -9701,6 +10815,35 @@
         "print_description": "OMG MUSIC WITH WORDS! 9 years on the playa, the internationally-infamous mashup bootleg party. AutoSub's biggest party...CD's given away like candy!",
         "check_location": false,
         "slug": "bootie-brc-auto-sub",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Uhuru",
+            "id": 7325
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 17:00:00",
+                "end_time": "2015-09-02 19:00:00"
+            }
+        ],
+        "description": "What's better than fresh free undies? Dancing around in fresh free undies! Join us for fresh drawers, body paints, cold cocktails, and sweet beats.",
+        "title": "Booty Booty and Body Painting",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15608,
+        "print_description": "What's better than fresh free undies? Dancing around in fresh free undies! Join us for fresh drawers, body paints, cold cocktails, and sweet beats.",
+        "check_location": false,
+        "slug": "booty-booty-and-body-painting",
         "other_location": "",
         "event_type": {
             "abbr": "prty",
@@ -9952,6 +11095,76 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Kentucky Fried Camp",
+            "id": 7241
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 09:00:00",
+                "end_time": "2015-09-02 11:00:00"
+            },
+            {
+                "start_time": "2015-09-03 09:00:00",
+                "end_time": "2015-09-03 11:00:00"
+            },
+            {
+                "start_time": "2015-09-04 09:00:00",
+                "end_time": "2015-09-04 11:00:00"
+            },
+            {
+                "start_time": "2015-09-05 09:00:00",
+                "end_time": "2015-09-05 11:00:00"
+            }
+        ],
+        "description": "The best breakfast on the playa, fried baloney sandwiches, real KY bourbon, gingham clad Kentuckians. 9-11 ish Wed-Sat",
+        "title": "Bourbon and Fried Baloney Breakfast at KFC",
+        "url": "http://kentuckyfriedcamp.com/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15471,
+        "print_description": "The best breakfast on the playa, fried baloney sandwiches, real KY bourbon, gingham clad Kentuckians. 9-11 ish Wed-Sat",
+        "check_location": false,
+        "slug": "bourbon-and-fried-baloney-breakfast-at-kfc",
+        "other_location": "",
+        "event_type": {
+            "abbr": "food",
+            "label": "Food"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "ABR: Acronym Being Reconsidered",
+            "id": 7636
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 15:00:00",
+                "end_time": "2015-08-31 16:00:00"
+            }
+        ],
+        "description": "Sip on a selection of bourbons while our camp band improvises the blues. Bring instruments to join the music making!",
+        "title": "Bourbon & Blues",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15629,
+        "print_description": "Sip on a selection of bourbons while our camp band improvises the blues. Bring instruments to join the music making!",
+        "check_location": true,
+        "slug": "bourbon-blues",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Shady Lady Saloon",
             "id": 7453
         },
@@ -10109,6 +11322,35 @@
         "event_type": {
             "abbr": "prty",
             "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "BRC Hash House Harriers (BRCH3)",
+            "id": 7632
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 15:00:00",
+                "end_time": "2015-09-03 18:00:00"
+            }
+        ],
+        "description": "The Black Rock City Hash House Harriers are proud to sponsor the 8th running of the BRCH3 Red Dress Run. Meet at the Man with your red dress, running shoes, a drinking vessel and a sense of humor. We will lay a Hash House Harriers-style trail that you can run, jog, walk, slide, or bike that ends with a cold brews, silly songs and guaranteed debauchery. No red dress? So what! Anything red will do. Don’t run? No problem — bring your bike. Trail will be clearly marked with flags and there will be beverage stops along the way. On-on!",
+        "title": "BRCH3 Red Dress Run ",
+        "url": "http://brch3.com/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15532,
+        "print_description": "Join us for the 8th Annual BRCH3 Red Dress Run. Put on something red and be ready for a House House Harriers style run around the city. On-on",
+        "check_location": false,
+        "slug": "brch3-red-dress-run",
+        "other_location": "Meet at the Man ",
+        "event_type": {
+            "abbr": "game",
+            "label": "Game"
         }
     },
     {
@@ -10287,6 +11529,60 @@
         "event_type": {
             "abbr": "none",
             "label": "None"
+        }
+    },
+    {
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 20:00:00",
+                "end_time": "2015-09-01 04:00:00"
+            },
+            {
+                "start_time": "2015-09-01 20:00:00",
+                "end_time": "2015-09-02 04:00:00"
+            },
+            {
+                "start_time": "2015-09-02 20:00:00",
+                "end_time": "2015-09-03 04:00:00"
+            },
+            {
+                "start_time": "2015-09-03 20:00:00",
+                "end_time": "2015-09-04 04:00:00"
+            },
+            {
+                "start_time": "2015-09-04 20:00:00",
+                "end_time": "2015-09-05 04:00:00"
+            },
+            {
+                "start_time": "2015-09-05 20:00:00",
+                "end_time": "2015-09-06 04:00:00"
+            },
+            {
+                "start_time": "2015-09-06 20:00:00",
+                "end_time": "2015-09-07 04:00:00"
+            }
+        ],
+        "description": "Brickhead EARTH 'Firelight' at night. Sound and light elements bring Brickhead EARTH to life.",
+        "title": "Brickhead EARTH 'Firelight' at night.",
+        "url": "",
+        "located_at_art": {
+            "location_string": "Unknown",
+            "name": "Brickhead EARTH",
+            "id": 2241
+        },
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15543,
+        "print_description": "Brickhead EARTH 'Firelight' at night. Sound and light elements bring Brickhead EARTH to life.",
+        "check_location": false,
+        "slug": "brickhead-earth-firelight-at-night",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
         }
     },
     {
@@ -10485,6 +11781,35 @@
         "event_type": {
             "abbr": "game",
             "label": "Game"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Camp Charlie",
+            "id": 8225
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 11:00:00",
+                "end_time": "2015-09-02 12:00:00"
+            }
+        ],
+        "description": "A brief history/discussion of Britney Spears' relevance/legacy/listening party!",
+        "title": "Britney Spears BYOBrunch",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15477,
+        "print_description": "A brief history/discussion of Britney Spears' relevance/legacy/listening party!",
+        "check_location": false,
+        "slug": "britney-spears-byobrunch",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
         }
     },
     {
@@ -10897,6 +12222,155 @@
         }
     },
     {
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 14:00:00",
+                "end_time": "2015-09-02 18:00:00"
+            }
+        ],
+        "description": "Dr. Thelonious D. Rum and his Gypsies, Tramps and Thieves, each with their peerless pedigree, shall \r\ncollude to captivate and inspire the naïve. Lured by the dark emotional caress of their own inner \r\nwisdom, not to mention the rhythm-making bait, (drums!) lying just beyond reach, players vie for a \r\nchance to build their own drum by playing 5 not-so-traditional Carnival games. They'll trawl the crowds,\r\n luring and enticing Burners with games of chance. This then shall determine who will be the lucky \r\nones to express their creativity with skin, wood and rope. ALL candidates will be gifted with carny \r\ntotems and icons, but only the courageous will stay and build a drum, those perennial souls who hurl \r\nthemselves into the unknown of their personal darkness and light AND who aren’t too bad at tossing a \r\nring.  * JOIN US any time during Midway hours, but the hours POSTED BELOW are ESPECIALLY auspicious \r\ntoday. (wink wink) Find our website here https://medicinalhealingexcursion.wordpress.com/",
+        "title": "Build a Drum!",
+        "url": "https://www.indiegogo.com/projects/dr-thelonious-d-rum-his-medicinal-thumpthump",
+        "located_at_art": {
+            "location_string": "Unknown",
+            "name": "Dr. Thelonious D. RUM Medicinal Thump Thump Magical Healing Excursion",
+            "id": 2407
+        },
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15572,
+        "print_description": "Build a Drum with Dr'. Thelonious D. Rum and Company but only after winning at their five games of chance and skill! Step right up!",
+        "check_location": false,
+        "slug": "build-a-drum",
+        "other_location": "On the Midway at the foot of THE MAN",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 10:00:00",
+                "end_time": "2015-08-31 14:00:00"
+            }
+        ],
+        "description": "Dr. Thelonious D. Rum and his Gypsies, Tramps and Thieves, each with their peerless pedigree, shall \r\ncollude to captivate and inspire the naïve. Lured by the dark emotional caress of their own inner \r\nwisdom, not to mention the rhythm-making bait, (drums!) lying just beyond reach, players vie for a \r\nchance to build their own drum by playing 5 not-so-traditional Carnival games. They'll trawl the crowds,\r\n luring and enticing Burners with games of chance. This then shall determine who will be the lucky \r\nones to express their creativity with skin, wood and rope. ALL candidates will be gifted with carny \r\ntotems and icons, but only the courageous will stay and build a drum, those perennial souls who hurl \r\nthemselves into the unknown of their personal darkness and light AND who aren’t too bad at tossing a \r\nring.  * JOIN US any time during Midway hours, but the hours POSTED BELOW are ESPECIALLY auspicious \r\ntoday. (wink wink) Find our website here https://medicinalhealingexcursion.wordpress.com/",
+        "title": "Build a Drum!",
+        "url": "https://www.indiegogo.com/projects/dr-thelonious-d-rum-his-medicinal-thumpthump",
+        "located_at_art": {
+            "location_string": "Unknown",
+            "name": "Dr. Thelonious D. RUM Medicinal Thump Thump Magical Healing Excursion",
+            "id": 2407
+        },
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15567,
+        "print_description": "Build a DRUM with Dr. Thelonious D. Rum and Company but only after winning at the five games of chance and skill! Step right up! One at a time please!",
+        "check_location": false,
+        "slug": "build-a-drum",
+        "other_location": "On the Midway at the foot of THE MAN",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 16:00:00",
+                "end_time": "2015-08-31 20:00:00"
+            }
+        ],
+        "description": "Dr. Thelonious D. Rum and his Gypsies, Tramps and Thieves, each with their peerless pedigree, shall collude to captivate and inspire the naïve. Lured by the dark emotional caress of their own inner wisdom, not to mention the rhythm-making bait, (drums!) lying just beyond reach, players vie for a chance to build their own drum by playing 5 not-so-traditional Carnival games. They'll trawl the crowds, luring and enticing Burners with games of chance. This then shall determine who will be the lucky ones to express their creativity with skin, wood and rope. ALL candidates will be gifted with carny totems and icons, but only the courageous will stay and build a drum, those perennial souls who hurl themselves into the unknown of their personal darkness and light AND who aren’t too bad at tossing a ring.  * JOIN US any time during Midway hours, but the hours POSTED BELOW are ESPECIALLY auspicious today. (wink wink) Find our website here https://medicinalhealingexcursion.wordpress.com/",
+        "title": "Build a Drum!",
+        "url": "https://www.indiegogo.com/projects/dr-thelonious-d-rum-his-medicinal-thumpthump",
+        "located_at_art": {
+            "location_string": "Unknown",
+            "name": "Dr. Thelonious D. RUM Medicinal Thump Thump Magical Healing Excursion",
+            "id": 2407
+        },
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15575,
+        "print_description": "Build a Drum with Dr. Thelonious and Company but only after winning at their five games of chance and skill! Step right up! One at a time please!",
+        "check_location": false,
+        "slug": "build-a-drum",
+        "other_location": "On the Midway at the foot of THE MAN",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 12:00:00",
+                "end_time": "2015-09-01 16:00:00"
+            }
+        ],
+        "description": "Dr. Thelonious D. Rum and his Gypsies, Tramps and Thieves, each with their peerless pedigree, shall \r\ncollude to captivate and inspire the naïve. Lured by the dark emotional caress of their own inner \r\nwisdom, not to mention the rhythm-making bait, (drums!) lying just beyond reach, players vie for a \r\nchance to build their own drum by playing 5 not-so-traditional Carnival games. They'll trawl the crowds,\r\n luring and enticing Burners with games of chance. This then shall determine who will be the lucky \r\nones to express their creativity with skin, wood and rope. ALL candidates will be gifted with carny \r\ntotems and icons, but only the courageous will stay and build a drum, those perennial souls who hurl \r\nthemselves into the unknown of their personal darkness and light AND who aren’t too bad at tossing a \r\nring.  * JOIN US any time during Midway hours, but the hours POSTED BELOW are ESPECIALLY auspicious \r\ntoday. (wink wink) Find our website here https://medicinalhealingexcursion.wordpress.com/",
+        "title": "Build a Drum!",
+        "url": "https://www.indiegogo.com/projects/dr-thelonious-d-rum-his-medicinal-thumpthump",
+        "located_at_art": {
+            "location_string": "Unknown",
+            "name": "Dr. Thelonious D. RUM Medicinal Thump Thump Magical Healing Excursion",
+            "id": 2407
+        },
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15569,
+        "print_description": "Build a Drum with Dr. Thelonious and Company but only after winning at their five games of chance and skill! Step right up! One at a time please!",
+        "check_location": false,
+        "slug": "build-a-drum",
+        "other_location": "On the Midway at the foot of THE MAN",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Camp Thump Thump",
+            "id": 7993
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-04 21:00:00",
+                "end_time": "2015-09-04 22:45:00"
+            }
+        ],
+        "description": "DRUM BIRTHDAY PARTY\r\nBring the finished drum you made at our Midway installation (or in the Souk from 2014), and let's celebrate their rhythmic births! WE'LL HAVE CAKE!!!",
+        "title": "Build a Drum BIRTH-NIGHT Party!",
+        "url": "https://www.indiegogo.com/projects/dr-thelonious-d-rum-his-medicinal-thumpthump",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15576,
+        "print_description": "DRUM BIRTHDAY PARTY Bring the finished drum you made at our Midway installation (or in the Souk from 2014), and let's celebrate their rhythmic births!",
+        "check_location": true,
+        "slug": "build-a-drum-birth-night-party",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
         "hosted_by_camp": {
             "name": "Shamandome Camp",
             "id": 7035
@@ -10919,7 +12393,7 @@
         "print_description": "Open your 5th dimensional heart- then share your new heart with another- to all of Burningman- to the world. Ceremonially make a Medicine WaterWheel.",
         "check_location": false,
         "slug": "build-a-medicine-waterwheel",
-        "other_location": "730 and G?",
+        "other_location": "7:00 and B",
         "event_type": {
             "abbr": "cere",
             "label": "Ritual/Ceremony"
@@ -10985,6 +12459,35 @@
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Magic Pancakes Project",
+            "id": 8088
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 19:30:00",
+                "end_time": "2015-09-03 21:30:00"
+            }
+        ],
+        "description": "Wind UP after the bunny march and get wasted with the wizards! DJ H4ckrabbit will throw down some tunes, and there will be an open bar!",
+        "title": "Bunny March Afterparty!",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15566,
+        "print_description": "Wind UP after the bunny march and get wasted with the wizards! DJ H4ckrabbit will throw down some tunes, and there will be an open bar!",
+        "check_location": false,
+        "slug": "bunny-march-afterparty",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
         }
     },
     {
@@ -11195,6 +12698,129 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Burners Without Borders",
+            "id": 7932
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 12:00:00",
+                "end_time": "2015-08-31 17:00:00"
+            },
+            {
+                "start_time": "2015-09-01 12:00:00",
+                "end_time": "2015-09-01 17:00:00"
+            },
+            {
+                "start_time": "2015-09-02 12:00:00",
+                "end_time": "2015-09-02 17:00:00"
+            },
+            {
+                "start_time": "2015-09-03 12:00:00",
+                "end_time": "2015-09-03 17:00:00"
+            },
+            {
+                "start_time": "2015-09-04 12:00:00",
+                "end_time": "2015-09-04 17:00:00"
+            },
+            {
+                "start_time": "2015-09-05 12:00:00",
+                "end_time": "2015-09-05 17:00:00"
+            }
+        ],
+        "description": "Come celebrate Burner's Without Borders 10-year anniversary with us!  Daily music featuring live musicians and chill beats, alongside our annual 'Live Screen Printing' where you can adorn your clothes with custom graphics & select Burning Man  art projects.",
+        "title": "Burners Without Borders 10-Year Celebration!",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15766,
+        "print_description": "Join us in celebrating daily with live musicians and chill beats. Come adorn your clothes with our custom graphics at our live screen printing booth.",
+        "check_location": true,
+        "slug": "burners-without-borders-10-year-celebration",
+        "other_location": "",
+        "event_type": {
+            "abbr": "perf",
+            "label": "Performance"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Burners Without Borders",
+            "id": 7932
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 13:00:00",
+                "end_time": "2015-09-03 16:00:00"
+            }
+        ],
+        "description": "Our community is making a difference everyday, and you are invited to discover how you can make an impact in your community. Join us in discussing the resources and network that is available to you year-round and get involved.",
+        "title": "Burners Without Borders Speakers Series",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15765,
+        "print_description": "Join us in discussing sustainability and community resiliency, and learn how you can make an impact in your community year round through our network.",
+        "check_location": true,
+        "slug": "burners-without-borders-speakers-series",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Burners Without Borders",
+            "id": 7932
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 00:00:00",
+                "end_time": "2015-09-01 04:00:00"
+            },
+            {
+                "start_time": "2015-09-02 00:00:00",
+                "end_time": "2015-09-02 04:00:00"
+            },
+            {
+                "start_time": "2015-09-03 00:00:00",
+                "end_time": "2015-09-03 04:00:00"
+            },
+            {
+                "start_time": "2015-09-04 00:00:00",
+                "end_time": "2015-09-04 04:00:00"
+            },
+            {
+                "start_time": "2015-09-05 00:00:00",
+                "end_time": "2015-09-05 04:00:00"
+            }
+        ],
+        "description": "Join us for tea and conversation at our art space directly across Esplanade from our camp.",
+        "title": "Burners Without Borders Tea Service and Conversati",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15767,
+        "print_description": "Join us for tea and conversation at our art space directly across Esplanade from our camp.",
+        "check_location": true,
+        "slug": "burners-without-borders-tea-service-and-conversati",
+        "other_location": "",
+        "event_type": {
+            "abbr": "none",
+            "label": "None"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Dragon Ass Camp",
             "id": 7467
         },
@@ -11303,6 +12929,35 @@
         "print_description": "Come help us plan our burn at Tsiolkovskiy Crater or Olympus Mons, where there really will be space for everyone. (Bring your own oxygen.)",
         "check_location": false,
         "slug": "burning-man-2100-planning-party",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Everywhere Pavilion",
+            "id": 7323
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 16:00:00",
+                "end_time": "2015-09-03 18:00:00"
+            }
+        ],
+        "description": "A panel discussion about possibilities for the \"afterlife\" of playa art, followed by a cocktail reception for artists and supporters.",
+        "title": "Burning Man Arts cocktail hour & panel discussion",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15768,
+        "print_description": "A panel discussion about possibilities for the \"afterlife\" of playa art, followed by a cocktail reception for artists and supporters.",
+        "check_location": false,
+        "slug": "burning-man-arts-cocktail-hour-panel-discussion",
         "other_location": "",
         "event_type": {
             "abbr": "prty",
@@ -11568,6 +13223,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Shadyvil",
+            "id": 7496
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 10:00:00",
+                "end_time": "2015-09-01 13:00:00"
+            }
+        ],
+        "description": "Shadyvil and Camp HTFU welcome you to celebrate & reminisce about the times we've had and reconnect with spirit of the music.  Bring your favorite shows & jams, bring a story, bring your special lot food, bring some burgundy wine or just bring yourself and getaway from the wumpa wumpa.",
+        "title": "Burn Your Face 50th Celebration",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15721,
+        "print_description": "Shadyvil, HTFU and the spirit of Papa Bear welcome you to celebrate the music of the Grateful Dead.",
+        "check_location": false,
+        "slug": "burn-your-face-50th-celebration",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Dusty Bumm",
             "id": 7129
         },
@@ -11746,6 +13430,35 @@
         "event_type": {
             "abbr": "prty",
             "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Camp Afterglow",
+            "id": 8008
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 12:00:00",
+                "end_time": "2015-09-01 13:00:00"
+            }
+        ],
+        "description": "Come by with your Ukulele and share in some music and laughter at our BYOUke Workshop.  Learn a thing or two...or three about rhythm, harmony, and melody on this wonderful little instrument!",
+        "title": "BYOUke",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15617,
+        "print_description": "Come by with your Ukulele and share in some music and laughter at our BYOUke Workshop.  Learn a thing or 2...or 3 on this wonderful little instrument.",
+        "check_location": true,
+        "slug": "byouke",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
         }
     },
     {
@@ -12285,6 +13998,51 @@
     },
     {
         "hosted_by_camp": {
+            "name": "FreeStyle Palace",
+            "id": 7874
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 00:00:00",
+                "end_time": "2015-09-01 23:59:00"
+            },
+            {
+                "start_time": "2015-09-02 00:00:00",
+                "end_time": "2015-09-02 23:59:00"
+            },
+            {
+                "start_time": "2015-09-03 00:00:00",
+                "end_time": "2015-09-03 23:59:00"
+            },
+            {
+                "start_time": "2015-09-04 00:00:00",
+                "end_time": "2015-09-04 23:59:00"
+            },
+            {
+                "start_time": "2015-09-05 00:00:00",
+                "end_time": "2015-09-05 23:59:00"
+            }
+        ],
+        "description": "Camp Make-up: Are you fighting with your Bestie, BF, or GF? Or do you just want do be done up like a Diva or Drag Queen?  Come to the Freestyle Palace for Making up or a Make-over. Non-licensed mediators and Make-up Artists provided & invited. On-going. Check-in at the Freestyle Palace Bar.",
+        "title": "Camp Make-up",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": true,
+        "id": 15571,
+        "print_description": "Camp Make-up: Are you fighting with your Bestie, BF, or GF? Or do you just want do be done up like a Diva or Drag Queen?  Come to the Freestyle Palace",
+        "check_location": false,
+        "slug": "camp-make-up",
+        "other_location": "",
+        "event_type": {
+            "abbr": "care",
+            "label": "Care/Support"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Camp Questionmark )?(",
             "id": 7293
         },
@@ -12367,6 +14125,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Salute Your Jorts!",
+            "id": 7684
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 16:00:00",
+                "end_time": "2015-09-01 18:00:00"
+            }
+        ],
+        "description": "Bring your guitar and your favorite camp songs.  Want to lead a song? Great! Don't want to lead a song?  Great! Limited number of camp song books available.",
+        "title": "Camp Song Singalong!",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15482,
+        "print_description": "Bring your guitar and your favorite camp songs.  Want to lead a song? Great! Limited number of camp song books available.",
+        "check_location": false,
+        "slug": "camp-song-singalong",
+        "other_location": "",
+        "event_type": {
+            "abbr": "kid",
+            "label": "Kid-friendly"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Camp Walter",
             "id": 7700
         },
@@ -12388,6 +14175,35 @@
         "print_description": "Bring your hoops and acoustic instruments to Camp Walter for an afternoon Hoop Jam. Nibble fingers and loose hips recommended but not required. ;)",
         "check_location": false,
         "slug": "camp-walter-hoop-jam",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Duckpond",
+            "id": 7117
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-04 13:00:00",
+                "end_time": "2015-09-04 14:00:00"
+            }
+        ],
+        "description": "Celebrate all that makes Canada great, eh, you hosers!",
+        "title": "Canada Appreciation Hour",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15522,
+        "print_description": "Celebrate all that makes Canada great, eh, you hosers!",
+        "check_location": false,
+        "slug": "canada-appreciation-hour",
         "other_location": "",
         "event_type": {
             "abbr": "prty",
@@ -12454,6 +14270,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Camp Afterglow",
+            "id": 8008
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 11:00:00",
+                "end_time": "2015-09-02 12:00:00"
+            }
+        ],
+        "description": "Capoeira: Capoeira is an Afro-Brazilian art form that combines martial arts, music and dance. The workshop will explore some of the basic movements and how they fit together to create a dialogue between players.  Come play!",
+        "title": "Capoeira",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15618,
+        "print_description": "Capoeira: Capoeira is an Afro-Brazilian art form that combines martial arts, music and dance. Come play!",
+        "check_location": false,
+        "slug": "capoeira",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Miso Horny",
             "id": 7376
         },
@@ -12504,6 +14349,35 @@
         "print_description": "Let the seafaring ballads of old (and our playa grog) take you away to the high seas!  We'll be whaling away with traditional and playafied ballads.",
         "check_location": false,
         "slug": "captain-scurvys-shanty-grog-along",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Automatic Subconscious",
+            "id": 8137
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 22:00:00",
+                "end_time": "2015-09-02 02:00:00"
+            }
+        ],
+        "description": "ALSO a 9pm class, then get up pon de dancefloor! Put up your rag or flag, and jump, wave, and wine the night away at La Playa's own Caribana Carnival.",
+        "title": "Caribana Carnival Dance Party",
+        "url": "http://www.automaticsubconscious.com/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 14254,
+        "print_description": "ALSO a 9pm class, then get up pon de dancefloor! Put up your rag or flag, and jump, wave, and wine the night away at La Playa's own Caribana Carnival.",
+        "check_location": false,
+        "slug": "caribana-carnival-dance-party",
         "other_location": "",
         "event_type": {
             "abbr": "prty",
@@ -13410,6 +15284,35 @@
     {
         "occurrence_set": [
             {
+                "start_time": "2015-09-01 17:00:00",
+                "end_time": "2015-09-01 18:00:00"
+            },
+            {
+                "start_time": "2015-09-02 17:00:00",
+                "end_time": "2015-09-02 18:00:00"
+            }
+        ],
+        "description": "Have something to say? Maybe even for the first time? Don’t worry- we’ll be gentle. \r\nThe Open Mic (for under ten minute performances) is Tuesday and Wednesday from 5 to 6pm, and Thursday through Sunday, from 4 to 6pm.",
+        "title": "Center Camp Cafe Open Mic at the Spoken Word Stage",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 13885,
+        "print_description": "Have something to say? Maybe even for the first time? Don’t worry- we’ll be gentle. \r\nSame day sign-ups only!",
+        "check_location": false,
+        "slug": "center-camp-cafe-open-mic-at-the-spoken-word-stage",
+        "other_location": "Center Camp Cafe Spoken Word Stage",
+        "event_type": {
+            "abbr": "perf",
+            "label": "Performance"
+        }
+    },
+    {
+        "occurrence_set": [
+            {
                 "start_time": "2015-09-03 16:00:00",
                 "end_time": "2015-09-03 18:00:00"
             },
@@ -13436,35 +15339,6 @@
         "all_day": false,
         "id": 13490,
         "print_description": "Have something to say? Maybe even for the first time? Don’t worry- we’ll be gentle. \r\nThe Open Mic are same day sign ups only! 10 min and under.",
-        "check_location": false,
-        "slug": "center-camp-cafe-open-mic-at-the-spoken-word-stage",
-        "other_location": "Center Camp Cafe Spoken Word Stage",
-        "event_type": {
-            "abbr": "perf",
-            "label": "Performance"
-        }
-    },
-    {
-        "occurrence_set": [
-            {
-                "start_time": "2015-09-01 17:00:00",
-                "end_time": "2015-09-01 18:00:00"
-            },
-            {
-                "start_time": "2015-09-02 17:00:00",
-                "end_time": "2015-09-02 18:00:00"
-            }
-        ],
-        "description": "Have something to say? Maybe even for the first time? Don’t worry- we’ll be gentle. \r\nThe Open Mic (for under ten minute performances) is Tuesday and Wednesday from 5 to 6pm, and Thursday through Sunday, from 4 to 6pm.",
-        "title": "Center Camp Cafe Open Mic at the Spoken Word Stage",
-        "url": "",
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "all_day": false,
-        "id": 13885,
-        "print_description": "Have something to say? Maybe even for the first time? Don’t worry- we’ll be gentle. \r\nSame day sign-ups only!",
         "check_location": false,
         "slug": "center-camp-cafe-open-mic-at-the-spoken-word-stage",
         "other_location": "Center Camp Cafe Spoken Word Stage",
@@ -13796,6 +15670,104 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Spice N Vice",
+            "id": 7138
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 12:00:00",
+                "end_time": "2015-08-31 16:00:00"
+            },
+            {
+                "start_time": "2015-09-01 12:00:00",
+                "end_time": "2015-09-01 16:00:00"
+            },
+            {
+                "start_time": "2015-09-02 12:00:00",
+                "end_time": "2015-09-02 16:00:00"
+            },
+            {
+                "start_time": "2015-09-03 12:00:00",
+                "end_time": "2015-09-03 16:00:00"
+            },
+            {
+                "start_time": "2015-09-04 12:00:00",
+                "end_time": "2015-09-04 16:00:00"
+            },
+            {
+                "start_time": "2015-09-05 12:00:00",
+                "end_time": "2015-09-05 16:00:00"
+            }
+        ],
+        "description": "Visit our shaded daytime tent oasis to enjoy middle and far east treats and cold and hot beverages. Our ‘Desert 2 Desert’ Tent is hosted by Burners from Asia, Middle East, India, United States and beyond. Share your Travel Stories with us.",
+        "title": "Chai and Arabic Delights",
+        "url": "https://www.facebook.com/SpiceNVice",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15556,
+        "print_description": "Our ‘Desert 2 Desert’ Tent is hosted by Burners from Asia, Middle East, India, United States and beyond. Share your Travel Stories with us.",
+        "check_location": true,
+        "slug": "chai-and-arabic-delights",
+        "other_location": "7:30 Sector",
+        "event_type": {
+            "abbr": "food",
+            "label": "Food"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Spice N Vice",
+            "id": 7138
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 12:00:00",
+                "end_time": "2015-08-31 16:00:00"
+            },
+            {
+                "start_time": "2015-09-01 12:00:00",
+                "end_time": "2015-09-01 16:00:00"
+            },
+            {
+                "start_time": "2015-09-02 12:00:00",
+                "end_time": "2015-09-02 16:00:00"
+            },
+            {
+                "start_time": "2015-09-03 12:00:00",
+                "end_time": "2015-09-03 16:00:00"
+            },
+            {
+                "start_time": "2015-09-04 12:00:00",
+                "end_time": "2015-09-04 16:00:00"
+            },
+            {
+                "start_time": "2015-09-05 12:00:00",
+                "end_time": "2015-09-05 16:00:00"
+            }
+        ],
+        "description": "Visit our shaded daytime tent oasis to enjoy middle and far east treats and cold and hot beverages. Our ‘Desert 2 Desert’ Tent is hosted by Burners from Asia, Middle East, India, United States and beyond. Share your Travel Stories with us.",
+        "title": "Chai and Arabic Delights at Spice N Vice",
+        "url": "https://www.facebook.com/SpiceNVice",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15557,
+        "print_description": "Our ‘Desert 2 Desert’ Tent is hosted by Burners from Asia, Middle East, India, United States and beyond. Share your Travel Stories with us.",
+        "check_location": true,
+        "slug": "chai-and-arabic-delights-at-spice-n-vice",
+        "other_location": "7:30 Sector",
+        "event_type": {
+            "abbr": "food",
+            "label": "Food"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Chainsawmargaritaguys Camp",
             "id": 7051
         },
@@ -14105,6 +16077,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Silicon Village",
+            "id": 7516
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 16:00:00",
+                "end_time": "2015-09-01 18:00:00"
+            }
+        ],
+        "description": "Be cool at Ali Bar-Bar when you hang out with Mist'R Cool Camp during their hosted Happy Hour. Champagne Girl leads the way hand pouring a special \"Champagne Cooler\" cocktail and other frosty beverages.",
+        "title": "Champagne Cooler Happy Hour",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15484,
+        "print_description": "Be cool at Ali Bar-Bar when you hang out with Mist'R Cool Camp where Champagne Girl leads the way hand pouring a special \"Champagne Cooler\" cocktail.",
+        "check_location": false,
+        "slug": "champagne-cooler-happy-hour",
+        "other_location": "Ali Bar-Bar in Silicon Village",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Earth Guardians",
             "id": 7287
         },
@@ -14184,7 +16185,7 @@
         "print_description": "Meet a guest speaker from another dimension. Who wants to talk to you & why. Resolve issues beyond the grave. Get work done.  Hear from your lineage.",
         "check_location": false,
         "slug": "channeling-phonehome",
-        "other_location": "730 and G?",
+        "other_location": "7:00 and B",
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
@@ -14389,6 +16390,60 @@
         }
     },
     {
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 15:00:00",
+                "end_time": "2015-08-31 17:00:00"
+            },
+            {
+                "start_time": "2015-09-01 15:00:00",
+                "end_time": "2015-09-01 17:00:00"
+            },
+            {
+                "start_time": "2015-09-02 15:00:00",
+                "end_time": "2015-09-02 17:00:00"
+            },
+            {
+                "start_time": "2015-09-03 15:00:00",
+                "end_time": "2015-09-03 17:00:00"
+            },
+            {
+                "start_time": "2015-09-04 15:00:00",
+                "end_time": "2015-09-04 17:00:00"
+            },
+            {
+                "start_time": "2015-09-05 15:00:00",
+                "end_time": "2015-09-05 17:00:00"
+            },
+            {
+                "start_time": "2015-09-06 15:00:00",
+                "end_time": "2015-09-06 17:00:00"
+            }
+        ],
+        "description": "Escape The Heat Of The Day. Find Your Way To Our CHILLED ZONE. Cooling Mists & Ice Cold Drinks Will Refresh Your Body, Mind & Heart.",
+        "title": "CHILLAXATION STATION ",
+        "url": "http://LOVEILLUMINARIUM.WIX.COM/LOVE-ILLUMINARIUM",
+        "located_at_art": {
+            "location_string": "Unknown",
+            "name": "LOVE ILLUMINARIUM",
+            "id": 2517
+        },
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15676,
+        "print_description": "Escape The Heat Of The Day. Find Your Way To Our CHILLED ZONE. Cooling Mists & Ice Cold Drinks Will Refresh Your Body, Mind & Heart.",
+        "check_location": true,
+        "slug": "chillaxation-station",
+        "other_location": "MamaLove",
+        "event_type": {
+            "abbr": "kid",
+            "label": "Kid-friendly"
+        }
+    },
+    {
         "hosted_by_camp": {
             "name": "ShangriLa",
             "id": 7490
@@ -14584,6 +16639,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Om Bindi",
+            "id": 7494
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 17:00:00",
+                "end_time": "2015-09-03 18:00:00"
+            }
+        ],
+        "description": "Freud said, “Sometimes a cigar is just a cigar”. \r\n\r\nYour host HolyMan says, “Sometimes a cigar is an entryway into an underground culture filled smokin’ men and women!” \r\nJoin host HolyMan for a cool cock-tale and a hot cigar. He will show you how to choose, cut, light and smoke a stogie. Beware, just like Burning Man, your life may never be the same afterwards!",
+        "title": "Cigar Appreciation Cabaret Lounge ",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15807,
+        "print_description": "Join host HolyMan for a cool cock-tale and a hot cigar.  Learn to choose, cut, light and smoke a stogie.",
+        "check_location": false,
+        "slug": "cigar-appreciation-cabaret-lounge",
+        "other_location": "The Gaylactic Invaders Village",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Homojitoville",
             "id": 7689
         },
@@ -14757,6 +16841,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Deep Sea Circus",
+            "id": 7643
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 18:00:00",
+                "end_time": "2015-09-01 19:00:00"
+            }
+        ],
+        "description": "Learn how to do circus style handstands and headstands. We will also incorporate techniques from yoga, breakdancing, and contortion. Prerequisites: must have good upper body strength, must be well-hydrated, and must be sober!",
+        "title": "Circus Inversions",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15715,
+        "print_description": "Learn how to do circus style handstands and headstands. Pre-requisites: must have good upper body strength, must be well hydrated, and must be sober!",
+        "check_location": false,
+        "slug": "circus-inversions",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Avant Yard",
             "id": 8215
         },
@@ -14782,6 +16895,80 @@
         "event_type": {
             "abbr": "perf",
             "label": "Performance"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Circus Boot Camp",
+            "id": 7623
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 14:00:00",
+                "end_time": "2015-08-31 16:00:00"
+            },
+            {
+                "start_time": "2015-09-01 14:00:00",
+                "end_time": "2015-09-01 16:00:00"
+            },
+            {
+                "start_time": "2015-09-02 14:00:00",
+                "end_time": "2015-09-02 16:00:00"
+            },
+            {
+                "start_time": "2015-09-03 14:00:00",
+                "end_time": "2015-09-03 16:00:00"
+            },
+            {
+                "start_time": "2015-09-04 14:00:00",
+                "end_time": "2015-09-04 16:00:00"
+            }
+        ],
+        "description": "Juggle balls/clubs/fire; unicycle; crack whips, slackline, aerial silks/rope; hooping & more! Beginners and experts welcome!",
+        "title": "Circus Playtime",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15528,
+        "print_description": "Juggle balls/clubs/fire; unicycle; crack whips, slackline, aerial silks/rope; hooping & more! Beginners and experts welcome!",
+        "check_location": false,
+        "slug": "circus-playtime",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Funnel Vision",
+            "id": 8017
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 17:00:00",
+                "end_time": "2015-09-02 20:00:00"
+            }
+        ],
+        "description": "Wear your fanciest garb & enjoy playing fun carnival games while gorging on our tasty funnel cakes and gulping down our signature carny-themed drinks.",
+        "title": "Cirque De Burn",
+        "url": "http://funnelvision.camp/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15553,
+        "print_description": "Wear your fanciest garb & enjoy playing fun carnival games while gorging on our tasty funnel cakes and gulping down our signature carny-themed drinks.",
+        "check_location": true,
+        "slug": "cirque-de-burn",
+        "other_location": "",
+        "event_type": {
+            "abbr": "food",
+            "label": "Food"
         }
     },
     {
@@ -14873,6 +17060,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Salute Your Jorts!",
+            "id": 7684
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 21:00:00",
+                "end_time": "2015-09-01 23:00:00"
+            }
+        ],
+        "description": "Ears need a rest? Are you craving some Bach? Handel? Mozart? Rachmaninoff?  Us too!    Come relax and enjoy some great tunes.  Or symphonies as the case may be.  Tea and cookies provided.",
+        "title": "Classical Music with Tea and Cookies",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15486,
+        "print_description": "Ears need a rest? Are you craving some Bach? Handel? Mozart? Rachmaninoff?  Us too!  Come enjoy these musical masters!  Tea and cookies provided.",
+        "check_location": true,
+        "slug": "classical-music-with-tea-and-cookies",
+        "other_location": "",
+        "event_type": {
+            "abbr": "kid",
+            "label": "Kid-friendly"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "First Kiss",
             "id": 7601
         },
@@ -14898,6 +17114,64 @@
         "event_type": {
             "abbr": "prty",
             "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Dr.Baron von Realz esq. Steampunk",
+            "id": 7156
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 15:00:00",
+                "end_time": "2015-09-01 16:00:00"
+            }
+        ],
+        "description": "Your body and mind will experience a cleansing clearing of charka blockages causing an awakening of the seven chakras cause a transformation of consciousness in the body. When a chakra awakens it spins or turns, and the sensation can be felt in the body.",
+        "title": "clearing chakras workshop",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15501,
+        "print_description": "Your body and mind will experience a cleansing clearing of charka blockages causing an awakening of the seven chakras cause a transformation.",
+        "check_location": false,
+        "slug": "clearing-chakras-workshop",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Listen",
+            "id": 7696
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 10:00:00",
+                "end_time": "2015-09-01 11:30:00"
+            }
+        ],
+        "description": "Learn the simple yet incredibly powerful communication tool used every day at Cafe Gratitude for being present to the beauty and joy in your life. If you have someone special you wish to share this workshop with, bring them!",
+        "title": "Clearing: Holding Space for It All",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15649,
+        "print_description": "Learn the simple yet incredibly powerful communication tool used every day at Cafe Gratitude for being present to the beauty and joy in your life.",
+        "check_location": true,
+        "slug": "clearing-holding-space-for-it-all",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
         }
     },
     {
@@ -15335,6 +17609,113 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Camp Contact",
+            "id": 7836
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 15:00:00",
+                "end_time": "2015-09-02 17:00:00"
+            }
+        ],
+        "description": "The Cocoon is performed architecture. Inside the Cocoon we physically create the space and structure with our bodies. Chanting, dancing and other ritualistic strategies will generate a massive collective energy. No experience necessary!  For the generally creative and outgoing. It manifests a collective spirit as we create a sacred space for transformation and rebirth. Inspiration, identity and rebirth take morphing, sculptural form. The Cocoon is a hand-crafted stretchy fabric enclosure created by Sherry Aliberti, an architect and performance artist based in New York City. Structurally, these postures represent a scale model of an architecture and materiality based on the forces of the body. The Cocoon Project is a multi-disciplinary collaborative performing the Cocoon with movers, live projected visuals and soundscape. The performed-installation conveys a primordial one-ness of many bodies within the sheer membrane. CocoonNYC performs site-specifically in galleries, music venues and alternative spaces. The Cocoon experience can be emotionally powerful for every age and/or background.",
+        "title": "Cocoon Workshop",
+        "url": "http://burningman.campcontact.org/node/52268",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15659,
+        "print_description": "get inside, emerge rejuvenated! Cocoon is an architecture life-form. Experience energetic freedom of movement expression, transformation and rebirth",
+        "check_location": false,
+        "slug": "cocoon-workshop",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Camp Whisker Biscuit",
+            "id": 7286
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 15:00:00",
+                "end_time": "2015-08-31 17:00:00"
+            },
+            {
+                "start_time": "2015-09-04 15:00:00",
+                "end_time": "2015-09-04 17:00:00"
+            }
+        ],
+        "description": "Come get a mid afternoon pick-me-up.  Nothing like sugar and caffeine to cut all the booze or god knows what you have been consuming.",
+        "title": "Coffee and Cookies",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15813,
+        "print_description": "Come get a mid afternoon pick-me-up.  Nothing like sugar and caffeine to cut all the booze or god knows what you have been consuming.",
+        "check_location": false,
+        "slug": "coffee-and-cookies",
+        "other_location": "",
+        "event_type": {
+            "abbr": "food",
+            "label": "Food"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Deep Sea Circus",
+            "id": 7643
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 19:00:00",
+                "end_time": "2015-08-31 23:00:00"
+            },
+            {
+                "start_time": "2015-09-01 19:00:00",
+                "end_time": "2015-09-01 23:00:00"
+            },
+            {
+                "start_time": "2015-09-02 19:00:00",
+                "end_time": "2015-09-02 23:00:00"
+            },
+            {
+                "start_time": "2015-09-03 19:00:00",
+                "end_time": "2015-09-03 23:00:00"
+            },
+            {
+                "start_time": "2015-09-04 19:00:00",
+                "end_time": "2015-09-04 23:00:00"
+            }
+        ],
+        "description": "Need some energy for your night out on the playa?  Recharge in our angler fish lounge with a fresh cup of pour over coffee.  B.Y.O.Cup!",
+        "title": "Coffee Service",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15716,
+        "print_description": "Need some energy for your night out on the playa?  Recharge in our angler fish lounge with a fresh cup of pour over coffee.  B.Y.O.Cup!",
+        "check_location": false,
+        "slug": "coffee-service",
+        "other_location": "",
+        "event_type": {
+            "abbr": "food",
+            "label": "Food"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Electric Gypsy Coffee Oasis",
             "id": 7560
         },
@@ -15589,6 +17970,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "P3: The Princess Party Palace",
+            "id": 7062
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 15:00:00",
+                "end_time": "2015-09-03 18:00:00"
+            }
+        ],
+        "description": "Come get your pair of NEW cold panties and grab drink with our dancing Anti-Angles.   Yes, we have cool swag, cold drinks, and a bar to dance on.",
+        "title": "Cold Panties & a Drink",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15776,
+        "print_description": "Come get your pair of NEW cold panties and grab drink with our dancing Anti-Angles.   Yes, we have cool swag and cold drinks.",
+        "check_location": false,
+        "slug": "cold-panties-a-drink",
+        "other_location": "Meet at our Camp! ",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Conception",
             "id": 7171
         },
@@ -15700,7 +18110,7 @@
             "year": "2015"
         },
         "all_day": true,
-        "id": 15015,
+        "id": 15018,
         "print_description": "Color and chill! Black Hole Literary Society invites you to let your inner child loose on our adult coloring books. Mandalas, mazes, mental relaxation",
         "check_location": true,
         "slug": "coloring-book-chill-lounge",
@@ -15749,7 +18159,7 @@
             "year": "2015"
         },
         "all_day": true,
-        "id": 15018,
+        "id": 15015,
         "print_description": "Color and chill! Black Hole Literary Society invites you to let your inner child loose on our adult coloring books. Mandalas, mazes, mental relaxation",
         "check_location": true,
         "slug": "coloring-book-chill-lounge",
@@ -15970,6 +18380,64 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Listen",
+            "id": 7696
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 10:00:00",
+                "end_time": "2015-09-03 11:30:00"
+            }
+        ],
+        "description": "We all have closets of one form or another that we live in and carry with us.  Let's serve as loving witnesses and gentle facilitators for each other to bring playa light and compassion into the places where we hold our darkest fears and self-doubts.",
+        "title": "Coming out of Our Closet(s)",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15661,
+        "print_description": "In what way(s) do you live in the (or a) closet? Let playa light and compassion into the places where you hold your darkest fears and self-doubts.",
+        "check_location": false,
+        "slug": "coming-out-of-our-closets",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Chakralicious Camp",
+            "id": 7404
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 14:15:00",
+                "end_time": "2015-09-02 15:45:00"
+            }
+        ],
+        "description": "This transformative workshops draws together the ritual aspects of story-telling with heart-felt communication skills, leading people towards embodying their highest potential. The workshop weaves together aspects of authentic presence with radical honesty to produce clear non-violent communication.\r\n \r\nritual – heart-opening – authentic presence - radical honesty – non-violent communication techniques.\r\n\r\nParticipants will leave fully equipped to face potentially challenging conversations with ease and confidence.",
+        "title": "Communicating with Ease",
+        "url": "http://www.thewhatworks.org/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15580,
+        "print_description": "Communicating with Ease",
+        "check_location": false,
+        "slug": "communicating-with-ease",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Miso Horny",
             "id": 7376
         },
@@ -16148,6 +18616,39 @@
         "check_location": false,
         "slug": "congelado-gigantesco",
         "other_location": "Playa, 9 o'clock side of the man",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "White Bronco",
+            "id": 7110
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 05:30:00",
+                "end_time": "2015-09-01 07:00:00"
+            },
+            {
+                "start_time": "2015-09-04 05:30:00",
+                "end_time": "2015-09-04 07:00:00"
+            }
+        ],
+        "description": "AMBIENT/DOWNTEMPO SUNRISE MUSIC SET\r\n\r\nMeet us at White Bronco just before sunrise. We will all venture out to an open space (with non sleepers) and celebrate the new day. \r\n\r\nA sign w/ location is available in case you miss the group. \r\n\r\nCONNECT!!",
+        "title": "CONNECT",
+        "url": "http://www.whitebronco.life/events/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15742,
+        "print_description": "SUNRISE MUSIC SET. Meet at camp to venture out to an open space and celebrate the new day. A sign w/ location is available in case you miss the group.",
+        "check_location": true,
+        "slug": "connect",
+        "other_location": "WHITE BRONCO HQ (TBA)",
         "event_type": {
             "abbr": "prty",
             "label": "Gathering/Party"
@@ -16493,19 +18994,11 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-08-31 20:30:00",
-                "end_time": "2015-08-31 23:30:00"
-            },
-            {
-                "start_time": "2015-09-01 09:30:00",
-                "end_time": "2015-09-01 12:00:00"
-            },
-            {
-                "start_time": "2015-09-03 09:30:00",
-                "end_time": "2015-09-03 12:00:00"
+                "start_time": "2015-09-04 20:30:00",
+                "end_time": "2015-09-04 23:30:00"
             }
         ],
-        "description": "Contradancing all levels to live music - looped/ traditional/ celtic/ fusion/ techno; fast-paced yet easy to learn with a caller who instructs (but with room for dancers to improvise). Half the moves are with your partner, half with everyone else, resulting in a tribal vibe, where the Zen is flow, synchrony, and bonding (not footwork, not competition). If you are smiling, you are doing it right.  Kid friendly.  Possible for many disabled.  No need to bring your own partner. Everyone who shows up should have a good time.",
+        "description": "Contradancing all levels to live music under our tent- looped/ traditional/ celtic/ fusion/ techno; fast-paced yet easy to learn with a caller who instructs (but with room for dancers to improvise). Half the moves are with your partner, half with everyone else, resulting in a tribal vibe, where the Zen is flow, synchrony, and bonding (not footwork, not competition). If you are smiling, you are doing it right.  Kid friendly.  Possible for many disabled. No need to bring a partner.  Everyone who shows up should have a good time.",
         "title": "Contradancing to live music",
         "url": "http://www.burningmancontradance.com/",
         "year": {
@@ -16513,7 +19006,7 @@
             "year": "2015"
         },
         "all_day": false,
-        "id": 13451,
+        "id": 13530,
         "print_description": "Contradancing to live celtic/diverse music.  Lessons before each dance, inclusive& easy!  Vibe is flow, synchrony, tribal bonding.No specific footwork",
         "check_location": false,
         "slug": "contradancing-to-live-music",
@@ -16559,11 +19052,19 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-05 09:30:00",
-                "end_time": "2015-09-05 12:00:00"
+                "start_time": "2015-08-31 20:30:00",
+                "end_time": "2015-08-31 23:30:00"
+            },
+            {
+                "start_time": "2015-09-01 09:30:00",
+                "end_time": "2015-09-01 12:00:00"
+            },
+            {
+                "start_time": "2015-09-03 09:30:00",
+                "end_time": "2015-09-03 12:00:00"
             }
         ],
-        "description": "Contradancing all levels to live music under our tent - looped/ traditional/ celtic/ fusion/ techno; fast-paced yet easy to learn with a caller who instructs (but with room for dancers to improvise). Half the moves are with your partner, half with everyone else, resulting in a tribal vibe, where the Zen is flow, synchrony, and bonding (not footwork, not competition). If you are smiling, you are doing it right.  Kid friendly.  Possible for many disabled. No need to bring a partner.  Everyone who shows up should have a good time.",
+        "description": "Contradancing all levels to live music - looped/ traditional/ celtic/ fusion/ techno; fast-paced yet easy to learn with a caller who instructs (but with room for dancers to improvise). Half the moves are with your partner, half with everyone else, resulting in a tribal vibe, where the Zen is flow, synchrony, and bonding (not footwork, not competition). If you are smiling, you are doing it right.  Kid friendly.  Possible for many disabled.  No need to bring your own partner. Everyone who shows up should have a good time.",
         "title": "Contradancing to live music",
         "url": "http://www.burningmancontradance.com/",
         "year": {
@@ -16571,7 +19072,7 @@
             "year": "2015"
         },
         "all_day": false,
-        "id": 13639,
+        "id": 13451,
         "print_description": "Contradancing to live celtic/diverse music.  Lessons before each dance, inclusive& easy!  Vibe is flow, synchrony, tribal bonding.No specific footwork",
         "check_location": false,
         "slug": "contradancing-to-live-music",
@@ -16588,11 +19089,11 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-04 20:30:00",
-                "end_time": "2015-09-04 23:30:00"
+                "start_time": "2015-09-05 09:30:00",
+                "end_time": "2015-09-05 12:00:00"
             }
         ],
-        "description": "Contradancing all levels to live music under our tent- looped/ traditional/ celtic/ fusion/ techno; fast-paced yet easy to learn with a caller who instructs (but with room for dancers to improvise). Half the moves are with your partner, half with everyone else, resulting in a tribal vibe, where the Zen is flow, synchrony, and bonding (not footwork, not competition). If you are smiling, you are doing it right.  Kid friendly.  Possible for many disabled. No need to bring a partner.  Everyone who shows up should have a good time.",
+        "description": "Contradancing all levels to live music under our tent - looped/ traditional/ celtic/ fusion/ techno; fast-paced yet easy to learn with a caller who instructs (but with room for dancers to improvise). Half the moves are with your partner, half with everyone else, resulting in a tribal vibe, where the Zen is flow, synchrony, and bonding (not footwork, not competition). If you are smiling, you are doing it right.  Kid friendly.  Possible for many disabled. No need to bring a partner.  Everyone who shows up should have a good time.",
         "title": "Contradancing to live music",
         "url": "http://www.burningmancontradance.com/",
         "year": {
@@ -16600,7 +19101,7 @@
             "year": "2015"
         },
         "all_day": false,
-        "id": 13530,
+        "id": 13639,
         "print_description": "Contradancing to live celtic/diverse music.  Lessons before each dance, inclusive& easy!  Vibe is flow, synchrony, tribal bonding.No specific footwork",
         "check_location": false,
         "slug": "contradancing-to-live-music",
@@ -16838,7 +19339,7 @@
         "print_description": "(Prerequisite: “Find Your Power Animal” workshop)\r\nClearing bad vibes, negative energy, pain, and trauma; while protected. There may be a story in it.",
         "check_location": false,
         "slug": "core-shamanic-extraction-how-to",
-        "other_location": "730 and G?",
+        "other_location": "7:00 and B",
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
@@ -16867,7 +19368,7 @@
         "print_description": "(prerequisite: find power animal workshop) Rescue lost soul parts from past traumas that left you less vital. Get back in the dance with fullness.",
         "check_location": false,
         "slug": "core-shamanism-soul-retrieval-how-to",
-        "other_location": "730 and G?",
+        "other_location": "7:00 and B",
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
@@ -17268,6 +19769,39 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Love Potion",
+            "id": 7478
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 13:00:00",
+                "end_time": "2015-09-01 17:00:00"
+            },
+            {
+                "start_time": "2015-09-03 13:00:00",
+                "end_time": "2015-09-03 17:00:00"
+            }
+        ],
+        "description": "Reveal your inner kandi kid! Come make pony bead necklaces and bracelets with our very  own raver and his rabbits.",
+        "title": "Crafts with Cormac",
+        "url": "http://facebook.com/lovepotioncollective",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 13658,
+        "print_description": "Reveal your inner kandi kid! Come make pony bead necklaces and bracelets with our very own raver and his rabbits.",
+        "check_location": false,
+        "slug": "crafts-with-cormac",
+        "other_location": "reneemgreen",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Naked Heart",
             "id": 7586
         },
@@ -17536,6 +20070,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Illumination Village",
+            "id": 7402
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 19:00:00",
+                "end_time": "2015-09-01 23:00:00"
+            }
+        ],
+        "description": "Come join us for an ultra exclusive happy hour with the playa's best millionaire featuring Light beverages by Cristal. \r\n\r\nWe understand you - you are a millionaire. People complain about you. You're vilified in burner media, and you just don't get it. Well, good news...*we get you*! You've paid your $15,000 camp dues, flown into the desert, and want service dammit! We at millionaire camp understand your expectations and are here to provide you with the amenities you deserve while you are out here in the desert.\r\n\r\nMillionaire lounge is open 24/7 to provide you the latest in playa pampering. From our exclusive reserved seating, complimentary fragrances, Segway parking, free wifi, phone charging stations, and secured location only accessible by wristband, Millionaire lounge offers the amenities you deserve while you are in the desert.\r\n\r\nPlease stop by one of our exciting hosted events over the week, or join us for a cocktail anytime, day or night. You never know who you'll meet at Millionaire Lounge!",
+        "title": "Cristal Happy Hour with the Millionaires",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15717,
+        "print_description": "Come join us for an ultra exclusive happy hour with the playa's best millionaires featuring Light beverages by Cristal.",
+        "check_location": false,
+        "slug": "cristal-happy-hour-with-the-millionaires",
+        "other_location": "Millionaire's Lounge",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Cats!Cats!Cats!",
             "id": 7739
         },
@@ -17558,6 +20121,31 @@
         "check_location": true,
         "slug": "critical-cats",
         "other_location": "Starting at Camp Cats!Cats!Cats!",
+        "event_type": {
+            "abbr": "para",
+            "label": "Parade"
+        }
+    },
+    {
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 21:30:00",
+                "end_time": "2015-09-01 23:45:00"
+            }
+        ],
+        "description": "COME JOIN CRITICAL STICKS!\r\n\r\nFeel like there's less to you than meets the eye? Have only just enough artistic skill to draw a stick figure? You may be one of us! If you have one of these costumes, or want to make one, then get to it! We need you to join us as we dance across the darkness and spread joy throughout the land. Stickman BRC has been illustrating our EL wire childlike magic on the Playa since 2004, bringing art to life. Over the years, we've seen others infuse their creativity into the ranks of Stickhood and we think its time we unite. Nothing sadder than a lonesome Stickman.\r\n\r\nMeet at (6:30/Esplanade) at 9:30pm Tuesday night, September 1st; at 10pm, we venture out to the Playa. We'll be on foot, route tbd, so wear your walkin'/dancin' shoes. We hope you can play with us!\r\n\r\nJoin the FB page (and check the files) for info on how to make one.\r\n\r\nhttps://www.facebook.com/groups/StickmanBRC/events/\r\n\r\nNeed some inspiration?\r\nhttp://www.youtube.com/watch?v=vEX1PghxkJY\r\nhttp://www.youtube.com/watch?v=D_xSyoqRY_k&playnext=1&list=PLA7CCE3A2EAC0C945&feature=results_video\r\nhttp://www.youtube.com/watch?v=nHqiRBeGdkk&feature=relmfu\r\nhttp://www.youtube.com/watch?NR=1&v=LxyjhofF6Lw&feature=endscreen",
+        "title": "Critical Sticks Stickman Parade",
+        "url": "https://www.facebook.com/groups/StickmanBRC/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15748,
+        "print_description": "We need you to join us as we dance across the darkness and spread joy throughout the land. Be a celebrity Stick Person!",
+        "check_location": false,
+        "slug": "critical-sticks-stickman-parade",
+        "other_location": "Lead members staying at Uli Baba's & the Horny Theives",
         "event_type": {
             "abbr": "para",
             "label": "Parade"
@@ -17702,6 +20290,64 @@
         "event_type": {
             "abbr": "perf",
             "label": "Performance"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "CouchBurners Camp",
+            "id": 7973
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 18:00:00",
+                "end_time": "2015-09-01 23:45:00"
+            }
+        ],
+        "description": "Couch Burners invite all Couchsurfers to our 5th Annual International Meat-n-Greet(formally the CS topless weenie roast)! As always, it is a BYO-share event. Bring something to cobntribute to the bar/grill and festivities. Booze, international meat(or faux meat) for the grill, a fact, or a great travel story. Meet other CSers, surf the BusSofas together, break in our human fooseball court, play some international games, and make new and lasting connections all over the world. Participate in making the world a better place... one couch at a time. See you there with love, lust, and playa dust!",
+        "title": "CS International Meat & Greet",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15592,
+        "print_description": "BYO-share BBQ and party with couchsurfers and travelers alike.  Break in the human fooseball court,  play some games, and make lasting connections.",
+        "check_location": true,
+        "slug": "cs-international-meat-greet",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Cubhouse",
+            "id": 7777
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 11:00:00",
+                "end_time": "2015-09-02 15:00:00"
+            }
+        ],
+        "description": "Stop by during the Annual BRC Naked Pub Crawl and have a beverage in your Birthday Suit! The Naked Pub Crawl begins at The Man at 11:00am. Check with the Naked Pub Crawl for our time slot! Naked Pub Crawl Info: http://playaevents.burningman.com/2015/playa_event/13405/",
+        "title": "Cubhouse Stop on Naked Pub Crawl!",
+        "url": "http://playaevents.burningman.com/2015/playa_event/13405/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 14328,
+        "print_description": "Stop by during the Annual BRC Naked Pub Crawl and have a beverage in your Birthday Suit! The Naked Pub Crawl begins at The Man at 11:00am.",
+        "check_location": true,
+        "slug": "cubhouse-stop-on-naked-pub-crawl",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
         }
     },
     {
@@ -17945,6 +20591,93 @@
         },
         "occurrence_set": [
             {
+                "start_time": "2015-08-31 09:00:00",
+                "end_time": "2015-08-31 09:15:00"
+            }
+        ],
+        "description": "Sunday night meet-n-greet!! The Swish Embassy would like to welcome all members new and old to kick off the week! Not part of this awesome village? No worries, come on over and enjoy our newest edition to the swish compound, our outdoor lounge cinema! We will be serving up, as usual, the coldest drinks on the Playa…\"Home\" is the evenings drink! As always, costumes encouraged!",
+        "title": "damargirl",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15198,
+        "print_description": "Sunday Opening Night Village Meet n Greet- The Swish Embassy will be opened!!!! Come on over and meet the members of 404: Village Not Found.",
+        "check_location": true,
+        "slug": "damargirl",
+        "other_location": "",
+        "event_type": {
+            "abbr": "none",
+            "label": "None"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Swish Embassy",
+            "id": 7084
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 20:30:00",
+                "end_time": "2015-09-03 04:00:00"
+            }
+        ],
+        "description": "“all animals are equal, but some animals are more equal than others.” \r\nSwish brings you an audio/video experience of this Orwellian classic which remains particularly relevant today in our community. Come enjoy the new outdoor lounge or hang inside the dome with our top notch bartenders enjoying the coldest drinks on the Playa. So, head over to Swish to enjoy the evening's offering of delicious persuasion!!  Costumes encouraged  Come Join the revolution!!!",
+        "title": "damargirl",
+        "url": "https://www.facebook.com/groups/174170769334791/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15194,
+        "print_description": "Animal Farm",
+        "check_location": true,
+        "slug": "damargirl",
+        "other_location": " The Swish Embassy located in 404 Village Not Found",
+        "event_type": {
+            "abbr": "adlt",
+            "label": "Adult-oriented"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Swish Embassy",
+            "id": 7084
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 20:30:00",
+                "end_time": "2015-09-01 04:00:00"
+            }
+        ],
+        "description": "Playa Waste Raiders think they can \"capture\" the Swish Embassy…they are in for a fight! If they succeed they will be bringing their unique brand of wild to the Embassy for the night. If Swish defends her borders you will be treated to the usual spectacular Embassy evening!!  Be prepared for the best drinks on the Playa either way!!",
+        "title": "damargirl",
+        "url": "https://www.facebook.com/groups/174170769334791/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15186,
+        "print_description": "Playa Waste Raider's Take Over!!!",
+        "check_location": true,
+        "slug": "damargirl",
+        "other_location": " The Swish Embassy located in 404 Village Not Found",
+        "event_type": {
+            "abbr": "adlt",
+            "label": "Adult-oriented"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Swish Embassy",
+            "id": 7084
+        },
+        "occurrence_set": [
+            {
                 "start_time": "2015-08-31 20:30:00",
                 "end_time": "2015-09-01 04:00:00"
             }
@@ -17960,6 +20693,35 @@
         "id": 15180,
         "print_description": "Absurdist Art Opening",
         "check_location": false,
+        "slug": "damargirl",
+        "other_location": " The Swish Embassy located in 404 Village Not Found",
+        "event_type": {
+            "abbr": "adlt",
+            "label": "Adult-oriented"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Swish Embassy",
+            "id": 7084
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 20:30:00",
+                "end_time": "2015-09-04 04:00:00"
+            }
+        ],
+        "description": "University Universe will be hosting a fun filled evening at the Swish Embassy!",
+        "title": "damargirl",
+        "url": "https://www.facebook.com/groups/174170769334791/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15196,
+        "print_description": "University Universe Hosts The Embassy",
+        "check_location": true,
         "slug": "damargirl",
         "other_location": " The Swish Embassy located in 404 Village Not Found",
         "event_type": {
@@ -18032,35 +20794,6 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-08-31 09:00:00",
-                "end_time": "2015-08-31 09:15:00"
-            }
-        ],
-        "description": "Sunday night meet-n-greet!! The Swish Embassy would like to welcome all members new and old to kick off the week! Not part of this awesome village? No worries, come on over and enjoy our newest edition to the swish compound, our outdoor lounge cinema! We will be serving up, as usual, the coldest drinks on the Playa…\"Home\" is the evenings drink! As always, costumes encouraged!",
-        "title": "damargirl",
-        "url": "",
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "all_day": false,
-        "id": 15198,
-        "print_description": "Sunday Opening Night Village Meet n Greet- The Swish Embassy will be opened!!!! Come on over and meet the members of 404: Village Not Found.",
-        "check_location": true,
-        "slug": "damargirl",
-        "other_location": "",
-        "event_type": {
-            "abbr": "none",
-            "label": "None"
-        }
-    },
-    {
-        "hosted_by_camp": {
-            "name": "Swish Embassy",
-            "id": 7084
-        },
-        "occurrence_set": [
-            {
                 "start_time": "2015-09-05 20:30:00",
                 "end_time": "2015-09-06 04:00:00"
             }
@@ -18075,93 +20808,6 @@
         "all_day": false,
         "id": 15197,
         "print_description": "Onesie Funsie Afterburn Party",
-        "check_location": true,
-        "slug": "damargirl",
-        "other_location": " The Swish Embassy located in 404 Village Not Found",
-        "event_type": {
-            "abbr": "adlt",
-            "label": "Adult-oriented"
-        }
-    },
-    {
-        "hosted_by_camp": {
-            "name": "Swish Embassy",
-            "id": 7084
-        },
-        "occurrence_set": [
-            {
-                "start_time": "2015-09-03 20:30:00",
-                "end_time": "2015-09-04 04:00:00"
-            }
-        ],
-        "description": "University Universe will be hosting a fun filled evening at the Swish Embassy!",
-        "title": "damargirl",
-        "url": "https://www.facebook.com/groups/174170769334791/",
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "all_day": false,
-        "id": 15196,
-        "print_description": "University Universe Hosts The Embassy",
-        "check_location": true,
-        "slug": "damargirl",
-        "other_location": " The Swish Embassy located in 404 Village Not Found",
-        "event_type": {
-            "abbr": "adlt",
-            "label": "Adult-oriented"
-        }
-    },
-    {
-        "hosted_by_camp": {
-            "name": "Swish Embassy",
-            "id": 7084
-        },
-        "occurrence_set": [
-            {
-                "start_time": "2015-08-31 20:30:00",
-                "end_time": "2015-09-01 04:00:00"
-            }
-        ],
-        "description": "Playa Waste Raiders think they can \"capture\" the Swish Embassy…they are in for a fight! If they succeed they will be bringing their unique brand of wild to the Embassy for the night. If Swish defends her borders you will be treated to the usual spectacular Embassy evening!!  Be prepared for the best drinks on the Playa either way!!",
-        "title": "damargirl",
-        "url": "https://www.facebook.com/groups/174170769334791/",
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "all_day": false,
-        "id": 15186,
-        "print_description": "Playa Waste Raider's Take Over!!!",
-        "check_location": true,
-        "slug": "damargirl",
-        "other_location": " The Swish Embassy located in 404 Village Not Found",
-        "event_type": {
-            "abbr": "adlt",
-            "label": "Adult-oriented"
-        }
-    },
-    {
-        "hosted_by_camp": {
-            "name": "Swish Embassy",
-            "id": 7084
-        },
-        "occurrence_set": [
-            {
-                "start_time": "2015-09-02 20:30:00",
-                "end_time": "2015-09-03 04:00:00"
-            }
-        ],
-        "description": "“all animals are equal, but some animals are more equal than others.” \r\nSwish brings you an audio/video experience of this Orwellian classic which remains particularly relevant today in our community. Come enjoy the new outdoor lounge or hang inside the dome with our top notch bartenders enjoying the coldest drinks on the Playa. So, head over to Swish to enjoy the evening's offering of delicious persuasion!!  Costumes encouraged  Come Join the revolution!!!",
-        "title": "damargirl",
-        "url": "https://www.facebook.com/groups/174170769334791/",
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "all_day": false,
-        "id": 15194,
-        "print_description": "Animal Farm",
         "check_location": true,
         "slug": "damargirl",
         "other_location": " The Swish Embassy located in 404 Village Not Found",
@@ -18201,6 +20847,55 @@
     },
     {
         "hosted_by_camp": {
+            "name": "STAR STAR ROADHOUSE",
+            "id": 7680
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 16:00:00",
+                "end_time": "2015-08-31 18:00:00"
+            },
+            {
+                "start_time": "2015-09-01 16:00:00",
+                "end_time": "2015-09-01 18:00:00"
+            },
+            {
+                "start_time": "2015-09-02 16:00:00",
+                "end_time": "2015-09-02 18:00:00"
+            },
+            {
+                "start_time": "2015-09-03 16:00:00",
+                "end_time": "2015-09-03 18:00:00"
+            },
+            {
+                "start_time": "2015-09-04 16:00:00",
+                "end_time": "2015-09-04 18:00:00"
+            },
+            {
+                "start_time": "2015-09-05 16:00:00",
+                "end_time": "2015-09-05 18:00:00"
+            }
+        ],
+        "description": "Need to MOVE your BODY? Want to learn more about ACTING? Need to WERK on your TWERK? Join us at our spectacular stage and GET MOVING!\r\n\r\nCHECK OUT www.starstarroadhouse.com for artist bios, photos, video, camp layout, class schedules and discover what Star Star is all about!",
+        "title": "DANCE, ACTING, TWERKING & ACROYOGA CLASSES",
+        "url": "http://www.starstarroadhouse.com/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15738,
+        "print_description": "Need to MOVE your BODY? Want to learn more about ACTING? Need to WERK on your TWERK? Join us under our spectacular shade and GET MOVING!",
+        "check_location": false,
+        "slug": "dance-acting-twerking-acroyoga-classes",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Monks of Funk",
             "id": 8221
         },
@@ -18222,72 +20917,6 @@
         "print_description": "Get in your sexiest spandex and come with an energetic dance move in mind. Everybody interested gets the chance to lead the party in the Dance Church.",
         "check_location": true,
         "slug": "dance-aerobics",
-        "other_location": "",
-        "event_type": {
-            "abbr": "perf",
-            "label": "Performance"
-        }
-    },
-    {
-        "hosted_by_camp": {
-            "name": "Dust Circus",
-            "id": 7613
-        },
-        "occurrence_set": [
-            {
-                "start_time": "2015-09-02 11:00:00",
-                "end_time": "2015-09-02 11:15:00"
-            },
-            {
-                "start_time": "2015-09-03 11:00:00",
-                "end_time": "2015-09-03 11:15:00"
-            },
-            {
-                "start_time": "2015-09-04 11:00:00",
-                "end_time": "2015-09-04 11:15:00"
-            }
-        ],
-        "description": "Come watch 4 dusty members of Danceburg troupe, as they entertain your eye balls with their fiery chaching, Argentine  tangoing, smooth waltzing, creative folking... and other bizarre movements to music (aka dancing). Also, expect flash mob shenanigans.",
-        "title": "Danceburg dance troupe show",
-        "url": "",
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "all_day": false,
-        "id": 15391,
-        "print_description": "Come watch 4 dusty members of Danceburg troupe, as they entertain your eye balls with their fiery chaching, Argentine  tangoing, smooth waltzing etc",
-        "check_location": true,
-        "slug": "danceburg-dance-troupe-show",
-        "other_location": "",
-        "event_type": {
-            "abbr": "perf",
-            "label": "Performance"
-        }
-    },
-    {
-        "hosted_by_camp": {
-            "name": "Dust Circus",
-            "id": 7613
-        },
-        "occurrence_set": [
-            {
-                "start_time": "2015-09-01 19:30:00",
-                "end_time": "2015-09-01 19:45:00"
-            }
-        ],
-        "description": "Come watch 4 dusty members of Danceburg troupe, as they entertain your eye balls with their fiery chaching, Argentine  tangoing, smooth waltzing, creative folking... and other bizarre movements to music (aka dancing). Also, expect flash mob shenanigans.",
-        "title": "Danceburg dance troupe show",
-        "url": "",
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "all_day": false,
-        "id": 15389,
-        "print_description": "Come watch 4 dusty members of Danceburg troupe, as they entertain your eye balls with their fiery chaching, Argentine  tangoing, smooth waltzing etc",
-        "check_location": true,
-        "slug": "danceburg-dance-troupe-show",
         "other_location": "",
         "event_type": {
             "abbr": "perf",
@@ -18399,6 +21028,72 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Dust Circus",
+            "id": 7613
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 11:00:00",
+                "end_time": "2015-09-02 11:15:00"
+            },
+            {
+                "start_time": "2015-09-03 11:00:00",
+                "end_time": "2015-09-03 11:15:00"
+            },
+            {
+                "start_time": "2015-09-04 11:00:00",
+                "end_time": "2015-09-04 11:15:00"
+            }
+        ],
+        "description": "Come watch 4 dusty members of Danceburg troupe, as they entertain your eye balls with their fiery chaching, Argentine  tangoing, smooth waltzing, creative folking... and other bizarre movements to music (aka dancing). Also, expect flash mob shenanigans.",
+        "title": "Danceburg dance troupe show",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15391,
+        "print_description": "Come watch 4 dusty members of Danceburg troupe, as they entertain your eye balls with their fiery chaching, Argentine  tangoing, smooth waltzing etc",
+        "check_location": true,
+        "slug": "danceburg-dance-troupe-show",
+        "other_location": "",
+        "event_type": {
+            "abbr": "perf",
+            "label": "Performance"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Dust Circus",
+            "id": 7613
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 19:30:00",
+                "end_time": "2015-09-01 19:45:00"
+            }
+        ],
+        "description": "Come watch 4 dusty members of Danceburg troupe, as they entertain your eye balls with their fiery chaching, Argentine  tangoing, smooth waltzing, creative folking... and other bizarre movements to music (aka dancing). Also, expect flash mob shenanigans.",
+        "title": "Danceburg dance troupe show",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15389,
+        "print_description": "Come watch 4 dusty members of Danceburg troupe, as they entertain your eye balls with their fiery chaching, Argentine  tangoing, smooth waltzing etc",
+        "check_location": true,
+        "slug": "danceburg-dance-troupe-show",
+        "other_location": "",
+        "event_type": {
+            "abbr": "perf",
+            "label": "Performance"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Lamplighter Village",
             "id": 7392
         },
@@ -18449,7 +21144,7 @@
         "print_description": "movement therapy that heals and frees physical, mental, emotional and spiritual blockages through ritual dance, breathwork, and contemporary Shamanism",
         "check_location": false,
         "slug": "dance-of-liberation",
-        "other_location": "730 and G?",
+        "other_location": "7:00 and B",
         "event_type": {
             "abbr": "cere",
             "label": "Ritual/Ceremony"
@@ -18623,8 +21318,8 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-01 16:00:00",
-                "end_time": "2015-09-01 17:30:00"
+                "start_time": "2015-09-03 16:00:00",
+                "end_time": "2015-09-03 17:30:00"
             }
         ],
         "description": "Please join Samantha Sweetwater for “All Our Relations\", a Dancing Freedom wave opening us to raw, unmediated communion with All That Is.",
@@ -18832,6 +21527,93 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Census",
+            "id": 7326
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 17:30:00",
+                "end_time": "2015-09-03 18:30:00"
+            }
+        ],
+        "description": "“Diversity on the Playa”  will be led by Vernon, who led the “Black on Playa” event last year and Scribble, who has done research on Playa on economic and racial diversity.   You’ll have a chance to hear about, discuss, and ask questions about our team’s research while mingling with other Burning Nerds and sipping mixed drinks.",
+        "title": "DATA BASH!   Diversity on the Playa",
+        "url": "https://blackrockcitycensus.wordpress.com/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15746,
+        "print_description": "Hear about and  discuss, the Census team’s research on diversity while mingling with other Burning Nerds and sipping mixed drinks.",
+        "check_location": false,
+        "slug": "data-bash-diversity-on-the-playa",
+        "other_location": "Census Lab, Center Camp, across from Playa Info",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Census",
+            "id": 7326
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 17:30:00",
+                "end_time": "2015-09-01 18:30:00"
+            }
+        ],
+        "description": "Learn about research on the Power of Play and Transformative Experiences at the Burn.  Conversations will be led by Isabelle, who has done extensive research on play in the bonobo populations, and Countess, who is an anthropology researcher focused on play.  Learn about their research while mingling with fellow Burning Nerds and sipping mixed drinks.",
+        "title": "DATA BASH!  Play & Transformation at Burning Man",
+        "url": "https://blackrockcitycensus.wordpress.com/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15745,
+        "print_description": "Learn about research on the Power of Play and Transformative Experiences at the Burn, and mingle with fellow Burning Nerds while sipping mixed drinks.",
+        "check_location": false,
+        "slug": "data-bash-play-transformation-at-burning-man",
+        "other_location": "Census Lab, Center Camp, across from Playa Info",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Census",
+            "id": 7326
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-04 13:30:00",
+                "end_time": "2015-09-04 14:30:00"
+            }
+        ],
+        "description": "Be the first to hear about the preliminary results of our 2015 sampling at the gate and discuss the findings with Countess, Manager of the BRC Census Lab, and other BRC Census leadership. Nicole will lead a discussion of the Ten Principals and how they are applied in the default world.",
+        "title": "DATA RELEASE BASH!\t2015 Sampling Data Release ",
+        "url": "https://blackrockcitycensus.wordpress.com/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15747,
+        "print_description": "Be the first to hear about our preliminary results of our 2015 sampling at the gate and discuss the Ten Principals as applied in the default world.",
+        "check_location": false,
+        "slug": "data-release-bash-2015-sampling-data-release",
+        "other_location": "Census Lab, Center Camp, across from Playa Info",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Naked Heart",
             "id": 7586
         },
@@ -18857,6 +21639,35 @@
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Dr.Baron von Realz esq. Steampunk",
+            "id": 7156
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 17:00:00",
+                "end_time": "2015-09-03 19:00:00"
+            }
+        ],
+        "description": "Potential dates are ask questions by the participant the Audience grades answers and then chooses date for the participant. If we get enough we will have a bi-curious and/or gay m or f participant contestant game as well to mix it up.",
+        "title": "DATING GAME",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15508,
+        "print_description": "Potential dates are ask questions by the participant the Audience grades answers and then chooses date for the participant.",
+        "check_location": false,
+        "slug": "dating-game",
+        "other_location": "",
+        "event_type": {
+            "abbr": "game",
+            "label": "Game"
         }
     },
     {
@@ -19106,20 +21917,20 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-04 16:30:00",
-                "end_time": "2015-09-04 18:30:00"
+                "start_time": "2015-08-31 16:30:00",
+                "end_time": "2015-08-31 18:30:00"
             }
         ],
-        "description": "Join us at Camp DDP to learn to create your boombox-powered Parties and spread the Open-Source Party Movement! (info at TheDDP.com)",
+        "description": "Learn how to create your own boombox-powered Parties and help spread the Open-Source Party Movement! (more info at TheDDP.com)",
         "title": "Decentralized Dance Party (open discussion)",
-        "url": "http://burningman.campddp.anahasanavillage.org/node/51729",
+        "url": "http://burningman.campddp.anahasanavillage.org/node/51727",
         "year": {
             "id": 11,
             "year": "2015"
         },
         "all_day": false,
-        "id": 14731,
-        "print_description": "Join us at Camp DDP to learn to create your boombox-powered Parties and spread the Open-Source Party Movement! (info at TheDDP.com)",
+        "id": 14728,
+        "print_description": "Learn how to create your own boombox-powered Parties and help spread the Open-Source Party Movement! (more info at TheDDP.com)",
         "check_location": false,
         "slug": "decentralized-dance-party-open-discussion",
         "other_location": "",
@@ -19135,20 +21946,20 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-08-31 16:30:00",
-                "end_time": "2015-08-31 18:30:00"
+                "start_time": "2015-09-04 16:30:00",
+                "end_time": "2015-09-04 18:30:00"
             }
         ],
-        "description": "Learn how to create your own boombox-powered Parties and help spread the Open-Source Party Movement! (more info at TheDDP.com)",
+        "description": "Join us at Camp DDP to learn to create your boombox-powered Parties and spread the Open-Source Party Movement! (info at TheDDP.com)",
         "title": "Decentralized Dance Party (open discussion)",
-        "url": "http://burningman.campddp.anahasanavillage.org/node/51727",
+        "url": "http://burningman.campddp.anahasanavillage.org/node/51729",
         "year": {
             "id": 11,
             "year": "2015"
         },
         "all_day": false,
-        "id": 14728,
-        "print_description": "Learn how to create your own boombox-powered Parties and help spread the Open-Source Party Movement! (more info at TheDDP.com)",
+        "id": 14731,
+        "print_description": "Join us at Camp DDP to learn to create your boombox-powered Parties and spread the Open-Source Party Movement! (info at TheDDP.com)",
         "check_location": false,
         "slug": "decentralized-dance-party-open-discussion",
         "other_location": "",
@@ -19180,6 +21991,35 @@
         "print_description": "Confronting privilege and appropriation to create genuinely radical inclusion.",
         "check_location": true,
         "slug": "decolonizing-burning-man",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Hanging Gardens of BRC",
+            "id": 8249
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-04 15:00:00",
+                "end_time": "2015-09-04 16:00:00"
+            }
+        ],
+        "description": "Come to the gardens and join our Shaman for an informative one-hour lecture on how to restore and heal the body naturally using herbs and supplements. After this incredible week of extremes, you can use these tools to adapt back into the default world, lessen decompression time, and keep your physical and emotional bodies operating at their fullest. Or if you're struggling and need a second wind to get through this last weekend, learn some tips and try some herbal remedies that will give you new life! - Taught by Clinical Herbalist Joshua Farahnik",
+        "title": "Decompression Detox",
+        "url": "https://www.facebook.com/HangingGardensBRC",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15693,
+        "print_description": "Come to the gardens and join our Shaman for an informative one-hour lecture on how to restore and heal the body naturally using herbs and supplements.",
+        "check_location": true,
+        "slug": "decompression-detox",
         "other_location": "",
         "event_type": {
             "abbr": "work",
@@ -19358,7 +22198,7 @@
         "print_description": "Come out for a few innings before watching a big fire! It'll be just like in grade school, but dustier and less competitive. Meet at Pink Lightning!",
         "check_location": false,
         "slug": "deep-playa-kickball",
-        "other_location": "menkatz@gmail.com",
+        "other_location": "6:30 & Carny",
         "event_type": {
             "abbr": "game",
             "label": "Game"
@@ -19764,6 +22604,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Mamasaurus",
+            "id": 8047
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 14:00:00",
+                "end_time": "2015-09-02 17:00:00"
+            }
+        ],
+        "description": "Join Mamasaurus for a daytime party in our mama's shady oasis with chicken fried dino, raptor rosé, prehistoric beats, and jurassic chillin.",
+        "title": "Dino Eats, Drinks, and Beats",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15613,
+        "print_description": "Join Mamasaurus for a daytime party in our mama's shady oasis with chicken fried dino, raptor rosé, prehistoric beats, and jurassic chillin.",
+        "check_location": true,
+        "slug": "dino-eats-drinks-and-beats",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Lip Service",
             "id": 7640
         },
@@ -20040,6 +22909,35 @@
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Huggzilla",
+            "id": 8072
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 19:30:00",
+                "end_time": "2015-09-03 23:45:00"
+            }
+        ],
+        "description": "Yes, you got it right, it's a good old disco night wooohooohooo",
+        "title": "DiscoZilla",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15604,
+        "print_description": "Yes, you got it right, it's a good old disco night wooohooohooo",
+        "check_location": true,
+        "slug": "discozilla",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
         }
     },
     {
@@ -20450,6 +23348,129 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Dragon Camp Armory",
+            "id": 7037
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 09:00:00",
+                "end_time": "2015-08-31 12:30:00"
+            },
+            {
+                "start_time": "2015-09-01 09:00:00",
+                "end_time": "2015-09-01 12:30:00"
+            },
+            {
+                "start_time": "2015-09-03 09:00:00",
+                "end_time": "2015-09-03 12:30:00"
+            },
+            {
+                "start_time": "2015-09-04 09:00:00",
+                "end_time": "2015-09-04 12:30:00"
+            },
+            {
+                "start_time": "2015-09-05 09:00:00",
+                "end_time": "2015-09-05 12:30:00"
+            },
+            {
+                "start_time": "2015-09-06 09:00:00",
+                "end_time": "2015-09-06 12:30:00"
+            }
+        ],
+        "description": "Dragoncamp armory will empower women to learn to use simple hand tools to make their own aluminum ARMOR BIKINI. Decorate with jewelry for a stunning look on the playa. The techniques use traditional metal cutting, hammering and forming  skills and take about 2hrs to complete a costume.  Yours to keep. Workshop every morning 9am-12 noon. Supplies limited however, come early.",
+        "title": "Dragoncamp Armory",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15733,
+        "print_description": "Girls- come make your own ARMOR BIKINI for a sexy look on the playa. Decorate to suit and take home. Open mornings 9-12.",
+        "check_location": true,
+        "slug": "dragoncamp-armory",
+        "other_location": "check guide",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Astro Cats",
+            "id": 7470
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 19:00:00",
+                "end_time": "2015-09-02 21:00:00"
+            },
+            {
+                "start_time": "2015-09-03 19:00:00",
+                "end_time": "2015-09-03 21:00:00"
+            },
+            {
+                "start_time": "2015-09-04 19:00:00",
+                "end_time": "2015-09-04 21:00:00"
+            }
+        ],
+        "description": "An evening bar from 7 PM to 9 PM Wednesday thru Friday. We will be serving HOT & COLD Sake before the night begins.",
+        "title": "Dragon Lounge",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15688,
+        "print_description": "An evening bar from 7 PM to 9 PM. We will be serving HOT & COLD Sake before the night begins.",
+        "check_location": true,
+        "slug": "dragon-lounge",
+        "other_location": "",
+        "event_type": {
+            "abbr": "food",
+            "label": "Food"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Astro Cats",
+            "id": 7470
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 20:00:00",
+                "end_time": "2015-09-02 23:45:00"
+            },
+            {
+                "start_time": "2015-09-03 20:00:00",
+                "end_time": "2015-09-03 23:45:00"
+            },
+            {
+                "start_time": "2015-09-04 20:00:00",
+                "end_time": "2015-09-04 23:45:00"
+            }
+        ],
+        "description": "A sundial with Five Dragons design on it. The sundial is about a 4' diameter. In daytime, it works as a sundial. In the evening, the Five Dragons design on the sundial will be lighted up with five color LEDs with a game control to play a modified version of the game \"Simon Says\" with lights of the Dragons.",
+        "title": "Dragon Said",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15696,
+        "print_description": "A modified version of the game \"Simon Says\" with lights of the Dragons from the Five Dragons Sundial in the night hours",
+        "check_location": true,
+        "slug": "dragon-said",
+        "other_location": "",
+        "event_type": {
+            "abbr": "game",
+            "label": "Game"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Gigsville",
             "id": 8235
         },
@@ -20831,7 +23852,7 @@
                 "end_time": "2015-09-02 13:00:00"
             }
         ],
-        "description": "A slow dub reggae yoga class infused with rastafari teachings to kick off our afternoon Reggae and IPA party in Shadyvil.",
+        "description": "A slow hatha flow class suitable for all levels to kick off our afternoon Reggae and IPA party in Shadyvil.",
         "title": "Dub Fire Yoga with Ash",
         "url": "",
         "year": {
@@ -20840,7 +23861,7 @@
         },
         "all_day": false,
         "id": 14435,
-        "print_description": "A slow dub reggae yoga class infused with rastafari teachings to kick off our afternoon Reggae and IPA party in Shadyvil.",
+        "print_description": "A slow hatha flow class suitable for all levels to kick off our afternoon Reggae and IPA party in Shadyvil.",
         "check_location": false,
         "slug": "dub-fire-yoga-with-ash",
         "other_location": "minimalistik",
@@ -20930,6 +23951,35 @@
         "print_description": "Dance like an animal and drink like a party-animal!  Special drinks for animal costumes we like!",
         "check_location": false,
         "slug": "duckpond-feathers-and-fur",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Duckpond",
+            "id": 7117
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-04 20:00:00",
+                "end_time": "2015-09-04 23:45:00"
+            }
+        ],
+        "description": "Whether your prom was 5 years ago or 50, we'll be playing music for you.  Come dance, shake, groove, dip, twerk, and electric slide the night away with the Ducks! \r\n\r\nDon't miss it - It's our last party on the Playa!",
+        "title": "Duckpond's Prom Through the Ages",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 14456,
+        "print_description": "Time travel back to prom with the Ducks! Whether your prom was 5 years ago or 50, we'll be playing music for you. Our last party on the Playa! 9 & E!",
+        "check_location": false,
+        "slug": "duckponds-prom-through-the-ages",
         "other_location": "",
         "event_type": {
             "abbr": "prty",
@@ -21041,6 +24091,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Duckpond",
+            "id": 7117
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 22:00:00",
+                "end_time": "2015-09-02 23:45:00"
+            }
+        ],
+        "description": "Dumb and Bass, bringin that Jingle Jangle to the Duck Pond - Amen!  Slide in for a drink at the bar and broken beats.",
+        "title": "Dumb and Bass, bringin that Jingle Jangle",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 14108,
+        "print_description": "Dumb and Bass, bringin that Jingle Jangle to the Duck Pond - Amen!  Slide in for a drink at the bar and broken beats.",
+        "check_location": false,
+        "slug": "dumb-and-bass-bringin-that-jingle-jangle",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Gigsville",
             "id": 8235
         },
@@ -21066,6 +24145,35 @@
         "event_type": {
             "abbr": "perf",
             "label": "Performance"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Wulf Den",
+            "id": 7240
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-04 00:00:00",
+                "end_time": "2015-09-04 23:59:00"
+            }
+        ],
+        "description": "Come Dance all day in the sounds of Wulfpack DJs at the Wulf Den! We'll have plenty of shade, mist, and phat beats for you to groove to.  Our lounge will be right next ti the dance floor so you can rest and relax for another round. Expect fun surprises!",
+        "title": "Dusk on the Playa",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": true,
+        "id": 15573,
+        "print_description": "Come Dance all day in the sounds of Wulfpack DJs at the Wulf Den! We'll have plenty of shade, mist, and phat beats for you to groove to.",
+        "check_location": true,
+        "slug": "dusk-on-the-playa",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
         }
     },
     {
@@ -21307,11 +24415,11 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-02 09:00:00",
-                "end_time": "2015-09-02 10:00:00"
+                "start_time": "2015-09-04 09:00:00",
+                "end_time": "2015-09-04 10:00:00"
             }
         ],
-        "description": "Mid-level aerobics workout, incorporating warm-up, stretching, exercise,\r\ncool-down and relaxation. Music provided, bring your own sweat.",
+        "description": "Mid-level aerobics workout, incorporating warm-up, stretching, exercise, cool-down and relaxation. Music provided, bring your own sweat.",
         "title": "Early Bird Aerobic Workout",
         "url": "",
         "year": {
@@ -21319,8 +24427,8 @@
             "year": "2015"
         },
         "all_day": false,
-        "id": 14230,
-        "print_description": "Mid-level aerobics workout, incorporating warm-up, stretching, exercise,\r\ncool-down and relaxation. Music provided, bring your own sweat.",
+        "id": 14465,
+        "print_description": "Mid-level aerobics workout, incorporating warm-up, stretching, exercise, cool-down and relaxation. Music provided, bring your own sweat.",
         "check_location": false,
         "slug": "early-bird-aerobic-workout",
         "other_location": "",
@@ -21336,11 +24444,11 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-04 09:00:00",
-                "end_time": "2015-09-04 10:00:00"
+                "start_time": "2015-09-02 09:00:00",
+                "end_time": "2015-09-02 10:00:00"
             }
         ],
-        "description": "Mid-level aerobics workout, incorporating warm-up, stretching, exercise, cool-down and relaxation. Music provided, bring your own sweat.",
+        "description": "Mid-level aerobics workout, incorporating warm-up, stretching, exercise,\r\ncool-down and relaxation. Music provided, bring your own sweat.",
         "title": "Early Bird Aerobic Workout",
         "url": "",
         "year": {
@@ -21348,8 +24456,8 @@
             "year": "2015"
         },
         "all_day": false,
-        "id": 14465,
-        "print_description": "Mid-level aerobics workout, incorporating warm-up, stretching, exercise, cool-down and relaxation. Music provided, bring your own sweat.",
+        "id": 14230,
+        "print_description": "Mid-level aerobics workout, incorporating warm-up, stretching, exercise,\r\ncool-down and relaxation. Music provided, bring your own sweat.",
         "check_location": false,
         "slug": "early-bird-aerobic-workout",
         "other_location": "",
@@ -21501,6 +24609,35 @@
         "event_type": {
             "abbr": "game",
             "label": "Game"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Mystikal Misfits",
+            "id": 7340
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-04 11:00:00",
+                "end_time": "2015-09-04 13:00:00"
+            }
+        ],
+        "description": "Come sit and relax with us as we spin 70's soft rock and serve up ice cold lemonade. It's as simple as that! You will hear wonderful hits such as ... Brandy, Summer Breeze, Dancin' in the Moonlight and more!",
+        "title": "Easy Listenin' Lemonade",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15520,
+        "print_description": "Come sit and relax with us as we spin 70's soft rock and serve up ice cold lemonade. It's as simple as that!",
+        "check_location": false,
+        "slug": "easy-listenin-lemonade",
+        "other_location": "4:30 & B",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
         }
     },
     {
@@ -21788,7 +24925,7 @@
         "print_description": "Explore the infinite nature of your humanity - journey out to the edge of the universe and into yourself. Why it all works.",
         "check_location": false,
         "slug": "einstein-the-universe-and-you",
-        "other_location": "730 and G?",
+        "other_location": "7:00 and B",
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
@@ -22043,6 +25180,31 @@
         }
     },
     {
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 14:00:00",
+                "end_time": "2015-08-31 15:00:00"
+            }
+        ],
+        "description": "“We contain multitudes,” wrote Walt Whitman, referring to our sense of self. Join us in this interactive workshop as we explore these questions of identity through individual and small group exercises and what it means to accept, embrace, and celebrate our genuine selves.",
+        "title": "Embark on your Identity Expedition",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15650,
+        "print_description": "Explore questions of identity through individual / small group exercises and what it means to accept our genuine selves.",
+        "check_location": true,
+        "slug": "embark-on-your-identity-expedition",
+        "other_location": "Camp Galapagos",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
         "hosted_by_camp": {
             "name": "The Embassy",
             "id": 7481
@@ -22069,6 +25231,59 @@
         "event_type": {
             "abbr": "prty",
             "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Emerge-n-See  Sparkle Pony Corral",
+            "id": 7206
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 11:30:00",
+                "end_time": "2015-08-31 17:30:00"
+            },
+            {
+                "start_time": "2015-09-01 11:30:00",
+                "end_time": "2015-09-01 17:30:00"
+            },
+            {
+                "start_time": "2015-09-02 11:30:00",
+                "end_time": "2015-09-02 17:30:00"
+            },
+            {
+                "start_time": "2015-09-03 11:30:00",
+                "end_time": "2015-09-03 17:30:00"
+            },
+            {
+                "start_time": "2015-09-04 11:30:00",
+                "end_time": "2015-09-04 17:30:00"
+            },
+            {
+                "start_time": "2015-09-05 11:30:00",
+                "end_time": "2015-09-05 17:30:00"
+            },
+            {
+                "start_time": "2015-09-06 11:30:00",
+                "end_time": "2015-09-06 17:30:00"
+            }
+        ],
+        "description": "Thanx to YoMama Care, the Playa now has an alternative to the western medicine practiced in those \"med\" tents. The \"Emerge-n-See In-Tents-IV Care Unit\" (or just \"ICU\" for short) is here for all your health dare needs.\r\nICU is staffed for all sorts of procedures from Beerthing to Sexy Change Operations. And of course, all our staff is certified in CPR (Cocktail Party Resuscitation).\r\nBut wait, that's not all !!! ICU offers a 200% money back guarantee !\r\n\r\nAre you a certified Moctor or Curse?\r\nICU presently has openings for those who want to play doctor.\r\nPlease contact Doc Holiday via the listed email address.",
+        "title": "EmergeInSee InTentsIV Care Unit (ICU)",
+        "url": "http://brc-fun.webs.com/icu.html",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15628,
+        "print_description": "The Playa's alternative for your health dare needs: Emerge-n-See Beerthings, Sexy Change Operations, +more. We play doctor. 200% money back guarantee.",
+        "check_location": false,
+        "slug": "emergeinsee-intentsiv-care-unit-icu",
+        "other_location": "",
+        "event_type": {
+            "abbr": "care",
+            "label": "Care/Support"
         }
     },
     {
@@ -22124,6 +25339,31 @@
         "check_location": false,
         "slug": "emote-a-thon-step-into-what-we-avoid",
         "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 13:00:00",
+                "end_time": "2015-09-01 15:00:00"
+            }
+        ],
+        "description": "Munch on homemade organic treats while we co-create strategies for eating as an embodyment of self-love and share simple recipes to nourish mind, body and spirit.",
+        "title": "Empowered Eating Workshop",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15757,
+        "print_description": "Munch on homemade organic treats while we co-create strategies for eating as an embodyment of self-love and share simple recipes.",
+        "check_location": false,
+        "slug": "empowered-eating-workshop",
+        "other_location": "XOXO &  Short Bus",
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
@@ -22247,7 +25487,7 @@
         "print_description": "Journey as Light Workers to collectively crush forces that create war & destructions. Harness the preeminence of light throughout cosmos with Miho.",
         "check_location": false,
         "slug": "end-war-now-ritual",
-        "other_location": "730 and G?",
+        "other_location": "7:00 and B",
         "event_type": {
             "abbr": "cere",
             "label": "Ritual/Ceremony"
@@ -22277,6 +25517,35 @@
         "check_location": true,
         "slug": "energetic-awareness-with-elie-prana",
         "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Camp Soft Landing",
+            "id": 8110
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 12:00:00",
+                "end_time": "2015-09-03 13:30:00"
+            }
+        ],
+        "description": "As humans, we have our physical bodies and our energetic bodies. It’s pretty easy to know when you are holding hands with another person - but what about when you are energetically entangled? Burning man is the perfect place to explore Energetic Hygiene. In this interactive workshop we will play with different techniques for becoming aware of your field, clearing it, and expanding & containing it. Becoming aware of your energetic field and knowing how to use it is one of the most empowering things you can do for yourself - and it’s fun!",
+        "title": "Energetic Hygiene - Managing Your Energy Field",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15581,
+        "print_description": "In this interactive playshop we will explore different techniques for becoming aware of your energy field, clearing it, expanding and containing it.",
+        "check_location": false,
+        "slug": "energetic-hygiene-managing-your-energy-field",
+        "other_location": "Inside Camp Soft Landing Tea House or Camp Soft Landing Bhaktea Pod Yurt",
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
@@ -22565,7 +25834,7 @@
                 "end_time": "2015-08-31 18:00:00"
             }
         ],
-        "description": "Come one, come all to a celebration of year-round Burning Man culture around the world! Burning Man Project along with the Regional Network, Burning Man Arts, Burners Without Borders and Black Rock Solar invite you to their annual celebration at the Everywhere Pavilion, as we kick off what promises to be an amazing week. Why? Because we are EVERYWHERE all year long!",
+        "description": "Come one, come all to a celebration of year-round Burning Man civic engagement around the world! Burning Man along with the Regional Network, Burning Man Arts, Burners Without Borders and Black Rock Solar invite you to their annual celebration at Everywhere Pavilion, as we kick off what promises to be an amazing week. Why? Because we are EVERYWHERE and we have amazing global stories to share with you!",
         "title": "Everywhere Pavilion Opening Celebration",
         "url": "http://burningman.org/network/",
         "year": {
@@ -22574,7 +25843,7 @@
         },
         "all_day": false,
         "id": 13423,
-        "print_description": "Come one, come all to a celebration of Burning Man culture around the world with the Burning Man Project! Why? Because we're EVERYWHERE all year long!",
+        "print_description": "Come one, come all to a celebration of Burning Man civic engagement around the world! Why? Because we’re EVERYWHERE & we’ve amazing stories to share!",
         "check_location": false,
         "slug": "everywhere-pavilion-opening-celebration",
         "other_location": "6.25 & Esplanade",
@@ -22875,6 +26144,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Listen",
+            "id": 7696
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-04 17:00:00",
+                "end_time": "2015-09-04 18:30:00"
+            }
+        ],
+        "description": "Our bodies are over 75% water.  We respond to situations/stimulations from a primal, basic instinct.  Come discover the 9 fluid systems of the body as we explore different music and movement.  There will be a brief warm up, and then, through guidance, be given open space to move and discover how the body moves in certain environments/circumstances.  Find new ways of movement, listen to our bodies, and connect with a deeper understanding of what is moving us as creatures.  Bring water.",
+        "title": "Exploring the 9 Fluid Systems of the Body",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15682,
+        "print_description": "Discover the 9 fluid systems of the body and how they allow/propel us to move in different ways.  A brief warm-up, get flowing and move!",
+        "check_location": true,
+        "slug": "exploring-the-9-fluid-systems-of-the-body",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Dark Sparkle",
             "id": 7964
         },
@@ -22929,6 +26227,36 @@
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
+        }
+    },
+    {
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 19:30:00",
+                "end_time": "2015-09-01 21:30:00"
+            }
+        ],
+        "description": "Award winning film maker Suzanne Mitchell and Rebbie Ratner turn loose their aerial drone cameras as they document sculptor James Tyler's Brickhead EARTH: environmental sculpture installation. 'Firelight' begins at dark.",
+        "title": "EXTRAS WANTED! Brickhead EARTH Documentary",
+        "url": "http://www.brickheadearth.com/",
+        "located_at_art": {
+            "location_string": "Unknown",
+            "name": "Brickhead EARTH",
+            "id": 2241
+        },
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15542,
+        "print_description": "EXTRAS WANTED! Be in the official documentary short film: Brickhead EARTH @ Burning Man.",
+        "check_location": false,
+        "slug": "extras-wanted-brickhead-earth-documentary",
+        "other_location": "",
+        "event_type": {
+            "abbr": "none",
+            "label": "None"
         }
     },
     {
@@ -22987,6 +26315,35 @@
         "event_type": {
             "abbr": "perf",
             "label": "Performance"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Astro Cats",
+            "id": 7470
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 12:00:00",
+                "end_time": "2015-09-02 14:00:00"
+            }
+        ],
+        "description": "Our residence painter, Robin will paint tribal markings, curls, and swirls to your body and/or face on WEDNESDAY from Noon to 2 PM only.",
+        "title": "Face and Body Painting",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15691,
+        "print_description": "Our residence painter, Robin will paint tribal markings, curls, and swirls to your body and/or face on WEDNESDAY from Noon to 2 PM only.",
+        "check_location": true,
+        "slug": "face-and-body-painting",
+        "other_location": "",
+        "event_type": {
+            "abbr": "kid",
+            "label": "Kid-friendly"
         }
     },
     {
@@ -23332,6 +26689,31 @@
         }
     },
     {
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 14:00:00",
+                "end_time": "2015-09-03 15:00:00"
+            }
+        ],
+        "description": "What does it mean to form and become a community? What is the opposite of loneliness? What is connection? As humans, we’re made to live in community with each other. Join us as we delve into the world of fast intimacy and vulnerability through small group and pair activities.",
+        "title": "Fast Intimacy: From Strangers to Family",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15654,
+        "print_description": "What is connection? The opposite of loneliness? Join us to delve into the world of fast intimacy / vulnerability through small group activities.",
+        "check_location": true,
+        "slug": "fast-intimacy-from-strangers-to-family",
+        "other_location": "Camp Galapagos",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
         "hosted_by_camp": {
             "name": "SUNSET LOUNGE",
             "id": 7061
@@ -23415,6 +26797,35 @@
         "event_type": {
             "abbr": "prty",
             "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Dr.Baron von Realz esq. Steampunk",
+            "id": 7156
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 18:00:00",
+                "end_time": "2015-09-01 23:30:00"
+            }
+        ],
+        "description": "carnival del rio style. Like mardi gras, neighborhood jazz walk we will have live jazz musicians to lead a masquerade parade around a few blocks throwing beads and getting a party line going back to camp. Drinking game competition, wet t shirt, body painting, dance lessons, ballroom tango salsa etc.",
+        "title": "Fat Tues Party",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15502,
+        "print_description": "carnival del rio style. Like mardi gras, neighborhood jazz walk we will have live jazz musicians to lead a masquerade parade.",
+        "check_location": false,
+        "slug": "fat-tues-party",
+        "other_location": "",
+        "event_type": {
+            "abbr": "para",
+            "label": "Parade"
         }
     },
     {
@@ -23791,35 +27202,6 @@
     },
     {
         "hosted_by_camp": {
-            "name": "Love Bubble",
-            "id": 8165
-        },
-        "occurrence_set": [
-            {
-                "start_time": "2015-08-31 10:00:00",
-                "end_time": "2015-08-31 11:00:00"
-            }
-        ],
-        "description": "Awaken your third eye to see beyond the Consensus Reality, and into the Shamanic State of Consciousness. Learn how to awaken into and navigate through the space Jung called the Collective Unconscious. It all starts with finding your power animal - architype subconscious entities that have been with you throughout your life. Learn how to tap into the wisdom of the ancients alone, in pairs, and in groups.",
-        "title": "Find Your Power Animal",
-        "url": "",
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "all_day": false,
-        "id": 14190,
-        "print_description": "Intro to the ancient healing art of shamanism. Learn how to journey. Connect with your inner healer. Tap into your innate wisdom.",
-        "check_location": false,
-        "slug": "find-your-power-animal",
-        "other_location": "",
-        "event_type": {
-            "abbr": "cere",
-            "label": "Ritual/Ceremony"
-        }
-    },
-    {
-        "hosted_by_camp": {
             "name": "Shamandome Camp",
             "id": 7035
         },
@@ -23853,10 +27235,39 @@
         "print_description": "Wake up the shaman in you. What wants to happen now? Ask your spirit guide. Transformation Trance Healing. Wisdom of circle. Direct access to source!",
         "check_location": false,
         "slug": "find-your-power-animal",
-        "other_location": "730 and G? ",
+        "other_location": "7:00 and B ",
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Love Bubble",
+            "id": 8165
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 10:00:00",
+                "end_time": "2015-08-31 11:00:00"
+            }
+        ],
+        "description": "Awaken your third eye to see beyond the Consensus Reality, and into the Shamanic State of Consciousness. Learn how to awaken into and navigate through the space Jung called the Collective Unconscious. It all starts with finding your power animal - architype subconscious entities that have been with you throughout your life. Learn how to tap into the wisdom of the ancients alone, in pairs, and in groups.",
+        "title": "Find Your Power Animal",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 14190,
+        "print_description": "Intro to the ancient healing art of shamanism. Learn how to journey. Connect with your inner healer. Tap into your innate wisdom.",
+        "check_location": false,
+        "slug": "find-your-power-animal",
+        "other_location": "",
+        "event_type": {
+            "abbr": "cere",
+            "label": "Ritual/Ceremony"
         }
     },
     {
@@ -24361,6 +27772,51 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Pam's Parlor",
+            "id": 8096
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 10:00:00",
+                "end_time": "2015-08-31 14:00:00"
+            },
+            {
+                "start_time": "2015-09-01 10:00:00",
+                "end_time": "2015-09-01 14:00:00"
+            },
+            {
+                "start_time": "2015-09-02 10:00:00",
+                "end_time": "2015-09-02 14:00:00"
+            },
+            {
+                "start_time": "2015-09-03 10:00:00",
+                "end_time": "2015-09-03 14:00:00"
+            },
+            {
+                "start_time": "2015-09-04 10:00:00",
+                "end_time": "2015-09-04 14:00:00"
+            }
+        ],
+        "description": "Come one, come all to Pam the Albino Mastodon's Tattoo Parlor! Burners are invited to take refuge from the heat and decorate themselves with silver-and-gold flash tattoos that will last the entire week of the Burn. We will definitely be around Monday-Friday 10am-2pm, but feel free to come by any time and say hello.\r\n\r\nJust look for the shiny tent covered in intricately painted patterns! Inside you will find a plush arrangement of carpets, cushions, and couches, as well as several mirrors so that you can regard your beautifying handwork.\r\n\r\nWe look forward to your visit!",
+        "title": "Flash Tattoo Parlor",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15646,
+        "print_description": "Lounge in the shade on furry furniture and adorn your body with uniquely designed gold-and-silver tattoos that will last the whole Burn!",
+        "check_location": true,
+        "slug": "flash-tattoo-parlor",
+        "other_location": "",
+        "event_type": {
+            "abbr": "none",
+            "label": "None"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "F.A.R.T. Kamp",
             "id": 7446
         },
@@ -24468,6 +27924,35 @@
         "event_type": {
             "abbr": "prty",
             "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Camp Contact",
+            "id": 7836
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 16:30:00",
+                "end_time": "2015-09-03 18:00:00"
+            }
+        ],
+        "description": "These lifts can be used in many dance forms from Contact Improvisation to Swing.",
+        "title": "Flight Skills for Dancers",
+        "url": "http://burningman.campcontact.org/node/52227",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15658,
+        "print_description": "Bring your partner to new heights through awareness of structure, muscle and alignment of bodies in motion. Applicable to All Dance Forms.",
+        "check_location": false,
+        "slug": "flight-skills-for-dancers",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
         }
     },
     {
@@ -24616,6 +28101,35 @@
         "event_type": {
             "abbr": "prty",
             "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Hanging Gardens of BRC",
+            "id": 8249
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 12:00:00",
+                "end_time": "2015-09-02 13:30:00"
+            }
+        ],
+        "description": "Bring a friend to our garden, or come make a new one in this acro yoga playshop. To fly and be flown is a gift unlike any other, and a joyful opportunity to connect ever deeper with yourself and others. We will explore several basic mounts for the beginning flyer, and a few intermediate positions for those eager to take major lift-off. Yoga warm up, thai massage, and live music will be a feature of this class. No experience necessary. Bring a mat and a smile :) - Taught by Yoga Instructor Rocky Heron",
+        "title": "Fly!",
+        "url": "https://www.facebook.com/HangingGardensBRC",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15689,
+        "print_description": "Bring a friend to our garden, or come make a new one in this acro yoga playshop.",
+        "check_location": true,
+        "slug": "fly",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
         }
     },
     {
@@ -25015,6 +28529,36 @@
         }
     },
     {
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-04 21:00:00",
+                "end_time": "2015-09-05 07:00:00"
+            }
+        ],
+        "description": "CELEBRATE Freedom For All Freaks Inside The LOVE ILLUMINARIUM. \r\nAn Immersive, Inspirational & Holographic Love Light Experience.",
+        "title": "FREAK FREEDOM FRIDAY",
+        "url": "http://LOVEILLUMINARIUM.WIX.COM/LOVE-ILLUMINARIUM",
+        "located_at_art": {
+            "location_string": "Unknown",
+            "name": "LOVE ILLUMINARIUM",
+            "id": 2517
+        },
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15668,
+        "print_description": "CELEBRATE Freedom For All Freaks Inside The LOVE ILLUMINARIUM. \r\nAn Immersive, Inspirational & Holographic Love Light Experience.",
+        "check_location": true,
+        "slug": "freak-freedom-friday",
+        "other_location": "MamaLove",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
         "hosted_by_camp": {
             "name": "Conception",
             "id": 7171
@@ -25041,6 +28585,85 @@
         "event_type": {
             "abbr": "prty",
             "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "TortoiseTown",
+            "id": 7675
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 14:00:00",
+                "end_time": "2015-09-05 15:00:00"
+            }
+        ],
+        "description": "Stop by our Carnival booth on the corner of D and 6:30 Thurs, Fri and Sat between 2-4pm.   We'll be hosting a wiener grab (we're talking about hotdogs, of course), a kissing booth, clothing-optional twister or Lemonade booth.  Event theme changes daily so come on by and check out what we're doing that day!",
+        "title": "Free Hotdogs or Kisses or Lemonade or Twister",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15684,
+        "print_description": "We're hosting a wiener grab (hotdogs!), a kissing booth, clothing-optional twister or Lemonade booth! Changes daily - come by to see what's going on!",
+        "check_location": false,
+        "slug": "free-hotdogs-or-kisses-or-lemonade-or-twister",
+        "other_location": "TortoiseTown - corner of D and 6:30",
+        "event_type": {
+            "abbr": "food",
+            "label": "Food"
+        }
+    },
+    {
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 13:00:00",
+                "end_time": "2015-08-31 15:00:00"
+            },
+            {
+                "start_time": "2015-09-01 13:00:00",
+                "end_time": "2015-09-01 15:00:00"
+            },
+            {
+                "start_time": "2015-09-02 13:00:00",
+                "end_time": "2015-09-02 15:00:00"
+            },
+            {
+                "start_time": "2015-09-03 13:00:00",
+                "end_time": "2015-09-03 15:00:00"
+            },
+            {
+                "start_time": "2015-09-04 13:00:00",
+                "end_time": "2015-09-04 15:00:00"
+            },
+            {
+                "start_time": "2015-09-05 13:00:00",
+                "end_time": "2015-09-05 15:00:00"
+            }
+        ],
+        "description": "Group Play Experiments. Including, Sending Out Hugging Parties On A Free Hugs Adventure. Drawing People Into The Great Hug Experiment.",
+        "title": "FREE HUG FREE FOR ALL ",
+        "url": "http://LOVEILLUMINARIUM.WIX.COM/LOVE-ILLUMINARIUM",
+        "located_at_art": {
+            "location_string": "Unknown",
+            "name": "LOVE ILLUMINARIUM",
+            "id": 2517
+        },
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15675,
+        "print_description": "Group Play Experiments. Including, Sending Out Hugging Parties On A Free Hugs Adventure. Drawing People Into The Great Hug Experiment.",
+        "check_location": true,
+        "slug": "free-hug-free-for-all",
+        "other_location": "MamaLove",
+        "event_type": {
+            "abbr": "kid",
+            "label": "Kid-friendly"
         }
     },
     {
@@ -25384,8 +29007,8 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-01 22:00:00",
-                "end_time": "2015-09-01 23:00:00"
+                "start_time": "2015-09-01 23:45:00",
+                "end_time": "2015-09-02 00:45:00"
             }
         ],
         "description": "The title says it all. Eat our fruit, show us your balls. Music and mingling.",
@@ -25557,47 +29180,6 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-08-31 20:00:00",
-                "end_time": "2015-08-31 23:45:00"
-            },
-            {
-                "start_time": "2015-09-01 20:00:00",
-                "end_time": "2015-09-01 23:45:00"
-            },
-            {
-                "start_time": "2015-09-02 20:00:00",
-                "end_time": "2015-09-02 23:45:00"
-            },
-            {
-                "start_time": "2015-09-03 20:00:00",
-                "end_time": "2015-09-03 23:45:00"
-            }
-        ],
-        "description": "Retrofrolic's LGBTQ friendly BDSM dungeon is open for sensual exploration.  Spanking Benches, Massage Tables, St. Andrew's Cross', Suspension Point, Sex Swing and their famous PONY are available for play through the night.  Colored lighting and music for every taste rounds out the ambiance enjoyed along with our TWENTY play spaces!  21 and older only!",
-        "title": "Funhouse After Dark",
-        "url": "http://www.retrofrolic.com/",
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "all_day": false,
-        "id": 14739,
-        "print_description": "LGBTQ friendly BDSM dungeon is open for sensual exploration.  Spanking Benches, Massage Tables, St. Andrew's Cross', Suspension Point, Sex Swing!",
-        "check_location": true,
-        "slug": "funhouse-after-dark",
-        "other_location": "Lascivious",
-        "event_type": {
-            "abbr": "adlt",
-            "label": "Adult-oriented"
-        }
-    },
-    {
-        "hosted_by_camp": {
-            "name": "Retrofrolic",
-            "id": 7357
-        },
-        "occurrence_set": [
-            {
                 "start_time": "2015-08-31 00:00:00",
                 "end_time": "2015-08-31 02:00:00"
             },
@@ -25628,6 +29210,47 @@
         "all_day": false,
         "id": 14773,
         "print_description": "LGBTQ friendly BDSM dungeon is open for sensual exploration.  Spanking Benches, Massage Tables, St. Andrew's Cross', Suspension Point, PONY!",
+        "check_location": true,
+        "slug": "funhouse-after-dark",
+        "other_location": "Lascivious",
+        "event_type": {
+            "abbr": "adlt",
+            "label": "Adult-oriented"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Retrofrolic",
+            "id": 7357
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 20:00:00",
+                "end_time": "2015-08-31 23:45:00"
+            },
+            {
+                "start_time": "2015-09-01 20:00:00",
+                "end_time": "2015-09-01 23:45:00"
+            },
+            {
+                "start_time": "2015-09-02 20:00:00",
+                "end_time": "2015-09-02 23:45:00"
+            },
+            {
+                "start_time": "2015-09-03 20:00:00",
+                "end_time": "2015-09-03 23:45:00"
+            }
+        ],
+        "description": "Retrofrolic's LGBTQ friendly BDSM dungeon is open for sensual exploration.  Spanking Benches, Massage Tables, St. Andrew's Cross', Suspension Point, Sex Swing and their famous PONY are available for play through the night.  Colored lighting and music for every taste rounds out the ambiance enjoyed along with our TWENTY play spaces!  21 and older only!",
+        "title": "Funhouse After Dark",
+        "url": "http://www.retrofrolic.com/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 14739,
+        "print_description": "LGBTQ friendly BDSM dungeon is open for sensual exploration.  Spanking Benches, Massage Tables, St. Andrew's Cross', Suspension Point, Sex Swing!",
         "check_location": true,
         "slug": "funhouse-after-dark",
         "other_location": "Lascivious",
@@ -25691,31 +29314,39 @@
     },
     {
         "hosted_by_camp": {
-            "name": "Duckpond",
-            "id": 7117
+            "name": "Funnel Vision",
+            "id": 8017
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-04 20:00:00",
-                "end_time": "2015-09-04 23:45:00"
+                "start_time": "2015-09-01 17:00:00",
+                "end_time": "2015-09-01 19:00:00"
+            },
+            {
+                "start_time": "2015-09-03 17:00:00",
+                "end_time": "2015-09-03 19:00:00"
+            },
+            {
+                "start_time": "2015-09-04 17:00:00",
+                "end_time": "2015-09-04 19:00:00"
             }
         ],
-        "description": "It's time for the ducks to migrate back home. Come say goodbye and get funky with us!",
-        "title": "Funky Ducks Mother Ducking Goodbye Party",
-        "url": "",
+        "description": "Come join us for some delicious funnel cakes. Decorate them with our various toppings or feel free to bring your own.",
+        "title": "Funnel Cake Funhouse",
+        "url": "http://funnelvision.camp/",
         "year": {
             "id": 11,
             "year": "2015"
         },
         "all_day": false,
-        "id": 14456,
-        "print_description": "It's time for the ducks to migrate back home. Come say goodbye and get funky with us!",
-        "check_location": false,
-        "slug": "funky-ducks-mother-ducking-goodbye-party",
+        "id": 15554,
+        "print_description": "Come join us for some delicious funnel cakes. Decorate them with our various toppings or feel free to bring your own.",
+        "check_location": true,
+        "slug": "funnel-cake-funhouse",
         "other_location": "",
         "event_type": {
-            "abbr": "prty",
-            "label": "Gathering/Party"
+            "abbr": "food",
+            "label": "Food"
         }
     },
     {
@@ -25745,35 +29376,6 @@
         "event_type": {
             "abbr": "prty",
             "label": "Gathering/Party"
-        }
-    },
-    {
-        "hosted_by_camp": {
-            "name": "Down Low Club",
-            "id": 7094
-        },
-        "occurrence_set": [
-            {
-                "start_time": "2015-09-04 20:00:00",
-                "end_time": "2015-09-05 02:00:00"
-            }
-        ],
-        "description": "Are you just wild about Hairy? Does a furry man bring out the beast in you? Tonight, furry adult Gay, Queer, Bi & Curious men of the Playa and the adult men into them let their hair down to gather for hot man-to-man action in Down Low Club’s discreet, enclosed, air-conditioned manplay tent. Open 24/7 all week, it'll be packed tonight with adult men ranging from smooth to Sasquatch. Missed the whole chia pet craze? Here’s your chance now to play with some of the Playa's furriest manimals! Remember, what happens at Burning Man, stays at Burning Man…",
-        "title": "Furry Fun Manplay",
-        "url": "https://www.facebook.com/groups/557666564336453/",
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "all_day": false,
-        "id": 15124,
-        "print_description": "Furred adult men & the men that love them gather for hot man-to-man play in Down Low Club's discreet, enclosed, air-conditioned manplay tent open 24/7",
-        "check_location": true,
-        "slug": "furry-fun-manplay",
-        "other_location": "",
-        "event_type": {
-            "abbr": "adlt",
-            "label": "Adult-oriented"
         }
     },
     {
@@ -26083,35 +29685,6 @@
     },
     {
         "hosted_by_camp": {
-            "name": "Down Low Club",
-            "id": 7094
-        },
-        "occurrence_set": [
-            {
-                "start_time": "2015-08-31 20:00:00",
-                "end_time": "2015-08-31 23:00:00"
-            }
-        ],
-        "description": "BRC's LGBTQQ community & friends kick off the week in festive rainbow colors w/libations, music & info exchange on the week's Gay/Queer-oriented events. This official annual opening-night gathering is hosted by Down Low Club Camp in memory of Mario Cisneros, founder of the event. Come meet new friends, reaquaint with those from past Burns, spark a new Playa romance or rekindle one from the past. Gather with your LGBTQQ brothers & sisters to learn where they're camped & what's planned for the week on the Playa. Bring a flyer or other info about your Gay/Queer-oriented events to post on our LGBTQQ Community Bulletin Board.",
-        "title": "Gay/Queer Meet & Greet",
-        "url": "https://www.facebook.com/groups/557666564336453/",
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "all_day": false,
-        "id": 15097,
-        "print_description": "LGBTQQ Burners & friends kick it off w/rainbow colors, music, libations & info about the week's Gay/Queer events. Meet, reacquaint, spark something!",
-        "check_location": true,
-        "slug": "gayqueer-meet-greet",
-        "other_location": "",
-        "event_type": {
-            "abbr": "prty",
-            "label": "Gathering/Party"
-        }
-    },
-    {
-        "hosted_by_camp": {
             "name": "Gerlach-Empire Bus Stop & Tickets",
             "id": 7310
         },
@@ -26352,6 +29925,35 @@
         "event_type": {
             "abbr": "prty",
             "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Salute Your Jorts!",
+            "id": 7684
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-04 12:00:00",
+                "end_time": "2015-09-04 16:00:00"
+            }
+        ],
+        "description": "Are you ready to get Burning Man hitched?  Great!  We will provide the altar, the music, the officiant, and the tears.  You provide the people.",
+        "title": "Get Married by a Stranger",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15488,
+        "print_description": "Are you ready to get Burning Man hitched?  Great!  We will provide the altar, the music, the officiant, and the tears.  You provide the people.",
+        "check_location": true,
+        "slug": "get-married-by-a-stranger",
+        "other_location": "",
+        "event_type": {
+            "abbr": "cere",
+            "label": "Ritual/Ceremony"
         }
     },
     {
@@ -26837,6 +30439,59 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Dr.Baron von Realz esq. Steampunk",
+            "id": 7156
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 10:00:00",
+                "end_time": "2015-08-31 15:00:00"
+            },
+            {
+                "start_time": "2015-09-01 10:00:00",
+                "end_time": "2015-09-01 15:00:00"
+            },
+            {
+                "start_time": "2015-09-02 10:00:00",
+                "end_time": "2015-09-02 15:00:00"
+            },
+            {
+                "start_time": "2015-09-03 10:00:00",
+                "end_time": "2015-09-03 15:00:00"
+            },
+            {
+                "start_time": "2015-09-04 10:00:00",
+                "end_time": "2015-09-04 15:00:00"
+            },
+            {
+                "start_time": "2015-09-05 10:00:00",
+                "end_time": "2015-09-05 15:00:00"
+            },
+            {
+                "start_time": "2015-09-06 10:00:00",
+                "end_time": "2015-09-06 15:00:00"
+            }
+        ],
+        "description": "come by and get your FREE souvenir!",
+        "title": "Gift shop",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15516,
+        "print_description": "come by and get your FREE souvenir!",
+        "check_location": false,
+        "slug": "gift-shop",
+        "other_location": "",
+        "event_type": {
+            "abbr": "care",
+            "label": "Care/Support"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Gigsville",
             "id": 8235
         },
@@ -27031,6 +30686,123 @@
         "event_type": {
             "abbr": "prty",
             "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Everywhere Pavilion",
+            "id": 7323
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 14:00:00",
+                "end_time": "2015-09-03 15:00:00"
+            }
+        ],
+        "description": "Meet selection committee members and past grantees and learn about how to a grant for an off-playa art project from Burning Man Arts.",
+        "title": "Global Art Grants program discussion and Q&A",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15769,
+        "print_description": "Meet selection committee members and past grantees and learn about how to a grant for an off-playa art project from Burning Man Arts.",
+        "check_location": false,
+        "slug": "global-art-grants-program-discussion-and-qa",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 20:30:00",
+                "end_time": "2015-09-01 22:30:00"
+            }
+        ],
+        "description": "Tuesday at sunset wear your brightest dayglow duds and bring your poi, flags, hoops, fire and staffs out to the Family Jewels in the playa and dance under our UV lights. Booming music by BAAAHS (the Big Ass Amazingly Awesome Homosexual Sheep), everybody's favorite sheep mutant vehicle. \r\n\r\nBring all your glowing friends.",
+        "title": "Glow & Flow Dance Party at The Family Jewels",
+        "url": "https://www.facebook.com/events/851300358252788/",
+        "located_at_art": {
+            "location_string": "Unknown",
+            "name": "The Family Jewels Project",
+            "id": 2485
+        },
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15734,
+        "print_description": "Tuesday at sunset wear your brightest dayglow and dance under our UV lights at the Family Jewels. Music by BAAAHS!",
+        "check_location": false,
+        "slug": "glow-flow-dance-party-at-the-family-jewels",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Gnome Camp",
+            "id": 7585
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 14:00:00",
+                "end_time": "2015-09-01 15:00:00"
+            }
+        ],
+        "description": "Come adopt a gnome of your very own from the Gnome Adoption Agency! But first you'll have to prove yourself a worthy gnome parent via our rigorous interview process.",
+        "title": "Gnome Adoptions",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15711,
+        "print_description": "Come adopt a gnome of your very own from the Gnome Adoption Agency! But first you'll have to prove yourself a worthy gnome parent.",
+        "check_location": false,
+        "slug": "gnome-adoptions",
+        "other_location": "",
+        "event_type": {
+            "abbr": "kid",
+            "label": "Kid-friendly"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Gnome Camp",
+            "id": 7585
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 14:00:00",
+                "end_time": "2015-09-02 15:00:00"
+            }
+        ],
+        "description": "Become a gnome and be trained in the ancient art of gnomish mischief! Gnomes are friendly and devious, spreading joy and confusion across the playa. We will turn you into a gnome with a (mostly) painless process and give you all the tools you need to mystify and delight your fellow burners. The transmogrification and training will culminate with gnew gnomes being escorted off into the wild of the playa to practice their new mischievous skills.",
+        "title": "Gnomish Mischief",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15710,
+        "print_description": "Become a gnome & be trained in the ancient art of gnomish mischief! Training will culminate with gnew gnomes making mischief across the playa!",
+        "check_location": false,
+        "slug": "gnomish-mischief",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
         }
     },
     {
@@ -27304,35 +31076,6 @@
     },
     {
         "hosted_by_camp": {
-            "name": "ABC Alphabet Block Camp",
-            "id": 7151
-        },
-        "occurrence_set": [
-            {
-                "start_time": "2015-09-02 14:00:00",
-                "end_time": "2015-09-02 15:00:00"
-            }
-        ],
-        "description": "Join in the ultimate confrontation of Good versus Evil/Super Heroes versus Super Villains. Bring your own nemesis or make a new adversary on the playa. A chance to dress in that capped costume or come as you are. Face the mirrored duality of human existence in this Carnival of life. Opposed and contrasted powers of human expression on either side. Without the superhero, what would a super-villain be? Each a reflection of the other, that necessary contrast identifying which mirror image is perceived to be true and good, while the reversed reflection is the hated other and evil. \r\n Rally before the ABC Blocks for a possible dance-off, and then join your dedicated rivals and opponents for a nice casual stroll around Center Camp while sharing some quality inter-personal time with your sworn adversary, listening to your arch-antagonist and conversating away cataclysmic differences with your sworn blood enemy. End the this oppositional encounter with an optional stop at Center Camp where you can buy your adversary an iced coffee or maybe pick up an extra bag of ice to supply the lair of your nemesis. \r\nGood versus Evil.\r\nSuper Hero vs Super Villain.\r\nDark vs Light. \r\nYing versus Yang.\r\nKirk versus Khan\r\nDemocracy vs Despot.\r\nCostco vs Wallmart.\r\nLive vs EDM.\r\nSlut vs Virgin\r\nJeckle vs Hyde.\r\nApples vs Oranges\r\nThe Resistance vs The Empire.\r\nBeowulf vs Grendel.\r\nCrazy Horse vs General George Armstrong Custer. \r\nLazarus vs Anti-Lazarus\r\nHumanitarian vs Capitalist.\r\nAllies vs Axis.\r\nSalty versus Sweet\r\nJesus versus Satan.\r\nJazz versus Progressive Jazz.\r\nMCs versus DJs.\r\nGrilled Cheese versus Dusty Hugs.\r\nBRCCP vs PnP.",
-        "title": "Good versus Evil/SuperHeroes vs SuperVillians ",
-        "url": "http://www.ccnv.us/abc15/",
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "all_day": false,
-        "id": 14330,
-        "print_description": "Bring an arch nemesis, find one here. Join a capped costumed (or not) cataclysmic face-off/social mixer of mirrored adversaries in life's carnival.",
-        "check_location": false,
-        "slug": "good-versus-evilsuperheroes-vs-supervillians",
-        "other_location": "",
-        "event_type": {
-            "abbr": "prty",
-            "label": "Gathering/Party"
-        }
-    },
-    {
-        "hosted_by_camp": {
             "name": "Horny Camp",
             "id": 8111
         },
@@ -27509,6 +31252,36 @@
         }
     },
     {
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 18:00:00",
+                "end_time": "2015-08-31 20:00:00"
+            }
+        ],
+        "description": "Join US For A Co-Created Culinary Experiment. Bring Your Appetites & Creative Supplies for Grilled Cheese Sandwiches, Salads & Vegan-Esque Options.",
+        "title": "GREAT GRILLED CHEESE GIVEAWAY ",
+        "url": "http://LOVEILLUMINARIUM.WIX.COM/LOVE-ILLUMINARIUM",
+        "located_at_art": {
+            "location_string": "Unknown",
+            "name": "LOVE ILLUMINARIUM",
+            "id": 2517
+        },
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15663,
+        "print_description": "Join US For A Co-Created Culinary Experiment. Bring Your Appetites & Creative Supplies for Grilled Cheese Sandwiches, Salads & Vegan-Esque Options.",
+        "check_location": true,
+        "slug": "great-grilled-cheese-giveaway",
+        "other_location": "MamaLove",
+        "event_type": {
+            "abbr": "food",
+            "label": "Food"
+        }
+    },
+    {
         "hosted_by_camp": {
             "name": "Camp Boom Boom Womb",
             "id": 8189
@@ -27564,6 +31337,84 @@
         "event_type": {
             "abbr": "cere",
             "label": "Ritual/Ceremony"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Gruvhaus",
+            "id": 7405
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 12:00:00",
+                "end_time": "2015-08-31 16:00:00"
+            },
+            {
+                "start_time": "2015-09-01 12:00:00",
+                "end_time": "2015-09-01 16:00:00"
+            },
+            {
+                "start_time": "2015-09-02 12:00:00",
+                "end_time": "2015-09-02 16:00:00"
+            },
+            {
+                "start_time": "2015-09-03 12:00:00",
+                "end_time": "2015-09-03 16:00:00"
+            },
+            {
+                "start_time": "2015-09-04 12:00:00",
+                "end_time": "2015-09-04 16:00:00"
+            },
+            {
+                "start_time": "2015-09-05 12:00:00",
+                "end_time": "2015-09-05 16:00:00"
+            }
+        ],
+        "description": "Each day we will be tapping different chilled home and micro brew on draft as well as vodka and crans. Special Randallized beers will happen as well.",
+        "title": "Gruvhaus Cold Draft Beer and Cocktails",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15810,
+        "print_description": "Each day we will be tapping different chilled home and micro brew on draft as well as vodka and crans. Special Randallized beers will happen as well.",
+        "check_location": false,
+        "slug": "gruvhaus-cold-draft-beer-and-cocktails",
+        "other_location": "",
+        "event_type": {
+            "abbr": "adlt",
+            "label": "Adult-oriented"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Gruvhaus",
+            "id": 7405
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 19:30:00",
+                "end_time": "2015-08-31 22:30:00"
+            }
+        ],
+        "description": "Come refresh yourself with cold draft brew and cocktails. Carouse and dance to dope gruvs to get your evening started proper.",
+        "title": "Gruvhaus Sunset Soiree",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15808,
+        "print_description": "Come refresh yourself with cold draft brew and cocktails. Carouse and dance to dope gruvs to get your evening started proper.",
+        "check_location": false,
+        "slug": "gruvhaus-sunset-soiree",
+        "other_location": "",
+        "event_type": {
+            "abbr": "adlt",
+            "label": "Adult-oriented"
         }
     },
     {
@@ -27732,35 +31583,6 @@
         ],
         "description": "Witchy women, nomadic mystics, and those forever transient: Follow the traveler’s road to discover a Gypsy Dance Party of astrological proportions!  See your future in the swirling dust while dancing to the sorcerous mash-ups (music with lyrics!) of DJ LobsterDust (Bootie, LA & NYC). Join our vagabond tribe as we drink to good health and curse those who have done us wrong with enchanting gin & gingers (our specialty cocktail) or experience the magic crystals (alcoholic snow cones).  Palms will be read, spells will be cast and destinies will be changed. Don’t miss it… because when the sun moves on, so do we.",
         "title": " Gypsy Mirrorball Sunset Dance Party",
-        "url": "",
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "all_day": false,
-        "id": 13285,
-        "print_description": "A Dance Party of prophetic proportions! See your future in the mystic mash-ups (music with lyrics!) of DJ LobsterDust. Palms read & spells cast!",
-        "check_location": true,
-        "slug": "gypsy-mirrorball-sunset-dance-party",
-        "other_location": "",
-        "event_type": {
-            "abbr": "prty",
-            "label": "Gathering/Party"
-        }
-    },
-    {
-        "hosted_by_camp": {
-            "name": "Paradise Motel",
-            "id": 7256
-        },
-        "occurrence_set": [
-            {
-                "start_time": "2015-09-01 17:00:00",
-                "end_time": "2015-09-01 19:00:00"
-            }
-        ],
-        "description": "Witchy women, nomadic mystics, and those forever transient: Follow the traveler’s road to discover a Gypsy Dance Party of astrological proportions!  See your future in the swirling dust while dancing to the sorcerous mash-ups (music with lyrics!) of DJ LobsterDust (Bootie, LA & NYC). Join our vagabond tribe as we drink to good health and curse those who have done us wrong with enchanting gin & gingers (our specialty cocktail) or experience the magic crystals (alcoholic snow cones).  Palms will be read, spells will be cast and destinies will be changed. Don’t miss it… because when the sun moves on, so do we.",
-        "title": " Gypsy Mirrorball Sunset Dance Party",
         "url": "http://www.desertparadise.org/",
         "year": {
             "id": 11,
@@ -27797,6 +31619,35 @@
         },
         "all_day": false,
         "id": 13284,
+        "print_description": "A Dance Party of prophetic proportions! See your future in the mystic mash-ups (music with lyrics!) of DJ LobsterDust. Palms read & spells cast!",
+        "check_location": true,
+        "slug": "gypsy-mirrorball-sunset-dance-party",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Paradise Motel",
+            "id": 7256
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 17:00:00",
+                "end_time": "2015-09-01 19:00:00"
+            }
+        ],
+        "description": "Witchy women, nomadic mystics, and those forever transient: Follow the traveler’s road to discover a Gypsy Dance Party of astrological proportions!  See your future in the swirling dust while dancing to the sorcerous mash-ups (music with lyrics!) of DJ LobsterDust (Bootie, LA & NYC). Join our vagabond tribe as we drink to good health and curse those who have done us wrong with enchanting gin & gingers (our specialty cocktail) or experience the magic crystals (alcoholic snow cones).  Palms will be read, spells will be cast and destinies will be changed. Don’t miss it… because when the sun moves on, so do we.",
+        "title": " Gypsy Mirrorball Sunset Dance Party",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 13285,
         "print_description": "A Dance Party of prophetic proportions! See your future in the mystic mash-ups (music with lyrics!) of DJ LobsterDust. Palms read & spells cast!",
         "check_location": true,
         "slug": "gypsy-mirrorball-sunset-dance-party",
@@ -27954,6 +31805,56 @@
     {
         "occurrence_set": [
             {
+                "start_time": "2015-08-31 17:00:00",
+                "end_time": "2015-08-31 18:00:00"
+            },
+            {
+                "start_time": "2015-09-01 17:00:00",
+                "end_time": "2015-09-01 18:00:00"
+            },
+            {
+                "start_time": "2015-09-02 17:00:00",
+                "end_time": "2015-09-02 18:00:00"
+            },
+            {
+                "start_time": "2015-09-03 17:00:00",
+                "end_time": "2015-09-03 18:00:00"
+            },
+            {
+                "start_time": "2015-09-04 17:00:00",
+                "end_time": "2015-09-04 18:00:00"
+            },
+            {
+                "start_time": "2015-09-05 17:00:00",
+                "end_time": "2015-09-05 18:00:00"
+            }
+        ],
+        "description": "Group Play Experiments. Awaken Your Inner Child. Come Be Silly & Play Games. Discover & Share Your Inner Happy Dance.",
+        "title": "HAPPY DANCE HAPPY HOUR",
+        "url": "http://LOVEILLUMINARIUM.WIX.COM/LOVE-ILLUMINARIUM",
+        "located_at_art": {
+            "location_string": "Unknown",
+            "name": "LOVE ILLUMINARIUM",
+            "id": 2517
+        },
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15678,
+        "print_description": "Group Play Experiments. Awaken Your Inner Child. Come Be Silly & Play Games. Discover & Share Your Inner Happy Dance.",
+        "check_location": true,
+        "slug": "happy-dance-happy-hour",
+        "other_location": "MamaLove",
+        "event_type": {
+            "abbr": "kid",
+            "label": "Kid-friendly"
+        }
+    },
+    {
+        "occurrence_set": [
+            {
                 "start_time": "2015-09-01 17:00:00",
                 "end_time": "2015-09-01 18:00:00"
             }
@@ -28015,7 +31916,7 @@
         "print_description": "Delicious drinks, cookie decorating, games, and a stripper pole. Come get frisky with the crew of the Battlestar Erotica!",
         "check_location": false,
         "slug": "happy-hour-and-confections-at-battlestar-erotica",
-        "other_location": "",
+        "other_location": "2:30 & Ballyhoo",
         "event_type": {
             "abbr": "prty",
             "label": "Gathering/Party"
@@ -28208,7 +32109,7 @@
         "print_description": "Navigate among lovers, maintain affection and transparency without losing your center or your good reputation.",
         "check_location": false,
         "slug": "harem-management-clinic-coed",
-        "other_location": "730 and G?",
+        "other_location": "7:00 and B",
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
@@ -28237,7 +32138,7 @@
         "print_description": "Navigate among lovers, maintain affection and transparency without losing your center or your good reputation.",
         "check_location": false,
         "slug": "harem-management-clinic-for-women",
-        "other_location": "730 and G?",
+        "other_location": "7:00 and B",
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
@@ -28324,10 +32225,6 @@
             {
                 "start_time": "2015-09-02 10:30:00",
                 "end_time": "2015-09-02 12:00:00"
-            },
-            {
-                "start_time": "2015-09-03 11:00:00",
-                "end_time": "2015-09-03 12:30:00"
             }
         ],
         "description": "Access the infinite field of potential underlying all creation and residing within you. Give your human mechanism/energy body an upgrade.",
@@ -28631,6 +32528,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Dr.Baron von Realz esq. Steampunk",
+            "id": 7156
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 12:30:00",
+                "end_time": "2015-09-03 14:00:00"
+            }
+        ],
+        "description": "The playa can be emotionally exhausting especially for couples. We will provide a safe space to talk and heal. We have really good listener with no judgment or expectations.",
+        "title": "Healing for couples on playa ",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15506,
+        "print_description": "The playa can be emotionally exhausting especially for couples. We will provide a safe space to talk and heal. We have really good listener.",
+        "check_location": false,
+        "slug": "healing-for-couples-on-playa",
+        "other_location": "",
+        "event_type": {
+            "abbr": "care",
+            "label": "Care/Support"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Sacred Spaces Village",
             "id": 7816
         },
@@ -28826,35 +32752,6 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-01 16:00:00",
-                "end_time": "2015-09-01 17:00:00"
-            }
-        ],
-        "description": "Divine is a mixture between the Hot Yoga poses and the Power Vinyasa asanas. A great combination of both practices and an excellent way to get into the flow routine and explore the benefits of movement and breath. Hot Fusion Yoga offers the perfect mixture of strength, flexibility and relaxation.",
-        "title": "Heavenly Yoga - Divine",
-        "url": "http://shangrila.heavenlyyoga.us/schedule.shtml",
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "all_day": false,
-        "id": 15355,
-        "print_description": "Divine is a mixture between the Hot Yoga poses and the Power Vinyasa asanas. An excellent way to explore the benefits of movement and breath.",
-        "check_location": false,
-        "slug": "heavenly-yoga-divine",
-        "other_location": "",
-        "event_type": {
-            "abbr": "work",
-            "label": "Class/Workshop"
-        }
-    },
-    {
-        "hosted_by_camp": {
-            "name": "ShangriLa",
-            "id": 7490
-        },
-        "occurrence_set": [
-            {
                 "start_time": "2015-08-31 10:30:00",
                 "end_time": "2015-08-31 11:30:00"
             },
@@ -28888,26 +32785,22 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-02 10:30:00",
-                "end_time": "2015-09-02 11:30:00"
-            },
-            {
-                "start_time": "2015-09-05 10:30:00",
-                "end_time": "2015-09-05 11:30:00"
+                "start_time": "2015-09-01 16:00:00",
+                "end_time": "2015-09-01 17:00:00"
             }
         ],
-        "description": "Joy is a very gentle Hatha Yoga class that holds poses longer and works with relaxing the entire body, while bringing awareness to all the muscles, joints, veins, tissues and organs. It also uses the breath to go deeper into opening restricted areas in the body and exploring the benefits of meditation. A truly joyful experience.",
-        "title": "Heavenly Yoga - Joy",
+        "description": "Divine is a mixture between the Hot Yoga poses and the Power Vinyasa asanas. A great combination of both practices and an excellent way to get into the flow routine and explore the benefits of movement and breath. Hot Fusion Yoga offers the perfect mixture of strength, flexibility and relaxation.",
+        "title": "Heavenly Yoga - Divine",
         "url": "http://shangrila.heavenlyyoga.us/schedule.shtml",
         "year": {
             "id": 11,
             "year": "2015"
         },
         "all_day": false,
-        "id": 15347,
-        "print_description": "Joy is a very gentle Hatha Yoga class that holds poses longer and works with relaxing the entire body, while bringing awareness to the entire body.",
+        "id": 15355,
+        "print_description": "Divine is a mixture between the Hot Yoga poses and the Power Vinyasa asanas. An excellent way to explore the benefits of movement and breath.",
         "check_location": false,
-        "slug": "heavenly-yoga-joy",
+        "slug": "heavenly-yoga-divine",
         "other_location": "",
         "event_type": {
             "abbr": "work",
@@ -28938,6 +32831,39 @@
         },
         "all_day": false,
         "id": 15346,
+        "print_description": "Joy is a very gentle Hatha Yoga class that holds poses longer and works with relaxing the entire body, while bringing awareness to the entire body.",
+        "check_location": false,
+        "slug": "heavenly-yoga-joy",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "ShangriLa",
+            "id": 7490
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 10:30:00",
+                "end_time": "2015-09-02 11:30:00"
+            },
+            {
+                "start_time": "2015-09-05 10:30:00",
+                "end_time": "2015-09-05 11:30:00"
+            }
+        ],
+        "description": "Joy is a very gentle Hatha Yoga class that holds poses longer and works with relaxing the entire body, while bringing awareness to all the muscles, joints, veins, tissues and organs. It also uses the breath to go deeper into opening restricted areas in the body and exploring the benefits of meditation. A truly joyful experience.",
+        "title": "Heavenly Yoga - Joy",
+        "url": "http://shangrila.heavenlyyoga.us/schedule.shtml",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15347,
         "print_description": "Joy is a very gentle Hatha Yoga class that holds poses longer and works with relaxing the entire body, while bringing awareness to the entire body.",
         "check_location": false,
         "slug": "heavenly-yoga-joy",
@@ -29098,16 +33024,16 @@
                 "end_time": "2015-09-05 18:00:00"
             }
         ],
-        "description": "HeeBeeGeeBee Healers is an oasis for nurturing, grounding and healing. Stop by to hang out and chill or to receive bodywork and healing of all sorts.",
+        "description": "HeeBeeGeeBee Healers is an oasis for nurturing, grounding and healing. Stop by to hang out and chill or to receive bodywork and healing of all sorts from a staff of 15 healers. We also have classes from 8am to 6pm and offer yoga daily at 8:30am.",
         "title": "HeeBeeGeeBee Healing",
-        "url": "http://heebeegeebeehealers.org/",
+        "url": "http://www.heebeegeebeehealers.org/",
         "year": {
             "id": 11,
             "year": "2015"
         },
         "all_day": false,
-        "id": 13293,
-        "print_description": "HeeBeeGeeBee Healers is an oasis for nurturing, grounding and healing. Stop by to hang out and chill or to receive bodywork and healing of all sorts.",
+        "id": 13548,
+        "print_description": "HeeBeeGeeBee Healers is an oasis for nurturing, grounding and healing. Stop by to receive bodywork and hands on healing of all sorts...or just chill.",
         "check_location": false,
         "slug": "heebeegeebee-healing",
         "other_location": "",
@@ -29147,22 +33073,47 @@
                 "end_time": "2015-09-05 18:00:00"
             }
         ],
-        "description": "HeeBeeGeeBee Healers is an oasis for nurturing, grounding and healing. Stop by to hang out and chill or to receive bodywork and healing of all sorts from a staff of 15 healers. We also have classes from 8am to 6pm and offer yoga daily at 8:30am.",
+        "description": "HeeBeeGeeBee Healers is an oasis for nurturing, grounding and healing. Stop by to hang out and chill or to receive bodywork and healing of all sorts.",
         "title": "HeeBeeGeeBee Healing",
-        "url": "http://www.heebeegeebeehealers.org/",
+        "url": "http://heebeegeebeehealers.org/",
         "year": {
             "id": 11,
             "year": "2015"
         },
         "all_day": false,
-        "id": 13548,
-        "print_description": "HeeBeeGeeBee Healers is an oasis for nurturing, grounding and healing. Stop by to receive bodywork and hands on healing of all sorts...or just chill.",
+        "id": 13293,
+        "print_description": "HeeBeeGeeBee Healers is an oasis for nurturing, grounding and healing. Stop by to hang out and chill or to receive bodywork and healing of all sorts.",
         "check_location": false,
         "slug": "heebeegeebee-healing",
         "other_location": "",
         "event_type": {
             "abbr": "care",
             "label": "Care/Support"
+        }
+    },
+    {
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 13:00:00",
+                "end_time": "2015-09-02 17:00:00"
+            }
+        ],
+        "description": "Live music performances and Deep House DJ sets by our resident Camp XOXO DJ's",
+        "title": "Helios - Deep House Dance Party",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15760,
+        "print_description": "Live music performances and Deep House DJ sets by our resident Camp XOXO DJ's",
+        "check_location": false,
+        "slug": "helios-deep-house-dance-party",
+        "other_location": "XOXO &  Short Bus",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
         }
     },
     {
@@ -29221,6 +33172,35 @@
         "event_type": {
             "abbr": "cere",
             "label": "Ritual/Ceremony"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Dr.Baron von Realz esq. Steampunk",
+            "id": 7156
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 11:00:00",
+                "end_time": "2015-09-01 12:00:00"
+            }
+        ],
+        "description": "Learn to make hemp or yarn knotted bracelets and necklaces you can give as gifts or keep as souvenirs. We will supply materials and a instructor to help you. So come join us.",
+        "title": "Hemp necklace & bracelets workshop",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15500,
+        "print_description": "Learn to make hemp or yarn knotted bracelets and necklaces you can give as gifts or keep as souvenirs. We will supply materials and instructor.",
+        "check_location": false,
+        "slug": "hemp-necklace-bracelets-workshop",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
         }
     },
     {
@@ -29725,6 +33705,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "ABR: Acronym Being Reconsidered",
+            "id": 7636
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-04 15:00:00",
+                "end_time": "2015-09-04 16:00:00"
+            }
+        ],
+        "description": "Enjoy our home-brewed beer while listening to heavier tunes. Bring a cup, your love for beer, and get ready to headbang.",
+        "title": "Homebrew & Headbang",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15634,
+        "print_description": "Enjoy our home-brewed beer while listening to heavier tunes. Bring a cup, your love for beer, and get ready to headbang.",
+        "check_location": true,
+        "slug": "homebrew-headbang",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Home Brew 4A Home Brew",
             "id": 7073
         },
@@ -29750,6 +33759,64 @@
         "event_type": {
             "abbr": "food",
             "label": "Food"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Enchanted Booty Village",
+            "id": 7306
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 21:00:00",
+                "end_time": "2015-09-02 00:00:00"
+            }
+        ],
+        "description": "WELCOME HOME!!! Enrobe yourself in your finest apparel, walk down our red carpet, and then wriggle on the dance floor to booty wiggling beats that are all about that bass! Find the makeout corner, slurp down some spiked punch and spin the booty wheel of misfortune, but watch out for our chaperone and leave space for JC! (He likes being in the middle of twosomes!).",
+        "title": "Homecoming Dance",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15558,
+        "print_description": "Enrobe yourself in your finest apparel, walk down our red carpet, sip spiked punch and wriggle on the dance floor to booty wigglin beats!",
+        "check_location": true,
+        "slug": "homecoming-dance",
+        "other_location": "laughinginslowmotion@gmail.com",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Dr.Baron von Realz esq. Steampunk",
+            "id": 7156
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 15:00:00",
+                "end_time": "2015-08-31 20:00:00"
+            }
+        ],
+        "description": "Welcome Homecoming Party, semi formal high school style dance. W/ Live cover band (80s&90's)  spiked punch, homecoming Q&K, games.",
+        "title": "homecoming party",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15492,
+        "print_description": "Welcome Homecoming Party, semi formal high school style dance. W/ Live cover band (80s&90's)  spiked punch, homecoming Q&K, games.",
+        "check_location": true,
+        "slug": "homecoming-party",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
         }
     },
     {
@@ -29928,6 +33995,55 @@
     },
     {
         "hosted_by_camp": {
+            "name": "EPIC",
+            "id": 7998
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 00:00:00",
+                "end_time": "2015-08-31 23:59:00"
+            },
+            {
+                "start_time": "2015-09-01 00:00:00",
+                "end_time": "2015-09-01 23:59:00"
+            },
+            {
+                "start_time": "2015-09-02 00:00:00",
+                "end_time": "2015-09-02 23:59:00"
+            },
+            {
+                "start_time": "2015-09-03 00:00:00",
+                "end_time": "2015-09-03 23:59:00"
+            },
+            {
+                "start_time": "2015-09-04 00:00:00",
+                "end_time": "2015-09-04 23:59:00"
+            },
+            {
+                "start_time": "2015-09-05 00:00:00",
+                "end_time": "2015-09-05 23:59:00"
+            }
+        ],
+        "description": "Open 24/7 - self serve hookah lounge.  especially good for rainy days, this covered 20x20 covered lounge is the perfect place to relax and reflect on your day/lie/universe.",
+        "title": "Hookah Lounge",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": true,
+        "id": 15786,
+        "print_description": "Open 24/7 - self serve hookah lounge.  especially good for rainy days, this covered 20x20 covered lounge is the perfect place to relax.",
+        "check_location": false,
+        "slug": "hookah-lounge",
+        "other_location": "around Donniker & 9:15",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Playasophy Camp",
             "id": 7649
         },
@@ -29969,6 +34085,35 @@
         "event_type": {
             "abbr": "food",
             "label": "Food"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Dr.Baron von Realz esq. Steampunk",
+            "id": 7156
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 13:00:00",
+                "end_time": "2015-08-31 14:00:00"
+            }
+        ],
+        "description": "Get your hoop on, hooper ball we supply hoops and music you supply hip movement. Not a hooper not a problem our host Cherry will teach you the basics or really cool tricks.",
+        "title": "Hoop Jam",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15496,
+        "print_description": "Get your hoop on, hooper ball we supply hoops and music you supply hip movement. Not a hooper not a problem our host Cherry will teach you.",
+        "check_location": true,
+        "slug": "hoop-jam",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
         }
     },
     {
@@ -30178,6 +34323,35 @@
         }
     },
     {
+        "hosted_by_camp": {
+            "name": "Camp Afterglow",
+            "id": 8008
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-04 11:00:00",
+                "end_time": "2015-09-04 12:00:00"
+            }
+        ],
+        "description": "We will dance and play with different rhythms and patterns in the body.",
+        "title": "House Dance Workshop",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15621,
+        "print_description": "We will dance and play with different rhythms and patterns in the body.",
+        "check_location": true,
+        "slug": "house-dance-workshop",
+        "other_location": "",
+        "event_type": {
+            "abbr": "none",
+            "label": "None"
+        }
+    },
+    {
         "occurrence_set": [
             {
                 "start_time": "2015-09-02 15:00:00",
@@ -30205,6 +34379,39 @@
         "event_type": {
             "abbr": "cere",
             "label": "Ritual/Ceremony"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Huggzilla",
+            "id": 8072
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 19:30:00",
+                "end_time": "2015-09-01 23:45:00"
+            },
+            {
+                "start_time": "2015-09-04 19:30:00",
+                "end_time": "2015-09-04 23:45:00"
+            }
+        ],
+        "description": "Deep house, minimal house with drums, electric guitar & keyboards with DJ's from SF Bay Area, Germany, Croatia, Montenegro.",
+        "title": "HouseZilla",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15602,
+        "print_description": "Deep house, minimal house with drums, electric guitar & keyboards with DJ's from SF Bay Area, Germany, Croatia, Montenegro.",
+        "check_location": true,
+        "slug": "housezilla",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
         }
     },
     {
@@ -30296,35 +34503,6 @@
     },
     {
         "hosted_by_camp": {
-            "name": "Otis Spankmore",
-            "id": 7670
-        },
-        "occurrence_set": [
-            {
-                "start_time": "2015-09-02 15:00:00",
-                "end_time": "2015-09-02 16:00:00"
-            }
-        ],
-        "description": "Learn how to give a truly great spanking! This class covers consent, negotiation, techniques, aftercare, and more, plus a demo! Open to all adults, no partner needed.",
-        "title": "How to give a GREAT spanking, by Little Jack",
-        "url": "",
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "all_day": false,
-        "id": 13361,
-        "print_description": "Learn how to give a truly great spanking! This class covers consent, negotiation, techniques, aftercare, and more, plus a demo!",
-        "check_location": false,
-        "slug": "how-to-give-a-great-spanking-by-little-jack",
-        "other_location": "",
-        "event_type": {
-            "abbr": "adlt",
-            "label": "Adult-oriented"
-        }
-    },
-    {
-        "hosted_by_camp": {
             "name": "School of Consensual Kink",
             "id": 7709
         },
@@ -30372,6 +34550,35 @@
         },
         "all_day": false,
         "id": 13327,
+        "print_description": "Learn how to give a truly great spanking! This class covers consent, negotiation, techniques, aftercare, and more, plus a demo!",
+        "check_location": false,
+        "slug": "how-to-give-a-great-spanking-by-little-jack",
+        "other_location": "",
+        "event_type": {
+            "abbr": "adlt",
+            "label": "Adult-oriented"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Otis Spankmore",
+            "id": 7670
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 15:00:00",
+                "end_time": "2015-09-02 16:00:00"
+            }
+        ],
+        "description": "Learn how to give a truly great spanking! This class covers consent, negotiation, techniques, aftercare, and more, plus a demo! Open to all adults, no partner needed.",
+        "title": "How to give a GREAT spanking, by Little Jack",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 13361,
         "print_description": "Learn how to give a truly great spanking! This class covers consent, negotiation, techniques, aftercare, and more, plus a demo!",
         "check_location": false,
         "slug": "how-to-give-a-great-spanking-by-little-jack",
@@ -30491,6 +34698,238 @@
         "event_type": {
             "abbr": "adlt",
             "label": "Adult-oriented"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Huggzilla",
+            "id": 8072
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 15:00:00",
+                "end_time": "2015-08-31 16:00:00"
+            }
+        ],
+        "description": "Hugging is not scary, it is crucial.  How hugging makes you happier and healthier.  Everyday we will be focusing on a different aspect of the therapy hugging provides.  Recharge your batteries and learn about the benefits of a simple hug. Free hugs for everyone!",
+        "title": "HuggWorkshop I - hug ≠ sex",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15594,
+        "print_description": "Hug workshop, intro to the hug and it's purpose in communication.",
+        "check_location": true,
+        "slug": "huggworkshop-i-hug-sex",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Huggzilla",
+            "id": 8072
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 15:00:00",
+                "end_time": "2015-09-01 16:00:00"
+            }
+        ],
+        "description": "Investing in relationships through extended hugs & cuddles. Provide more than verbal communication. Give and receive through a mutual hug.",
+        "title": "HuggWorkshop II - Embrace",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15595,
+        "print_description": "Investing in relationships through extended hugs & cuddles. Provide more than verbal communication. Give and receive through a mutual hug.",
+        "check_location": true,
+        "slug": "huggworkshop-ii-embrace",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Huggzilla",
+            "id": 8072
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 15:00:00",
+                "end_time": "2015-09-02 16:00:00"
+            }
+        ],
+        "description": "Get naturally high off hugs. Serotonin and Oxytocin are powerfully euphoric chemicals released by a proper hug.",
+        "title": "HuggWorkshop III - Get higher",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15596,
+        "print_description": "Get naturally high off hugs. Serotonin and Oxytocin are powerfully euphoric chemicals released by a proper hug.",
+        "check_location": true,
+        "slug": "huggworkshop-iii-get-higher",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Huggzilla",
+            "id": 8072
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 15:00:00",
+                "end_time": "2015-09-03 16:00:00"
+            }
+        ],
+        "description": "Low self esteem, anger, isolation and loneliness are all counteracted by the healing power of a hug. Put your hearts together for a better life.",
+        "title": "HuggWorkshop IV - Heal with Huggz",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15597,
+        "print_description": "Hugs are not scary, they have healing powers.",
+        "check_location": true,
+        "slug": "huggworkshop-iv-heal-with-huggz",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Huggzilla",
+            "id": 8072
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-05 15:00:00",
+                "end_time": "2015-09-05 16:00:00"
+            }
+        ],
+        "description": "Meditate through hugging, increase your potential for trust, safety and arousal by activating the Solar Plexus Chakra.  Release tension, soothe aches, and increase circulation into your softest tissues with the love behind your huggz.",
+        "title": "HuggWorkshop VI - Dr. Hugg",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15599,
+        "print_description": "Meditate through hugging, increase your potential for trust, safety and arousal by activating the Solar Plexus Chakra.",
+        "check_location": true,
+        "slug": "huggworkshop-vi-dr-hugg",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Huggzilla",
+            "id": 8072
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-06 15:00:00",
+                "end_time": "2015-09-06 16:00:00"
+            }
+        ],
+        "description": "Now, give hugs freely. Heal with the power of the hug & give the personalized gift so much greater than a pill form of anti-depressants.",
+        "title": "HuggWorkshop VII - Free the Hugg",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15600,
+        "print_description": "Now, give hugs freely. Heal with the power of the hug & give the personalized gift so much greater than a pill form of anti-depressants.",
+        "check_location": true,
+        "slug": "huggworkshop-vii-free-the-hugg",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Huggzilla",
+            "id": 8072
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-04 15:00:00",
+                "end_time": "2015-09-04 16:00:00"
+            }
+        ],
+        "description": "Strengthen your immune system, achieve balance and sensitiveness to energy flowing     through two bodies embraced in a hug.  Love yourself and love another with a hug.",
+        "title": "HuggWorkshop V -  Shut up & hug someone",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15598,
+        "print_description": "Strengthen your immune system, achieve balance and sensitiveness to energy flowing     through two bodies embraced in a hug.",
+        "check_location": true,
+        "slug": "huggworkshop-v-shut-up-hug-someone",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Huggzilla",
+            "id": 8072
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-06 21:30:00",
+                "end_time": "2015-09-06 23:45:00"
+            }
+        ],
+        "description": "Pure HuggZilla Madness",
+        "title": "HUGGZILLATTACK",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15606,
+        "print_description": "Pure HuggZilla Madness",
+        "check_location": true,
+        "slug": "huggzillattack",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
         }
     },
     {
@@ -30638,6 +35077,14 @@
             {
                 "start_time": "2015-09-02 12:00:00",
                 "end_time": "2015-09-02 16:00:00"
+            },
+            {
+                "start_time": "2015-09-03 12:00:00",
+                "end_time": "2015-09-03 16:00:00"
+            },
+            {
+                "start_time": "2015-09-04 12:00:00",
+                "end_time": "2015-09-04 16:00:00"
             }
         ],
         "description": "We are the champions, and we know it! Foosball, Football, Soccer? Whatever you want to call it, roll up with your camp mates, and step on the pitch. We've got your foosball fix, right here! This is tournament standard fun. Sign up for a session with six other camp mates, and we'll add you to our tournament. You could also challenge a fellow camp to try our their football skills - no prisoners will be taken.",
@@ -30784,6 +35231,64 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Zero Fucks",
+            "id": 8050
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 10:00:00",
+                "end_time": "2015-09-03 12:00:00"
+            }
+        ],
+        "description": "Mimosas and Techno for breakfast! Come hungry and we will feed you beats and bubbly.",
+        "title": "Hyperbrunch",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15795,
+        "print_description": "Mimosas and Techno for breakfast! Come hungry and we will feed you beats and bubbly.",
+        "check_location": false,
+        "slug": "hyperbrunch",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Camp Afterglow",
+            "id": 8008
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-04 12:00:00",
+                "end_time": "2015-09-04 13:00:00"
+            }
+        ],
+        "description": "Interactive improvisation is what we do in life every day: driving, meeting people, working together. When it comes to dancing we have so many opportunities to interact in ways that we don't always give ourselves permission to do. I2M comes out of my background as a performer, contact improviser, and capoeirista. In our time together we will look at options for moving together, playfully, respectfully and with calculated risk.",
+        "title": "I2M Contact Improv ",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15622,
+        "print_description": "Together we will look at options for moving together, playfully, respectfully and with calculated risk.",
+        "check_location": true,
+        "slug": "i2m-contact-improv",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Planet Earth",
             "id": 7372
         },
@@ -30806,6 +35311,113 @@
         "check_location": true,
         "slug": "ibiza-trance-party",
         "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Fresh Squeezed!",
+            "id": 7690
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 13:00:00",
+                "end_time": "2015-08-31 17:00:00"
+            },
+            {
+                "start_time": "2015-09-01 13:00:00",
+                "end_time": "2015-09-01 17:00:00"
+            },
+            {
+                "start_time": "2015-09-02 13:00:00",
+                "end_time": "2015-09-02 17:00:00"
+            }
+        ],
+        "description": "Recharge with a tall cold glass of playa crafted lemonade.",
+        "title": "Ice Cold Lemonade",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15772,
+        "print_description": "Recharge with a tall cold glass of playa crafted lemonade.",
+        "check_location": true,
+        "slug": "ice-cold-lemonade",
+        "other_location": "",
+        "event_type": {
+            "abbr": "food",
+            "label": "Food"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Fresh Squeezed!",
+            "id": 7690
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 10:00:00",
+                "end_time": "2015-09-03 17:00:00"
+            },
+            {
+                "start_time": "2015-09-04 10:00:00",
+                "end_time": "2015-09-04 17:00:00"
+            },
+            {
+                "start_time": "2015-09-05 10:00:00",
+                "end_time": "2015-09-05 17:00:00"
+            }
+        ],
+        "description": "Recharge with a tall cold glass of playa crafted lemonade.",
+        "title": "Ice Cold Lemonade",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15773,
+        "print_description": "Recharge with a tall cold glass of playa crafted lemonade.",
+        "check_location": false,
+        "slug": "ice-cold-lemonade",
+        "other_location": "",
+        "event_type": {
+            "abbr": "food",
+            "label": "Food"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Davy Jones' RV",
+            "id": 8182
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 14:00:00",
+                "end_time": "2015-09-02 16:30:00"
+            },
+            {
+                "start_time": "2015-09-04 14:00:00",
+                "end_time": "2015-09-04 16:30:00"
+            }
+        ],
+        "description": "Escape the heat with some iced tea and audiobooks. Relax in our Octopus Garden Lounge while short stories are read out loud to you. Drop in for just a story or spend the entire afternoon!",
+        "title": "Iced Tea and Audiobook Relaxation",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15620,
+        "print_description": "Escape the heat with some iced tea and audiobooks. Relax in our Octopus Garden Lounge while short stories are read out loud to you.",
+        "check_location": false,
+        "slug": "iced-tea-and-audiobook-relaxation",
+        "other_location": "C and 8:45",
         "event_type": {
             "abbr": "prty",
             "label": "Gathering/Party"
@@ -30847,19 +35459,19 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-05 13:30:00",
-                "end_time": "2015-09-05 15:00:00"
+                "start_time": "2015-09-04 13:30:00",
+                "end_time": "2015-09-04 15:00:00"
             }
         ],
         "description": "Let go of who you think you are. A powerful process of surrender, reflection, and choice.",
         "title": "Identity Alchemy",
-        "url": "http://burningman.campcontact.org/node/52171",
+        "url": "http://burningman.campcontact.org/node/52175",
         "year": {
             "id": 11,
             "year": "2015"
         },
         "all_day": false,
-        "id": 14426,
+        "id": 14421,
         "print_description": "Let go of who you think you are. A powerful process of surrender, reflection, and choice.",
         "check_location": false,
         "slug": "identity-alchemy",
@@ -30876,19 +35488,19 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-04 13:30:00",
-                "end_time": "2015-09-04 15:00:00"
+                "start_time": "2015-09-05 13:30:00",
+                "end_time": "2015-09-05 15:00:00"
             }
         ],
         "description": "Let go of who you think you are. A powerful process of surrender, reflection, and choice.",
         "title": "Identity Alchemy",
-        "url": "http://burningman.campcontact.org/node/52175",
+        "url": "http://burningman.campcontact.org/node/52171",
         "year": {
             "id": 11,
             "year": "2015"
         },
         "all_day": false,
-        "id": 14421,
+        "id": 14426,
         "print_description": "Let go of who you think you are. A powerful process of surrender, reflection, and choice.",
         "check_location": false,
         "slug": "identity-alchemy",
@@ -31011,35 +35623,6 @@
     },
     {
         "hosted_by_camp": {
-            "name": "Home Rule",
-            "id": 7549
-        },
-        "occurrence_set": [
-            {
-                "start_time": "2015-09-01 14:00:00",
-                "end_time": "2015-09-01 16:00:00"
-            }
-        ],
-        "description": "Want to burn funnier? Come to HOME RULE VILLAGE for improv comedy classes, how the 10 principles apply & how we make it all up as we go along.\r\nCAMP: HOME RULE VILLAGE",
-        "title": "Improv Comedy",
-        "url": "",
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "all_day": false,
-        "id": 13502,
-        "print_description": "Want to burn funnier? Come to HOME RULE VILLAGE for improv comedy classes, how the 10 principles apply & how we make it all up as we go along.",
-        "check_location": false,
-        "slug": "improv-comedy",
-        "other_location": "",
-        "event_type": {
-            "abbr": "work",
-            "label": "Class/Workshop"
-        }
-    },
-    {
-        "hosted_by_camp": {
             "name": "Cartoon Commune-Green Reflections",
             "id": 7727
         },
@@ -31069,6 +35652,35 @@
         "event_type": {
             "abbr": "perf",
             "label": "Performance"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Home Rule",
+            "id": 7549
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 14:00:00",
+                "end_time": "2015-09-01 16:00:00"
+            }
+        ],
+        "description": "Want to burn funnier? Come to HOME RULE VILLAGE for improv comedy classes, how the 10 principles apply & how we make it all up as we go along.\r\nCAMP: HOME RULE VILLAGE",
+        "title": "Improv Comedy",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 13502,
+        "print_description": "Want to burn funnier? Come to HOME RULE VILLAGE for improv comedy classes, how the 10 principles apply & how we make it all up as we go along.",
+        "check_location": false,
+        "slug": "improv-comedy",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
         }
     },
     {
@@ -31226,6 +35838,68 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Inflatable Wildlife Conservatory",
+            "id": 8012
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 15:00:00",
+                "end_time": "2015-09-01 17:00:00"
+            },
+            {
+                "start_time": "2015-09-04 15:00:00",
+                "end_time": "2015-09-04 17:00:00"
+            }
+        ],
+        "description": "Come tour our Exclusive Inflatable Playa Wildlife and have a drink.\r\nSafari Hats provided while you mingle, lounge and enjoy the harmonious Tiki Tunes.",
+        "title": "Inflatable Safari Tours",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15645,
+        "print_description": "Come tour our Exclusive Inflatable Playa Wildlife and have a drink.\r\nWear Safari Hats while you mingle, lounge and enjoy the harmonious Tiki Tunes.",
+        "check_location": false,
+        "slug": "inflatable-safari-tours",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Inflatable Wildlife Conservatory",
+            "id": 8012
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-04 17:00:00",
+                "end_time": "2015-09-04 20:00:00"
+            }
+        ],
+        "description": "We bring the jungle to you! There’s a bar. There’s music. There’s Inflatable Wildlife. What more do you want?\r\n\r\nFondling of Inflatables encouraged.",
+        "title": "Inflatable what?!?",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15643,
+        "print_description": "We bring the jungle to you! There’s a bar. There’s music. There’s Inflatable Wildlife. What more do you want?\r\n\r\nFondling of Inflatables encouraged.",
+        "check_location": false,
+        "slug": "inflatable-what",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Sacred Spaces Village",
             "id": 7816
         },
@@ -31313,6 +35987,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "ABC Alphabet Block Camp",
+            "id": 7151
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 10:00:00",
+                "end_time": "2015-09-02 11:45:00"
+            }
+        ],
+        "description": "Explore Principle10, Intimacy, through this interactive workshop.  Further explore an existing relationship or get to know a stranger through a verbal exchange of answers to a facilitated series of questions. Bring a friend or be prepared to share with someone entirely new.",
+        "title": "Instant Intimacy",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15713,
+        "print_description": "Explore Principle 10: Intimacy through this interactive workshop.  Deepen a friendship or meet a stranger by answering facilitated questions.",
+        "check_location": true,
+        "slug": "instant-intimacy",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Chakralicious Camp",
             "id": 7404
         },
@@ -31350,6 +36053,51 @@
         "print_description": "Enjoy your own interactive chakra journey through the 7 chakra altars in our Temple Dome, from root to the crown, in between & after workshop hours.",
         "check_location": false,
         "slug": "interactive-chakra-altars",
+        "other_location": "",
+        "event_type": {
+            "abbr": "none",
+            "label": "None"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Fresh Squeezed!",
+            "id": 7690
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 10:00:00",
+                "end_time": "2015-09-01 17:00:00"
+            },
+            {
+                "start_time": "2015-09-02 10:00:00",
+                "end_time": "2015-09-02 17:00:00"
+            },
+            {
+                "start_time": "2015-09-03 10:00:00",
+                "end_time": "2015-09-03 17:00:00"
+            },
+            {
+                "start_time": "2015-09-04 10:00:00",
+                "end_time": "2015-09-04 17:00:00"
+            },
+            {
+                "start_time": "2015-09-05 10:00:00",
+                "end_time": "2015-09-05 17:00:00"
+            }
+        ],
+        "description": "Using a variety of media, join fellow participating in creating amazing art.",
+        "title": "Interactive Group Painting",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15774,
+        "print_description": "Using a variety of media, join fellow participating in creating amazing art.",
+        "check_location": false,
+        "slug": "interactive-group-painting",
         "other_location": "",
         "event_type": {
             "abbr": "none",
@@ -31477,6 +36225,39 @@
         "print_description": "Gazillions of galactic Grilled Cheese sandwiches served hot in the moonlight. Leave earth's gravity & join celestial bodies and gooey goodness alike!",
         "check_location": false,
         "slug": "interstellar-grilled-cheese-therapy",
+        "other_location": "",
+        "event_type": {
+            "abbr": "food",
+            "label": "Food"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "dust & stars",
+            "id": 7621
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 11:00:00",
+                "end_time": "2015-09-01 12:00:00"
+            },
+            {
+                "start_time": "2015-09-03 11:00:00",
+                "end_time": "2015-09-03 12:00:00"
+            }
+        ],
+        "description": "experience a german pancake massacre of galactic proportions at our interstellar house of pancakes!",
+        "title": "interstellar pancake massacre ",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15685,
+        "print_description": "experience a german pancake massacre of galactic proportions at our interstellar house of pancakes!",
+        "check_location": false,
+        "slug": "interstellar-pancake-massacre",
         "other_location": "",
         "event_type": {
             "abbr": "food",
@@ -31623,6 +36404,31 @@
         "check_location": false,
         "slug": "introduction-to-partner-acroyoga",
         "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 13:00:00",
+                "end_time": "2015-09-03 14:00:00"
+            }
+        ],
+        "description": "1760 yards = 1 mile? 2240 lb = 1 ton? 3 barleycorns = 1 inch? If only there was a simpler way! Come join us in the big dome and learn about the amazing metric system as used in the rest of world. If you can count to 100 you can pretty much already do it.",
+        "title": "Introduction to the metric system ",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15681,
+        "print_description": "Come join us in the big dome and learn about the amazing metric system as used in the rest of world.",
+        "check_location": true,
+        "slug": "introduction-to-the-metric-system",
+        "other_location": "Camp Cut! Cut!",
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
@@ -31986,6 +36792,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Irrelephant Bird Camp",
+            "id": 7854
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 14:00:00",
+                "end_time": "2015-08-31 18:00:00"
+            }
+        ],
+        "description": "Miss weird camp counselors and budding puberty? Relive it and play camp games at our weirdo summer camp!",
+        "title": "Irrelevant Summer Camp Games",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15494,
+        "print_description": "Miss weird camp counselors and budding puberty? Relive it and play camp games at our weirdo summer camp!",
+        "check_location": true,
+        "slug": "irrelevant-summer-camp-games",
+        "other_location": "",
+        "event_type": {
+            "abbr": "kid",
+            "label": "Kid-friendly"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Duckpond",
             "id": 7117
         },
@@ -32011,6 +36846,35 @@
         "event_type": {
             "abbr": "none",
             "label": "None"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Dr.Baron von Realz esq. Steampunk",
+            "id": 7156
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-04 22:00:00",
+                "end_time": "2015-09-05 00:00:00"
+            }
+        ],
+        "description": "Get your dance on! Salsa, Bachata and Latin dancing. Got two left feet we got ya covered our beautiful dancers can guide you through the steps.",
+        "title": "Is salsa ",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15511,
+        "print_description": "Get your dance on! Salsa, Bachata and Latin dancing. Got two left feet we got ya covered our beautiful dancers can guide you through the steps.",
+        "check_location": false,
+        "slug": "is-salsa",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
         }
     },
     {
@@ -32223,6 +37087,43 @@
     },
     {
         "hosted_by_camp": {
+            "name": "ABR: Acronym Being Reconsidered",
+            "id": 7636
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 14:00:00",
+                "end_time": "2015-09-01 15:00:00"
+            },
+            {
+                "start_time": "2015-09-03 14:00:00",
+                "end_time": "2015-09-03 15:00:00"
+            },
+            {
+                "start_time": "2015-09-05 14:00:00",
+                "end_time": "2015-09-05 15:00:00"
+            }
+        ],
+        "description": "Make music with us! We have a PA, microphones, amps, guitars, keys, bass, and drum set. Bringing instruments is encouraged.",
+        "title": "Jam Session",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15631,
+        "print_description": "Make music with us! We have a PA, microphones, amps, guitars, keys, bass, and drum set. Bringing instruments is encouraged.",
+        "check_location": true,
+        "slug": "jam-session",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Jankytown",
             "id": 7313
         },
@@ -32326,6 +37227,93 @@
         "event_type": {
             "abbr": "para",
             "label": "Parade"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Playa Jazz Cafe",
+            "id": 7448
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 14:00:00",
+                "end_time": "2015-09-03 17:00:00"
+            }
+        ],
+        "description": "Musicians and listeners are invited to come and learn about the art of Jazz improvisation.  In part one we will discuss performance practice, the order of events in a Jazz performance, roles of the instruments, and more.",
+        "title": "Jazz Theory Workshop 1",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15536,
+        "print_description": "Musicians and listeners are invited to come and learn about the art of Jazz improvisation.",
+        "check_location": true,
+        "slug": "jazz-theory-workshop-1",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Playa Jazz Cafe",
+            "id": 7448
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-04 14:00:00",
+                "end_time": "2015-09-04 17:00:00"
+            }
+        ],
+        "description": "In part 2 we will get into the nuts and bolts of playing jazz. Chords, scales, etc... musicians who know major scales can try their hand at improvisation.  Anyone interested in jazz can see deeper into the thought processes behind jazz soloists.",
+        "title": "Jazz Theory Workshop 2",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15537,
+        "print_description": "In part 2 we will get into the nuts and bolts of playing jazz. Chords, scales, etc... musicians who know major scales can try their hand at improv.",
+        "check_location": true,
+        "slug": "jazz-theory-workshop-2",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Irrelephant Bird Camp",
+            "id": 7854
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 14:00:00",
+                "end_time": "2015-09-02 18:00:00"
+            }
+        ],
+        "description": "Hang with your favorite gaggle of grannies while they serve up fresh smoothies to the soothing sounds of jaaaaaaaaaaahhhhhhhhhzz.",
+        "title": "Jazzy Juice",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15498,
+        "print_description": "Hang with your favorite gaggle of grannies while they serve up fresh smoothies to the soothing sounds of jaaaaaaaaaaahhhhhhhhhzz.",
+        "check_location": true,
+        "slug": "jazzy-juice",
+        "other_location": "Graham",
+        "event_type": {
+            "abbr": "food",
+            "label": "Food"
         }
     },
     {
@@ -32494,6 +37482,35 @@
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "The Lost Penguin",
+            "id": 8104
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-04 21:00:00",
+                "end_time": "2015-09-04 22:00:00"
+            }
+        ],
+        "description": "The Lost Penguin Cafe is overjoyed to present John’s ” delicious acoustic mixture of blues and folk” once again this year. A TLP tradition.",
+        "title": "John Craigie Live",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15751,
+        "print_description": "The Lost Penguin Cafe is overjoyed to present John’s ” delicious acoustic mixture of blues and folk” once again this year. A TLP tradition.",
+        "check_location": false,
+        "slug": "john-craigie-live",
+        "other_location": "marcgorcey1",
+        "event_type": {
+            "abbr": "perf",
+            "label": "Performance"
         }
     },
     {
@@ -32856,6 +37873,60 @@
         }
     },
     {
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 17:00:00",
+                "end_time": "2015-09-03 19:00:00"
+            }
+        ],
+        "description": "Come dressed as your power animal, or sort through our costume den to transform yourself into your most animalistic expression. Then join us for some primal DJ beats and a wild dance party.",
+        "title": "Jungle Boogie",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15758,
+        "print_description": "Come dressed as your power animal, or sort through our costume den to transform yourself into your most animalistic expression.",
+        "check_location": false,
+        "slug": "jungle-boogie",
+        "other_location": "XOXO &  Short Bus",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Hanging Gardens of BRC",
+            "id": 8249
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 12:00:00",
+                "end_time": "2015-09-03 13:30:00"
+            }
+        ],
+        "description": "Come to the Hanging Gardens for a magical breathing circle and guided meditation by our camp Shaman. This will be a fun, heart-opening experience set to music that will facilitate much joy, laughter and rejuvenation. No meditation experience needed. Powerful natural high guaranteed! - Taught by Energy Therapist Joshua Farahnik",
+        "title": "Just Breathe!",
+        "url": "https://www.facebook.com/HangingGardensBRC",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15690,
+        "print_description": "Come to the Hanging Gardens for a magical breathing circle and guided meditation by our camp Shaman.",
+        "check_location": true,
+        "slug": "just-breathe",
+        "other_location": "",
+        "event_type": {
+            "abbr": "care",
+            "label": "Care/Support"
+        }
+    },
+    {
         "hosted_by_camp": {
             "name": "GLAMCOCKS",
             "id": 7985
@@ -32895,7 +37966,7 @@
                 "end_time": "2015-09-04 02:00:00"
             }
         ],
-        "description": "Express your erotic desires at this young poly play party. Apply to be judges. No monogamous couples or single guys. 21+",
+        "description": "Express your erotic desires at this young poly play party. Apply to be judges. No monogamous couples or single guys. 21+. Location is 4:00 and Hanky Pank. Look for the Purple RV Orgy Bus.",
         "title": "Kama Sutra Positions Contest",
         "url": "",
         "year": {
@@ -32907,7 +37978,7 @@
         "print_description": "Express your erotic desires at this young poly play party. Apply to be judges. No monogamous couples or single guys. 21+",
         "check_location": false,
         "slug": "kama-sutra-positions-contest",
-        "other_location": "",
+        "other_location": "4:00 & Hanky Pank",
         "event_type": {
             "abbr": "adlt",
             "label": "Adult-oriented"
@@ -32948,6 +38019,51 @@
         "event_type": {
             "abbr": "care",
             "label": "Care/Support"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "KavAquatic",
+            "id": 8213
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 18:30:00",
+                "end_time": "2015-08-31 20:30:00"
+            },
+            {
+                "start_time": "2015-09-01 18:30:00",
+                "end_time": "2015-09-01 20:30:00"
+            },
+            {
+                "start_time": "2015-09-02 18:30:00",
+                "end_time": "2015-09-02 20:30:00"
+            },
+            {
+                "start_time": "2015-09-03 18:30:00",
+                "end_time": "2015-09-03 20:30:00"
+            },
+            {
+                "start_time": "2015-09-04 18:30:00",
+                "end_time": "2015-09-04 20:30:00"
+            }
+        ],
+        "description": "Come and enjoy a relaxing sunset time with us to share our authentic kava tasting experience! Replenish yourself before the night takes on.\r\n\r\nKavAquatic will be serving kava from late afternoon to the first hours of the night as is traditionally done in the Pacific Islands of Vanuatu, New-Caledonia and Fiji, in a setting taking you right back to an island paradise!\r\n\r\nAs a tribute to the magic of the Pacific Island experience and goodwill, our campsite will be a dedicated and epically tranquil chill-out zone. Kavaquatic will be an island paradise perfect for individuals or groups to relax, recuperate and connect. Coupled with traditional kava beverages served at sundown each evening, our campsite will make for the perfect escape from the hot, dry, dusty desert, and one that even the most experienced burner will seek out at some stage. This oasis-in-the-desert experience will be complemented by our camp's guiding principles of inclusion, self expression and camaraderie.",
+        "title": "Kava Tasting",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15647,
+        "print_description": "Come and enjoy a relaxing sunset time with us to share our authentic kava tasting experience! Replenish yourself before the night takes on.",
+        "check_location": false,
+        "slug": "kava-tasting",
+        "other_location": "",
+        "event_type": {
+            "abbr": "cere",
+            "label": "Ritual/Ceremony"
         }
     },
     {
@@ -33270,6 +38386,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Celtic Chaos",
+            "id": 7814
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 00:00:00",
+                "end_time": "2015-09-01 23:59:00"
+            }
+        ],
+        "description": "All too often the gingers of this world are ridiculed, abused and generally treated as second class citizens... but not today! Come and show your support for this downtrodden segment of society by kissing every ginger you spot on Tuesday at The Castle. All gingers, ginger lovers and ginger sympathizers welcome.",
+        "title": "Kiss A Ginger Day at The Castle!",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": true,
+        "id": 15593,
+        "print_description": "Gingers have it tough. Why not cheer one up by dropping by The Castle and kissing every ginger you spot?",
+        "check_location": true,
+        "slug": "kiss-a-ginger-day-at-the-castle",
+        "other_location": "",
+        "event_type": {
+            "abbr": "game",
+            "label": "Game"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Camp Boom Boom Womb",
             "id": 8189
         },
@@ -33427,44 +38572,11 @@
             "year": "2015"
         },
         "all_day": false,
-        "id": 15373,
-        "print_description": "Knife Throwing Class & Practice. Two classes at Gigsville explaining and demonstrating knife throwing. Maximum audience participation.",
-        "check_location": true,
-        "slug": "knife-throwing-class",
-        "other_location": "",
-        "event_type": {
-            "abbr": "work",
-            "label": "Class/Workshop"
-        }
-    },
-    {
-        "hosted_by_camp": {
-            "name": "Gigsville",
-            "id": 8235
-        },
-        "occurrence_set": [
-            {
-                "start_time": "2015-09-01 10:00:00",
-                "end_time": "2015-09-01 12:00:00"
-            },
-            {
-                "start_time": "2015-09-03 10:00:00",
-                "end_time": "2015-09-03 12:00:00"
-            }
-        ],
-        "description": "We'll have two classes explaining and demonstrating on how to throw a knife. Part of the explanation will be on why this is NOT a martial art and why, despite what you've seen in the movies, no one in their right mind would ever throw a knife at a person. It should be thought of as more of a form of object manipulation, like juggling.\r\n  We'll have one knife throwing wall and a number of floor boards for familiarizing yourself with the weight and balance of the knives. We'll have knives for practice but feel free to bring your own. Classes are Tuesday and Thursday 10:00 - 12:00",
-        "title": "Knife Throwing Class",
-        "url": "",
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "all_day": false,
         "id": 15372,
         "print_description": "Knife Throwing Class & Practice. Two classes at Gigsville explaining and demonstrating knife throwing. Maximum audience participation.",
         "check_location": true,
         "slug": "knife-throwing-class",
-        "other_location": "",
+        "other_location": "3:15 & Esplanade",
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
@@ -33497,7 +38609,40 @@
         "print_description": "Knife Throwing Class & Practice. Two classes Tues & Thur at Gigsville explaining and demonstrating knife throwing. Maximum audience participation.",
         "check_location": true,
         "slug": "knife-throwing-class",
-        "other_location": "",
+        "other_location": "3:15 & Esplanade",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Gigsville",
+            "id": 8235
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 10:00:00",
+                "end_time": "2015-09-01 12:00:00"
+            },
+            {
+                "start_time": "2015-09-03 10:00:00",
+                "end_time": "2015-09-03 12:00:00"
+            }
+        ],
+        "description": "We'll have two classes explaining and demonstrating on how to throw a knife. Part of the explanation will be on why this is NOT a martial art and why, despite what you've seen in the movies, no one in their right mind would ever throw a knife at a person. It should be thought of as more of a form of object manipulation, like juggling.\r\n  We'll have one knife throwing wall and a number of floor boards for familiarizing yourself with the weight and balance of the knives. We'll have knives for practice but feel free to bring your own. Classes are Tuesday and Thursday 10:00 - 12:00",
+        "title": "Knife Throwing Class",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15373,
+        "print_description": "Knife Throwing Class & Practice. Two classes at Gigsville explaining and demonstrating knife throwing. Maximum audience participation.",
+        "check_location": true,
+        "slug": "knife-throwing-class",
+        "other_location": "3:15 & Esplanade",
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
@@ -33642,6 +38787,35 @@
         "event_type": {
             "abbr": "cere",
             "label": "Ritual/Ceremony"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Listen",
+            "id": 7696
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-05 10:00:00",
+                "end_time": "2015-09-05 11:30:00"
+            }
+        ],
+        "description": "Join me for an intense and invigorating  guided kundalina practice that helps to prepare the body and mind for a strengthened meditation practice. We will finish with an extended meditation using our voices to build our divine shield.",
+        "title": "KundaLeeLee",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15539,
+        "print_description": "Join me for an intense and invigorating  guided kundalina practice that helps to prepare the body and mind for a strengthened meditation practice.",
+        "check_location": true,
+        "slug": "kundaleelee",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
         }
     },
     {
@@ -33884,6 +39058,59 @@
         }
     },
     {
+        "hosted_by_camp": {
+            "name": "Dr.Baron von Realz esq. Steampunk",
+            "id": 7156
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 09:00:00",
+                "end_time": "2015-08-31 12:00:00"
+            },
+            {
+                "start_time": "2015-09-01 09:00:00",
+                "end_time": "2015-09-01 12:00:00"
+            },
+            {
+                "start_time": "2015-09-02 09:00:00",
+                "end_time": "2015-09-02 12:00:00"
+            },
+            {
+                "start_time": "2015-09-03 09:00:00",
+                "end_time": "2015-09-03 12:00:00"
+            },
+            {
+                "start_time": "2015-09-04 09:00:00",
+                "end_time": "2015-09-04 12:00:00"
+            },
+            {
+                "start_time": "2015-09-05 09:00:00",
+                "end_time": "2015-09-05 12:00:00"
+            },
+            {
+                "start_time": "2015-09-06 09:00:00",
+                "end_time": "2015-09-06 12:00:00"
+            }
+        ],
+        "description": "Swing by and play our large board games.",
+        "title": "Large board games",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15517,
+        "print_description": "Swing by and play our large board games.",
+        "check_location": false,
+        "slug": "large-board-games",
+        "other_location": "",
+        "event_type": {
+            "abbr": "game",
+            "label": "Game"
+        }
+    },
+    {
         "occurrence_set": [
             {
                 "start_time": "2015-09-01 14:00:00",
@@ -34108,6 +39335,59 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Cartoon Commune-Green Reflections",
+            "id": 7727
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 17:00:00",
+                "end_time": "2015-08-31 18:00:00"
+            },
+            {
+                "start_time": "2015-09-01 17:00:00",
+                "end_time": "2015-09-01 18:00:00"
+            },
+            {
+                "start_time": "2015-09-02 17:00:00",
+                "end_time": "2015-09-02 18:00:00"
+            },
+            {
+                "start_time": "2015-09-03 17:00:00",
+                "end_time": "2015-09-03 18:00:00"
+            },
+            {
+                "start_time": "2015-09-04 17:00:00",
+                "end_time": "2015-09-04 18:00:00"
+            },
+            {
+                "start_time": "2015-09-05 17:00:00",
+                "end_time": "2015-09-05 18:00:00"
+            },
+            {
+                "start_time": "2015-09-06 17:00:00",
+                "end_time": "2015-09-06 18:00:00"
+            }
+        ],
+        "description": "Start your evenings with the most intense laughter you can experience. We laugh for no reason, other than for exercise, and health. Relieve stress and pain, promote natural healing, and create spontaneous bonds of friendship through group laughter. It’s fun! The brainchild of Dr. Madan Kataria in India and practiced by millions worldwide, Laughter Yoga combines Unconditional Laughter with Yogic Breathing (Pranayama). Anyone can Laugh for No Reason, without relying on humor, jokes or comedy. Laughter is simulated as a body exercise in a group; with eye contact and childlike playfulness, it soon turns into real and contagious laughter. The concept of Laughter Yoga is based on a scientific fact that the body cannot differentiate between fake and real laughter. One gets the same physiological and psychological benefits. Find much more info online by searching on Laughter Yoga, but come! Enjoy!",
+        "title": "Laughter Yoga",
+        "url": "https://m.facebook.com/groups/198208360209399?ref=bookmark",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 14772,
+        "print_description": "Laughter as exercise! Laugh with others in childlike playfulness; experience the health benefits of a good, long laugh!",
+        "check_location": false,
+        "slug": "laughter-yoga",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Miso Horny",
             "id": 7376
         },
@@ -34156,59 +39436,6 @@
         "all_day": false,
         "id": 14343,
         "print_description": "Laugha Yoga is an ancient yet new idea of combining the practices of yoga,  prolonged intentional laughter and Radical Forgiveness.",
-        "check_location": false,
-        "slug": "laughter-yoga",
-        "other_location": "",
-        "event_type": {
-            "abbr": "work",
-            "label": "Class/Workshop"
-        }
-    },
-    {
-        "hosted_by_camp": {
-            "name": "Cartoon Commune-Green Reflections",
-            "id": 7727
-        },
-        "occurrence_set": [
-            {
-                "start_time": "2015-08-31 17:00:00",
-                "end_time": "2015-08-31 18:00:00"
-            },
-            {
-                "start_time": "2015-09-01 17:00:00",
-                "end_time": "2015-09-01 18:00:00"
-            },
-            {
-                "start_time": "2015-09-02 17:00:00",
-                "end_time": "2015-09-02 18:00:00"
-            },
-            {
-                "start_time": "2015-09-03 17:00:00",
-                "end_time": "2015-09-03 18:00:00"
-            },
-            {
-                "start_time": "2015-09-04 17:00:00",
-                "end_time": "2015-09-04 18:00:00"
-            },
-            {
-                "start_time": "2015-09-05 17:00:00",
-                "end_time": "2015-09-05 18:00:00"
-            },
-            {
-                "start_time": "2015-09-06 17:00:00",
-                "end_time": "2015-09-06 18:00:00"
-            }
-        ],
-        "description": "Start your evenings with the most intense laughter you can experience. We laugh for no reason, other than for exercise, and health. Relieve stress and pain, promote natural healing, and create spontaneous bonds of friendship through group laughter. It’s fun! The brainchild of Dr. Madan Kataria in India and practiced by millions worldwide, Laughter Yoga combines Unconditional Laughter with Yogic Breathing (Pranayama). Anyone can Laugh for No Reason, without relying on humor, jokes or comedy. Laughter is simulated as a body exercise in a group; with eye contact and childlike playfulness, it soon turns into real and contagious laughter. The concept of Laughter Yoga is based on a scientific fact that the body cannot differentiate between fake and real laughter. One gets the same physiological and psychological benefits. Find much more info online by searching on Laughter Yoga, but come! Enjoy!",
-        "title": "Laughter Yoga",
-        "url": "https://m.facebook.com/groups/198208360209399?ref=bookmark",
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "all_day": false,
-        "id": 14772,
-        "print_description": "Laughter as exercise! Laugh with others in childlike playfulness; experience the health benefits of a good, long laugh!",
         "check_location": false,
         "slug": "laughter-yoga",
         "other_location": "",
@@ -34609,6 +39836,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "The Lost Penguin",
+            "id": 8104
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 21:00:00",
+                "end_time": "2015-09-03 22:00:00"
+            }
+        ],
+        "description": "Leigh Jones' simultaneously sweet and dynamic melodies capture inspiration from such artists as Joni Mitchell, Emmylou Harris, & Neko Case",
+        "title": "Leigh Jones LIVE MUSIC",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15582,
+        "print_description": "Leigh Jones' simultaneously sweet and dynamic melodies capture inspiration from such artists as Joni Mitchell, Emmylou Harris, & Neko Case",
+        "check_location": false,
+        "slug": "leigh-jones-live-music",
+        "other_location": "marcgorcey1",
+        "event_type": {
+            "abbr": "perf",
+            "label": "Performance"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Tropical Treehouse",
             "id": 7032
         },
@@ -34630,6 +39886,35 @@
         "print_description": "Mm hm.  You know who you are.  11AM on hot Saturday & all you can think about is some sweet lemon bundt cake & your jones for an iced coffee.",
         "check_location": false,
         "slug": "lemon-bundt-cake-and-iced-coffee-sober-social",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Fresh Squeezed!",
+            "id": 7690
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-04 17:00:00",
+                "end_time": "2015-09-04 19:30:00"
+            }
+        ],
+        "description": "Come join us for delicious Lemon Drops and crowd pleasing Dad Rock.",
+        "title": "Lemon Drop Drop Cocktail Party",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15771,
+        "print_description": "Come join us for delicious Lemon Drops and crowd pleasing Dad Rock.",
+        "check_location": true,
+        "slug": "lemon-drop-drop-cocktail-party",
         "other_location": "",
         "event_type": {
             "abbr": "prty",
@@ -34812,6 +40097,35 @@
         "print_description": "We have so much talent and knowledge, come use this platform to showcase whatever that is. It can be anything! This is the place to share it.",
         "check_location": true,
         "slug": "life-rulez-showcase",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Camp Contact",
+            "id": 7836
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 16:30:00",
+                "end_time": "2015-09-02 18:00:00"
+            }
+        ],
+        "description": "The class will practice safe lifting methods using the skeletal frame of the lifter. We will cover the use of kinetic energy and extensions to make you lighter.",
+        "title": "Lifting techniques for Dance",
+        "url": "http://burningman.campcontact.org/node/52225",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15657,
+        "print_description": "Lifting Technique: Safe lifting methods using skeletal, kinetic energy. Our focus will be on Contact Improvisation Dance but applicable to all forms.",
+        "check_location": false,
+        "slug": "lifting-techniques-for-dance",
         "other_location": "",
         "event_type": {
             "abbr": "work",
@@ -35041,6 +40355,35 @@
         "all_day": false,
         "id": 15287,
         "print_description": "Come join us 4 homemade salsa, chips, witches brew, jokes on Wed & Fri 6-8pm.  Giant Jenga, games, free clothes, hugs, and jokes anytime. BYOC plz",
+        "check_location": true,
+        "slug": "like-homemade-salsa-gypsies-witches-games",
+        "other_location": "",
+        "event_type": {
+            "abbr": "food",
+            "label": "Food"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Gypsy Witch Camp",
+            "id": 7029
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-04 18:00:00",
+                "end_time": "2015-09-04 20:00:00"
+            }
+        ],
+        "description": "Gypsy Witches have Giant Jenga, free clothes, hugs, shade to just chill and chat anytime, but on Wed and Fri at 6-8 pm, or until gone,  we have Homemade Salsa with chips, witches brew, juice, jokes, hugs, and games. Come by and say hi!",
+        "title": "Like homemade Salsa? Gypsies & Witches? games? ",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15267,
+        "print_description": "Come join us 4 homemade Salsa, chips, witches brew, jokes, on Wed & Fri 6pm &  Giant Jenga, games, free clothes, hugs and jokes anytime.  BYOC plz",
         "check_location": true,
         "slug": "like-homemade-salsa-gypsies-witches-games",
         "other_location": "",
@@ -35368,6 +40711,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Listen",
+            "id": 7696
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-04 10:00:00",
+                "end_time": "2015-09-04 11:30:00"
+            }
+        ],
+        "description": "How stressed are you? Learn how to recognize the signals your body is giving you when you're stressed, the stages of stress and effective ways to alleviate it.",
+        "title": "Listening to Your Body",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15683,
+        "print_description": "How stressed are you? Learn how to recognize your body' signals when you're stressed, the stages of stress and effective ways to alleviate it.",
+        "check_location": true,
+        "slug": "listening-to-your-body",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Camp 451",
             "id": 7792
         },
@@ -35426,6 +40798,64 @@
     },
     {
         "hosted_by_camp": {
+            "name": "STAR STAR ROADHOUSE",
+            "id": 7680
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 20:00:00",
+                "end_time": "2015-09-02 22:00:00"
+            }
+        ],
+        "description": "Enjoy talented musicians playing songs that will make you LAUGH, cry, and MOVE your BODY!  \r\n\r\nCHECK OUT www.starstarroadhouse.com for artist bios, photos, video, camp layout, class schedules and discover what Star Star is all about!",
+        "title": "LIVE ACOUSTIC MUSICAL SHOW!",
+        "url": "http://www.starstarroadhouse.com/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15740,
+        "print_description": "Enjoy talented musicians playing songs that will make you LAUGH, cry, and MOVE your BODY!",
+        "check_location": false,
+        "slug": "live-acoustic-musical-show",
+        "other_location": "andytannehill",
+        "event_type": {
+            "abbr": "perf",
+            "label": "Performance"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "ABR: Acronym Being Reconsidered",
+            "id": 7636
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 17:00:00",
+                "end_time": "2015-09-03 18:00:00"
+            }
+        ],
+        "description": "Karaoke is fun, live music is better. We have a live bar band with over 100 classics prepped. You sing it, we'll play it.",
+        "title": "Live Band Karaoke",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15633,
+        "print_description": "Karaoke is fun, live music is better. We have a live bar band with over 100 classics prepped. You sing it, we'll play it.",
+        "check_location": true,
+        "slug": "live-band-karaoke",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Habitat for Insanity",
             "id": 7730
         },
@@ -35459,6 +40889,35 @@
         "event_type": {
             "abbr": "food",
             "label": "Food"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "The Lost Penguin",
+            "id": 8104
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 22:00:00",
+                "end_time": "2015-09-03 23:00:00"
+            }
+        ],
+        "description": "Klass uses guitar, voice, and samplers with unique looping techniques to create music. Sam plays across the continent, a festival troubadour!",
+        "title": "Live music: An Hour with Sam Klass",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15749,
+        "print_description": "Klass uses guitar, voice, and samplers with unique looping techniques to create music. Sam plays across the continent, a festival troubadour!",
+        "check_location": false,
+        "slug": "live-music-an-hour-with-sam-klass",
+        "other_location": "marcgorcey1",
+        "event_type": {
+            "abbr": "perf",
+            "label": "Performance"
         }
     },
     {
@@ -35603,6 +41062,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "ABR: Acronym Being Reconsidered",
+            "id": 7636
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-04 20:00:00",
+                "end_time": "2015-09-04 21:00:00"
+            }
+        ],
+        "description": "In 60 minutes, our camp band will perform 60 songs from a smattering of genres. Bring a cup to toast each song.",
+        "title": "Live Power Hour",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15635,
+        "print_description": "In 60 minutes, our camp band will perform 60 songs from a smattering of genres. Bring a cup to toast each song.",
+        "check_location": true,
+        "slug": "live-power-hour",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Earth Guardians",
             "id": 7287
         },
@@ -35674,11 +41162,11 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-03 18:00:00",
-                "end_time": "2015-09-03 19:00:00"
+                "start_time": "2015-09-01 09:00:00",
+                "end_time": "2015-09-01 10:00:00"
             }
         ],
-        "description": "Lolita, Neko tea and crumpet party at Brûlée ~ with macaroons and cookies please come to participate, lovers of all thing lolita welcome!",
+        "description": "Join us at Brulee for a sweet lolita teaparty, macaroons, tea, crumpets and more! (Nekos also welcome!)",
         "title": "Lolita Neko Teaparty!",
         "url": "http://www.brulee.co/",
         "year": {
@@ -35686,8 +41174,8 @@
             "year": "2015"
         },
         "all_day": false,
-        "id": 14451,
-        "print_description": "Lolita, Neko tea and crumpet party at Brûlée ~ with macaroons and cookies please come to participate, lovers of all thing lolita welcome!",
+        "id": 15357,
+        "print_description": "Join us at Brulee for a sweet lolita teaparty, macaroons, tea, crumpets and more! (Nekos also welcome!)",
         "check_location": false,
         "slug": "lolita-neko-teaparty",
         "other_location": "",
@@ -35703,11 +41191,11 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-01 09:00:00",
-                "end_time": "2015-09-01 10:00:00"
+                "start_time": "2015-09-03 18:00:00",
+                "end_time": "2015-09-03 19:00:00"
             }
         ],
-        "description": "Join us at Brulee for a sweet lolita teaparty, macaroons, tea, crumpets and more! (Nekos also welcome!)",
+        "description": "Lolita, Neko tea and crumpet party at Brûlée ~ with macaroons and cookies please come to participate, lovers of all thing lolita welcome!",
         "title": "Lolita Neko Teaparty!",
         "url": "http://www.brulee.co/",
         "year": {
@@ -35715,8 +41203,8 @@
             "year": "2015"
         },
         "all_day": false,
-        "id": 15357,
-        "print_description": "Join us at Brulee for a sweet lolita teaparty, macaroons, tea, crumpets and more! (Nekos also welcome!)",
+        "id": 14451,
+        "print_description": "Lolita, Neko tea and crumpet party at Brûlée ~ with macaroons and cookies please come to participate, lovers of all thing lolita welcome!",
         "check_location": false,
         "slug": "lolita-neko-teaparty",
         "other_location": "",
@@ -35940,6 +41428,218 @@
         }
     },
     {
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 00:00:00",
+                "end_time": "2015-08-31 23:59:00"
+            },
+            {
+                "start_time": "2015-09-01 00:00:00",
+                "end_time": "2015-09-01 23:59:00"
+            },
+            {
+                "start_time": "2015-09-02 00:00:00",
+                "end_time": "2015-09-02 23:59:00"
+            },
+            {
+                "start_time": "2015-09-03 00:00:00",
+                "end_time": "2015-09-03 23:59:00"
+            },
+            {
+                "start_time": "2015-09-04 00:00:00",
+                "end_time": "2015-09-04 23:59:00"
+            },
+            {
+                "start_time": "2015-09-05 00:00:00",
+                "end_time": "2015-09-05 23:59:00"
+            },
+            {
+                "start_time": "2015-09-06 00:00:00",
+                "end_time": "2015-09-06 23:59:00"
+            }
+        ],
+        "description": "Big Beautiful Heart 32 Feet Across. \r\nAn Immersive, Inspirational & Holographic Love Light Experience. \r\nVisitors Are Surrounded By Prismatic Reflections, Rainbows & LOVE.",
+        "title": "LOVE ILLUMINARIUM ",
+        "url": "http://LOVEILLUMINARIUM.WIX.COM/LOVE-ILLUMINARIUM",
+        "located_at_art": {
+            "location_string": "Unknown",
+            "name": "LOVE ILLUMINARIUM",
+            "id": 2517
+        },
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": true,
+        "id": 15671,
+        "print_description": "Big Beautiful Heart 32 Feet Across. \r\nAn Immersive, Inspirational&Holographic Love Light Experience. \r\nVisitors Are Surrounded By Prismatic Reflection",
+        "check_location": true,
+        "slug": "love-illuminarium",
+        "other_location": "MamaLove",
+        "event_type": {
+            "abbr": "kid",
+            "label": "Kid-friendly"
+        }
+    },
+    {
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 13:00:00",
+                "end_time": "2015-08-31 19:00:00"
+            },
+            {
+                "start_time": "2015-09-01 13:00:00",
+                "end_time": "2015-09-01 19:00:00"
+            },
+            {
+                "start_time": "2015-09-02 13:00:00",
+                "end_time": "2015-09-02 19:00:00"
+            },
+            {
+                "start_time": "2015-09-03 13:00:00",
+                "end_time": "2015-09-03 19:00:00"
+            },
+            {
+                "start_time": "2015-09-04 13:00:00",
+                "end_time": "2015-09-04 19:00:00"
+            },
+            {
+                "start_time": "2015-09-05 13:00:00",
+                "end_time": "2015-09-05 19:00:00"
+            }
+        ],
+        "description": "Come Express Your Artistic Side. Use Recycled Glass & Prismatic Spirals To Co-Create The Inner Walls Mosaic. Free Hologram Glasses",
+        "title": "LOVE ILLUMINARIUM CREATION ",
+        "url": "http://LOVEILLUMINARIUM.WIX.COM/LOVE-ILLUMINARIUM",
+        "located_at_art": {
+            "location_string": "Unknown",
+            "name": "LOVE ILLUMINARIUM",
+            "id": 2517
+        },
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15673,
+        "print_description": "Come Express Your Artistic Side. Use Recycled Glass & Prismatic Spirals To Co-Create The Inner Walls Mosaic. Free Hologram Glasses",
+        "check_location": true,
+        "slug": "love-illuminarium-creation",
+        "other_location": "MamaLove",
+        "event_type": {
+            "abbr": "kid",
+            "label": "Kid-friendly"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Kentucky Fried Camp",
+            "id": 7241
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 17:30:00",
+                "end_time": "2015-09-03 18:30:00"
+            }
+        ],
+        "description": "Meet your fellow tattoo participants from all over the world. Get photographed with them. Learn more about the project. At Kentucky Fried Camp at 5:30pm on Thursday right after the Whoreshoe Derby. Come at 5pm to see the race first.",
+        "title": "Love Letter To The World Tattoo Project Gathering",
+        "url": "http://lovelettertotheworld.com/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15475,
+        "print_description": "Meet your fellow tattoo participants from all over the world. Get photographed with them. Learn more about the project.",
+        "check_location": false,
+        "slug": "love-letter-to-the-world-tattoo-project-gathering",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 18:00:00",
+                "end_time": "2015-09-01 19:00:00"
+            },
+            {
+                "start_time": "2015-09-02 18:00:00",
+                "end_time": "2015-09-02 19:00:00"
+            },
+            {
+                "start_time": "2015-09-04 18:00:00",
+                "end_time": "2015-09-04 19:00:00"
+            }
+        ],
+        "description": "On playa photos will be taken for Love Letter To The World participants at the Temple Tue, Wed, and Friday 6p-7p and also at Kentucky Fried Camp Wed-Sat 9am-noon. Look for the artists Kurt and Kremena",
+        "title": "Love Letter To The World Tattoo Project Photos",
+        "url": "http://lovelettertotheworld.com/",
+        "located_at_art": {
+            "location_string": "Unknown",
+            "name": "Temple of Promise",
+            "id": 2245
+        },
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15473,
+        "print_description": "On playa photos will be taken for Love Letter To The World participants at the Temple Tue, Wed, and Friday 6p-7p",
+        "check_location": false,
+        "slug": "love-letter-to-the-world-tattoo-project-photos",
+        "other_location": "",
+        "event_type": {
+            "abbr": "cere",
+            "label": "Ritual/Ceremony"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Kentucky Fried Camp",
+            "id": 7241
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 09:00:00",
+                "end_time": "2015-09-02 11:00:00"
+            },
+            {
+                "start_time": "2015-09-03 09:00:00",
+                "end_time": "2015-09-03 11:00:00"
+            },
+            {
+                "start_time": "2015-09-04 09:00:00",
+                "end_time": "2015-09-04 11:00:00"
+            },
+            {
+                "start_time": "2015-09-05 09:00:00",
+                "end_time": "2015-09-05 11:00:00"
+            }
+        ],
+        "description": "On playa photos will be taken for Love Letter To The World participants at Kentucky Fried Camp Wed-Sat 9am-noon and also at the Temple Tue, Wed, and Friday 6p-7p. Look for the artists Kurt and Kremena",
+        "title": "Love Letter To The World Tattoo Project Photos",
+        "url": "http://lovelettertotheworld.com/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15472,
+        "print_description": "On playa photos will be taken for Love Letter To The World participants at Kentucky Fried Camp Wed-Sat 9am-noon",
+        "check_location": false,
+        "slug": "love-letter-to-the-world-tattoo-project-photos",
+        "other_location": "",
+        "event_type": {
+            "abbr": "cere",
+            "label": "Ritual/Ceremony"
+        }
+    },
+    {
         "hosted_by_camp": {
             "name": "Love Potion",
             "id": 7478
@@ -36134,6 +41834,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "The Lost Penguin",
+            "id": 8104
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-04 22:30:00",
+                "end_time": "2015-09-04 23:45:00"
+            }
+        ],
+        "description": "Flaming clowns! Ground level trapeze!  Awkward humour! Freshly shorn bearded ladies! FuckedUpShit! Get drunk:The show is better that way!",
+        "title": "Lunacy Cabaret - Burning Man Edition!",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15752,
+        "print_description": "Flaming clowns! Ground level trapeze!  Awkward humour! Freshly shorn bearded ladies! FuckedUpShit! Get drunk:The show is better that way!",
+        "check_location": false,
+        "slug": "lunacy-cabaret-burning-man-edition",
+        "other_location": "marcgorcey1",
+        "event_type": {
+            "abbr": "perf",
+            "label": "Performance"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Electric Gypsy Coffee Oasis",
             "id": 7560
         },
@@ -36201,6 +41930,35 @@
         "check_location": false,
         "slug": "mad-hatters-fireball-tea-party-with-playanauts",
         "other_location": "PlayaNauts",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Camp Afterglow",
+            "id": 8008
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-05 15:00:00",
+                "end_time": "2015-09-05 17:00:00"
+            }
+        ],
+        "description": "Enter the psychedelic world of the Mad Hatters Tea Party for complete unity with the cosmos. For every hat there's a different expression of the universe, for every expression there's a different impression left. No matter how long you stay- the experience stays with you longer… welcome to Afterglow.\r\nBring your Mad Hat!!",
+        "title": "Mad Hatter's Tea Party ",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15626,
+        "print_description": "Enter the psychedelic world of the Mad Hatters Tea Party for complete unity with the cosmos.  Bring your Mad Hat!!",
+        "check_location": true,
+        "slug": "mad-hatters-tea-party",
+        "other_location": "",
         "event_type": {
             "abbr": "prty",
             "label": "Gathering/Party"
@@ -36291,6 +42049,55 @@
         "event_type": {
             "abbr": "prty",
             "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Magic Pancakes Project",
+            "id": 8088
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 10:00:00",
+                "end_time": "2015-08-31 11:00:00"
+            },
+            {
+                "start_time": "2015-09-01 10:00:00",
+                "end_time": "2015-09-01 11:00:00"
+            },
+            {
+                "start_time": "2015-09-02 10:00:00",
+                "end_time": "2015-09-02 11:00:00"
+            },
+            {
+                "start_time": "2015-09-03 10:00:00",
+                "end_time": "2015-09-03 11:00:00"
+            },
+            {
+                "start_time": "2015-09-04 10:00:00",
+                "end_time": "2015-09-04 11:00:00"
+            },
+            {
+                "start_time": "2015-09-05 10:00:00",
+                "end_time": "2015-09-05 11:00:00"
+            }
+        ],
+        "description": "The wonderful wizards of the Magic Pancake Project are back to bring mutli-colored and flavored pancakes to the citizens of the Playa. We will offer magic pancakes every day from Monday Through Saturday, 10 am until 11 am. T & Th there will be body painting too!",
+        "title": "Magic Pancake Project",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15560,
+        "print_description": "The wonderful wizards are serving up bring mutli-colored and flavored pancakes to the citizens of the Playa. T & Th there will be body painting too!",
+        "check_location": false,
+        "slug": "magic-pancake-project",
+        "other_location": "",
+        "event_type": {
+            "abbr": "food",
+            "label": "Food"
         }
     },
     {
@@ -36506,6 +42313,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Davy Jones' RV",
+            "id": 8182
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-04 17:00:00",
+                "end_time": "2015-09-04 18:30:00"
+            }
+        ],
+        "description": "Veggie deficient? Missing the taste of fresh food? Come to our make your own spring roll bar for some delicious veggie and gluten free spring rolls! We'll be in front of our Octopus Garden Lounge.",
+        "title": "Make Your Own Spring Roll Bar",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15623,
+        "print_description": "Veggie deficient? Come to our make your own spring roll bar for some delicious veggie and gluten free spring rolls!",
+        "check_location": false,
+        "slug": "make-your-own-spring-roll-bar",
+        "other_location": "C and 8:45",
+        "event_type": {
+            "abbr": "food",
+            "label": "Food"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Calico",
             "id": 7229
         },
@@ -36680,6 +42516,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Dr.Baron von Realz esq. Steampunk",
+            "id": 7156
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-04 16:00:00",
+                "end_time": "2015-09-04 17:00:00"
+            }
+        ],
+        "description": "We will be manifesting alternative realities. We choose our reality based on what we know. If you can open yourself and remove Preexisting concepts you may able to join us on a short journey into the multiple space that exist all around you.  Please be sober and open to change. Advance workshop after for persons interested.",
+        "title": "Manifesting an alternative reality",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15509,
+        "print_description": "We will be manifesting alternative realities. We choose our reality based on what we know.  You can open yourself and remove Preexisting concepts.",
+        "check_location": false,
+        "slug": "manifesting-an-alternative-reality",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Chakralicious Camp",
             "id": 7404
         },
@@ -36734,35 +42599,6 @@
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
-        }
-    },
-    {
-        "hosted_by_camp": {
-            "name": "Down Low Club",
-            "id": 7094
-        },
-        "occurrence_set": [
-            {
-                "start_time": "2015-08-31 22:00:00",
-                "end_time": "2015-09-01 03:00:00"
-            }
-        ],
-        "description": "Tonight, adult Gay/Queer/Bi/Curious men of the Playa flock to Down Low Club to stoke & inflame what started to fly at the earlier Gay/Queer Meet & Greet. Whether those sparks are between you and the hot man you just met or last year’s Playa buddy, the man-to-man play will continue into the wee hours. Open 24/7 during the week, Down Low Club’s discreet, enclosed and air conditioned tent is fully outfitted for adult manplay. Start your burn with a bang! Come get frisky with the playful men of the Playa tonight. Remember, what happens at Burning Man stays at Burning Man…",
-        "title": "Manplay Monday",
-        "url": "https://www.facebook.com/groups/557666564336453/",
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "all_day": false,
-        "id": 15112,
-        "print_description": "Adult Gay/Queer/Bi/Curious men get frisky in discreet, enclosed, air cooled manplay tent. Start your burn with a bang! What happens at Burning Man...",
-        "check_location": true,
-        "slug": "manplay-monday",
-        "other_location": "",
-        "event_type": {
-            "abbr": "adlt",
-            "label": "Adult-oriented"
         }
     },
     {
@@ -36999,35 +42835,6 @@
     },
     {
         "hosted_by_camp": {
-            "name": "Down Low Club",
-            "id": 7094
-        },
-        "occurrence_set": [
-            {
-                "start_time": "2015-09-05 12:00:00",
-                "end_time": "2015-09-05 16:00:00"
-            }
-        ],
-        "description": "Overdosed on estrogen after several days with the little woman in a small tent? Open 24/7 all week, adult manplay at Down Low Club is the perfect antidote. Sneak away this afternoon for some testosterone fueled man-to-man action with other 18+ adult married, bi, curious men on the Playa in Down Low Club's discreet, enclosed, air-cooled, fully outfitted tent that's away-from-home and away-from-prying-eyes. After all, a man's gotta do what a man's gotta do! Bi-curious? Don't leave the Playa wondering what it's all about! Remember, what happens at Burning Man, stays at Burning Man…",
-        "title": "Married/Bi/Curious Man-to-Man Play",
-        "url": "https://www.facebook.com/groups/557666564336453/",
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "all_day": false,
-        "id": 15127,
-        "print_description": "Estrogen OD? Sneak away for testosterone-fueled manplay w/other Down Low adult guys in Down Low Club's discreet, enclosed, air-cooled tent open 24/7",
-        "check_location": true,
-        "slug": "marriedbicurious-man-to-man-play",
-        "other_location": "",
-        "event_type": {
-            "abbr": "adlt",
-            "label": "Adult-oriented"
-        }
-    },
-    {
-        "hosted_by_camp": {
             "name": "Black Rock Kwoon and Dojo",
             "id": 7833
         },
@@ -37238,6 +43045,55 @@
         }
     },
     {
+        "hosted_by_camp": {
+            "name": "Astro Cats",
+            "id": 7470
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 00:00:00",
+                "end_time": "2015-08-31 23:59:00"
+            },
+            {
+                "start_time": "2015-09-01 00:00:00",
+                "end_time": "2015-09-01 23:59:00"
+            },
+            {
+                "start_time": "2015-09-02 00:00:00",
+                "end_time": "2015-09-02 23:59:00"
+            },
+            {
+                "start_time": "2015-09-03 00:00:00",
+                "end_time": "2015-09-03 23:59:00"
+            },
+            {
+                "start_time": "2015-09-04 00:00:00",
+                "end_time": "2015-09-04 23:59:00"
+            },
+            {
+                "start_time": "2015-09-05 00:00:00",
+                "end_time": "2015-09-05 23:59:00"
+            }
+        ],
+        "description": "The LED Matrix Fence will display various pre-programmed color patterns and permit interaction thru a bluetooth enabled tablet (provided by the camp) for Burners to play.",
+        "title": "MATRIX",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": true,
+        "id": 15695,
+        "print_description": "The LED Matrix will display various pre-programmed color patterns and permit interaction for Burners to play.",
+        "check_location": false,
+        "slug": "matrix",
+        "other_location": "",
+        "event_type": {
+            "abbr": "game",
+            "label": "Game"
+        }
+    },
+    {
         "occurrence_set": [
             {
                 "start_time": "2015-09-04 22:00:00",
@@ -37269,7 +43125,65 @@
     },
     {
         "hosted_by_camp": {
-            "name": "Taiwan Village",
+            "name": "Taiwanderlust",
+            "id": 7302
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 19:30:00",
+                "end_time": "2015-09-02 21:00:00"
+            }
+        ],
+        "description": "Goddess of the Eastern Seas, Mazu will be walking through the streets of Black Rock City with an entourage of everyone from fishermen to fire-breathing water dragons! Join the parade at the Taiwan Village.",
+        "title": "Mazu Procession",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15800,
+        "print_description": "Goddess of the Eastern Seas, Mazu will be walking through the streets of Black Rock City with her entourage.",
+        "check_location": false,
+        "slug": "mazu-procession",
+        "other_location": "",
+        "event_type": {
+            "abbr": "perf",
+            "label": "Performance"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Taiwanderlust",
+            "id": 7302
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 19:30:00",
+                "end_time": "2015-09-03 21:00:00"
+            }
+        ],
+        "description": "Goddess of the Eastern Seas, Mazu will be walking through the streets of Black Rock City with an entourage. Join us at Taiwanderlust Village!",
+        "title": "Mazu Procession",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15801,
+        "print_description": "Goddess of the Eastern Seas, Mazu will be walking through the streets of Black Rock City with an entourage. Join us at Taiwanderlust Village!",
+        "check_location": false,
+        "slug": "mazu-procession",
+        "other_location": "",
+        "event_type": {
+            "abbr": "perf",
+            "label": "Performance"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Taiwanderlust",
             "id": 7302
         },
         "occurrence_set": [
@@ -37302,7 +43216,7 @@
     },
     {
         "hosted_by_camp": {
-            "name": "Taiwan Village",
+            "name": "Taiwanderlust",
             "id": 7302
         },
         "occurrence_set": [
@@ -37331,6 +43245,36 @@
         "event_type": {
             "abbr": "prty",
             "label": "Gathering/Party"
+        }
+    },
+    {
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-04 22:30:00",
+                "end_time": "2015-09-04 23:30:00"
+            }
+        ],
+        "description": "Watch the temple of Mazu the Goddess of the Empty Sea bloom in to flame with a fireworks display and glory.",
+        "title": "Mazu Temple Burns!",
+        "url": "",
+        "located_at_art": {
+            "location_string": "Unknown",
+            "name": "Mazu Goddess of the Empty Sea",
+            "id": 2284
+        },
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15804,
+        "print_description": "Watch the temple of Mazu the Goddess of the Empty Sea bloom in to flame with a fireworks display and glory.",
+        "check_location": false,
+        "slug": "mazu-temple-burns",
+        "other_location": "",
+        "event_type": {
+            "abbr": "fire",
+            "label": "Fire"
         }
     },
     {
@@ -37373,7 +43317,7 @@
                 "end_time": "2015-09-01 14:00:00"
             }
         ],
-        "description": "Get your Buzz-On @ the BuzzInn & learn the homemade mead (honey wine) making process & what you need to ferment your own.  Sample Cyser, Melomels, and other styles.",
+        "description": "Buzzinn to the dHive bar and delight in humankind’s original ambrosia!  Mead is the oldest alcoholic beverage known to man & we aim to share with you how easy it is to make at home. A honey based wine, mead requires a very small investment on your part. The variations of style are endless as you can make mead with fruit, ciders, herbs, different kinds of honey, dry or sweet, (i.e. has remaining sugar),  bubbly, (like sparkling wine), or still. We will explain how to make it, where to get it, and even have demo equipment available. 21+ and over can sample different varieties we've made and brought to share. You will come away with an understanding of:   Early Discoveries of Mead,  Mead in Religion and Culture, & the Techniques of Making Mead: -Overall concepts that mixing water, honey and yeast starts a reaction to convert the sugars in the honey to alcohol and release carbon dioxide gas. -The equipment needed such as a 1, 3 or 5 gallon water bottles, airlocks, tubes to siphon off the mead from the ‘lees,’ (sediment at the bottom of the fermentation container), bottles, and a few other items such as cleanser to keep everything clean. -Selections of honey to make mead and how the type of honey influences the end result flavor and the same for yeast selection. -Selections of ‘adjuncts’ which influence the flavor of your mead: the addition of spices such as cloves or cinnamon (known as metheglin), or the addition of fruits such as raspberries or strawberry (melomel).  We will finish up with tasting different styles! Bzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz!",
         "title": "Mead Workshop @ the BuzzInn",
         "url": "http://www.facebook.com/BuzzInnNews",
         "year": {
@@ -37389,6 +43333,35 @@
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Dare to be Rare",
+            "id": 7542
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 13:00:00",
+                "end_time": "2015-08-31 15:00:00"
+            }
+        ],
+        "description": "Welcome to the Playa - now come and have a drink and meet some new friends. We like our meat and love it rare!",
+        "title": "Meat and Greet",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15526,
+        "print_description": "Welcome to the Playa - now come and have a drink and meet some new friends. We like our meat and love it rare!",
+        "check_location": false,
+        "slug": "meat-and-greet",
+        "other_location": "Tritip",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
         }
     },
     {
@@ -37814,6 +43787,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "The Enclave",
+            "id": 7861
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-06 11:00:00",
+                "end_time": "2015-09-06 13:00:00"
+            }
+        ],
+        "description": "Join us on Sunday Sept. 6th at 11 am to soothe your soul ( and your burning hangover) with a Mary Moonshine Morning on the PyroBar. Graze the selection of smoked meats, picked goodies, and fresh veggies as you garnish your own Bloody Mary made from out house moonshine. Kick back on our beloved lady beast the PyroBar as you sip on Bloody Marys and relax to fireballs and mellow DJ sets.",
+        "title": "Merry Moonshine Bloody Mary Baptism",
+        "url": "https://www.facebook.com/events/983386235059270/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15551,
+        "print_description": "Soothe your soul (and your burning hangover) with a Mary Moonshine Morning on the Pyrobar.  Come sip back, relax, and enjoy curated meats and beats.",
+        "check_location": false,
+        "slug": "merry-moonshine-bloody-mary-baptism",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Slutgarden",
             "id": 7491
         },
@@ -37988,16 +43990,49 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Sideshow!",
+            "id": 7495
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 23:00:00",
+                "end_time": "2015-09-02 23:45:00"
+            },
+            {
+                "start_time": "2015-09-04 23:00:00",
+                "end_time": "2015-09-04 23:45:00"
+            }
+        ],
+        "description": "Legendary magicians will baffle and amaze!  Join the Great team of Eason and Eason and their magic friends, just back from a European tour!  Witness magic the likes of which they have performed for Kings and Potentates. Seating is limited for the best viewing.  At SIDESHOW- Tuesday, Wednesday and Friday at 11 pm.",
+        "title": "Midnight Magic at 11 pm",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15730,
+        "print_description": "Legendary magicians will baffle and amaze!  Join the Great team of Eason and Eason and their magic friends, just back from a European tour!",
+        "check_location": false,
+        "slug": "midnight-magic-at-11-pm",
+        "other_location": "",
+        "event_type": {
+            "abbr": "perf",
+            "label": "Performance"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Comfort and Joy",
             "id": 8125
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-02 00:00:00",
-                "end_time": "2015-09-02 04:00:00"
+                "start_time": "2015-09-03 00:00:00",
+                "end_time": "2015-09-03 04:00:00"
             }
         ],
-        "description": "Come and enjoy our projection cinema on the side of our dining lounge. Tonight’s featured films: Prospero's Books / Freaks",
+        "description": "Come and enjoy our projection cinema on the side of our dining lounge. Tonight’s featured films: The NeverEnding Story / Dark City",
         "title": "Midnight Movie Double Feature Cuddle Cinema",
         "url": "",
         "year": {
@@ -38005,8 +44040,8 @@
             "year": "2015"
         },
         "all_day": false,
-        "id": 14212,
-        "print_description": "Come and enjoy our projection cinema on the side of our dining lounge. Tonight’s featured films: Prospero's Books / Freaks",
+        "id": 14570,
+        "print_description": "Come and enjoy our projection cinema on the side of our dining lounge. Tonight’s featured films: The NeverEnding Story / Dark City",
         "check_location": false,
         "slug": "midnight-movie-double-feature-cuddle-cinema",
         "other_location": "Courtyard",
@@ -38039,64 +44074,6 @@
         "check_location": false,
         "slug": "midnight-movie-double-feature-cuddle-cinema",
         "other_location": "",
-        "event_type": {
-            "abbr": "prty",
-            "label": "Gathering/Party"
-        }
-    },
-    {
-        "hosted_by_camp": {
-            "name": "Comfort and Joy",
-            "id": 8125
-        },
-        "occurrence_set": [
-            {
-                "start_time": "2015-09-06 00:00:00",
-                "end_time": "2015-09-06 04:00:00"
-            }
-        ],
-        "description": "Come and enjoy our projection cinema on the side of our dining lounge. Tonight’s featured films: Forbidden Planet / Naked Lunch",
-        "title": "Midnight Movie Double Feature Cuddle Cinema",
-        "url": "",
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "all_day": false,
-        "id": 14786,
-        "print_description": "Come and enjoy our projection cinema on the side of our dining lounge. Tonight’s featured films: Forbidden Planet / Naked Lunch",
-        "check_location": false,
-        "slug": "midnight-movie-double-feature-cuddle-cinema",
-        "other_location": "",
-        "event_type": {
-            "abbr": "none",
-            "label": "None"
-        }
-    },
-    {
-        "hosted_by_camp": {
-            "name": "Comfort and Joy",
-            "id": 8125
-        },
-        "occurrence_set": [
-            {
-                "start_time": "2015-09-03 00:00:00",
-                "end_time": "2015-09-03 04:00:00"
-            }
-        ],
-        "description": "Come and enjoy our projection cinema on the side of our dining lounge. Tonight’s featured films: The NeverEnding Story / Dark City",
-        "title": "Midnight Movie Double Feature Cuddle Cinema",
-        "url": "",
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "all_day": false,
-        "id": 14570,
-        "print_description": "Come and enjoy our projection cinema on the side of our dining lounge. Tonight’s featured films: The NeverEnding Story / Dark City",
-        "check_location": false,
-        "slug": "midnight-movie-double-feature-cuddle-cinema",
-        "other_location": "Courtyard",
         "event_type": {
             "abbr": "prty",
             "label": "Gathering/Party"
@@ -38161,6 +44138,122 @@
         }
     },
     {
+        "hosted_by_camp": {
+            "name": "Comfort and Joy",
+            "id": 8125
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 00:00:00",
+                "end_time": "2015-09-02 04:00:00"
+            }
+        ],
+        "description": "Come and enjoy our projection cinema on the side of our dining lounge. Tonight’s featured films: Prospero's Books / Freaks",
+        "title": "Midnight Movie Double Feature Cuddle Cinema",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 14212,
+        "print_description": "Come and enjoy our projection cinema on the side of our dining lounge. Tonight’s featured films: Prospero's Books / Freaks",
+        "check_location": false,
+        "slug": "midnight-movie-double-feature-cuddle-cinema",
+        "other_location": "Courtyard",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Comfort and Joy",
+            "id": 8125
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-06 00:00:00",
+                "end_time": "2015-09-06 04:00:00"
+            }
+        ],
+        "description": "Come and enjoy our projection cinema on the side of our dining lounge. Tonight’s featured films: Forbidden Planet / Naked Lunch",
+        "title": "Midnight Movie Double Feature Cuddle Cinema",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 14786,
+        "print_description": "Come and enjoy our projection cinema on the side of our dining lounge. Tonight’s featured films: Forbidden Planet / Naked Lunch",
+        "check_location": false,
+        "slug": "midnight-movie-double-feature-cuddle-cinema",
+        "other_location": "",
+        "event_type": {
+            "abbr": "none",
+            "label": "None"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Sideshow!",
+            "id": 7495
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 09:00:00",
+                "end_time": "2015-09-01 23:00:00"
+            }
+        ],
+        "description": "Legendary magicians will baffle and amaze!  Join the Great team of Eason and Eason and their magic friends, just back from a European tour!  Witness magic the likes of which they have performed for Kings and Potentates. Seating is limited for the best viewing.  At SIDESHOW- Tuesday, Wednesday and Friday at 11 pm.",
+        "title": "Midnite Magic at 11 pm!",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15728,
+        "print_description": "Legendary magicians will baffle and amaze!  Join the Great Eason and Eason and their magic friends, just back from a European tour!",
+        "check_location": false,
+        "slug": "midnite-magic-at-11-pm",
+        "other_location": "",
+        "event_type": {
+            "abbr": "perf",
+            "label": "Performance"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Sideshow!",
+            "id": 7495
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 09:00:00",
+                "end_time": "2015-09-01 23:00:00"
+            }
+        ],
+        "description": "Legendary magicians will baffle and amaze!  Join the Great team of Eason and Eason and their magic friends, just back from a European tour!  Witness magic the likes of which they have performed for Kings and Potentates. Seating is limited for the best viewing.  At SIDESHOW- Tuesday, Wednesday and Friday at 11 pm.",
+        "title": "Midnite Magic at 11 pm!",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15729,
+        "print_description": "Legendary magicians will baffle and amaze!  Join the Great Eason and Eason and their magic friends, just back from a European tour!",
+        "check_location": false,
+        "slug": "midnite-magic-at-11-pm",
+        "other_location": "",
+        "event_type": {
+            "abbr": "perf",
+            "label": "Performance"
+        }
+    },
+    {
         "occurrence_set": [
             {
                 "start_time": "2015-08-31 17:45:00",
@@ -38188,6 +44281,47 @@
         "event_type": {
             "abbr": "prty",
             "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Mighty Misfits",
+            "id": 7143
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 14:00:00",
+                "end_time": "2015-09-01 16:00:00"
+            },
+            {
+                "start_time": "2015-09-02 14:00:00",
+                "end_time": "2015-09-02 16:00:00"
+            },
+            {
+                "start_time": "2015-09-03 14:00:00",
+                "end_time": "2015-09-03 16:00:00"
+            },
+            {
+                "start_time": "2015-09-04 14:00:00",
+                "end_time": "2015-09-04 16:00:00"
+            }
+        ],
+        "description": "Hurry hurry! Cum one, cum all! Step right up, let’s have a ball! Here's your ticket, you’re on your way, it's Black Rock City's carny games! Games, face painting, henna tattoos, and fortune telling to name a few! Amuse you, abuse you, that’s our plan. Be naughty, not nice, you'll fit right in. The Mighty Misfits are all about the sin. Tuesday through Friday, 2:00 to 4:00",
+        "title": "Mighty Misfits Carny Game & Face Painting",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15521,
+        "print_description": "Games, face painting, henna tattoos & fortune telling. Amuse you, abuse you, that's our plan. Be naughty not nice. Cum fit right in.",
+        "check_location": true,
+        "slug": "mighty-misfits-carny-game-face-painting",
+        "other_location": "",
+        "event_type": {
+            "abbr": "adlt",
+            "label": "Adult-oriented"
         }
     },
     {
@@ -38221,35 +44355,6 @@
     },
     {
         "hosted_by_camp": {
-            "name": "Down Low Club",
-            "id": 7094
-        },
-        "occurrence_set": [
-            {
-                "start_time": "2015-09-01 19:00:00",
-                "end_time": "2015-09-02 01:00:00"
-            }
-        ],
-        "description": "You can ask but you don't have to tell at Down Low Club, open 24/7 all week. Tonight it’s real man-to-man action for adult Gay, Queer, Bi & Curious men with a military theme. Our discreet, enclosed, air-conditioned Army tent is fully outfitted for adult manplay. Wear your best camouflage, BDUs, 13-button pants if you like. Or not. Soldier? Sailor? Marine? Airman? Come live your \"in the service\" fantasy or re-live those manly military days from your past. From foxholes to flight decks, barracks to bulkheads it’s all here, men! Remember, what happens at Burning Man stays at Burning Man…",
-        "title": "Military Madness Manplay",
-        "url": "https://www.facebook.com/groups/557666564336453/",
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "all_day": false,
-        "id": 15116,
-        "print_description": "Gay, Queer, Bi & Curious adult men come live Soldier, Sailor, Marine & Airmen memories/fantasies in Down Low Club's discreet, enclosed manplay tent",
-        "check_location": true,
-        "slug": "military-madness-manplay",
-        "other_location": "",
-        "event_type": {
-            "abbr": "adlt",
-            "label": "Adult-oriented"
-        }
-    },
-    {
-        "hosted_by_camp": {
             "name": "Pussy Day Spa",
             "id": 7053
         },
@@ -38275,6 +44380,51 @@
         "event_type": {
             "abbr": "adlt",
             "label": "Adult-oriented"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Mimosa Sunrise",
+            "id": 7172
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 05:30:00",
+                "end_time": "2015-09-01 07:00:00"
+            },
+            {
+                "start_time": "2015-09-02 05:30:00",
+                "end_time": "2015-09-02 07:00:00"
+            },
+            {
+                "start_time": "2015-09-03 05:30:00",
+                "end_time": "2015-09-03 07:00:00"
+            },
+            {
+                "start_time": "2015-09-04 05:30:00",
+                "end_time": "2015-09-04 07:00:00"
+            },
+            {
+                "start_time": "2015-09-05 05:30:00",
+                "end_time": "2015-09-05 07:00:00"
+            }
+        ],
+        "description": "EVERY MORNING @ sunrise come hangout and enjoy a refreshing mimosa at our bar and lounge for a great way to end the night or start your day. Share your stories, meet some friends and have a laugh with us and enjoy a little nightcap mimosa with our crew. Come once and we know you'll be back again to Camp Mimosa Sunrise.",
+        "title": "MIMOSA SUNRISE",
+        "url": "http://mimosasunrise.org/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15563,
+        "print_description": "EVERY MORNING @ sunrise come hangout and enjoy a refreshing mimosa at our bar and lounge for a great way to end the night or start your day",
+        "check_location": true,
+        "slug": "mimosa-sunrise",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
         }
     },
     {
@@ -38468,6 +44618,80 @@
         }
     },
     {
+        "hosted_by_camp": {
+            "name": "Silicon Village",
+            "id": 7516
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 19:00:00",
+                "end_time": "2015-08-31 23:45:00"
+            },
+            {
+                "start_time": "2015-09-01 19:00:00",
+                "end_time": "2015-09-01 23:45:00"
+            },
+            {
+                "start_time": "2015-09-02 19:00:00",
+                "end_time": "2015-09-02 23:45:00"
+            },
+            {
+                "start_time": "2015-09-03 19:00:00",
+                "end_time": "2015-09-03 23:45:00"
+            },
+            {
+                "start_time": "2015-09-04 19:00:00",
+                "end_time": "2015-09-04 23:45:00"
+            }
+        ],
+        "description": "Use your brain waves to control music and lights and play pong!!!\r\n\r\nDid you know that the collective firing of millions of neurons in your brain can create electric potentials strong enough to be measured at your scalp? Do you care? Either way, come visit Mindwerk, put on some technically advanced and extremely attractive brain-interface headwear, and you can use your mind to control ambient drone music and a colorful lighting display, and to play the video game pong! All brains are welcome!",
+        "title": "Mindwerk",
+        "url": "http://siliconvillageburners.org/pods/mindwerk/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 14792,
+        "print_description": "Use your brain waves to control ambient drone music and colorful lights, and to play the video game pong. All brains welcome!",
+        "check_location": false,
+        "slug": "mindwerk",
+        "other_location": "",
+        "event_type": {
+            "abbr": "none",
+            "label": "None"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Playa Jazz Cafe",
+            "id": 7448
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-05 14:00:00",
+                "end_time": "2015-09-05 17:00:00"
+            }
+        ],
+        "description": "Our House Band will perform a set of  music by Composer/ Bassist Charles Mingus while serving Mimosas, coffee, and other refreshments.",
+        "title": "Mingus and Mimosas",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15534,
+        "print_description": "Our House Band will perform a set of  music by Composer/ Bassist Charles Mingus while serving Mimosas, coffee, and other refreshments.",
+        "check_location": true,
+        "slug": "mingus-and-mimosas",
+        "other_location": "",
+        "event_type": {
+            "abbr": "perf",
+            "label": "Performance"
+        }
+    },
+    {
         "occurrence_set": [
             {
                 "start_time": "2015-08-31 14:00:00",
@@ -38487,6 +44711,35 @@
         "check_location": false,
         "slug": "mini-mobile-mojito-monday",
         "other_location": "7:30 plaza",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Huggzilla",
+            "id": 8072
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 19:30:00",
+                "end_time": "2015-08-31 23:45:00"
+            }
+        ],
+        "description": "Deep house, minimal house with drums, electric guitar & keyboards with DJ's from SF Bay Area, Germany, Croatia, Montenegro.",
+        "title": "MiniZilla",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15601,
+        "print_description": "Deep house, minimal house with drums, electric guitar & keyboards with DJ's from SF Bay Area, Germany, Croatia, Montenegro.",
+        "check_location": true,
+        "slug": "minizilla",
+        "other_location": "",
         "event_type": {
             "abbr": "prty",
             "label": "Gathering/Party"
@@ -38884,6 +45137,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Camp Afterglow",
+            "id": 8008
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 11:00:00",
+                "end_time": "2015-09-01 12:00:00"
+            }
+        ],
+        "description": "Realign from head to toe going through each joint and section in the body. The intention is to explore and play. To step out of our comfort zones and to connect deeper.",
+        "title": "Mobility and Rebalancing Workshop",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15615,
+        "print_description": "Realign from head to toe going through each joint and section in the body. The intention is to explore and play. To step out of our comfort zones.",
+        "check_location": true,
+        "slug": "mobility-and-rebalancing-workshop",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "People's Art Congress",
             "id": 7243
         },
@@ -39152,6 +45434,88 @@
     },
     {
         "hosted_by_camp": {
+            "name": "More Carrot",
+            "id": 7899
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 08:00:00",
+                "end_time": "2015-09-01 10:00:00"
+            },
+            {
+                "start_time": "2015-09-02 08:00:00",
+                "end_time": "2015-09-02 10:00:00"
+            },
+            {
+                "start_time": "2015-09-03 08:00:00",
+                "end_time": "2015-09-03 10:00:00"
+            },
+            {
+                "start_time": "2015-09-04 08:00:00",
+                "end_time": "2015-09-04 10:00:00"
+            }
+        ],
+        "description": "One of the best parts of exploring any city is checking out the farmer’s market- and Black Rock City is no exception! At More Carrot Farmer’s Market you can nourish yourself and your crew on a wide array of fresh fruits and vegetables sourced from local farms on the outskirts of Reno and Sparks. Come eat your fill of the foods your ancestral human family has been enjoying for millions of years!",
+        "title": "More Carrot - Black Rock City's Farmers Market",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15699,
+        "print_description": "How long has it been since you've had a vegetable? All week? Come to More Carrot to nourish yourself on a wide array of fresh fruits and vegetables.",
+        "check_location": true,
+        "slug": "more-carrot-black-rock-citys-farmers-market",
+        "other_location": "Inside the French Quarter",
+        "event_type": {
+            "abbr": "food",
+            "label": "Food"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "More Carrot",
+            "id": 7899
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 08:00:00",
+                "end_time": "2015-09-01 10:00:00"
+            },
+            {
+                "start_time": "2015-09-02 08:00:00",
+                "end_time": "2015-09-02 10:00:00"
+            },
+            {
+                "start_time": "2015-09-03 08:00:00",
+                "end_time": "2015-09-03 10:00:00"
+            },
+            {
+                "start_time": "2015-09-04 08:00:00",
+                "end_time": "2015-09-04 10:00:00"
+            }
+        ],
+        "description": "One of the best parts of exploring any city is checking out the farmer’s market- and Black Rock City is no exception! At More Carrot Farmer’s Market you can nourish yourself and your crew with a wide array of fresh fruits and vegetables sourced from local farms on the outskirts of Reno and Sparks. Come eat your fill of the foods your ancestral human family has been enjoying for millions of years!",
+        "title": "More Carrot Farmer’s Market",
+        "url": "http://morecarrot.wordpress.com/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15726,
+        "print_description": "Come enjoy a wide array of fresh fruits and vegetables directly from local farms at More Carrot Farmer's Market.",
+        "check_location": true,
+        "slug": "more-carrot-farmers-market",
+        "other_location": "French Quarter",
+        "event_type": {
+            "abbr": "food",
+            "label": "Food"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Earth Guardians",
             "id": 7287
         },
@@ -39271,6 +45635,55 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Gypsy Nebula Village",
+            "id": 7200
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 09:00:00",
+                "end_time": "2015-08-31 13:00:00"
+            },
+            {
+                "start_time": "2015-09-01 09:00:00",
+                "end_time": "2015-09-01 13:00:00"
+            },
+            {
+                "start_time": "2015-09-02 09:00:00",
+                "end_time": "2015-09-02 13:00:00"
+            },
+            {
+                "start_time": "2015-09-03 09:00:00",
+                "end_time": "2015-09-03 13:00:00"
+            },
+            {
+                "start_time": "2015-09-04 09:00:00",
+                "end_time": "2015-09-04 13:00:00"
+            },
+            {
+                "start_time": "2015-09-05 09:00:00",
+                "end_time": "2015-09-05 13:00:00"
+            }
+        ],
+        "description": "Morning cocktails, coffee, and stories of the playa. come share your misadventures with us.  each morning we will be brewing up hot coffee and serving up a different cocktail to the thirsty dusty and hung-over masses.  we also have journals provided to patrons to share their adventures, mistakes, and blurry memories of the playa with us. after the burn they will be uploaded to our Facebook page anonymously for all to enjoy.  serving from whenever we wake up ( 9:00-ish)  until around 1:00 pm also join us at 1:00 on Wednesday for a beginners Japanese bondage class in the dome.",
+        "title": "Morning coffee and cocktails",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15480,
+        "print_description": "Morning cocktails, coffee, and stories of the playa. come share your misadventures with us. from 9 until 1... or we get bored",
+        "check_location": true,
+        "slug": "morning-coffee-and-cocktails",
+        "other_location": "Morning Cock & Tales",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Preservation Society",
             "id": 8127
         },
@@ -39296,51 +45709,6 @@
         "event_type": {
             "abbr": "prty",
             "label": "Gathering/Party"
-        }
-    },
-    {
-        "hosted_by_camp": {
-            "name": "Run Free Camp",
-            "id": 7075
-        },
-        "occurrence_set": [
-            {
-                "start_time": "2015-08-31 07:30:00",
-                "end_time": "2015-08-31 08:00:00"
-            },
-            {
-                "start_time": "2015-09-01 07:30:00",
-                "end_time": "2015-09-01 08:00:00"
-            },
-            {
-                "start_time": "2015-09-02 07:30:00",
-                "end_time": "2015-09-02 08:00:00"
-            },
-            {
-                "start_time": "2015-09-03 07:30:00",
-                "end_time": "2015-09-03 08:00:00"
-            },
-            {
-                "start_time": "2015-09-04 07:30:00",
-                "end_time": "2015-09-04 08:00:00"
-            }
-        ],
-        "description": "Honor the playa and your purpose for the day with a morning meditation. Format varies daily.",
-        "title": "Morning Meditation",
-        "url": "http://www.runfreecamp.com/",
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "all_day": false,
-        "id": 15071,
-        "print_description": "Honor the playa and your purpose for the day with a morning meditation. Format varies daily.",
-        "check_location": true,
-        "slug": "morning-meditation",
-        "other_location": "",
-        "event_type": {
-            "abbr": "care",
-            "label": "Care/Support"
         }
     },
     {
@@ -39398,6 +45766,51 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Run Free Camp",
+            "id": 7075
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 07:30:00",
+                "end_time": "2015-08-31 08:00:00"
+            },
+            {
+                "start_time": "2015-09-01 07:30:00",
+                "end_time": "2015-09-01 08:00:00"
+            },
+            {
+                "start_time": "2015-09-02 07:30:00",
+                "end_time": "2015-09-02 08:00:00"
+            },
+            {
+                "start_time": "2015-09-03 07:30:00",
+                "end_time": "2015-09-03 08:00:00"
+            },
+            {
+                "start_time": "2015-09-04 07:30:00",
+                "end_time": "2015-09-04 08:00:00"
+            }
+        ],
+        "description": "Honor the playa and your purpose for the day with a morning meditation. Format varies daily.",
+        "title": "Morning Meditation",
+        "url": "http://www.runfreecamp.com/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15071,
+        "print_description": "Honor the playa and your purpose for the day with a morning meditation. Format varies daily.",
+        "check_location": true,
+        "slug": "morning-meditation",
+        "other_location": "",
+        "event_type": {
+            "abbr": "care",
+            "label": "Care/Support"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Primate Playground",
             "id": 7188
         },
@@ -39426,6 +45839,10 @@
         }
     },
     {
+        "hosted_by_camp": {
+            "name": "Spanky's Village and Wine Bar",
+            "id": 8248
+        },
         "occurrence_set": [
             {
                 "start_time": "2015-08-31 11:00:00",
@@ -39464,7 +45881,7 @@
         "print_description": "The infamous music/comedy/variety show hosted by Admiral Painjoy.  Tune to 100.5 FM or come see it live at Spanky’s. You might win a prize!",
         "check_location": false,
         "slug": "morning-painjoy-radio-mpr",
-        "other_location": "Spanky's Wine Bar",
+        "other_location": "In Spanky's Village, and on 100.5 FM -- Radio Free Spanky's",
         "event_type": {
             "abbr": "perf",
             "label": "Performance"
@@ -39547,6 +45964,35 @@
         "check_location": false,
         "slug": "morning-yoga",
         "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "P3: The Princess Party Palace",
+            "id": 7062
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 09:00:00",
+                "end_time": "2015-09-01 10:00:00"
+            }
+        ],
+        "description": "This will be a fun and challenging practice for all levels. We will work on grounding our energy so we can open our hearts and experience the moment in its fullest expression. Come be playful and open, learn about your body and breath, and build community!",
+        "title": "Morning Yoga! ",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15781,
+        "print_description": "We will work on grounding our energy so we can open our hearts and experience the wonderment of the moment.   This practice is for all levels.",
+        "check_location": false,
+        "slug": "morning-yoga",
+        "other_location": "Meet at our Camp! ",
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
@@ -39699,6 +46145,43 @@
     },
     {
         "hosted_by_camp": {
+            "name": "White Bronco",
+            "id": 7110
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 18:00:00",
+                "end_time": "2015-08-31 20:00:00"
+            },
+            {
+                "start_time": "2015-09-02 18:00:00",
+                "end_time": "2015-09-02 20:00:00"
+            },
+            {
+                "start_time": "2015-09-04 18:00:00",
+                "end_time": "2015-09-04 20:00:00"
+            }
+        ],
+        "description": "Here are the list of movies we are showing throughout the week. We will provide snacks n beerz. \r\n\r\nWATCHMEN\r\nVERTIGO\r\nSTAR WARS (ANY)\r\nCHINATOWN\r\nFIGHT CLUB\r\nBARRAKA\r\nBLADE RUNNER\r\nVANISHING POINT\r\nSTARSHIP TROOPERS",
+        "title": "MOVIE NIGHT",
+        "url": "http://www.whitebronco.life/events/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15743,
+        "print_description": "Just a little session to charge your batteries before going out or to decompress afterwards. Or...just a reason to kick it and chill out.",
+        "check_location": true,
+        "slug": "movie-night",
+        "other_location": "smartfit101@gmail.com",
+        "event_type": {
+            "abbr": "care",
+            "label": "Care/Support"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Camp Contact",
             "id": 7836
         },
@@ -39762,11 +46245,11 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-08-31 15:00:00",
-                "end_time": "2015-08-31 17:00:00"
+                "start_time": "2015-09-01 15:00:00",
+                "end_time": "2015-09-01 17:00:00"
             }
         ],
-        "description": "Get your paint on, Body Painting including fabulous UV designs for an evening on the playa.",
+        "description": "Body Painting. The only thing better than a Tutu from Mr. Peepers Closet is accessorizing your new Tutu with Body Paint. Flowers, Corsets, Skulls, Whatever your heart desires.",
         "title": "Mr. Peepers Body Painting",
         "url": "",
         "year": {
@@ -39774,8 +46257,8 @@
             "year": "2015"
         },
         "all_day": false,
-        "id": 14983,
-        "print_description": "Get your paint on, Body Painting including fabulous UV designs for an evening on the playa.",
+        "id": 14993,
+        "print_description": "Body Painting. The only thing better than a Tutu from Mr. Peepers Closet is accessorizing your new Tutu with Body Paint. Flowers, Corsets, Skulls etc.",
         "check_location": false,
         "slug": "mr-peepers-body-painting",
         "other_location": "",
@@ -39791,11 +46274,11 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-01 15:00:00",
-                "end_time": "2015-09-01 17:00:00"
+                "start_time": "2015-08-31 15:00:00",
+                "end_time": "2015-08-31 17:00:00"
             }
         ],
-        "description": "Body Painting. The only thing better than a Tutu from Mr. Peepers Closet is accessorizing your new Tutu with Body Paint. Flowers, Corsets, Skulls, Whatever your heart desires.",
+        "description": "Get your paint on, Body Painting including fabulous UV designs for an evening on the playa.",
         "title": "Mr. Peepers Body Painting",
         "url": "",
         "year": {
@@ -39803,8 +46286,8 @@
             "year": "2015"
         },
         "all_day": false,
-        "id": 14993,
-        "print_description": "Body Painting. The only thing better than a Tutu from Mr. Peepers Closet is accessorizing your new Tutu with Body Paint. Flowers, Corsets, Skulls etc.",
+        "id": 14983,
+        "print_description": "Get your paint on, Body Painting including fabulous UV designs for an evening on the playa.",
         "check_location": false,
         "slug": "mr-peepers-body-painting",
         "other_location": "",
@@ -39935,6 +46418,59 @@
         "event_type": {
             "abbr": "care",
             "label": "Care/Support"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "STAR STAR ROADHOUSE",
+            "id": 7680
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 12:00:00",
+                "end_time": "2015-08-31 15:00:00"
+            },
+            {
+                "start_time": "2015-09-01 12:00:00",
+                "end_time": "2015-09-01 15:00:00"
+            },
+            {
+                "start_time": "2015-09-02 12:00:00",
+                "end_time": "2015-09-02 15:00:00"
+            },
+            {
+                "start_time": "2015-09-03 12:00:00",
+                "end_time": "2015-09-03 15:00:00"
+            },
+            {
+                "start_time": "2015-09-04 12:00:00",
+                "end_time": "2015-09-04 15:00:00"
+            },
+            {
+                "start_time": "2015-09-05 12:00:00",
+                "end_time": "2015-09-05 15:00:00"
+            },
+            {
+                "start_time": "2015-09-06 12:00:00",
+                "end_time": "2015-09-06 15:00:00"
+            }
+        ],
+        "description": "CLASSICAL MUSIC, CLASSIC ROCK, and ROCK albums played from start to finish!  Come rest in our shade and enjoy simply listening.\r\n\r\nCHECK OUT www.starstarroadhouse.com for artist bios, photos, video, camp layout, class schedules and discover what Star Star is all about!",
+        "title": "MUSIC LISTENING HOURS!",
+        "url": "http://www.starstarroadhouse.com/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15737,
+        "print_description": "CLASSICAL MUSIC, CLASSIC ROCK, and ROCK albums played from start to finish!  Come rest in our shade and enjoy simply listening.",
+        "check_location": false,
+        "slug": "music-listening-hours",
+        "other_location": "andytannehill",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
         }
     },
     {
@@ -40646,6 +47182,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Dare to be Rare",
+            "id": 7542
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 14:00:00",
+                "end_time": "2015-09-02 17:00:00"
+            }
+        ],
+        "description": "Come enjoy a tri-tip and bison BBQ and receive communion from the Meat Priest and Naughty Nun. We love a good time and have always had one. We go till it all goes!",
+        "title": "Na-Meat-Stay with Meat Communion (Beef/Bison BBQ)",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15529,
+        "print_description": "Best BBQ on the Playa.",
+        "check_location": false,
+        "slug": "na-meat-stay-with-meat-communion-beefbison-bbq",
+        "other_location": "Tritip",
+        "event_type": {
+            "abbr": "food",
+            "label": "Food"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Anonymous Village",
             "id": 7805
         },
@@ -40944,6 +47509,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Enchanted Booty Village",
+            "id": 7306
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 15:00:00",
+                "end_time": "2015-09-03 17:00:00"
+            }
+        ],
+        "description": "Time to don your nerdiest glasses and your geekiest bow tie and join us in the shade of the Enchanted Booty Forest for some serious(ish) nerd talk! Come sip some cucumber water, nibble on brain food and talk nerdy with us.  Discuss whether a robot could have a heart, grok the potential of alien social structures, consider what it would be like to be a Betazoid or bring up anything else your nerdy minds hunger for!",
+        "title": "Nerd Talk",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15614,
+        "print_description": "Don your nerdiest digs and join us for deep geek discussions on whether robots could ever have hearts, alien social structures, time travel and more!",
+        "check_location": true,
+        "slug": "nerd-talk",
+        "other_location": "laughinginslowmotion@gmail.com",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "CampDIY",
             "id": 7159
         },
@@ -40998,6 +47592,35 @@
         "event_type": {
             "abbr": "prty",
             "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Dr.Baron von Realz esq. Steampunk",
+            "id": 7156
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 17:00:00",
+                "end_time": "2015-09-02 19:00:00"
+            }
+        ],
+        "description": "How well do you know you mate? Maybe better than you thought!\r\nNot married? get “play” married on the spot then play the game then have a honeymoon. Loosely based on the newlywed game show. Fabulous prizes for the winners!",
+        "title": "NewlyWEDsDay",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15505,
+        "print_description": "How well do you know you mate? Maybe better than you thought!\r\nNot married? get “play” married on the spot then play the game then have a honeymoon?!",
+        "check_location": false,
+        "slug": "newlywedsday",
+        "other_location": "",
+        "event_type": {
+            "abbr": "game",
+            "label": "Game"
         }
     },
     {
@@ -41105,6 +47728,35 @@
         "event_type": {
             "abbr": "perf",
             "label": "Performance"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Le Kafé",
+            "id": 7660
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 19:00:00",
+                "end_time": "2015-09-06 00:00:00"
+            }
+        ],
+        "description": "Walk the lighted Labyrinth of Wonder at Le Kafe to contemplate, release, move forward, sideways or wherever your mind and heart need to travel.   With the gentle circling walkway you'll enjoy a journey towards your center and out again.  It's simple, it's profound, and it's there until the man burns!",
+        "title": "Nightly Labyrinth Walks",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15579,
+        "print_description": "Walk the lighted Labyrinth of Wonder at Le Kafe to contemplate, release, move forward, sideways or wherever your mind and heart need to travel.",
+        "check_location": false,
+        "slug": "nightly-labyrinth-walks",
+        "other_location": "",
+        "event_type": {
+            "abbr": "cere",
+            "label": "Ritual/Ceremony"
         }
     },
     {
@@ -41316,6 +47968,43 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Camp Shark Cage",
+            "id": 8199
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 16:00:00",
+                "end_time": "2015-09-02 18:00:00"
+            },
+            {
+                "start_time": "2015-09-03 16:00:00",
+                "end_time": "2015-09-03 18:00:00"
+            },
+            {
+                "start_time": "2015-09-04 16:00:00",
+                "end_time": "2015-09-04 18:00:00"
+            }
+        ],
+        "description": "Welcome to Burning Man's one and only nautical Nicolas Cage themed camp!!  Come drink with us and choose from our Nic Cage or our oceanic themed drink of the day.  Beware though, you gotta spin our wheel of destiny before you get to drink.  Cage help you if you get the bees!!",
+        "title": "NOOOOOOO NOT THE BEES",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15660,
+        "print_description": "Love Nicolas Cage?  Love sharks?  Come drink with Camp Shark Cage!!",
+        "check_location": true,
+        "slug": "nooooooo-not-the-bees",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Gigsville",
             "id": 8235
         },
@@ -41403,6 +48092,35 @@
         "print_description": "Become a 7 year old again as we take a trip to the ocean to go surfing and snorkeling through a Kundalini and Vinyasa flow set to fun music.",
         "check_location": false,
         "slug": "not-just-for-children-childrens-yoga",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Hanging Gardens of BRC",
+            "id": 8249
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-04 16:00:00",
+                "end_time": "2015-09-04 17:30:00"
+            }
+        ],
+        "description": "Come to our garden and water your seeds of ease and well-being through this yoga practice of restorative postures, pranayama (breath work) and mediation. Live acoustic music and mantra will accompany this deeply rejuvenating session designed to replenish your energy and soak your roots. Take time to care for yourself in the garden, that you may have even more to share and offer to this magical city we call home. Bring a mat and towel (if you have them). - Taught by Yoga Instructor Rocky Heron",
+        "title": "Nourish!",
+        "url": "https://www.facebook.com/HangingGardensBRC",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15694,
+        "print_description": "Come to our garden and water your seeds of ease and well-being through this yoga practice of restorative postures, breath work, and mediation.",
+        "check_location": false,
+        "slug": "nourish",
         "other_location": "",
         "event_type": {
             "abbr": "work",
@@ -41952,11 +48670,11 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-04 12:00:00",
-                "end_time": "2015-09-04 13:00:00"
+                "start_time": "2015-09-01 12:00:00",
+                "end_time": "2015-09-01 13:00:00"
             }
         ],
-        "description": "On site CNC router lecture and demonstration (yes, we will have a machine on site). Learn the basics of this powerful DIY tool.",
+        "description": "On site CNC router lecture and demonstration (yes, we will have a machine\r\non site). Learn the basics of this powerful DIY tool.",
         "title": "On Site CNC Router Demo",
         "url": "",
         "year": {
@@ -41964,8 +48682,8 @@
             "year": "2015"
         },
         "all_day": false,
-        "id": 14501,
-        "print_description": "On site CNC router lecture and demonstration (yes, we will have a machine on site). Learn the basics of this powerful DIY tool.",
+        "id": 14158,
+        "print_description": "On site CNC router lecture and demonstration (yes, we will have a machine\r\non site). Learn the basics of this powerful DIY tool.",
         "check_location": false,
         "slug": "on-site-cnc-router-demo",
         "other_location": "",
@@ -41981,11 +48699,11 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-01 12:00:00",
-                "end_time": "2015-09-01 13:00:00"
+                "start_time": "2015-09-04 12:00:00",
+                "end_time": "2015-09-04 13:00:00"
             }
         ],
-        "description": "On site CNC router lecture and demonstration (yes, we will have a machine\r\non site). Learn the basics of this powerful DIY tool.",
+        "description": "On site CNC router lecture and demonstration (yes, we will have a machine on site). Learn the basics of this powerful DIY tool.",
         "title": "On Site CNC Router Demo",
         "url": "",
         "year": {
@@ -41993,8 +48711,8 @@
             "year": "2015"
         },
         "all_day": false,
-        "id": 14158,
-        "print_description": "On site CNC router lecture and demonstration (yes, we will have a machine\r\non site). Learn the basics of this powerful DIY tool.",
+        "id": 14501,
+        "print_description": "On site CNC router lecture and demonstration (yes, we will have a machine on site). Learn the basics of this powerful DIY tool.",
         "check_location": false,
         "slug": "on-site-cnc-router-demo",
         "other_location": "",
@@ -42277,6 +48995,96 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Listen",
+            "id": 7696
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 12:00:00",
+                "end_time": "2015-09-01 15:00:00"
+            },
+            {
+                "start_time": "2015-09-02 12:00:00",
+                "end_time": "2015-09-02 15:00:00"
+            },
+            {
+                "start_time": "2015-09-03 12:00:00",
+                "end_time": "2015-09-03 15:00:00"
+            },
+            {
+                "start_time": "2015-09-04 12:00:00",
+                "end_time": "2015-09-04 15:00:00"
+            },
+            {
+                "start_time": "2015-09-05 12:00:00",
+                "end_time": "2015-09-05 15:00:00"
+            }
+        ],
+        "description": "Listening sessions happen both formally and informally, one-on-one and in small groups. Several of our campers are trained counselors, but we believe anyone can be a listener. Come to Listen and be heard.",
+        "title": "Open Listening Space",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15704,
+        "print_description": "Listening sessions happen formally and informally, one-on-one and in small groups. We believe everyone is a listener. Come to Listen and be heard.",
+        "check_location": false,
+        "slug": "open-listening-space",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Listen",
+            "id": 7696
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 12:00:00",
+                "end_time": "2015-09-01 15:00:00"
+            },
+            {
+                "start_time": "2015-09-02 12:00:00",
+                "end_time": "2015-09-02 15:00:00"
+            },
+            {
+                "start_time": "2015-09-03 12:00:00",
+                "end_time": "2015-09-03 15:00:00"
+            },
+            {
+                "start_time": "2015-09-04 12:00:00",
+                "end_time": "2015-09-04 15:00:00"
+            },
+            {
+                "start_time": "2015-09-05 12:00:00",
+                "end_time": "2015-09-05 15:00:00"
+            }
+        ],
+        "description": "Listening sessions happen both formally and informally, one-on-one and in small groups. Several of our campers are trained counselors, but we believe anyone can be a listener. Come to Listen and be heard.",
+        "title": "Open Listening Space",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15705,
+        "print_description": "Listening sessions happen formally and informally, one-on-one and in small groups. We believe everyone is a listener. Come to Listen and be heard.",
+        "check_location": false,
+        "slug": "open-listening-space",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Sacred Spaces Village",
             "id": 7816
         },
@@ -42306,6 +49114,55 @@
         "event_type": {
             "abbr": "prty",
             "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Silicon Village",
+            "id": 7516
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 18:00:00",
+                "end_time": "2015-08-31 19:00:00"
+            },
+            {
+                "start_time": "2015-09-01 18:00:00",
+                "end_time": "2015-09-01 19:00:00"
+            },
+            {
+                "start_time": "2015-09-02 18:00:00",
+                "end_time": "2015-09-02 19:00:00"
+            },
+            {
+                "start_time": "2015-09-03 18:00:00",
+                "end_time": "2015-09-03 19:00:00"
+            },
+            {
+                "start_time": "2015-09-04 18:00:00",
+                "end_time": "2015-09-04 19:00:00"
+            },
+            {
+                "start_time": "2015-09-05 18:00:00",
+                "end_time": "2015-09-05 19:00:00"
+            }
+        ],
+        "description": "We will be opening up our main stage to the citizens of Black Rock City to use our venue for performances of all kinds: juggling, poetry, music, comedy, stand-up, etc. A sound system will be made available including microphones. We ask that you come by before the event and sign up for a time block of 15 minutes. We can do larger blocks depending on how many people wish to use our stage. It is a first come first serve basis. You are welcome to hang out in the audience and watch or on standby if someone doesn't show.  Send an email to Stage@SiliconVillageBurners.org with questions or to schedule.",
+        "title": "Open Microphone - Silicon Village Stage",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15206,
+        "print_description": "We open our stage to use for performances of all kinds: juggling, poetry, music, comedy, stand-up, etc. A sound system is available with microphones.",
+        "check_location": false,
+        "slug": "open-microphone-silicon-village-stage",
+        "other_location": "Silicon Village Stage",
+        "event_type": {
+            "abbr": "perf",
+            "label": "Performance"
         }
     },
     {
@@ -42606,7 +49463,7 @@
         "print_description": "This is the Taoist death orgasm.  It may take a while but it's worth the journey. Safe circle. True path. Eyegazing.PUJA. Sage. Bells. Guided Journey.",
         "check_location": false,
         "slug": "orgasm-8",
-        "other_location": "730 and G?",
+        "other_location": "7:00 and B",
         "event_type": {
             "abbr": "adlt",
             "label": "Adult-oriented"
@@ -42643,6 +49500,55 @@
     },
     {
         "hosted_by_camp": {
+            "name": "...and then there's only LOVE",
+            "id": 7801
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 00:00:00",
+                "end_time": "2015-08-31 23:59:00"
+            },
+            {
+                "start_time": "2015-09-01 00:00:00",
+                "end_time": "2015-09-01 23:59:00"
+            },
+            {
+                "start_time": "2015-09-02 00:00:00",
+                "end_time": "2015-09-02 23:59:00"
+            },
+            {
+                "start_time": "2015-09-03 00:00:00",
+                "end_time": "2015-09-03 23:59:00"
+            },
+            {
+                "start_time": "2015-09-04 00:00:00",
+                "end_time": "2015-09-04 23:59:00"
+            },
+            {
+                "start_time": "2015-09-05 00:00:00",
+                "end_time": "2015-09-05 23:59:00"
+            }
+        ],
+        "description": "Need a safe, cool place to get it on?  Cum to \"And Then There's Only Love\" for our world famous, 24 hour, air conditioned Orgy Dome. The Orgy Dome is an inclusionary and exploratory environment where couples and moresomes can love and be loved while practicing enthusiastic consent. Monogamous or polyamorous - The Orgy Dome has something for everyone. Our Orgy Dome is fully equipped with massage tables, mattresses, sheets, couches, & supplies. (Bringing a towel and safer sex supplies is appreciated but not necessary.) ** Open to couples and moresomes 18+ of all genders and preferences.Couples & moresomes can cum to our 24 hour, air conditioned Orgy Dome. Equipped for lovers to play day or night! Open to all genders & preferences.",
+        "title": "Orgy Dome - Celebrating 22 Years",
+        "url": "http://www.orgydome.com/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": true,
+        "id": 15764,
+        "print_description": "Couples & moresomes can cum to our 24 hour, air conditioned Orgy Dome. Equipped for lovers to play day or night! Open to all genders & preferences.",
+        "check_location": false,
+        "slug": "orgy-dome-celebrating-22-years",
+        "other_location": "4:00 & A",
+        "event_type": {
+            "abbr": "adlt",
+            "label": "Adult-oriented"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Orgy Bus Camp",
             "id": 7078
         },
@@ -42652,7 +49558,7 @@
                 "end_time": "2015-09-06 03:00:00"
             }
         ],
-        "description": "3 somes!, 4 somes!, 5 somes! Young poly sexual celebration. No monogamous couples or single guys. 21+",
+        "description": "3 somes!, 4 somes!, 5 somes! Young poly sexual celebration. No monogamous couples or single guys. 21+. Location is 4:00 and Hanky Pank. Look for the Purple RV Orgy Bus.",
         "title": "Orgy Night",
         "url": "",
         "year": {
@@ -42664,7 +49570,7 @@
         "print_description": "3 somes!, 4 somes!, 5 somes! Young poly sexual celebration. No monogamous couples or single guys. 21+",
         "check_location": false,
         "slug": "orgy-night",
-        "other_location": "",
+        "other_location": "4:00 & Hanky Pank",
         "event_type": {
             "abbr": "adlt",
             "label": "Adult-oriented"
@@ -42697,6 +49603,35 @@
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Taiwanderlust",
+            "id": 7302
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-04 08:00:00",
+                "end_time": "2015-09-04 09:00:00"
+            }
+        ],
+        "description": "To awaken the very core of the divine within us, we shall chant our own names as mantra and invoke the spirit within to manifest throughout.",
+        "title": "Osho Mantra Meditation",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15803,
+        "print_description": "To awaken the very core of the divine within us, we shall chant our own names as mantra and invoke the spirit within to manifest throughout.",
+        "check_location": false,
+        "slug": "osho-mantra-meditation",
+        "other_location": "",
+        "event_type": {
+            "abbr": "cere",
+            "label": "Ritual/Ceremony"
         }
     },
     {
@@ -42780,6 +49715,36 @@
         },
         "all_day": false,
         "id": 15226,
+        "print_description": "Invoking dance and ritual to connect with the Divine. Synchronizing our movements, breath, and heartbeat to become conduits of divinity.",
+        "check_location": true,
+        "slug": "osho-no-dimension-sufi-meditation",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 08:00:00",
+                "end_time": "2015-09-01 09:15:00"
+            }
+        ],
+        "description": "Invoking dance and ritual to connect with the Divine. Synchronizing our movements, breath, and heartbeat to become conduits of divinity.",
+        "title": "Osho No Dimension Sufi Meditation ",
+        "url": "",
+        "located_at_art": {
+            "location_string": "Unknown",
+            "name": "Mazu Goddess of the Empty Sea",
+            "id": 2284
+        },
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15798,
         "print_description": "Invoking dance and ritual to connect with the Divine. Synchronizing our movements, breath, and heartbeat to become conduits of divinity.",
         "check_location": true,
         "slug": "osho-no-dimension-sufi-meditation",
@@ -42966,7 +49931,7 @@
     },
     {
         "hosted_by_camp": {
-            "name": "Taiwan Village",
+            "name": "Taiwanderlust",
             "id": 7302
         },
         "occurrence_set": [
@@ -42995,6 +49960,35 @@
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Irrelephant Bird Camp",
+            "id": 7854
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 14:00:00",
+                "end_time": "2015-09-03 18:00:00"
+            }
+        ],
+        "description": "Bring yer best friend or random skallywag to our bar and tell us why you call em your bud, pal, friend or duder to get em a drink. We only cater to true bosom buds round here.",
+        "title": "Palcohol",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15497,
+        "print_description": "Bring yer best friend or random skallywag to our bar and tell us why you call em your bud, pal, friend or duder to get em a drink. We only cater to tr",
+        "check_location": true,
+        "slug": "palcohol",
+        "other_location": "Graham",
+        "event_type": {
+            "abbr": "food",
+            "label": "Food"
         }
     },
     {
@@ -43214,7 +50208,7 @@
             "year": "2015"
         },
         "all_day": false,
-        "id": 13337,
+        "id": 13329,
         "print_description": "Get all the answers at the Paradise Motel Concierge Desk! Find our where to go to get your butthole cleaned, where the girl from Robot Heart is!",
         "check_location": true,
         "slug": "paradise-motel-concierge-desk",
@@ -43263,7 +50257,7 @@
             "year": "2015"
         },
         "all_day": false,
-        "id": 13329,
+        "id": 13337,
         "print_description": "Get all the answers at the Paradise Motel Concierge Desk! Find our where to go to get your butthole cleaned, where the girl from Robot Heart is!",
         "check_location": true,
         "slug": "paradise-motel-concierge-desk",
@@ -43345,6 +50339,92 @@
         "print_description": "Get your genital ID badge with your new playa friends or a friendly stranger!",
         "check_location": false,
         "slug": "participation-thursday",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Huggzilla",
+            "id": 8072
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 16:00:00",
+                "end_time": "2015-09-01 17:30:00"
+            },
+            {
+                "start_time": "2015-09-03 16:00:00",
+                "end_time": "2015-09-03 17:30:00"
+            }
+        ],
+        "description": "Light version of insane by Ivan Martinetti.",
+        "title": "Partinetti Lite",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15607,
+        "print_description": "Light version of insane by Ivan Martinetti.",
+        "check_location": true,
+        "slug": "partinetti-lite",
+        "other_location": "",
+        "event_type": {
+            "abbr": "perf",
+            "label": "Performance"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Tango'd Up In Blues",
+            "id": 8139
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 00:00:00",
+                "end_time": "2015-08-31 23:59:00"
+            },
+            {
+                "start_time": "2015-09-01 00:00:00",
+                "end_time": "2015-09-01 23:59:00"
+            },
+            {
+                "start_time": "2015-09-02 00:00:00",
+                "end_time": "2015-09-02 23:59:00"
+            },
+            {
+                "start_time": "2015-09-03 00:00:00",
+                "end_time": "2015-09-03 23:59:00"
+            },
+            {
+                "start_time": "2015-09-04 00:00:00",
+                "end_time": "2015-09-04 23:59:00"
+            },
+            {
+                "start_time": "2015-09-05 00:00:00",
+                "end_time": "2015-09-05 23:59:00"
+            },
+            {
+                "start_time": "2015-09-06 00:00:00",
+                "end_time": "2015-09-06 23:59:00"
+            }
+        ],
+        "description": "Tired of \"ALL LOUD ALL THE TIME\"?  Every night at tango'd up in blues, come dance with us to Blues and Tango music, from expert DJs.  Our camp is blessed by kick ass international instructors, a great dance floor, and an understanding that more dbs isn't the only path to happiness.\r\n\r\nThere will be a lesson at 9pm (no need to bring a partner - just turn up) and then we will dance from 10 until there's no one left standing.",
+        "title": "Partner Dance Party!",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": true,
+        "id": 15640,
+        "print_description": "Tired of \"ALL LOUD ALL THE TIME\"?  Every night at tango'd up in blues, come dance with us to Blues and Tango music from expert DJs.",
+        "check_location": false,
+        "slug": "partner-dance-party",
         "other_location": "",
         "event_type": {
             "abbr": "prty",
@@ -43758,6 +50838,55 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Red Nose District",
+            "id": 7438
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 11:00:00",
+                "end_time": "2015-08-31 15:00:00"
+            },
+            {
+                "start_time": "2015-09-01 11:00:00",
+                "end_time": "2015-09-01 15:00:00"
+            },
+            {
+                "start_time": "2015-09-02 11:00:00",
+                "end_time": "2015-09-02 15:00:00"
+            },
+            {
+                "start_time": "2015-09-03 11:00:00",
+                "end_time": "2015-09-03 15:00:00"
+            },
+            {
+                "start_time": "2015-09-04 11:00:00",
+                "end_time": "2015-09-04 15:00:00"
+            },
+            {
+                "start_time": "2015-09-05 11:00:00",
+                "end_time": "2015-09-05 15:00:00"
+            }
+        ],
+        "description": "RED NOSE DISTRICT presents PEDALBUMP Demolition Derby Races under the Big Top Circus tent. Is it a race? Is it a demolition derby? IT's BOTH! Or Neither. \r\n\r\nSeveral Riders PEDAL AND DRIVE head-to-head around a 60 x 90 foot track under the gorgeous CIRCUS TENT with LIGHTS, MUSIC and ANNOUNCERS! Our BUMPER CARTS are custom designed and one-of a kind! It's like driving your own personal pedal powered art car for 3 minutes or however long you last. The TENT is a SHADY OASIS in the DAY and a LIT-UP BEACON of fun at NIGHT!\r\n\r\n Winners of each race are determined by a mysterious mix of whatever the announcers at the time deem worthy. Is it the number of rear end or T-bone collisions you make happen? or maybe how many crashes you nimbly avoid with expert driving skills. Or maybe your winning attitude. Or your crazy costume. Maybe you cross the finish line first. Maybe you cross it last or not at all. You might still be a WINNER. We're betting on it! KIDS tall enough to pedal are welcome. Adults of ALL AGES brave or timid welcome. ALL Spectators welcome too! Come into the center ring and heckle your friends in the races!\r\n\r\nPEDALING is FUN but BUMPING is EVEN BETTER! Seriously, the bumpers keep you safe and you will laugh your ass off with every bump, crash, skid or pass. \r\n\r\nWe also welcome volunteers who want to help with PIT CREW duties! Wrangle the crowds, heckle the riders, keep the pedal carts repaired. Sign up for our newsletter on our FB page or just stop by anytime we are live on Playa!",
+        "title": "PEDALBUMP Derby Races under the BIG TOP",
+        "url": "http://www.facebook.com/pedalbump",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15587,
+        "print_description": "RED NOSE DISTRICT presents PEDALBUMP demolition Derby \"Races\" under the Big Top Circus tent. Is it a race? Is it a demolition derby? IT's BOTH!",
+        "check_location": false,
+        "slug": "pedalbump-derby-races-under-the-big-top",
+        "other_location": "",
+        "event_type": {
+            "abbr": "game",
+            "label": "Game"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Pedal Pies",
             "id": 7907
         },
@@ -44156,35 +51285,6 @@
     },
     {
         "hosted_by_camp": {
-            "name": "Lituanica Birds",
-            "id": 8135
-        },
-        "occurrence_set": [
-            {
-                "start_time": "2015-09-04 13:00:00",
-                "end_time": "2015-09-04 16:00:00"
-            }
-        ],
-        "description": "Lithuanian camp is looking for HETERO... CHROMIA, that's the right word for this  people that have two different color eyes.",
-        "title": "Photoshoot for Heterochromia People",
-        "url": "",
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "all_day": false,
-        "id": 15399,
-        "print_description": "You always was special because You have different color eyes. Come and join all Heterochromia People at Lithuanian Camp.",
-        "check_location": true,
-        "slug": "photoshoot-for-heterochromia-people",
-        "other_location": "Lituanica Birds Camp",
-        "event_type": {
-            "abbr": "prty",
-            "label": "Gathering/Party"
-        }
-    },
-    {
-        "hosted_by_camp": {
             "name": "F.A.R.T. Kamp",
             "id": 7446
         },
@@ -44210,6 +51310,35 @@
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Camp Whisker Biscuit",
+            "id": 7286
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 15:00:00",
+                "end_time": "2015-09-03 17:00:00"
+            }
+        ],
+        "description": "Want to balance your body's pH and get your swerve on.  WE'VE GOT JUST THE DRINK FOR YOU!",
+        "title": "Picklebacks",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15817,
+        "print_description": "Want to balance your body's pH and get your swerve on.  WE'VE GOT JUST THE DRINK FOR YOU!",
+        "check_location": false,
+        "slug": "picklebacks",
+        "other_location": "",
+        "event_type": {
+            "abbr": "food",
+            "label": "Food"
         }
     },
     {
@@ -44480,6 +51609,47 @@
         }
     },
     {
+        "hosted_by_camp": {
+            "name": "White Trash Superstars",
+            "id": 7846
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 14:00:00",
+                "end_time": "2015-08-31 17:15:00"
+            },
+            {
+                "start_time": "2015-09-01 14:00:00",
+                "end_time": "2015-09-01 17:15:00"
+            },
+            {
+                "start_time": "2015-09-02 14:00:00",
+                "end_time": "2015-09-02 17:15:00"
+            },
+            {
+                "start_time": "2015-09-03 14:00:00",
+                "end_time": "2015-09-03 17:15:00"
+            }
+        ],
+        "description": "You know that dusty dirty cup you bring with you EVERYWHERE you go at burning man so you can get drinks across the playa? If you don't, YOU NEED ONE!!!  And if your the crafty type, you can individualize it and come pimp it out with us under our shade, we have all the glue and supply's you might want:)  you can also sweet talk a bartender into showing you the stash if you don't make it during our scheduled times or because we miss our scheduled time",
+        "title": "Pimp your Cup with WTS",
+        "url": "https://www.facebook.com/pages/White-Trash-Superstars/174384205941598",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15724,
+        "print_description": "You know that dusty dirty cup you bring with you EVERYWHERE you go at burning man? If you don't, you need one!!!  And pimp it out with us",
+        "check_location": false,
+        "slug": "pimp-your-cup-with-wts",
+        "other_location": "",
+        "event_type": {
+            "abbr": "none",
+            "label": "None"
+        }
+    },
+    {
         "occurrence_set": [
             {
                 "start_time": "2015-09-03 14:00:00",
@@ -44502,6 +51672,51 @@
         "event_type": {
             "abbr": "food",
             "label": "Food"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Illumination Village",
+            "id": 7402
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 10:00:00",
+                "end_time": "2015-08-31 12:00:00"
+            },
+            {
+                "start_time": "2015-09-01 10:00:00",
+                "end_time": "2015-09-01 12:00:00"
+            },
+            {
+                "start_time": "2015-09-02 10:00:00",
+                "end_time": "2015-09-02 12:00:00"
+            },
+            {
+                "start_time": "2015-09-03 10:00:00",
+                "end_time": "2015-09-03 12:00:00"
+            },
+            {
+                "start_time": "2015-09-04 10:00:00",
+                "end_time": "2015-09-04 12:00:00"
+            }
+        ],
+        "description": "The Pinhole Project exposes 30 x 40 inch sheets of light sensitive gelatin silver paper. We work with 12 pinhole cameras, created out of 50-gallon cardboard barrels. This size is uniquely suited for capturing the incredible scale and immense diversity of art and culture at Black Rock City. \r\n\r\nUnder the red safelights of the darkroom, photosensitive paper is inserted into the camera body. Exposures range from 40 to 300 seconds, where concentrated beams of sunlight are funnelled through the pinhole and into the camera, creating a negative image of the recorded subject.\r\n\r\nWe maintain a desert darkroom in a shipping container, where we gather to processes, develop and fix about one hundred photographs each Burning Man. These unique images are then exhibited all over the playa.\r\n\r\nThe pinhole camp has been creating large-scale portraits with festival participants since 1999. The pinhole came about of the desire of four first time participants to contribute in a unique and lasting way to the ephemeral pleasures of the playa.\r\n\r\nAs we have grown, so too has our belief that this device is the reason that we make our annual pilgrimage. As we have evolved, so too has the camera, not only in functional and technical capabilities but also in its role as a seed of meaningful engagement with other participants.",
+        "title": "Pinhole Project ",
+        "url": "http://www.pinholeproject.org/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15735,
+        "print_description": "Come and join the Pinhole Project expose huge 30 x 40 inch sheets of light sensitive gelatin silver paper in 50 gallon cameras.",
+        "check_location": false,
+        "slug": "pinhole-project",
+        "other_location": "Pinhole Project in Illumination Village",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
         }
     },
     {
@@ -44960,25 +52175,78 @@
     },
     {
         "hosted_by_camp": {
+            "name": "PLAYA 54",
+            "id": 7096
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 00:00:00",
+                "end_time": "2015-08-31 23:59:00"
+            },
+            {
+                "start_time": "2015-09-01 00:00:00",
+                "end_time": "2015-09-01 23:59:00"
+            },
+            {
+                "start_time": "2015-09-02 00:00:00",
+                "end_time": "2015-09-02 23:59:00"
+            },
+            {
+                "start_time": "2015-09-03 00:00:00",
+                "end_time": "2015-09-03 23:59:00"
+            },
+            {
+                "start_time": "2015-09-04 00:00:00",
+                "end_time": "2015-09-04 23:59:00"
+            },
+            {
+                "start_time": "2015-09-05 00:00:00",
+                "end_time": "2015-09-05 23:59:00"
+            },
+            {
+                "start_time": "2015-09-06 00:00:00",
+                "end_time": "2015-09-06 23:59:00"
+            }
+        ],
+        "description": "Celebrate PLAYA 54's 5th Anniversary - We spin the best of the 70's, 80's, House and So Much More...When you hear the music come get dusty and DANCE!",
+        "title": "PLAYA 54 - An Afternoon Delight - 5th Anniversary!",
+        "url": "http://www.facebook.com/playa54",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": true,
+        "id": 15531,
+        "print_description": "Celebrate PLAYA 54's 5th Anniversary - We spin the best of the 70's, 80's, House and So Much More...When you hear the music come get dusty and DANCE!",
+        "check_location": false,
+        "slug": "playa-54-an-afternoon-delight-5th-anniversary",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "AquaZone Healing Oasis Water Bar",
             "id": 7454
         },
         "occurrence_set": [
             {
                 "start_time": "2015-08-31 12:00:00",
-                "end_time": "2015-08-31 16:00:00"
+                "end_time": "2015-08-31 14:00:00"
             },
             {
                 "start_time": "2015-09-01 12:00:00",
-                "end_time": "2015-09-01 16:00:00"
+                "end_time": "2015-09-01 14:00:00"
             },
             {
                 "start_time": "2015-09-02 12:00:00",
-                "end_time": "2015-09-02 16:00:00"
+                "end_time": "2015-09-02 14:00:00"
             },
             {
                 "start_time": "2015-09-03 12:00:00",
-                "end_time": "2015-09-03 16:00:00"
+                "end_time": "2015-09-03 14:00:00"
             }
         ],
         "description": "Travel, playa-sleeping or dancing till dawn messing with your mojo? Chiropractic treatments restore motion, reduce pain and balance the nervous system. Come in a pretzel, leave a baguette. Getting the kinks out since 2013",
@@ -45100,6 +52368,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Hanging Gardens of BRC",
+            "id": 8249
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 21:00:00",
+                "end_time": "2015-09-03 23:00:00"
+            }
+        ],
+        "description": "Come join our camp scientist as he leads a fascinating discussion on the evolution, history and geology of the playa. Afterwards, we will go on a late night walk to observe some stars for a mini astronomy lesson. - Taught by Scientist James Dowd",
+        "title": "Playacology",
+        "url": "https://www.facebook.com/HangingGardensBRC",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15692,
+        "print_description": "Come join our camp scientist as he leads a fascinating discussion on the evolution, history and geology of the playa.",
+        "check_location": true,
+        "slug": "playacology",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "SUNSET LOUNGE",
             "id": 7061
         },
@@ -45187,6 +52484,84 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Playa Jazz Cafe",
+            "id": 7448
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 22:00:00",
+                "end_time": "2015-08-31 02:00:00"
+            },
+            {
+                "start_time": "2015-09-01 22:00:00",
+                "end_time": "2015-09-01 02:00:00"
+            },
+            {
+                "start_time": "2015-09-02 22:00:00",
+                "end_time": "2015-09-02 02:00:00"
+            },
+            {
+                "start_time": "2015-09-03 22:00:00",
+                "end_time": "2015-09-03 02:00:00"
+            },
+            {
+                "start_time": "2015-09-04 22:00:00",
+                "end_time": "2015-09-04 02:00:00"
+            },
+            {
+                "start_time": "2015-09-05 22:00:00",
+                "end_time": "2015-09-05 02:00:00"
+            }
+        ],
+        "description": "Live jazz music and jam session.  jazz musicians and singers sit in with the house band and perform tunes from the jazz cannon.",
+        "title": "Playa Jazz Cafe Jazz jam session",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15533,
+        "print_description": "Live jazz music and jam session.  jazz musicians and singers sit in with the house band and perform tunes from the jazz cannon.",
+        "check_location": true,
+        "slug": "playa-jazz-cafe-jazz-jam-session",
+        "other_location": "",
+        "event_type": {
+            "abbr": "perf",
+            "label": "Performance"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Chakralicious Camp",
+            "id": 7404
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-05 10:45:00",
+                "end_time": "2015-09-05 12:15:00"
+            }
+        ],
+        "description": "Feeling a little dried out? Indulge in a sensual yummy yoga experience with your playmate. Dave & Amarin will guide you through gentle yoga, breath & mindfulness practices that will assist you in creating a sea of love to bathe within. Emerge  reenergized, reconnected and oozing with sensual energy. No experience necessary, just a willingness to dive into the pool of playa drenched yoga love!",
+        "title": "Playalicious Playmate Yoga",
+        "url": "http://www.yogawithintheheart.ca/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15700,
+        "print_description": "Playalicious Playmate Yoga",
+        "check_location": false,
+        "slug": "playalicious-playmate-yoga",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Camp Sweaty Betty",
             "id": 7056
         },
@@ -45232,59 +52607,6 @@
         "event_type": {
             "abbr": "kid",
             "label": "Kid-friendly"
-        }
-    },
-    {
-        "hosted_by_camp": {
-            "name": "Mobility Camp /BRC DoA",
-            "id": 7060
-        },
-        "occurrence_set": [
-            {
-                "start_time": "2015-08-31 09:00:00",
-                "end_time": "2015-08-31 11:00:00"
-            },
-            {
-                "start_time": "2015-09-01 09:00:00",
-                "end_time": "2015-09-01 11:00:00"
-            },
-            {
-                "start_time": "2015-09-02 09:00:00",
-                "end_time": "2015-09-02 11:00:00"
-            },
-            {
-                "start_time": "2015-09-03 09:00:00",
-                "end_time": "2015-09-03 11:00:00"
-            },
-            {
-                "start_time": "2015-09-04 09:00:00",
-                "end_time": "2015-09-04 11:00:00"
-            },
-            {
-                "start_time": "2015-09-05 09:00:00",
-                "end_time": "2015-09-05 11:00:00"
-            },
-            {
-                "start_time": "2015-09-06 09:00:00",
-                "end_time": "2015-09-06 11:00:00"
-            }
-        ],
-        "description": "Could you navigate the Playa in a wheelchair? On Crutches?\r\nCome by and find out!",
-        "title": "Playa Obstacle courses",
-        "url": "http://mobilitycamp.org/",
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "all_day": false,
-        "id": 14066,
-        "print_description": "Could you navigate the Playa in a wheelchair? On Crutches?\r\nCome by and find out!",
-        "check_location": false,
-        "slug": "playa-obstacle-courses",
-        "other_location": "MobilityCamp",
-        "event_type": {
-            "abbr": "none",
-            "label": "None"
         }
     },
     {
@@ -45342,6 +52664,134 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Mobility Camp /BRC DoA",
+            "id": 7060
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 09:00:00",
+                "end_time": "2015-08-31 11:00:00"
+            },
+            {
+                "start_time": "2015-09-01 09:00:00",
+                "end_time": "2015-09-01 11:00:00"
+            },
+            {
+                "start_time": "2015-09-02 09:00:00",
+                "end_time": "2015-09-02 11:00:00"
+            },
+            {
+                "start_time": "2015-09-03 09:00:00",
+                "end_time": "2015-09-03 11:00:00"
+            },
+            {
+                "start_time": "2015-09-04 09:00:00",
+                "end_time": "2015-09-04 11:00:00"
+            },
+            {
+                "start_time": "2015-09-05 09:00:00",
+                "end_time": "2015-09-05 11:00:00"
+            },
+            {
+                "start_time": "2015-09-06 09:00:00",
+                "end_time": "2015-09-06 11:00:00"
+            }
+        ],
+        "description": "Could you navigate the Playa in a wheelchair? On Crutches?\r\nCome by and find out!",
+        "title": "Playa Obstacle courses",
+        "url": "http://mobilitycamp.org/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 14066,
+        "print_description": "Could you navigate the Playa in a wheelchair? On Crutches?\r\nCome by and find out!",
+        "check_location": false,
+        "slug": "playa-obstacle-courses",
+        "other_location": "MobilityCamp",
+        "event_type": {
+            "abbr": "none",
+            "label": "None"
+        }
+    },
+    {
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 00:00:00",
+                "end_time": "2015-08-31 23:59:00"
+            },
+            {
+                "start_time": "2015-09-01 00:00:00",
+                "end_time": "2015-09-01 23:59:00"
+            },
+            {
+                "start_time": "2015-09-02 00:00:00",
+                "end_time": "2015-09-02 23:59:00"
+            },
+            {
+                "start_time": "2015-09-03 00:00:00",
+                "end_time": "2015-09-03 23:59:00"
+            },
+            {
+                "start_time": "2015-09-04 00:00:00",
+                "end_time": "2015-09-04 23:59:00"
+            }
+        ],
+        "description": "Come out to the airport and see the excitement at the other gate!  Don’t miss these before they burn.  Join us Friday evening 11 pm as they go up in flames.  Playa Playground is open for all children-at-heart ages 4 to 100! Let your pilot fly on the Swingin’ See Saw:  2 planes suspended from a teeter totter.  Gallop to adventure on Rockin’ Rider:  bouncy horse suspended from springs.  Wing Walker encourages the dare devil to sit on the wingtips of a teeter totter plane.  Brought to you by Squeezebox and Krzylade.",
+        "title": "Playa Playground BRCMA",
+        "url": "",
+        "located_at_art": {
+            "location_string": "Unknown",
+            "name": "Playa Playground",
+            "id": 2461
+        },
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": true,
+        "id": 15791,
+        "print_description": "Come out to the airport and see the excitement at the other gate! Playa Playground is kid-friendly and for adults.  They burn Friday 11 pm.",
+        "check_location": false,
+        "slug": "playa-playground-brcma",
+        "other_location": "Black Rock City Airport:  Gate One",
+        "event_type": {
+            "abbr": "kid",
+            "label": "Kid-friendly"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "The Lost Penguin",
+            "id": 8104
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-04 16:30:00",
+                "end_time": "2015-09-04 17:30:00"
+            }
+        ],
+        "description": "Playa Pops S)'(mphony! Spark calls them the \"First Burning String Symphony!\" See 25 musicians + 2 fussicians & hear the pure joy of music !",
+        "title": "Playa Pops S)'(mphony!  Live Music.",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15750,
+        "print_description": "Playa Pops S)'(mphony! Spark calls them the \"First Burning String Symphony!\" See 25 musicians + 2 fussicians & hear the pure joy of music !",
+        "check_location": false,
+        "slug": "playa-pops-smphony-live-music",
+        "other_location": "marcgorcey1",
+        "event_type": {
+            "abbr": "perf",
+            "label": "Performance"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Duckpond",
             "id": 7117
         },
@@ -45367,6 +52817,88 @@
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "PlayaNauts",
+            "id": 7961
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 00:00:00",
+                "end_time": "2015-08-31 23:59:00"
+            },
+            {
+                "start_time": "2015-09-01 00:00:00",
+                "end_time": "2015-09-01 23:59:00"
+            },
+            {
+                "start_time": "2015-09-02 00:00:00",
+                "end_time": "2015-09-02 23:59:00"
+            },
+            {
+                "start_time": "2015-09-03 00:00:00",
+                "end_time": "2015-09-03 23:59:00"
+            },
+            {
+                "start_time": "2015-09-04 00:00:00",
+                "end_time": "2015-09-04 23:59:00"
+            },
+            {
+                "start_time": "2015-09-05 00:00:00",
+                "end_time": "2015-09-05 23:59:00"
+            },
+            {
+                "start_time": "2015-09-06 00:00:00",
+                "end_time": "2015-09-06 23:59:00"
+            }
+        ],
+        "description": "HEROES WANTED for hazardous journey, constant danger, honor, and rewards, if you happen to succeed. Come to the Playanauts camp dressed in your finest fantasy attire, choose your class, receive your first quest, and share a drink with your fellow adventurers. It’s up to you to save the day! The game continues throughout the entirety of the burn, so don’t worry, if you miss the kickoff party Monday night, you can still join by visiting the camp!",
+        "title": "PlayaRPG: Be the Hero You Were Meant To Be",
+        "url": "http://www.PlayaNauts.com/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": true,
+        "id": 15788,
+        "print_description": "HEROES WANTED for hazardous journey, constant danger, honor, and rewards, if you happen to succeed. Pick up your first quest at the Playanauts camp!",
+        "check_location": true,
+        "slug": "playarpg-be-the-hero-you-were-meant-to-be",
+        "other_location": "",
+        "event_type": {
+            "abbr": "game",
+            "label": "Game"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "PlayaNauts",
+            "id": 7961
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 20:00:00",
+                "end_time": "2015-08-31 23:30:00"
+            }
+        ],
+        "description": "HEROES WANTED for hazardous journey, constant danger, honor, and rewards, if you happen to succeed. Your story begins at 8pm at the Playanauts camp. Come in your finest fantasy attire, choose your class, receive your first quest, and share a drink and a dance with your fellow adventurers. It’s up to you to save the day! The game continues throughout the entirety of the burn, so don’t worry, if you miss the kickoff, you can still join by visiting the camp!",
+        "title": "PlayaRPG Fantasy Kickoff Party",
+        "url": "http://www.PlayaNauts.com/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15787,
+        "print_description": "HEROES WANTED. Equip your best fantasy attire, choose your class, receive your quest, and drink & dance with your fellow adventurers!",
+        "check_location": true,
+        "slug": "playarpg-fantasy-kickoff-party",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
         }
     },
     {
@@ -45566,16 +53098,12 @@
     {
         "occurrence_set": [
             {
-                "start_time": "2015-08-31 11:00:00",
-                "end_time": "2015-08-31 12:00:00"
+                "start_time": "2015-09-01 17:00:00",
+                "end_time": "2015-09-01 18:00:00"
             },
             {
-                "start_time": "2015-09-02 11:00:00",
-                "end_time": "2015-09-02 12:00:00"
-            },
-            {
-                "start_time": "2015-09-04 11:00:00",
-                "end_time": "2015-09-04 12:00:00"
+                "start_time": "2015-09-03 17:00:00",
+                "end_time": "2015-09-03 18:00:00"
             }
         ],
         "description": "Come meet the artists AND create next year's Ploem. Ploetry is inspirational prose cut out from planks of wood, hung from a 5-sided city-shaped tower, with color-changing backlight and custom seating. This year there are two towers, \"I Am But Wood\", a poem written from the point of view of the Man, and \"Voice of the Temple\", written from the point of view of the Temple. Next year, we want to add more Ploems, scattered as Easter Eggs around the Playa. Forms available to write and submit your own ploem 24 hours a day, and we'll post it on the Ploetry website.\r\nWrite a ploem, build an installation, or both - we'll show you how. This is a workshop - all building is done off-season, off-playa. But take your inspiration to write your Ploem while in Black Rock City! *** Please note that this event takes place at the tower in the Cafe, not the tower on the open playa. *** MWF 11-noon, TT 5pm-6m, in the large Ploetry installation in Center Camp Cafe.",
@@ -45591,11 +53119,11 @@
             "year": "2015"
         },
         "all_day": false,
-        "id": 13547,
+        "id": 13586,
         "print_description": "Ploetry (Playa Poetry) is cut from planks of wood hung from a backlit tower. Meet the artists, join the team, write next year's \"ploem\". In the cafe.",
         "check_location": false,
         "slug": "ploetry-i-ii",
-        "other_location": "andy",
+        "other_location": "Center Camp Cafe",
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
@@ -45658,12 +53186,16 @@
     {
         "occurrence_set": [
             {
-                "start_time": "2015-09-01 17:00:00",
-                "end_time": "2015-09-01 18:00:00"
+                "start_time": "2015-08-31 11:00:00",
+                "end_time": "2015-08-31 12:00:00"
             },
             {
-                "start_time": "2015-09-03 17:00:00",
-                "end_time": "2015-09-03 18:00:00"
+                "start_time": "2015-09-02 11:00:00",
+                "end_time": "2015-09-02 12:00:00"
+            },
+            {
+                "start_time": "2015-09-04 11:00:00",
+                "end_time": "2015-09-04 12:00:00"
             }
         ],
         "description": "Come meet the artists AND create next year's Ploem. Ploetry is inspirational prose cut out from planks of wood, hung from a 5-sided city-shaped tower, with color-changing backlight and custom seating. This year there are two towers, \"I Am But Wood\", a poem written from the point of view of the Man, and \"Voice of the Temple\", written from the point of view of the Temple. Next year, we want to add more Ploems, scattered as Easter Eggs around the Playa. Forms available to write and submit your own ploem 24 hours a day, and we'll post it on the Ploetry website.\r\nWrite a ploem, build an installation, or both - we'll show you how. This is a workshop - all building is done off-season, off-playa. But take your inspiration to write your Ploem while in Black Rock City! *** Please note that this event takes place at the tower in the Cafe, not the tower on the open playa. *** MWF 11-noon, TT 5pm-6m, in the large Ploetry installation in Center Camp Cafe.",
@@ -45679,11 +53211,40 @@
             "year": "2015"
         },
         "all_day": false,
-        "id": 13586,
+        "id": 13547,
         "print_description": "Ploetry (Playa Poetry) is cut from planks of wood hung from a backlit tower. Meet the artists, join the team, write next year's \"ploem\". In the cafe.",
         "check_location": false,
         "slug": "ploetry-i-ii",
-        "other_location": "Center Camp Cafe",
+        "other_location": "andy",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Salute Your Jorts!",
+            "id": 7684
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 10:00:00",
+                "end_time": "2015-09-01 11:00:00"
+            }
+        ],
+        "description": "We flew in a concierge instructor because, luxury.  We kid.  Whatever muscle you want to burn, this Pilates class will be structured to work it.",
+        "title": "Plug n' Play Pilates",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15485,
+        "print_description": "We flew in a concierge instructor because, luxury.  We kid.  Whatever muscle you want to burn, this Pilates class will be structured to work it.",
+        "check_location": false,
+        "slug": "plug-n-play-pilates",
+        "other_location": "",
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
@@ -46001,8 +53562,8 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-05 12:00:00",
-                "end_time": "2015-09-05 13:30:00"
+                "start_time": "2015-09-05 12:30:00",
+                "end_time": "2015-09-05 14:00:00"
             }
         ],
         "description": "Two Globe traveling 5 Rhythms and Tantra teachers who are widely practiced in the poly lifestyle come together to share their highlights, low lights, what they have learned along the way and what they wish they had not!\r\n\r\nCome learn some pro tips and bring your questions. This is about sharing and listening to each other. We are all figuring this out and doing the best we can. Eugene & Mackenzie are as eager to talk about the challenges as they are to share in the joys.\r\n\r\nWe will have a little movement exercise to ground into presence in our bodies, as that is the best way to open to the true questions which reflect our heart's yearning and fears.\r\n\r\nThis will be a thoughtful, provocative and fun gathering. Let us learn from each other and in the end open to the possibility of more love, however it looks for us individually.",
@@ -46128,6 +53689,56 @@
         "event_type": {
             "abbr": "game",
             "label": "Game"
+        }
+    },
+    {
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 17:00:00",
+                "end_time": "2015-08-31 18:00:00"
+            },
+            {
+                "start_time": "2015-09-01 17:00:00",
+                "end_time": "2015-09-01 18:00:00"
+            },
+            {
+                "start_time": "2015-09-02 17:00:00",
+                "end_time": "2015-09-02 18:00:00"
+            },
+            {
+                "start_time": "2015-09-03 17:00:00",
+                "end_time": "2015-09-03 18:00:00"
+            },
+            {
+                "start_time": "2015-09-04 17:00:00",
+                "end_time": "2015-09-04 18:00:00"
+            },
+            {
+                "start_time": "2015-09-05 17:00:00",
+                "end_time": "2015-09-05 18:00:00"
+            }
+        ],
+        "description": "Speakers Rev. John Thomas, Starfire Serendipity Jones & More. OPEN MIC, ANYTHING YOU WISH TO SHARE REGARDING LOVE.",
+        "title": "PONTIFICATING PONDERINGS POSSIBILITIES",
+        "url": "http://LOVEILLUMINARIUM.WIX.COM/LOVE-ILLUMINARIUM",
+        "located_at_art": {
+            "location_string": "Unknown",
+            "name": "LOVE ILLUMINARIUM",
+            "id": 2517
+        },
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15679,
+        "print_description": "Speakers Rev. John Thomas, Starfire Serendipity Jones & More. OPEN MIC, ANYTHING YOU WISH TO SHARE REGARDING LOVE.",
+        "check_location": true,
+        "slug": "pontificating-ponderings-possibilities",
+        "other_location": "MamaLove",
+        "event_type": {
+            "abbr": "adlt",
+            "label": "Adult-oriented"
         }
     },
     {
@@ -46309,6 +53920,31 @@
         "event_type": {
             "abbr": "perf",
             "label": "Performance"
+        }
+    },
+    {
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 14:00:00",
+                "end_time": "2015-08-31 15:00:00"
+            }
+        ],
+        "description": "Are you in a good mood and ready to share it?  Do you need a pick me up?  Join our Positivity Parade!  Shout out compliments to passersby.",
+        "title": "Positivity Parade",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15489,
+        "print_description": "Are you in a good mood and ready to share it?  Do you need a pick me up?  Join our Positivity Parade!  Shout out compliments to passersby.",
+        "check_location": true,
+        "slug": "positivity-parade",
+        "other_location": "Beginning at Center Camp",
+        "event_type": {
+            "abbr": "para",
+            "label": "Parade"
         }
     },
     {
@@ -46499,6 +54135,35 @@
         "event_type": {
             "abbr": "none",
             "label": "None"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Deep Sea Circus",
+            "id": 7643
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 18:00:00",
+                "end_time": "2015-09-03 19:00:00"
+            }
+        ],
+        "description": "Learn the basic concepts behind why pour over coffee is so good, learn the basic procedure, and then try brewing some yourself!",
+        "title": "POUR OVER COFFEE BREWING",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15793,
+        "print_description": "Learn the basic concepts behind why pour over coffee is so good, learn the basic procedure, and then try brewing some yourself!",
+        "check_location": false,
+        "slug": "pour-over-coffee-brewing",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
         }
     },
     {
@@ -46849,6 +54514,59 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Camp Proper",
+            "id": 7757
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 12:00:00",
+                "end_time": "2015-08-31 17:00:00"
+            },
+            {
+                "start_time": "2015-09-01 12:00:00",
+                "end_time": "2015-09-01 17:00:00"
+            },
+            {
+                "start_time": "2015-09-02 12:00:00",
+                "end_time": "2015-09-02 17:00:00"
+            },
+            {
+                "start_time": "2015-09-03 12:00:00",
+                "end_time": "2015-09-03 17:00:00"
+            },
+            {
+                "start_time": "2015-09-04 12:00:00",
+                "end_time": "2015-09-04 17:00:00"
+            },
+            {
+                "start_time": "2015-09-05 12:00:00",
+                "end_time": "2015-09-05 17:00:00"
+            },
+            {
+                "start_time": "2015-09-06 12:00:00",
+                "end_time": "2015-09-06 17:00:00"
+            }
+        ],
+        "description": "Ready to see if you are a \"Proper\" Burner? Come get your ProperBurner License at Camp Proper (after you successfully pass our Proper Burner Exam, of course). We are also serving our delicious and absolutely improper ProperTea!",
+        "title": "Proper Burner Licensing",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15789,
+        "print_description": "Ready to see if you are a \"Proper\" Burner? Come get your ProperBurner License at Camp Proper!",
+        "check_location": false,
+        "slug": "proper-burner-licensing",
+        "other_location": "",
+        "event_type": {
+            "abbr": "game",
+            "label": "Game"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Camp Contact",
             "id": 7836
         },
@@ -47074,6 +54792,35 @@
         "print_description": "Mainline some classic Lower East Side punk circa 1977. A ballz-deep punk party to start your week with a bang. Gabba gabba hey.",
         "check_location": false,
         "slug": "punk-1977-les",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Duckpond",
+            "id": 7117
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 13:00:00",
+                "end_time": "2015-09-02 17:00:00"
+            }
+        ],
+        "description": "Playa punk rock playing at the Pond, your favorite dive bar.",
+        "title": "Punk on the Playa",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 14070,
+        "print_description": "Playa punk rock playing at the Pond, your favorite dive bar.",
+        "check_location": false,
+        "slug": "punk-on-the-playa",
         "other_location": "",
         "event_type": {
             "abbr": "prty",
@@ -47358,7 +55105,7 @@
     },
     {
         "hosted_by_camp": {
-            "name": "Taiwan Village",
+            "name": "Taiwanderlust",
             "id": 7302
         },
         "occurrence_set": [
@@ -47696,6 +55443,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Quixotes Presents “The Dr’s Box”",
+            "id": 8091
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 21:00:00",
+                "end_time": "2015-09-03 23:45:00"
+            }
+        ],
+        "description": "Quixote’s returns to the playa to bring you high-class time-travelling Bar and Open mike stage. Step inside the TARDIS to thrill at the best the playa has to offer.",
+        "title": "Quixote’s Cabaret Club and Bar ",
+        "url": "http://www.qccb.org/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15779,
+        "print_description": "Quixote’s returns to the playa to bring you high-class time-travelling cabaret. Step inside the TARDIS to thrill at the best the playa has to offer.",
+        "check_location": false,
+        "slug": "quixotes-cabaret-club-and-bar",
+        "other_location": "",
+        "event_type": {
+            "abbr": "perf",
+            "label": "Performance"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Camp Naughty Bench",
             "id": 7307
         },
@@ -47840,6 +55616,35 @@
         }
     },
     {
+        "hosted_by_camp": {
+            "name": "Camp Charlie",
+            "id": 8225
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 14:00:00",
+                "end_time": "2015-09-03 17:00:00"
+            }
+        ],
+        "description": "Join the Unicorns of Camp Charlie and be an alchemist by blending your own unique playa aroma using carnival inspired fragrances and essential oils! Rainbow technicians will guide you in this aromatic adventure!",
+        "title": "Rainbow Lab/Smellotorium",
+        "url": "http://Www.campcharlie.org/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15720,
+        "print_description": "Join the Unicorns of Camp Charlie and blend your own unique playa aroma using carnival themed fragrances & essential oils! Alchemy is in!",
+        "check_location": true,
+        "slug": "rainbow-labsmellotorium",
+        "other_location": "Camp Charlie",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
         "occurrence_set": [
             {
                 "start_time": "2015-09-02 21:00:00",
@@ -47953,6 +55758,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Salute Your Jorts!",
+            "id": 7684
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 22:00:00",
+                "end_time": "2015-09-04 01:00:00"
+            }
+        ],
+        "description": "Montel. Ginuwine. BoyzIIMen. Mary J Blige. R. Kelly. Usher.  Does this music speak to you and your loins?  Us too.  Slow dancing encouraged.",
+        "title": "R&B Lounge",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15487,
+        "print_description": "Montel. Ginuwine. BoyzIIMen. Mary J Blige. R. Kelly. Usher.  Does this music speak to you and your loins?  Us too.  Slow dancing encouraged.",
+        "check_location": true,
+        "slug": "rb-lounge",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "MacGyvers' Union",
             "id": 7746
         },
@@ -47978,6 +55812,55 @@
         "event_type": {
             "abbr": "perf",
             "label": "Performance"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Enchanted Booty Village",
+            "id": 7306
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 00:00:00",
+                "end_time": "2015-08-31 23:59:00"
+            },
+            {
+                "start_time": "2015-09-01 00:00:00",
+                "end_time": "2015-09-01 23:59:00"
+            },
+            {
+                "start_time": "2015-09-02 00:00:00",
+                "end_time": "2015-09-02 23:59:00"
+            },
+            {
+                "start_time": "2015-09-03 00:00:00",
+                "end_time": "2015-09-03 23:59:00"
+            },
+            {
+                "start_time": "2015-09-04 00:00:00",
+                "end_time": "2015-09-04 23:59:00"
+            },
+            {
+                "start_time": "2015-09-05 00:00:00",
+                "end_time": "2015-09-05 23:59:00"
+            }
+        ],
+        "description": "Need a Re-Boot from the sun? We've got your booty! Directions, cool shade, baby wipes, refreshments, lip balm, lotion, vinegar spray and anything else the desert makes your body need!",
+        "title": "Re-Booty Station ",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": true,
+        "id": 15627,
+        "print_description": "Need a Re-Boot from the sun? We've got your booty! Baby wipes, lip balm, lotion, vinegar spray and anything else the desert makes your body need!",
+        "check_location": true,
+        "slug": "re-booty-station",
+        "other_location": "laughinginslowmotion@gmail.com",
+        "event_type": {
+            "abbr": "care",
+            "label": "Care/Support"
         }
     },
     {
@@ -48098,6 +55981,59 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Recycle Camp",
+            "id": 7291
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 09:00:00",
+                "end_time": "2015-08-31 17:00:00"
+            },
+            {
+                "start_time": "2015-09-01 09:00:00",
+                "end_time": "2015-09-01 17:00:00"
+            },
+            {
+                "start_time": "2015-09-02 09:00:00",
+                "end_time": "2015-09-02 17:00:00"
+            },
+            {
+                "start_time": "2015-09-03 09:00:00",
+                "end_time": "2015-09-03 17:00:00"
+            },
+            {
+                "start_time": "2015-09-04 09:00:00",
+                "end_time": "2015-09-04 17:00:00"
+            },
+            {
+                "start_time": "2015-09-05 09:00:00",
+                "end_time": "2015-09-05 17:00:00"
+            },
+            {
+                "start_time": "2015-09-06 09:00:00",
+                "end_time": "2015-09-06 17:00:00"
+            }
+        ],
+        "description": "Black Rock City is a \"Pack It In, Pack It Out\", Leave No Trace city. There are no trash cans or recycling bins. You are responsible for disposing of waste properly. Do you want to reduce the amount of recycling you will have to pack out? Start by bringing all of your beverages in aluminum cans. Follow that by separating your your aluminum cans and other recyclables from any landfill trash. Bring your aluminum cans to Black Rock City Recycle Camp. We are located in Center Camp at 6:00, directly behind the Cafe. The camp is \"Open\" and ready to accept your aluminum cans Monday through Sunday, 9am to 5pm. Bring your clean, separated aluminum cans only. We definitely don't want your trash. We do not accept any other recyclables, you can take them to one of the 24 hour recycling stations on your way back to Reno, check out your Survival Guide for more information. We provide a sorting area to check your cans for anything that isn't aluminum. You can ride the bike powered can crusher and crush your cans. After your cans get crushed, you will put your crushed cans into the large containers at the camp. All proceeds from the aluminum are donated to the Gerlach K-12 School in Gerlach, NV. Come join in the fun while doing a good thing for the planet and Black Rock City..!!!",
+        "title": "Recycle Your Aluminum Cans!!!",
+        "url": "http://burningman.org/event/volunteering/teams/recycle-camp/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15636,
+        "print_description": "Recycle Camp is in Center Camp at 6:00, directly behind the Cafe. We are open & excited to accept your aluminum cans 9am to 5pm Monday through Friday.",
+        "check_location": true,
+        "slug": "recycle-your-aluminum-cans",
+        "other_location": "",
+        "event_type": {
+            "abbr": "kid",
+            "label": "Kid-friendly"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Silicon Village",
             "id": 7516
         },
@@ -48152,6 +56088,84 @@
         "event_type": {
             "abbr": "none",
             "label": "None"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Magic Pancakes Project",
+            "id": 8088
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 11:00:00",
+                "end_time": "2015-08-31 12:00:00"
+            }
+        ],
+        "description": "The Magic Pancakes Project will be holding a ceremony in our spirit dome, welcome to all women to celebrate their Red Moon.",
+        "title": "Red Moon Ceremony",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15561,
+        "print_description": "The Magic Pancakes Project will be holding a ceremony in our spirit dome, welcome to all women to celebrate their Red Moon.",
+        "check_location": false,
+        "slug": "red-moon-ceremony",
+        "other_location": "",
+        "event_type": {
+            "abbr": "cere",
+            "label": "Ritual/Ceremony"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Red Nose District",
+            "id": 7438
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 21:00:00",
+                "end_time": "2015-08-31 23:45:00"
+            },
+            {
+                "start_time": "2015-09-01 21:00:00",
+                "end_time": "2015-09-01 23:45:00"
+            },
+            {
+                "start_time": "2015-09-02 21:00:00",
+                "end_time": "2015-09-02 23:45:00"
+            },
+            {
+                "start_time": "2015-09-03 21:00:00",
+                "end_time": "2015-09-03 23:45:00"
+            },
+            {
+                "start_time": "2015-09-04 21:00:00",
+                "end_time": "2015-09-04 23:45:00"
+            },
+            {
+                "start_time": "2015-09-05 21:00:00",
+                "end_time": "2015-09-05 23:45:00"
+            }
+        ],
+        "description": "RED NOSE DISTRICT presents PEDALBUMP Demolition Derby Races under the Big Top Circus tent. Is it a race? Is it a demolition derby? IT's BOTH! Or Neither. Several Riders PEDAL AND DRIVE head-to-head around a 60 x 90 foot track under the gorgeous CIRCUS TENT with LIGHTS, MUSIC and ANNOUNCERS! Our BUMPER CARTS are custom designed and one-of a kind! It's like driving your own personal pedal powered art car for 3 minutes or however long you last. The TENT is a SHADY OASIS in the DAY and a LIT-UP BEACON of fun at NIGHT! Winners of each race are determined by a mysterious mix of whatever the announcers at the time deem worthy. Is it the number of rear end or T-bone collisions you make happen? or maybe how many crashes you nimbly avoid with expert driving skills. Or maybe your winning attitude. Or your crazy costume. Maybe you cross the finish line first. Maybe you cross it last or not at all. You might still be a WINNER. We're betting on it! KIDS tall enough to pedal are welcome. Adults of ALL AGES brave or timid welcome. ALL Spectators welcome too! Come into the center ring and heckle your friends in the races! PEDALING is FUN but BUMPING is EVEN BETTER! Seriously, the bumpers keep you safe and you will laugh your ass off with every bump, crash, skid or pass. We also welcome volunteers who want to help with PIT CREW duties! Wrangle the crowds, heckle the riders, keep the pedal carts repaired. Sign up for our newsletter on our FB page or just stop by anytime we are live on Playa! GUEST HOST CREWS SCHEDULED: GATE  CREW is Representing on Tuesday night. MYSTIKAL MISFITS are representing on Wednesday night!",
+        "title": "RED NOSE DISTRICT presents PEDALBUMP",
+        "url": "http://www.facebook.com/pedalbump",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15588,
+        "print_description": "RED NOSE DISTRICT presents PEDALBUMP Demolition Derby Races under the Big Top Circus tent. Is it a race? Is it a demolition derby? IT's BOTH!",
+        "check_location": false,
+        "slug": "red-nose-district-presents-pedalbump",
+        "other_location": "",
+        "event_type": {
+            "abbr": "game",
+            "label": "Game"
         }
     },
     {
@@ -48255,6 +56269,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Shadyvil",
+            "id": 7496
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 13:00:00",
+                "end_time": "2015-09-02 17:00:00"
+            }
+        ],
+        "description": "Shadyvil and Movement of Jah People (MOJP) join together to host another afternoon filled with surprises.",
+        "title": "Reggae & IPA",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 14374,
+        "print_description": "Shadyvil & Movement of Jah People (MOJP) join together to host another afternoon of debauchery, bitterness and riddims.",
+        "check_location": false,
+        "slug": "reggae-ipa",
+        "other_location": "minimalistik",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Avant Yard",
             "id": 8215
         },
@@ -48338,6 +56381,56 @@
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
+        }
+    },
+    {
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 12:00:00",
+                "end_time": "2015-08-31 13:00:00"
+            },
+            {
+                "start_time": "2015-09-01 12:00:00",
+                "end_time": "2015-09-01 13:00:00"
+            },
+            {
+                "start_time": "2015-09-02 12:00:00",
+                "end_time": "2015-09-02 13:00:00"
+            },
+            {
+                "start_time": "2015-09-03 12:00:00",
+                "end_time": "2015-09-03 13:00:00"
+            },
+            {
+                "start_time": "2015-09-04 12:00:00",
+                "end_time": "2015-09-04 13:00:00"
+            },
+            {
+                "start_time": "2015-09-05 12:00:00",
+                "end_time": "2015-09-05 13:00:00"
+            }
+        ],
+        "description": "Join Us For Group Grounding Meditation, Or Drop Into Chill Space to Stretch & Rejuvenate Your Body In Any Manner you Desire.",
+        "title": "REJUVENATION REVELATION",
+        "url": "http://LOVEILLUMINARIUM.WIX.COM/LOVE-ILLUMINARIUM",
+        "located_at_art": {
+            "location_string": "Unknown",
+            "name": "LOVE ILLUMINARIUM",
+            "id": 2517
+        },
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15674,
+        "print_description": "Join Us For Group Grounding Meditation, Or Drop Into Chill Space to Stretch & Rejuvenate Your Body In Any Manner you Desire.",
+        "check_location": true,
+        "slug": "rejuvenation-revelation",
+        "other_location": "MamaLove",
+        "event_type": {
+            "abbr": "kid",
+            "label": "Kid-friendly"
         }
     },
     {
@@ -48425,6 +56518,43 @@
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "MOOP Map Headquarters",
+            "id": 7314
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 17:00:00",
+                "end_time": "2015-08-31 17:00:00"
+            },
+            {
+                "start_time": "2015-09-02 17:00:00",
+                "end_time": "2015-09-02 17:00:00"
+            },
+            {
+                "start_time": "2015-09-04 17:00:00",
+                "end_time": "2015-09-04 17:00:00"
+            }
+        ],
+        "description": "One of the world's largest siege weapons makes it's triumphant return to Burning Man. \"The Trebuchet\" is about 40 feet tall and has enough power and countereight to throw a piano hundreds of feet. Watch these pianos fly and come smashing to the ground! Much to everyones amazement, PLAYA RESTORATION will demonstrate how fast they can LEAVE NO TRACE, and make the ruble dissapear.\r\n[Monday and Wednesday and Friday 5pm]",
+        "title": "Retour du Trebuchet",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15782,
+        "print_description": "The DPW and DPW Playa Restoration have brought back the Trebuchet.  Come witness a piano reach low orbit only to smash to the ground, and dissapear!",
+        "check_location": false,
+        "slug": "retour-du-trebuchet",
+        "other_location": "5:30 and Esplanade",
+        "event_type": {
+            "abbr": "perf",
+            "label": "Performance"
         }
     },
     {
@@ -48657,6 +56787,47 @@
         "event_type": {
             "abbr": "prty",
             "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Black Rock City Welding & Repair",
+            "id": 7677
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 00:00:00",
+                "end_time": "2015-09-01 23:59:00"
+            },
+            {
+                "start_time": "2015-09-02 00:00:00",
+                "end_time": "2015-09-02 23:59:00"
+            },
+            {
+                "start_time": "2015-09-03 00:00:00",
+                "end_time": "2015-09-03 23:59:00"
+            },
+            {
+                "start_time": "2015-09-04 00:00:00",
+                "end_time": "2015-09-04 23:59:00"
+            }
+        ],
+        "description": "Come send a special message out to the universe:\r\n-speak your mind\r\n-make a wish\r\n-share a dream\r\n-forgive someone\r\n-forgive yourself",
+        "title": "Ribbons of Reflection",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": true,
+        "id": 15540,
+        "print_description": "Come send a special message out to the universe:\r\n-speak your mind\r\n-make a wish\r\n-share a dream\r\n-forgive someone\r\n-forgive yourself",
+        "check_location": true,
+        "slug": "ribbons-of-reflection",
+        "other_location": "",
+        "event_type": {
+            "abbr": "cere",
+            "label": "Ritual/Ceremony"
         }
     },
     {
@@ -48924,6 +57095,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Camp Whisker Biscuit",
+            "id": 7286
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 15:00:00",
+                "end_time": "2015-09-01 17:00:00"
+            }
+        ],
+        "description": "If you have never chased your whiskey with swine...",
+        "title": "Robertsons",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15815,
+        "print_description": "If you have never chased your whiskey with swine...",
+        "check_location": false,
+        "slug": "robertsons",
+        "other_location": "",
+        "event_type": {
+            "abbr": "food",
+            "label": "Food"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Super Friends Synaesthesia",
             "id": 7734
         },
@@ -48949,6 +57149,47 @@
         "event_type": {
             "abbr": "perf",
             "label": "Performance"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Boo Boo City",
+            "id": 7199
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 10:00:00",
+                "end_time": "2015-09-01 10:30:00"
+            },
+            {
+                "start_time": "2015-09-02 10:00:00",
+                "end_time": "2015-09-02 10:30:00"
+            },
+            {
+                "start_time": "2015-09-03 10:00:00",
+                "end_time": "2015-09-03 10:30:00"
+            },
+            {
+                "start_time": "2015-09-04 10:00:00",
+                "end_time": "2015-09-04 10:30:00"
+            }
+        ],
+        "description": "Get your HIIT on with this fun and intense workout.  High Intensity Interval Training involves doing 8 to 10 bodyweight exercises, 20 to 30 seconds each, at maximum performance level.  It is excellent for building athletic capacity and strength, improving metabolism, and burning fat.  Plus, with our sweet playlist of rockin' jams, this 30 minute workout will get you rocked and pumped!  Bring water, stay hydrated!",
+        "title": "Rock and Roll HIIT",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15476,
+        "print_description": "Get your HIIT on with this intense and fun workout.   Bring some water (and energy) and let's rock!",
+        "check_location": true,
+        "slug": "rock-and-roll-hiit",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
         }
     },
     {
@@ -49558,35 +57799,6 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-03 19:00:00",
-                "end_time": "2015-09-04 02:00:00"
-            }
-        ],
-        "description": "Dress your most mystical and come for a night of soulucent delight with world renowned audio alchemists, performance artists & dance divas!",
-        "title": "Sacred Spaces Village Shamans Ball 7pm - 2am",
-        "url": "http://sacredspacesvillage.org/",
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "all_day": false,
-        "id": 14647,
-        "print_description": "Dress your most mystical and come for a night of soulucent delight with world renowned audio alchemists, performance artists & dance divas!",
-        "check_location": true,
-        "slug": "sacred-spaces-village-shamans-ball-7pm-2am",
-        "other_location": "",
-        "event_type": {
-            "abbr": "prty",
-            "label": "Gathering/Party"
-        }
-    },
-    {
-        "hosted_by_camp": {
-            "name": "Sacred Spaces Village",
-            "id": 7816
-        },
-        "occurrence_set": [
-            {
                 "start_time": "2015-09-04 09:00:00",
                 "end_time": "2015-09-04 10:45:00"
             }
@@ -49756,6 +57968,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Intense Intents In Tents",
+            "id": 7072
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 20:00:00",
+                "end_time": "2015-09-03 23:30:00"
+            }
+        ],
+        "description": "The event is conducted in an open-mic format. All types of art are invited, including but limited to: song, dance, poetry, storytelling, visual art.. Dont make art or don't feel like sharing? Come join in the fun!! Voyerism is participation. <3 intents",
+        "title": "SALON, a call to artist & art appreciators!",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15702,
+        "print_description": "Salon, a grassroots movement intending to bring artist together in a safe space. Have a song, poem, story to share? come by & share this magical eve!",
+        "check_location": false,
+        "slug": "salon-a-call-to-artist-art-appreciators",
+        "other_location": "",
+        "event_type": {
+            "abbr": "perf",
+            "label": "Performance"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Salon Soleil",
             "id": 8043
         },
@@ -49839,6 +58080,35 @@
         "event_type": {
             "abbr": "prty",
             "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "The Lost Penguin",
+            "id": 8104
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 17:00:00",
+                "end_time": "2015-09-03 18:00:00"
+            }
+        ],
+        "description": "Salvador Dali Llama is a psych-pop group from Sydney that formed in 2014 over a mutual love of wizard capes and Aretha Franklin. SDL have a reputation for a face melting live set and an eclectic mish mash of dreamy psych pop, gospel soul harmonies and eyeball spinning kraut jams. Whatever your vibe, SDL will help you float upstream.",
+        "title": "Salvador Dali Llama Live Psychedelic-Pop Band",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15780,
+        "print_description": "Salvador Dali Llama: dreamy psych pop, gospel soul harmonies and eyeball spinning kraut jams. Whatever your vibe, SDL will help you float upstream!",
+        "check_location": false,
+        "slug": "salvador-dali-llama-live-psychedelic-pop-band",
+        "other_location": "marcgorcey1",
+        "event_type": {
+            "abbr": "perf",
+            "label": "Performance"
         }
     },
     {
@@ -50471,6 +58741,39 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Davy Jones' RV",
+            "id": 8182
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 19:30:00",
+                "end_time": "2015-09-01 21:00:00"
+            },
+            {
+                "start_time": "2015-09-03 19:30:00",
+                "end_time": "2015-09-03 21:00:00"
+            }
+        ],
+        "description": "Because songs about the ocean are exactly what we need in the desert! Lyrics and songs provided, both from our own repertoire and from Rise Up Singing. Songs are all ages for the 1st hour.",
+        "title": "Sea Shanty Singing",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15616,
+        "print_description": "Because songs about the ocean are exactly what we need in the desert! Lyrics and songs provided. Songs are all ages for the 1st hour.",
+        "check_location": false,
+        "slug": "sea-shanty-singing",
+        "other_location": "C and 8:45",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Party Naked Tiki Bar",
             "id": 7209
         },
@@ -50867,6 +59170,80 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Settle This Like Men",
+            "id": 7080
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 11:00:00",
+                "end_time": "2015-08-31 13:00:00"
+            },
+            {
+                "start_time": "2015-09-01 11:00:00",
+                "end_time": "2015-09-01 13:00:00"
+            },
+            {
+                "start_time": "2015-09-02 11:00:00",
+                "end_time": "2015-09-02 13:00:00"
+            },
+            {
+                "start_time": "2015-09-03 11:00:00",
+                "end_time": "2015-09-03 13:00:00"
+            },
+            {
+                "start_time": "2015-09-04 11:00:00",
+                "end_time": "2015-09-04 13:00:00"
+            }
+        ],
+        "description": "Come and participate in our Kinetic Dispute Resolution Workshops. Learn to use your hands, not your words when confronted with a difficult problem. Jiu Jitsu, Muy Thai, MMA, wrestling, whatever tickles your fancy. Enjoy classes in grappling, striking, take downs, then use those new found skills to explain your position in a more, erm, direct manner. Explain how the evap pond works to that guy who thinks it's a urinal in a way he won't see forget. Demonstrate that No means No aren't just words! Fight for status and win the love of that Sparkle Pony!",
+        "title": "Settle This Like Men Kinetic Dispute Resolution",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15790,
+        "print_description": "Learn to use your hands, not your words when confronted with a difficult problem. Punch, kick and choke your way to an understanding with your fellow.",
+        "check_location": false,
+        "slug": "settle-this-like-men-kinetic-dispute-resolution",
+        "other_location": "7:15 and B",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Irrelephant Bird Camp",
+            "id": 7854
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 14:00:00",
+                "end_time": "2015-09-01 18:00:00"
+            }
+        ],
+        "description": "Get your damn eyebrows painted! Want pink?! Get them shits hella pink! Want blue?! Get them fuckers blue as fuck! You will look stupid WITHOUT them on your face. Idiot.",
+        "title": "Seuss-face",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15495,
+        "print_description": "Get your damn eyebrows painted! Want pink?! Get them shits hella pink! Want blue?! Get them fuckers blue as fuck! You will look stupid WITHOUT them on",
+        "check_location": true,
+        "slug": "seuss-face",
+        "other_location": "",
+        "event_type": {
+            "abbr": "kid",
+            "label": "Kid-friendly"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Sacred Spaces Village",
             "id": 7816
         },
@@ -51157,6 +59534,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Uhuru",
+            "id": 7325
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-04 19:00:00",
+                "end_time": "2015-09-04 21:00:00"
+            }
+        ],
+        "description": "A day of rest— but not at Uhuru! Come break bread with Camp Uhuru and celebrate the beauty of life today. All religions and dreamers welcome!",
+        "title": "Shabbat - a Shabbattybat Family affair",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15611,
+        "print_description": "A day of rest— but not at Uhuru! Come break bread with Camp Uhuru and celebrate the beauty of life today. All religions and dreamers welcome!",
+        "check_location": false,
+        "slug": "shabbat-a-shabbattybat-family-affair",
+        "other_location": "",
+        "event_type": {
+            "abbr": "food",
+            "label": "Food"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Cult of the Magic Lady",
             "id": 7107
         },
@@ -51421,7 +59827,7 @@
         "print_description": "Wired for spiritual awareness and transcendent vision, our brains have spiritual perception AND make chemicals found in shamanic brews to open matrix.",
         "check_location": false,
         "slug": "shamanism-psychedelics-neuroscience",
-        "other_location": "730 and G?",
+        "other_location": "7:00 and B",
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
@@ -51450,7 +59856,7 @@
         "print_description": "Share your shamanreiki shamanmassage shamantantra etc. work experiences.\r\nWhat spirit guides-What story shifted to resolve PTSD- urbanshaman speakout.",
         "check_location": false,
         "slug": "shamanista-world-conference",
-        "other_location": "730 and G?",
+        "other_location": "7:00 and B",
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
@@ -51491,7 +59897,7 @@
         "print_description": "Our Shamandome shamanistas channel spirit to clean up negs & hitchhikers, rescue lost souls: get on your mountain in right relation to flow and dance.",
         "check_location": false,
         "slug": "shaman-one-on-one-healings",
-        "other_location": "730 and G?",
+        "other_location": "7:00 and B",
         "event_type": {
             "abbr": "care",
             "label": "Care/Support"
@@ -51520,7 +59926,7 @@
         "print_description": "Surrender to the inevitable but now.  Release ego, social ties, stuckness. Come back more alive than ever. Shaman initiation. This is your only fix.",
         "check_location": false,
         "slug": "shamans-death-meet-your-death-ritual",
-        "other_location": "730 and G?",
+        "other_location": "North Gate of the Temple",
         "event_type": {
             "abbr": "cere",
             "label": "Ritual/Ceremony"
@@ -51549,7 +59955,7 @@
         "print_description": "journey to higher self & share what happened in kundalini eyegazing PUJA exchange. two power animals copulating in spiral vortex magma luminescence.",
         "check_location": false,
         "slug": "shamantantrapoly-trance-journey",
-        "other_location": "730 and G?",
+        "other_location": "7:00 and B",
         "event_type": {
             "abbr": "cere",
             "label": "Ritual/Ceremony"
@@ -51578,7 +59984,7 @@
         "print_description": "Maxing out the other in bliss. Gylany. Tantric consummation. Untie the Knot. Keep it Fresh. NO codependencies! Free and together.",
         "check_location": false,
         "slug": "shaman-wedding-each-on-your-mountain",
-        "other_location": "730 and G?",
+        "other_location": "North Gate of the Temple",
         "event_type": {
             "abbr": "cere",
             "label": "Ritual/Ceremony"
@@ -51670,6 +60076,35 @@
         "event_type": {
             "abbr": "prty",
             "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Illumination Village",
+            "id": 7402
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 17:00:00",
+                "end_time": "2015-09-03 19:30:00"
+            }
+        ],
+        "description": "Step up in front of a panel of millionaires and pitch your next art piece! Suggestions, comments, and funding will be offered. This is your chance to get in front of some of this year's most famous millionaires and sell yourself! This is one of the many services that millionaires can offer the playa and we are happy to host this event without requiring a wristband for access.\r\n\r\nWe understand you - you are a millionaire. People complain about you. You're vilified in burner media, and you just don't get it. Well, good news...*we get you*! You've paid your $15,000 camp dues, flown into the desert, and want service dammit! We at millionaire camp understand your expectations and are here to provide you with the amenities you deserve while you are out here in the desert.\r\n\r\nMillionaire lounge is open 24/7 to provide you the latest in playa pampering. From our exclusive reserved seating, complimentary fragrances, Segway parking, free wifi, phone charging stations, and secured location only accessible by wristband, Millionaire lounge offers the amenities you deserve while you are in the desert.\r\n\r\nPlease stop by one of our exciting hosted events over the week, or join us for a cocktail anytime, day or night. You never know who you'll meet at Millionaire Lounge!",
+        "title": "ShART Tank - get funding for your art project",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15718,
+        "print_description": "Step up in front of a panel of millionaires and pitch your next art piece! Suggestions, comments, and funding will be offered.",
+        "check_location": false,
+        "slug": "shart-tank-get-funding-for-your-art-project",
+        "other_location": "Millionaire's Lounge",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
         }
     },
     {
@@ -51975,6 +60410,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "PlayaWaste Raiders",
+            "id": 7086
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 09:00:00",
+                "end_time": "2015-09-01 09:30:00"
+            }
+        ],
+        "description": "Come join the Army of Shirt Cocking Elders of Latter-Day Saints™ for Sunday services on Tuesday Morning. Jesus loves the shirt cocker and you too can accept the good word of Shirt Cocking. Stay for the morning drinks and good conversations after the sermon on how Jesus was the first Shirt Cocker given by Elder Wrong of the Army of Shirt Cocking Elders of Latter-Day Saints™. Obviously this is a pants optional event. Bloody Mary's shall be had!",
+        "title": "Shirt Cocking Sunday Services on Tuesday",
+        "url": "https://www.facebook.com/groups/Army.of.shirt.cocking.elders.of.latterday.saints/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15491,
+        "print_description": "Come join the Army of Shirt Cocking Elders of Latter-Day Saints™ for Sunday services on Tuesday Morning. Jesus loves the shirt cocker.",
+        "check_location": false,
+        "slug": "shirt-cocking-sunday-services-on-tuesday",
+        "other_location": "The Church of the Children of Atom",
+        "event_type": {
+            "abbr": "cere",
+            "label": "Ritual/Ceremony"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Miso Horny",
             "id": 7376
         },
@@ -52000,6 +60464,35 @@
         "event_type": {
             "abbr": "perf",
             "label": "Performance"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Camp Whisker Biscuit",
+            "id": 7286
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 15:00:00",
+                "end_time": "2015-09-02 16:00:00"
+            }
+        ],
+        "description": "Let's see who's got some beer chugging skills!  But don't be an ass clowns and moop your beer everywhere.  It's supposed to go in your mouth suckers!",
+        "title": "Shitty Beer Shotgun Showdown",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15816,
+        "print_description": "Let's see who's got some beer chugging skills!  But don't be an ass clowns and moop your beer everywhere.  It's supposed to go in your mouth suckers!",
+        "check_location": false,
+        "slug": "shitty-beer-shotgun-showdown",
+        "other_location": "",
+        "event_type": {
+            "abbr": "none",
+            "label": "None"
         }
     },
     {
@@ -52308,6 +60801,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Sideshow!",
+            "id": 7495
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 13:00:00",
+                "end_time": "2015-09-05 14:00:00"
+            }
+        ],
+        "description": "You're just in time!  See SIDESHOW's Big Show!  Take a seat and witness the strange- the bizarre and the freakish.  Walk on freaks and performers highly encouraged!  The show wraps up with spectacular live magic from the legendary magicians of SIDESHOW!  Mon through Sat of the burn at 1 pm.",
+        "title": "SIDESHOW's Big Show",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15727,
+        "print_description": "Take a seat and witness the strange- the bizarre and the freakish.  Walk ons highly encouraged!  The show wraps up with spectacular magic!",
+        "check_location": false,
+        "slug": "sideshows-big-show",
+        "other_location": "SIDESHOW! Theme Camp",
+        "event_type": {
+            "abbr": "perf",
+            "label": "Performance"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Two Lanterns",
             "id": 7789
         },
@@ -52422,6 +60944,65 @@
         }
     },
     {
+        "hosted_by_camp": {
+            "name": "Silicon Village",
+            "id": 7516
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 19:00:00",
+                "end_time": "2015-09-01 22:00:00"
+            }
+        ],
+        "description": "Warm up your dance card and fill it in on this hopping good tour of Silicon Village bars, art installations, and theme pods! There will be special cocktails, performances, and information on our offerings for the rest of the week! Meet at the Silicon Village Tower and then follow the white rabbit through the adventure. Keep your eyes peeled for the weird and wonderful Wandering Maneads, roving Ali Bar Bars, Suanadomes and mystical Mindwerks. Other stops include HeartOn!, Pickle Me Elmo, Joyism, Otis Spankmore, Mist’R Cool, Hoopcasbah, BuzzInn, Happy Spot, and Sandho Pyro Department!",
+        "title": "Silicon Village Pod Crawl",
+        "url": "http://siliconvillageburners.org/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15109,
+        "print_description": "Meet at the Silicon Village Tower and follow the white rabbit on a journey through our village’s bars and spaces! Bees! Pickles! and Pyros! Oh My!",
+        "check_location": false,
+        "slug": "silicon-village-pod-crawl",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-06 21:00:00",
+                "end_time": "2015-09-07 07:00:00"
+            }
+        ],
+        "description": "Celebrating Temple Burn & The Silly-Sacred In The LOVE ILLUMINARIUM. \r\nAn Immersive, Inspirational & Holographic Love Light Experience.",
+        "title": "SILLY-SACRED SUNDAY ",
+        "url": "http://LOVEILLUMINARIUM.WIX.COM/LOVE-ILLUMINARIUM",
+        "located_at_art": {
+            "location_string": "Unknown",
+            "name": "LOVE ILLUMINARIUM",
+            "id": 2517
+        },
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15670,
+        "print_description": "Celebrating Temple Burn & The Silly-Sacred In The LOVE ILLUMINARIUM. \r\nAn Immersive, Inspirational & Holographic Love Light Experience.",
+        "check_location": true,
+        "slug": "silly-sacred-sunday",
+        "other_location": "MamaLove",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
         "occurrence_set": [
             {
                 "start_time": "2015-08-31 21:00:00",
@@ -52461,6 +61042,35 @@
         "event_type": {
             "abbr": "fire",
             "label": "Fire"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Deep Sea Circus",
+            "id": 7643
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 18:00:00",
+                "end_time": "2015-09-02 19:00:00"
+            }
+        ],
+        "description": "If you can make popcorn, you can roast coffee! Learn the basics of roasting coffee at home using simple tools. Then try your hand at roasting a batch.",
+        "title": "SIMPLE COFFEE ROASTING AT HOME",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15792,
+        "print_description": "If you can make popcorn, you can roast coffee! Learn the basics of roasting coffee at home using simple tools. Then try your hand at roasting a batch.",
+        "check_location": false,
+        "slug": "simple-coffee-roasting-at-home",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
         }
     },
     {
@@ -52614,6 +61224,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Dye With Dignity",
+            "id": 7057
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 11:00:00",
+                "end_time": "2015-09-02 12:30:00"
+            }
+        ],
+        "description": "A workshop for those who are vocally inhibited. If you've ever been told to 'just mouth the words', that you are 'tone deaf', or 'you sound like a cat in heat' this workshop is for YOU! Learn how your voice works, explore vocal basics, and experience the JOY of singing in 4 part harmony.",
+        "title": "Singing for Scaredycats",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 14073,
+        "print_description": "Told you sound like a cat in heat? Tone deaf? Asked to just mouth the words? Come learn the truth: you CAN sing! 4 part harmony and JOY, guaranteed!",
+        "check_location": false,
+        "slug": "singing-for-scaredycats",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Destiny Lounge",
             "id": 7377
         },
@@ -52636,35 +61275,6 @@
         },
         "all_day": false,
         "id": 13983,
-        "print_description": "Told you sound like a cat in heat? Tone deaf? Asked to just mouth the words? Come learn the truth: you CAN sing! 4 part harmony and JOY, guaranteed!",
-        "check_location": false,
-        "slug": "singing-for-scaredycats",
-        "other_location": "",
-        "event_type": {
-            "abbr": "work",
-            "label": "Class/Workshop"
-        }
-    },
-    {
-        "hosted_by_camp": {
-            "name": "Dye With Dignity",
-            "id": 7057
-        },
-        "occurrence_set": [
-            {
-                "start_time": "2015-09-02 11:00:00",
-                "end_time": "2015-09-02 12:30:00"
-            }
-        ],
-        "description": "A workshop for those who are vocally inhibited. If you've ever been told to 'just mouth the words', that you are 'tone deaf', or 'you sound like a cat in heat' this workshop is for YOU! Learn how your voice works, explore vocal basics, and experience the JOY of singing in 4 part harmony.",
-        "title": "Singing for Scaredycats",
-        "url": "",
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "all_day": false,
-        "id": 14073,
         "print_description": "Told you sound like a cat in heat? Tone deaf? Asked to just mouth the words? Come learn the truth: you CAN sing! 4 part harmony and JOY, guaranteed!",
         "check_location": false,
         "slug": "singing-for-scaredycats",
@@ -53068,7 +61678,7 @@
                 "end_time": "2015-09-03 02:00:00"
             }
         ],
-        "description": "Young sluts unite! Come play in the sluts 5 beds room. No monogamous couples or single guys. 21+",
+        "description": "Young sluts unite! Come play in the sluts 5 beds room. No monogamous couples or single guys. 21+. Location is 4:00 and Hanky Pank. Look for the Purple RV Orgy Bus.",
         "title": "Slut Celebration Play Party",
         "url": "",
         "year": {
@@ -53080,7 +61690,7 @@
         "print_description": "Young sluts unite! Come play in the sluts 5 beds room. No monogamous couples or single guys. 21+",
         "check_location": false,
         "slug": "slut-celebration-play-party",
-        "other_location": "",
+        "other_location": "4:00 & Hanky Pank",
         "event_type": {
             "abbr": "adlt",
             "label": "Adult-oriented"
@@ -53307,16 +61917,16 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-02 17:00:00",
-                "end_time": "2015-09-02 17:15:00"
+                "start_time": "2015-09-02 12:00:00",
+                "end_time": "2015-09-02 12:15:00"
             },
             {
-                "start_time": "2015-09-03 17:00:00",
-                "end_time": "2015-09-03 17:15:00"
+                "start_time": "2015-09-03 12:00:00",
+                "end_time": "2015-09-03 12:15:00"
             },
             {
-                "start_time": "2015-09-04 17:00:00",
-                "end_time": "2015-09-04 17:15:00"
+                "start_time": "2015-09-04 12:00:00",
+                "end_time": "2015-09-04 12:15:00"
             }
         ],
         "description": "\"Smoke, mirrors and dust\" - a magic show. Just a typical hardcore casual sorcery - levitations, transformations, appearances, mind reading, and more. You'll be asking yourself: \"Am I really seeing this or I need to cut down on hallucinogens?\" 15-20min",
@@ -53327,7 +61937,7 @@
             "year": "2015"
         },
         "all_day": false,
-        "id": 15384,
+        "id": 15383,
         "print_description": "\"Smoke, mirrors and dust\" - a magic show. Just a typical hardcore casual sorcery - levitations, transformations, appearances, mind reading, and more.",
         "check_location": true,
         "slug": "smoke-mirrors-and-dust-a-magic-show",
@@ -53373,16 +61983,8 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-02 12:00:00",
-                "end_time": "2015-09-02 12:15:00"
-            },
-            {
-                "start_time": "2015-09-03 12:00:00",
-                "end_time": "2015-09-03 12:15:00"
-            },
-            {
-                "start_time": "2015-09-04 12:00:00",
-                "end_time": "2015-09-04 12:15:00"
+                "start_time": "2015-09-01 20:00:00",
+                "end_time": "2015-09-01 20:15:00"
             }
         ],
         "description": "\"Smoke, mirrors and dust\" - a magic show. Just a typical hardcore casual sorcery - levitations, transformations, appearances, mind reading, and more. You'll be asking yourself: \"Am I really seeing this or I need to cut down on hallucinogens?\" 15-20min",
@@ -53393,7 +61995,7 @@
             "year": "2015"
         },
         "all_day": false,
-        "id": 15383,
+        "id": 15387,
         "print_description": "\"Smoke, mirrors and dust\" - a magic show. Just a typical hardcore casual sorcery - levitations, transformations, appearances, mind reading, and more.",
         "check_location": true,
         "slug": "smoke-mirrors-and-dust-a-magic-show",
@@ -53410,8 +62012,16 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-01 20:00:00",
-                "end_time": "2015-09-01 20:15:00"
+                "start_time": "2015-09-02 20:00:00",
+                "end_time": "2015-09-02 20:15:00"
+            },
+            {
+                "start_time": "2015-09-03 20:00:00",
+                "end_time": "2015-09-03 20:15:00"
+            },
+            {
+                "start_time": "2015-09-04 20:00:00",
+                "end_time": "2015-09-04 20:15:00"
             }
         ],
         "description": "\"Smoke, mirrors and dust\" - a magic show. Just a typical hardcore casual sorcery - levitations, transformations, appearances, mind reading, and more. You'll be asking yourself: \"Am I really seeing this or I need to cut down on hallucinogens?\" 15-20min",
@@ -53422,7 +62032,7 @@
             "year": "2015"
         },
         "all_day": false,
-        "id": 15387,
+        "id": 15386,
         "print_description": "\"Smoke, mirrors and dust\" - a magic show. Just a typical hardcore casual sorcery - levitations, transformations, appearances, mind reading, and more.",
         "check_location": true,
         "slug": "smoke-mirrors-and-dust-a-magic-show",
@@ -53476,16 +62086,16 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-02 20:00:00",
-                "end_time": "2015-09-02 20:15:00"
+                "start_time": "2015-09-02 17:00:00",
+                "end_time": "2015-09-02 17:15:00"
             },
             {
-                "start_time": "2015-09-03 20:00:00",
-                "end_time": "2015-09-03 20:15:00"
+                "start_time": "2015-09-03 17:00:00",
+                "end_time": "2015-09-03 17:15:00"
             },
             {
-                "start_time": "2015-09-04 20:00:00",
-                "end_time": "2015-09-04 20:15:00"
+                "start_time": "2015-09-04 17:00:00",
+                "end_time": "2015-09-04 17:15:00"
             }
         ],
         "description": "\"Smoke, mirrors and dust\" - a magic show. Just a typical hardcore casual sorcery - levitations, transformations, appearances, mind reading, and more. You'll be asking yourself: \"Am I really seeing this or I need to cut down on hallucinogens?\" 15-20min",
@@ -53496,7 +62106,7 @@
             "year": "2015"
         },
         "all_day": false,
-        "id": 15386,
+        "id": 15384,
         "print_description": "\"Smoke, mirrors and dust\" - a magic show. Just a typical hardcore casual sorcery - levitations, transformations, appearances, mind reading, and more.",
         "check_location": true,
         "slug": "smoke-mirrors-and-dust-a-magic-show",
@@ -53656,6 +62266,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Camp88",
+            "id": 8160
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 14:00:00",
+                "end_time": "2015-09-03 17:00:00"
+            }
+        ],
+        "description": "Celebrate coming home to Black Rock City with Camp88! We've got yummy snow cones and down-tempo boogie with a DC twist.",
+        "title": "Snowcone Chill Dance Party",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15555,
+        "print_description": "Celebrate coming home to Black Rock City with Camp88! We've got yummy snow cones and down-tempo boogie with a DC twist.",
+        "check_location": true,
+        "slug": "snowcone-chill-dance-party",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Paradise Motel",
             "id": 7256
         },
@@ -53792,6 +62431,35 @@
         "event_type": {
             "abbr": "prty",
             "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Automatic Subconscious",
+            "id": 8137
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 21:00:00",
+                "end_time": "2015-09-01 22:00:00"
+            }
+        ],
+        "description": "Think you know how to twerk? Learn hot tips to dancing the world's sexiest style: Soca, also known as Soul Of Calypso. Explore your body's curves and experience the finer points of working, rolling, bouncing, ticking and popping that bootie. After this all-levels session, you'll know how to butterfly, willy bounce, jiggy, Nah Linga, hot wuk, and of course, twerk. Come for the class, stay for the ass (After Super-Session party..what did you think I meant?).",
+        "title": "Soca/ Dance Session",
+        "url": "http://www.automaticsubconscious.com/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 14071,
+        "print_description": "Tips to world's sexiest style/Soul Of Calypso.Learn butterfly, willy bounce, jiggly, hot wuk and tweak. Stay for the ASS (after super session party",
+        "check_location": false,
+        "slug": "soca-dance-session",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
         }
     },
     {
@@ -54028,6 +62696,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Camp Afterglow",
+            "id": 8008
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 12:00:00",
+                "end_time": "2015-09-02 13:00:00"
+            }
+        ],
+        "description": "Take an amusing journey into the world of the socially awkward. Learn how it manifests and discover all it has to offer.",
+        "title": "Socially Awkward 101",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15619,
+        "print_description": "Take an amusing journey into the world of the socially awkward. Learn how it manifests and discover all it has to offer.",
+        "check_location": true,
+        "slug": "socially-awkward-101",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Camp Contact",
             "id": 7836
         },
@@ -54177,8 +62874,8 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-01 23:45:00",
-                "end_time": "2015-09-02 01:00:00"
+                "start_time": "2015-09-01 22:00:00",
+                "end_time": "2015-09-01 23:00:00"
             }
         ],
         "description": "Power balladeering at its finest. A romantic slow-dance party of all acoustic ballads by metal bands. Fall in love with metal.",
@@ -54553,11 +63250,11 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-04 19:00:00",
-                "end_time": "2015-09-04 21:00:00"
+                "start_time": "2015-09-02 19:00:00",
+                "end_time": "2015-09-02 21:00:00"
             }
         ],
-        "description": "Jumpstart your night with vodka tasting at Leon's \"Chill the F--k Out\" Bar, located in our Sorry Salon!  While you're there, pick out a card for someone you've wronged, because sometimes, it's easier to say sorry when you're buzzed!",
+        "description": "Jumpstart your night with a little vodka tasting at Leon's \"Chill the F--k Out\" Bar, located in our Sorry Salon! While you're there, pick out the perfect card for someone you've wronged, because sometimes, apologizing is easier when you're buzzed!",
         "title": "Sorry Soiree",
         "url": "",
         "year": {
@@ -54565,7 +63262,7 @@
             "year": "2015"
         },
         "all_day": false,
-        "id": 14789,
+        "id": 14785,
         "print_description": "Jumpstart your night with vodka tasting at Leon's \"Chill the F Out\" Bar, located in our Sorry Salon!",
         "check_location": false,
         "slug": "sorry-soiree",
@@ -54582,11 +63279,11 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-02 19:00:00",
-                "end_time": "2015-09-02 21:00:00"
+                "start_time": "2015-09-04 19:00:00",
+                "end_time": "2015-09-04 21:00:00"
             }
         ],
-        "description": "Jumpstart your night with a little vodka tasting at Leon's \"Chill the F--k Out\" Bar, located in our Sorry Salon! While you're there, pick out the perfect card for someone you've wronged, because sometimes, apologizing is easier when you're buzzed!",
+        "description": "Jumpstart your night with vodka tasting at Leon's \"Chill the F--k Out\" Bar, located in our Sorry Salon!  While you're there, pick out a card for someone you've wronged, because sometimes, it's easier to say sorry when you're buzzed!",
         "title": "Sorry Soiree",
         "url": "",
         "year": {
@@ -54594,7 +63291,7 @@
             "year": "2015"
         },
         "all_day": false,
-        "id": 14785,
+        "id": 14789,
         "print_description": "Jumpstart your night with vodka tasting at Leon's \"Chill the F Out\" Bar, located in our Sorry Salon!",
         "check_location": false,
         "slug": "sorry-soiree",
@@ -54846,6 +63543,31 @@
         }
     },
     {
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 13:00:00",
+                "end_time": "2015-09-02 15:00:00"
+            }
+        ],
+        "description": "Get your nails painted, skin misted & moisturized, while sipping unicorn blood at the Spa at LgMarge.",
+        "title": "Spa at LgMarge",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15755,
+        "print_description": "Get your nails painted, skin misted & moisturized, while sipping unicorn blood at the Spa at LgMarge.",
+        "check_location": false,
+        "slug": "spa-at-lgmarge",
+        "other_location": "XOXO &  Short Bus",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
         "hosted_by_camp": {
             "name": "Space Gnomes",
             "id": 8044
@@ -55041,6 +63763,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Huggzilla",
+            "id": 8072
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 17:30:00",
+                "end_time": "2015-09-03 19:00:00"
+            }
+        ],
+        "description": "Dance to the ambiguous sounds of Kaweh and Jay Alvarez.",
+        "title": "Spanish Gypsy Guitar House Music",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15609,
+        "print_description": "Dance to the ambiguous sounds of Kaweh and Jay Alvarez.",
+        "check_location": true,
+        "slug": "spanish-gypsy-guitar-house-music",
+        "other_location": "",
+        "event_type": {
+            "abbr": "perf",
+            "label": "Performance"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Slutgarden",
             "id": 7491
         },
@@ -55069,6 +63820,10 @@
         }
     },
     {
+        "hosted_by_camp": {
+            "name": "Spanky's Village and Wine Bar",
+            "id": 8248
+        },
         "occurrence_set": [
             {
                 "start_time": "2015-09-01 22:00:00",
@@ -55087,7 +63842,7 @@
         "print_description": "A plus D will be DJing their famous Bootie Mash-Ups at Spanky's Wine Bar.  Voted the \"Best Party\" at Bman!",
         "check_location": false,
         "slug": "spank-dat-bootie",
-        "other_location": "Spanky's Wine Bar",
+        "other_location": "At Spanky's Wine Bar and on 100.5 FM -- Radio Free Spanky's",
         "event_type": {
             "abbr": "perf",
             "label": "Performance"
@@ -55131,6 +63886,10 @@
         }
     },
     {
+        "hosted_by_camp": {
+            "name": "Spanky's Village and Wine Bar",
+            "id": 8248
+        },
         "occurrence_set": [
             {
                 "start_time": "2015-09-05 22:00:00",
@@ -55149,13 +63908,17 @@
         "print_description": "Hosted by Spanky's Wine Bar and DJ Goth Thug.  Come to Spanky's after the man burns!",
         "check_location": false,
         "slug": "spankys-burn-night-party",
-        "other_location": "Spanky's Wine Bar",
+        "other_location": "",
         "event_type": {
             "abbr": "prty",
             "label": "Gathering/Party"
         }
     },
     {
+        "hosted_by_camp": {
+            "name": "Spanky's Village and Wine Bar",
+            "id": 8248
+        },
         "occurrence_set": [
             {
                 "start_time": "2015-08-31 20:00:00",
@@ -55194,13 +63957,17 @@
         "print_description": "Kinky and perverted carnival-style games.  Vibrator Races, cock-ring toss, dildo toss, mis-fortune teller, balloon darts, etc.  Win prizes!",
         "check_location": false,
         "slug": "spankys-carnival-midway",
-        "other_location": "Spanky's Wine Bar",
+        "other_location": "",
         "event_type": {
             "abbr": "adlt",
             "label": "Adult-oriented"
         }
     },
     {
+        "hosted_by_camp": {
+            "name": "Spanky's Village and Wine Bar",
+            "id": 8248
+        },
         "occurrence_set": [
             {
                 "start_time": "2015-08-31 10:00:00",
@@ -55243,7 +64010,7 @@
         "print_description": "The infamous crown-jewel of Bman bars (21+).  Too many events/toys/fun to list.  Just come by and see what we’re up to!",
         "check_location": false,
         "slug": "spankys-wine-bar",
-        "other_location": "Spanky's Wine Bar",
+        "other_location": "",
         "event_type": {
             "abbr": "adlt",
             "label": "Adult-oriented"
@@ -55469,6 +64236,35 @@
         "event_type": {
             "abbr": "prty",
             "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Listen",
+            "id": 7696
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 16:00:00",
+                "end_time": "2015-09-03 18:00:00"
+            }
+        ],
+        "description": "In a speed dating format, you’ll have six minutes to co-counsel with another person before--ding!--the bell goes off and you’re on to the next person.",
+        "title": "Speed Counseling",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15637,
+        "print_description": "In a speed dating format, you’ll have six minutes to co-counsel with another person before--ding!--the bell goes off and you’re on to the next person.",
+        "check_location": false,
+        "slug": "speed-counseling",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
         }
     },
     {
@@ -55918,6 +64714,68 @@
     },
     {
         "hosted_by_camp": {
+            "name": "STAR STAR ROADHOUSE",
+            "id": 7680
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 20:00:00",
+                "end_time": "2015-09-03 22:00:00"
+            },
+            {
+                "start_time": "2015-09-04 20:00:00",
+                "end_time": "2015-09-04 22:00:00"
+            }
+        ],
+        "description": "CABARET THEATER with full cast of actors, dancers, aerial, and circus artists! Come be dazzled by the magic! LIVE ROCK MUSIC dance party to follow!  \r\n\r\nSTAR STAR's own cabaret full length production featuring direction and choreography by Elizabeth Castaneda, costumes by Melissa Castaneda.  \r\n\r\nCHECK OUT www.starstarroadhouse.com for artist bios, photos, video, camp layout, class schedules and DISCOVER what Star Star is all about!",
+        "title": "STAR STAR HEADLINING SHOW: THE MAN & THE MIRROR",
+        "url": "http://www.starstarroadhouse.com/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15736,
+        "print_description": "CABARET THEATER with full cast of actors, dancers, aerial, and circus artists! Come be dazzled by the magic! LIVE ROCK MUSIC dance party to follow!",
+        "check_location": false,
+        "slug": "star-star-headlining-show-the-man-the-mirror",
+        "other_location": "andytannehill",
+        "event_type": {
+            "abbr": "perf",
+            "label": "Performance"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "STAR STAR ROADHOUSE",
+            "id": 7680
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 20:00:00",
+                "end_time": "2015-09-01 22:00:00"
+            }
+        ],
+        "description": "Drag Queen, Dancers, Musicians, Clowns, Circus Artists, and more!  Best VARIETY SHOW in town!\r\n\r\nCHECK OUT www.starstarroadhouse.com for artist bios, photos, video, camp layout, class schedules and discover what Star Star is all about!",
+        "title": "STAR STAR VARIETY SHOW",
+        "url": "http://www.starstarroadhouse.com/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15739,
+        "print_description": "Drag Queen, Dancers, Musicians, Clowns, Circus Artists, and more!  Best VARIETY SHOW in town!",
+        "check_location": false,
+        "slug": "star-star-variety-show",
+        "other_location": "andytannehill",
+        "event_type": {
+            "abbr": "perf",
+            "label": "Performance"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Swish Embassy",
             "id": 7084
         },
@@ -56054,31 +64912,76 @@
     },
     {
         "hosted_by_camp": {
-            "name": "Silicon Village",
-            "id": 7516
+            "name": "Love Land",
+            "id": 7686
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-02 16:00:00",
-                "end_time": "2015-09-02 17:00:00"
+                "start_time": "2015-09-01 16:00:00",
+                "end_time": "2015-09-01 18:00:00"
             }
         ],
-        "description": "Come learn the art of stick juggling in our shade structure. Beginners can quickly learn the basics, experts can share their unique flow style, and enthusiasts can connect with each other. I have a few demo sets to share, bring your own sticks if you can!",
-        "title": "Stick juggler gathering with Knotty Boy",
+        "description": "Need reprieve from robot music? Tired of techno? Done with dubstep? Come get your fill of smooth music with dark sarcastic lyrics at Steely Dan Happy Hour! Any Major Dude Will Tell You...it's gonna be good. We will be serving refreshing adult libations, good company, and of course, The Dan, all under our beautiful shade structures...no static at all.",
+        "title": "Steely Dan Happy Hour",
         "url": "",
         "year": {
             "id": 11,
             "year": "2015"
         },
         "all_day": false,
-        "id": 14264,
-        "print_description": "Beginners can quickly learn the basics, experts can share their unique flow style, & enthusiasts can connect with each other. I have a few demo sets.",
-        "check_location": true,
-        "slug": "stick-juggler-gathering-with-knotty-boy",
-        "other_location": "Sand Ho Pyro Dept",
+        "id": 15732,
+        "print_description": "Come get your fill of smooth music with dark, sarcastic lyrics, delicious cocktails and shade at Steely Dan Happy Hour! No static at all...",
+        "check_location": false,
+        "slug": "steely-dan-happy-hour",
+        "other_location": "",
         "event_type": {
-            "abbr": "work",
-            "label": "Class/Workshop"
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Red Nose District",
+            "id": 7438
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 17:00:00",
+                "end_time": "2015-08-31 19:00:00"
+            },
+            {
+                "start_time": "2015-09-01 17:00:00",
+                "end_time": "2015-09-01 19:00:00"
+            },
+            {
+                "start_time": "2015-09-02 17:00:00",
+                "end_time": "2015-09-02 19:00:00"
+            },
+            {
+                "start_time": "2015-09-03 17:00:00",
+                "end_time": "2015-09-03 19:00:00"
+            },
+            {
+                "start_time": "2015-09-04 17:00:00",
+                "end_time": "2015-09-04 19:00:00"
+            }
+        ],
+        "description": "ENHIGHTENED BEINGS OF LEISURE Infamous Costume cocktail party @ sunset daily @ Red Nose District! Come by on stilts (or off) to revel in the beauty of ENHIGHTENED BEINGS on the Esplanade. This year, our Stilt Bar crew celebrates with a variety of circus/carnival themes from around the world and throughout time! Bring your Playa Cocktail cup (and your ID) and stilt up  to our tall bar for a refreshing cocktail. Gaze upon the beauty of stilters in costume against the backdrop of the beautiful sunset. All non-stilters welcome too. Come in costume. Those stilters need some short people to gaze up at them in wonder and their bravery and dexterity!\r\n\r\nMONDAY- Our traditional formal night we celebrate the origins of the circus with a Commedia Del Arte party! Think Masks, gowns, pantaloons, jessters and harlequin!\r\n\r\nTUESDAY- Menagerie-Circus Animals and their Trainers-We realize animal circuses aren't PC but they are historical and the trainer costumes..well hilarious!\r\n\r\nWEDNESDAY- Freaks, FUN HOUSE and Side Show Carnies. We KNOW you have a FREAK in there somewhere!\r\n\r\nTHURSDAY- Classic Clown Brigade! Be Whatever style clown you like. Happy, sad, joyous, mad, funny, magical, slutty, evil....All Clowns and Klowns welcome! SPECIAL GUESTS our own Professional Clown Brigade! \r\n\r\nFRIDAY- The Devil’s Carnival- remember this creepy 2012 Movie? (yeah we don't either) but it combines circus and the & 7 DEADLY SINS!...what could be better?? Lost souls enter The Devil's Carnival where they are each faced with the sins they committed in life.",
+        "title": "STILT BAR COSTUMED COCKTAIL SUNSET PARTY",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15590,
+        "print_description": "ENHIGHTENED BEINGS OF LEISURE Infamous Costume Cocktail Party @ sunset daily! CALLING all STILTERS to revel with other tall ilk of your kind!",
+        "check_location": false,
+        "slug": "stilt-bar-costumed-cocktail-sunset-party",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
         }
     },
     {
@@ -56137,6 +65040,51 @@
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Irrelephant Bird Camp",
+            "id": 7854
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 13:00:00",
+                "end_time": "2015-08-31 14:00:00"
+            },
+            {
+                "start_time": "2015-09-01 13:00:00",
+                "end_time": "2015-09-01 14:00:00"
+            },
+            {
+                "start_time": "2015-09-02 13:00:00",
+                "end_time": "2015-09-02 14:00:00"
+            },
+            {
+                "start_time": "2015-09-03 13:00:00",
+                "end_time": "2015-09-03 14:00:00"
+            },
+            {
+                "start_time": "2015-09-04 13:00:00",
+                "end_time": "2015-09-04 14:00:00"
+            }
+        ],
+        "description": "Get out of the desert heat and into Grahampa’s cottage, where people in absurd granny costumes will help you choose your own adventure.",
+        "title": "Story Hour",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15493,
+        "print_description": "Get out of the desert heat and into Grahampa’s cottage, where people in absurd granny costumes will help you choose your own adventure.",
+        "check_location": true,
+        "slug": "story-hour",
+        "other_location": "",
+        "event_type": {
+            "abbr": "kid",
+            "label": "Kid-friendly"
         }
     },
     {
@@ -56384,6 +65332,35 @@
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "ARTery",
+            "id": 7728
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 17:30:00",
+                "end_time": "2015-09-02 19:00:00"
+            }
+        ],
+        "description": "Inner playa walking tour hosted by Bathsheba from the ARTery.  Informal exchange of information with photographer on hand to give pointers.",
+        "title": "Strolling ART TOUR ",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15762,
+        "print_description": "Inner playa walking tour hosted by Bathsheba from the ARTery.  Informal exchange of information with photographer on hand to give pointers.",
+        "check_location": false,
+        "slug": "strolling-art-tour",
+        "other_location": "ARTery (6:25 & Esplanade)",
+        "event_type": {
+            "abbr": "para",
+            "label": "Parade"
         }
     },
     {
@@ -56650,6 +65627,47 @@
         }
     },
     {
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 18:00:00",
+                "end_time": "2015-08-31 19:00:00"
+            },
+            {
+                "start_time": "2015-09-01 18:00:00",
+                "end_time": "2015-09-01 19:00:00"
+            },
+            {
+                "start_time": "2015-09-02 18:00:00",
+                "end_time": "2015-09-02 19:00:00"
+            },
+            {
+                "start_time": "2015-09-03 18:00:00",
+                "end_time": "2015-09-03 19:00:00"
+            },
+            {
+                "start_time": "2015-09-04 18:00:00",
+                "end_time": "2015-09-04 19:00:00"
+            }
+        ],
+        "description": "Join us for handcrafted cocktails made with love by the Camp Cut! Cut! drinks mixologists. Each day a different delicious creation.",
+        "title": "Sunset cocktails at the Juicebox Bar",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15680,
+        "print_description": "Join us for handcrafted cocktails made with love by the Camp Cut! Cut! drinks mixologists. Each day a different delicious creation.",
+        "check_location": true,
+        "slug": "sunset-cocktails-at-the-juicebox-bar",
+        "other_location": "Camp Cut! Cut! ",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
         "hosted_by_camp": {
             "name": "Pink Fuzzy Monkey",
             "id": 7873
@@ -56704,6 +65722,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Inflatable Wildlife Conservatory",
+            "id": 8012
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 17:00:00",
+                "end_time": "2015-09-01 20:00:00"
+            }
+        ],
+        "description": "Are you excited by inflatables and/or wildlife?\r\nHave a drink and enjoy exotic collection of Inflatable Wildlife.\r\nTiki inspired jungle tunes!",
+        "title": "Sunset Drinks w/Inflatable Wildlife!",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15642,
+        "print_description": "Are you excited by inflatables and/or wildlife?\r\nHave a drink and enjoy our exotic collection of Inflatable Wildlife.\r\nTiki inspired jungle tunes!",
+        "check_location": false,
+        "slug": "sunset-drinks-winflatable-wildlife",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "LAFer Camp",
             "id": 7574
         },
@@ -56745,6 +65792,47 @@
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Sunset Portal",
+            "id": 7452
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 18:30:00",
+                "end_time": "2015-09-01 19:30:00"
+            },
+            {
+                "start_time": "2015-09-02 18:30:00",
+                "end_time": "2015-09-02 19:30:00"
+            },
+            {
+                "start_time": "2015-09-04 18:30:00",
+                "end_time": "2015-09-04 19:30:00"
+            },
+            {
+                "start_time": "2015-09-05 18:30:00",
+                "end_time": "2015-09-05 19:30:00"
+            }
+        ],
+        "description": "Come to relax, rejuvenate & soak in the sunset at our daily sunset hangout. Scintillating beats and other treats await.",
+        "title": "Sunset Hangout",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15586,
+        "print_description": "Come to relax, rejuvenate & soak in the sunset at our daily sunset hangout. Scintillating beats and other treats await.",
+        "check_location": false,
+        "slug": "sunset-hangout",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
         }
     },
     {
@@ -56881,7 +65969,7 @@
                 "end_time": "2015-09-03 21:00:00"
             }
         ],
-        "description": "Get transported from the day's sultry sunbath to moonlit galaxies with cocktails & transcendent music from our DJ's Seth & Jan. Come for ethereal beats, craft cocktails, and a few other delicious surprises.",
+        "description": "Get transported from the day's sultry sunbath to moonlit galaxies with transcendent music from our DJ's Seth & Jan! Gather 'round the campfire at Sunset Portal's biggest party for ethereal beats, craft cocktails, and a few other delicious surprises.",
         "title": "Sunset Serenade",
         "url": "",
         "year": {
@@ -56890,7 +65978,7 @@
         },
         "all_day": false,
         "id": 15411,
-        "print_description": "Get transported from the day's sultry sunbath to moonlit galaxies with cocktails & transcendent music from our DJ's Seth & Jan.",
+        "print_description": "Get transported from the day's sultry sunbath to moonlit galaxies with cocktails, campfire & transcendent music from our DJ's Seth & Jan!",
         "check_location": false,
         "slug": "sunset-serenade",
         "other_location": "United States",
@@ -57049,6 +66137,36 @@
         }
     },
     {
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-05 21:00:00",
+                "end_time": "2015-09-06 07:00:00"
+            }
+        ],
+        "description": "Let Your Body Sway To Sexy & Sultry Beats In The LOVE ILLUMINARIUM. \r\nAn Immersive, Inspirational & Holographic Love Light Experience.",
+        "title": "SUPER SAUCY SATURDAY",
+        "url": "http://LOVEILLUMINARIUM.WIX.COM/LOVE-ILLUMINARIUM",
+        "located_at_art": {
+            "location_string": "Unknown",
+            "name": "LOVE ILLUMINARIUM",
+            "id": 2517
+        },
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15669,
+        "print_description": "Let Your Body Sway To Sexy & Sultry Beats In The LOVE ILLUMINARIUM. \r\nAn Immersive, Inspirational & Holographic Love Light Experience.",
+        "check_location": true,
+        "slug": "super-saucy-saturday",
+        "other_location": "MamaLove",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
         "hosted_by_camp": {
             "name": "Slutgarden",
             "id": 7491
@@ -57171,11 +66289,11 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-05 10:00:00",
-                "end_time": "2015-09-05 11:30:00"
+                "start_time": "2015-08-31 10:00:00",
+                "end_time": "2015-08-31 11:30:00"
             }
         ],
-        "description": "Begin your journey to Burn night and Sweat Your Prayers with Huggy Bear at RhythmWave! There are no steps to follow, no choreography to learn, and no way to do it wrong. The only requirements are a body that's still breathing, a heart that's still beating, and a mind that's still curious.",
+        "description": "Kick off your Burn on the right foot (even if it’s your left). Sweat Your Prayers with Huggy Bear at RhythmWave as we bring this beautiful and dynamic dance/meditation to BRC for our 9th consecutive year! There are no steps to follow, no choreography to learn, and no way to do it wrong. The only requirement is a body that is still breathing, a heart that is still beating, and a mind that is still curious.",
         "title": "Sweat Your Prayers w/Huggy Bear @ RhythmWave",
         "url": "http://www.rhythmwave.org/",
         "year": {
@@ -57183,8 +66301,8 @@
             "year": "2015"
         },
         "all_day": false,
-        "id": 14652,
-        "print_description": "Begin your journey to Burn night and \"Sweat Your Prayers\" with Huggy Bear at RhythmWave!",
+        "id": 13536,
+        "print_description": "Kick off your Burn on the right foot. Sweat Your Prayers with Huggy Bear at RhythmWave as we bring this beautiful and dynamic dance/meditation!",
         "check_location": false,
         "slug": "sweat-your-prayers-whuggy-bear-rhythmwave",
         "other_location": "",
@@ -57200,11 +66318,11 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-08-31 10:00:00",
-                "end_time": "2015-08-31 11:30:00"
+                "start_time": "2015-09-05 10:00:00",
+                "end_time": "2015-09-05 11:30:00"
             }
         ],
-        "description": "Kick off your Burn on the right foot (even if it’s your left). Sweat Your Prayers with Huggy Bear at RhythmWave as we bring this beautiful and dynamic dance/meditation to BRC for our 9th consecutive year! There are no steps to follow, no choreography to learn, and no way to do it wrong. The only requirement is a body that is still breathing, a heart that is still beating, and a mind that is still curious.",
+        "description": "Begin your journey to Burn night and Sweat Your Prayers with Huggy Bear at RhythmWave! There are no steps to follow, no choreography to learn, and no way to do it wrong. The only requirements are a body that's still breathing, a heart that's still beating, and a mind that's still curious.",
         "title": "Sweat Your Prayers w/Huggy Bear @ RhythmWave",
         "url": "http://www.rhythmwave.org/",
         "year": {
@@ -57212,8 +66330,8 @@
             "year": "2015"
         },
         "all_day": false,
-        "id": 13536,
-        "print_description": "Kick off your Burn on the right foot. Sweat Your Prayers with Huggy Bear at RhythmWave as we bring this beautiful and dynamic dance/meditation!",
+        "id": 14652,
+        "print_description": "Begin your journey to Burn night and \"Sweat Your Prayers\" with Huggy Bear at RhythmWave!",
         "check_location": false,
         "slug": "sweat-your-prayers-whuggy-bear-rhythmwave",
         "other_location": "",
@@ -57246,6 +66364,43 @@
         "check_location": false,
         "slug": "sweet-and-sour-treats-with-sausage",
         "other_location": "PickleMeElmo wagon in Silicon Village",
+        "event_type": {
+            "abbr": "food",
+            "label": "Food"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Camp Delicioso & Creperie",
+            "id": 7499
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 09:00:00",
+                "end_time": "2015-09-02 12:30:00"
+            },
+            {
+                "start_time": "2015-09-03 09:00:00",
+                "end_time": "2015-09-03 12:30:00"
+            },
+            {
+                "start_time": "2015-09-04 09:00:00",
+                "end_time": "2015-09-04 12:30:00"
+            }
+        ],
+        "description": "Sweet or Savory?  We always aim to please with more than just filings…  With dozens & dozens of fresh eggs, 3 different kinds of flour and our secret French ingredient, Camp D’s crepes are by far, hands down, the best in Black Rock City!  You'll never know when our fabulous troupe, “Les Briquettes Coquettes” perform, but if you miss them, you'll certainly be treated with groovy beats from one of the many resident DJ's in the house.",
+        "title": "Sweet or Savory Crepes!",
+        "url": "http://CampDelicioso.com/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15806,
+        "print_description": "Our international crew of Burners will show off their mad culinary skills serving crepes for 3 days (Wed – Fri), 9ish – noonish!",
+        "check_location": true,
+        "slug": "sweet-or-savory-crepes",
+        "other_location": "Carny & 8:15",
         "event_type": {
             "abbr": "food",
             "label": "Food"
@@ -57500,7 +66655,7 @@
                 "end_time": "2015-09-07 23:59:00"
             }
         ],
-        "description": "Ride the world's best vibrator. Enjoy a sensual massage and an assisted Orgasm! (no boyfriends) 21+",
+        "description": "Ride the world's best vibrator. Enjoy a sensual massage and an assisted Orgasm! (no boyfriends) 21+. Location is 4:00 and Hanky Pank. Look for the Purple RV Orgy Bus.",
         "title": "Sybian O's Young sluts...",
         "url": "",
         "year": {
@@ -57512,7 +66667,7 @@
         "print_description": "Ride the world's best vibrator. Enjoy a sensual massage and an assisted Orgasm! (no boyfriends) 21+",
         "check_location": false,
         "slug": "sybian-os-young-sluts",
-        "other_location": "",
+        "other_location": "4:00 & Hanky Pank",
         "event_type": {
             "abbr": "adlt",
             "label": "Adult-oriented"
@@ -57544,6 +66699,36 @@
         }
     },
     {
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 18:00:00",
+                "end_time": "2015-09-01 20:00:00"
+            }
+        ],
+        "description": "Join US For A Co-Created Culinary Experiment. Bring Your Appetites & Creative Supplies For Tasty Taco Treats. Salads & Vegan-Esque Options Are Great.",
+        "title": "TACO TUESDAY GIVEAWAY",
+        "url": "http://LOVEILLUMINARIUM.WIX.COM/LOVE-ILLUMINARIUM",
+        "located_at_art": {
+            "location_string": "Unknown",
+            "name": "LOVE ILLUMINARIUM",
+            "id": 2517
+        },
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15664,
+        "print_description": "Join US For A Co-Created Culinary Experiment. Bring Your Appetites & Creative Supplies For Tasty Taco Treats. Salads & Vegan-Esque Options Are Great.",
+        "check_location": true,
+        "slug": "taco-tuesday-giveaway",
+        "other_location": "MamaLove",
+        "event_type": {
+            "abbr": "food",
+            "label": "Food"
+        }
+    },
+    {
         "hosted_by_camp": {
             "name": "Black Rock Kwoon and Dojo",
             "id": 7833
@@ -57570,6 +66755,35 @@
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Camp Armageddon",
+            "id": 8138
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 16:00:00",
+                "end_time": "2015-09-02 18:00:00"
+            }
+        ],
+        "description": "Seeking answers to the riddle of your own identity in your reflection?  Is it really you? Or are you looking at a vision? To find out, grab a partner, put on a mask (or take yours off), grab a plunger, get a vodka drink!\r\nTake the Plunge and Fulfill your Fantasy at Camp Armageddon's Happy Hour.",
+        "title": "Take the Happy Hour Plunge!",
+        "url": "http://www.facebook.com/camparmageddon",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15701,
+        "print_description": "Take the Plunge and Fulfill your Fantasy at Camp Armageddon's Happy Hour. \r\nGrab a partner, put on a mask, grab a plunger, get a vodka drink!",
+        "check_location": false,
+        "slug": "take-the-happy-hour-plunge",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
         }
     },
     {
@@ -57697,6 +66911,47 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Tango'd Up In Blues",
+            "id": 8139
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 15:00:00",
+                "end_time": "2015-08-31 16:00:00"
+            },
+            {
+                "start_time": "2015-09-01 15:00:00",
+                "end_time": "2015-09-01 16:00:00"
+            },
+            {
+                "start_time": "2015-09-02 15:00:00",
+                "end_time": "2015-09-02 16:00:00"
+            },
+            {
+                "start_time": "2015-09-03 15:00:00",
+                "end_time": "2015-09-03 16:00:00"
+            }
+        ],
+        "description": "Come dance with us!  Argentine Tango is a vibrant dance that came from the salons of Buenos Aires.  Stalk around the floor in a partnership, be elegant, precise, and passionate - and hopefully walk out of the class carrying some of that with you into your everyday life.  Our world class teachers will get you started, and you can bring your newfound dance skills to our evening parties!",
+        "title": "Tango In the Desert",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15638,
+        "print_description": "Argentine Tango is a vibrant dance that came from the salons of Buenos Aires. World class teachers will get you moving beautifully.",
+        "check_location": true,
+        "slug": "tango-in-the-desert",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Orgy Bus Camp",
             "id": 7078
         },
@@ -57706,7 +66961,7 @@
                 "end_time": "2015-09-02 02:00:00"
             }
         ],
-        "description": "Celebrate sensuality/sexuality in a safe space. Erotic celebration opening ceremony @ 10 PM. Guys must be with a goddess. 21+",
+        "description": "Celebrate sensuality/sexuality in a safe space. Erotic celebration opening ceremony @ 10 PM. Guys must be with a goddess. 21+. Location is 4:00 and Hanky Pank. Look for the Purple RV Orgy Bus.",
         "title": "Tantra Play Party",
         "url": "",
         "year": {
@@ -57715,10 +66970,10 @@
         },
         "all_day": false,
         "id": 13511,
-        "print_description": "Celebrate sensuality/sexuality in a safe space. Erotic celebration opening ceremony @ 10 PM. Guys must be with a goddess. 21+",
+        "print_description": "Celebrate sensuality/sexuality in a safe space. Erotic celebration opening ceremony @ 10 PM. Guys must be with a goddess. 21+ Camp Orgy Bus",
         "check_location": false,
         "slug": "tantra-play-party",
-        "other_location": "",
+        "other_location": "4:00 & Hanky Pank",
         "event_type": {
             "abbr": "adlt",
             "label": "Adult-oriented"
@@ -58160,6 +67415,43 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Luxurious Vagrants",
+            "id": 7528
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 12:00:00",
+                "end_time": "2015-09-01 16:00:00"
+            },
+            {
+                "start_time": "2015-09-02 12:00:00",
+                "end_time": "2015-09-02 16:00:00"
+            },
+            {
+                "start_time": "2015-09-03 12:00:00",
+                "end_time": "2015-09-03 16:00:00"
+            }
+        ],
+        "description": "Sandy bodies get fancy in the Lux Vag Temporary Tattoo and Bedazzling Parlor! Select from our Adult, Couples, and Kids Menus, and our technicians will dress you up. Snap a pic for our wall, and flaunt a new you about the playa.",
+        "title": "Tattoo & Bedazzling Parlor",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15518,
+        "print_description": "Sandy bodies get fancy in the Lux Vag Parlor! Select from our Adult, Couples, and Kids Menus, and our technicians will dress you up.",
+        "check_location": false,
+        "slug": "tattoo-bedazzling-parlor",
+        "other_location": "",
+        "event_type": {
+            "abbr": "care",
+            "label": "Care/Support"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Hellfire Society",
             "id": 7127
         },
@@ -58288,6 +67580,64 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Hamster Camp",
+            "id": 7422
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 12:00:00",
+                "end_time": "2015-09-02 15:00:00"
+            }
+        ],
+        "description": "An afternoon tea party where dignity meets debauchery. Come enjoy a cup of tea with a side of insanity. Hamsters can be a mischievous bunch and tea brings out the prankster in them. Come enjoy a cup of tea while wearing your most flamboyant garb and silly hat. Games and tea and tricks and treats await!",
+        "title": "Tea is for Trouble",
+        "url": "http://www.hamstercamp.com/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15584,
+        "print_description": "An afternoon tea party where dignity meets debauchery.",
+        "check_location": true,
+        "slug": "tea-is-for-trouble",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "ABR: Acronym Being Reconsidered",
+            "id": 7636
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 16:30:00",
+                "end_time": "2015-08-31 17:30:00"
+            }
+        ],
+        "description": "Come enjoy refreshing alcoholic iced tea concoctions and adorn your body in decorations (also - DIY Nipple Pasties!).",
+        "title": "Tea Party (& Nipples!)",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15630,
+        "print_description": "Come enjoy refreshing iced tea concoctions (alcoholic & non-alcoholic) and adorn your body in decorations (also - DIY Nipple Pasties!).",
+        "check_location": true,
+        "slug": "tea-party-nipples",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "First Kiss",
             "id": 7601
         },
@@ -58337,6 +67687,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Camp Afterglow",
+            "id": 8008
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 15:00:00",
+                "end_time": "2015-09-01 17:00:00"
+            }
+        ],
+        "description": "Tea Time with Performances by One Night Wonder",
+        "title": "Tea Time",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15624,
+        "print_description": "Tea Time with Performances by One Night Wonder",
+        "check_location": true,
+        "slug": "tea-time",
+        "other_location": "",
+        "event_type": {
+            "abbr": "perf",
+            "label": "Performance"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Camp Soft Landing",
             "id": 8110
         },
@@ -58366,6 +67745,64 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Camp Afterglow",
+            "id": 8008
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 15:00:00",
+                "end_time": "2015-09-03 17:00:00"
+            }
+        ],
+        "description": "Tea Time with Performance by John Craigie",
+        "title": "Tea Time with Performance by John Craigie",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15625,
+        "print_description": "Tea Time with Performance by John Craigie",
+        "check_location": true,
+        "slug": "tea-time-with-performance-by-john-craigie",
+        "other_location": "",
+        "event_type": {
+            "abbr": "perf",
+            "label": "Performance"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Duckpond",
+            "id": 7117
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 20:00:00",
+                "end_time": "2015-09-01 23:45:00"
+            }
+        ],
+        "description": "Techno for Old People - Relive the 90s with Pond!  Slide in for a drink at the bar and listen to the beats Halcyon and on and on...",
+        "title": "Techno for Old People",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 14005,
+        "print_description": "Techno for Old People - Relive the 90s with Pond!  Slide in for a drink at the bar and listen to the beats Halcyon and on and on...",
+        "check_location": false,
+        "slug": "techno-for-old-people",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Sacred Spaces Village",
             "id": 7816
         },
@@ -58391,6 +67828,35 @@
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Huggzilla",
+            "id": 8072
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 19:30:00",
+                "end_time": "2015-09-02 23:45:00"
+            }
+        ],
+        "description": "TechHouse, Techno with drums, Electric guitar, Keyboards",
+        "title": "TechZilla",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15603,
+        "print_description": "TechHouse, Techno with drums, Electric guitar, Keyboards",
+        "check_location": true,
+        "slug": "techzilla",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
         }
     },
     {
@@ -58592,6 +68058,36 @@
         }
     },
     {
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 17:00:00",
+                "end_time": "2015-08-31 18:00:00"
+            }
+        ],
+        "description": "Is this your tenth burn?  Come celebrate with fellow ten timers at the Serpent Mother, a sculpture that was last out here ten burns ago as well.  Bring a drink and share a toast!",
+        "title": "Tenth Burnaversary Celebration",
+        "url": "",
+        "located_at_art": {
+            "location_string": "Unknown",
+            "name": "Serpent Mother",
+            "id": 2411
+        },
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15712,
+        "print_description": "Is this your tenth burn?  Come celebrate with fellow ten timers at the Serpent Mother. Bring a drink and share a toast!",
+        "check_location": false,
+        "slug": "tenth-burnaversary-celebration",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
         "hosted_by_camp": {
             "name": "Black Rock City Welding & Repair",
             "id": 7677
@@ -58671,6 +68167,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "ABR: Acronym Being Reconsidered",
+            "id": 7636
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 15:30:00",
+                "end_time": "2015-09-01 16:30:00"
+            }
+        ],
+        "description": "Start your mid-afternoon off right.  Whether you want flavor, excitement or efficiency, ABR has the tequila consumption technique for you.",
+        "title": "Tequila Tuesday",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15632,
+        "print_description": "Start your mid-afternoon off right.  Whether you want flavor, excitement or efficiency, ABR has the tequila consumption technique for you.",
+        "check_location": true,
+        "slug": "tequila-tuesday",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Gigsville",
             "id": 8235
         },
@@ -58728,6 +68253,10 @@
         }
     },
     {
+        "hosted_by_camp": {
+            "name": "Spanky's Village and Wine Bar",
+            "id": 8248
+        },
         "occurrence_set": [
             {
                 "start_time": "2015-09-03 15:00:00",
@@ -58746,7 +68275,7 @@
         "print_description": "Led by the Burning Band, all are welcome to march/play/sing. Males/Females, wear you sexiest LBD. Bring a musical instrument if possible.",
         "check_location": false,
         "slug": "the-17th-annual-little-black-dress-parade",
-        "other_location": "Spanky's Wine Bar",
+        "other_location": "Starts from Spanky's Village and Wine Bar",
         "event_type": {
             "abbr": "para",
             "label": "Parade"
@@ -58783,6 +68312,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Hanging Gardens of BRC",
+            "id": 8249
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 19:00:00",
+                "end_time": "2015-09-01 21:00:00"
+            }
+        ],
+        "description": "Join the Hanging Gardens for it's first ever Gateway Garden Party! First time on the playa? Seasoned Burner looking for an adventure with a new friend? The Gardeners are excited to invite you to our desert oasis to meet your neighbors and play our mysterious adventure game! We want to be your gateway to the playa! So come, hang out in the Garden, pair up with a stranger and find out what random adventure awaits! (Examples: \"Have a lovely romantic walk along the esplanade until you find free food\" or \"Save the Man from the invading Aliens by neutralizing anyone wearing neon … here's your pew pew gun!”). Music, drinks and general revelry to ensue!",
+        "title": "The 1st Annual BRC Gateway Garden Party!",
+        "url": "https://www.facebook.com/HangingGardensBRC",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15697,
+        "print_description": "Join the Hanging Gardens for it's first ever Gateway Garden Party!",
+        "check_location": true,
+        "slug": "the-1st-annual-brc-gateway-garden-party",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Camp Atlantis",
             "id": 7342
         },
@@ -58808,6 +68366,35 @@
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Videogasm",
+            "id": 7824
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 23:00:00",
+                "end_time": "2015-09-04 00:30:00"
+            }
+        ],
+        "description": "Camp Videogasm will again be host to The Black Rock City edition of The 48 Hour Film Project. Were groups of burners write, shoot and edit films over a 48 hour period while at Burning Man to be shown at Videogasm on Thursday night (9/3) at 11pm. We'll start with a retrospective of short films produced at Burning Man in previous years and then premiere the videos that will be produced at this year's Burning Man!\r\n\r\nFilmmakers: If you have a team and equipment, start at your leisure and follow the instructions on posters found at PlayaInfo and Videogasm (in Snowflake Village). If you're looking to form a team come to Videogasm at 3pm on Tuesday (9/1) to meet up with other like minded individuals.",
+        "title": "The 48 Hour Film Project: Black Rock City 2015",
+        "url": "https://www.facebook.com/events/1417317555265512/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15818,
+        "print_description": "Make a short film at Burning Man following the rules found on our posters at Playa Info, and we'll show it on our two large screens on Thursday night!",
+        "check_location": true,
+        "slug": "the-48-hour-film-project-black-rock-city-2015",
+        "other_location": "in Snowflake Village 9:00 & Ersatz",
+        "event_type": {
+            "abbr": "perf",
+            "label": "Performance"
         }
     },
     {
@@ -58862,7 +68449,7 @@
         "print_description": "A playful exploration of love as a spiritual path.  Deepen trust through non-verbal communication & energy exercises.  All couples welcome.",
         "check_location": false,
         "slug": "the-alchemy-of-love-neolithic-tantric-qigong",
-        "other_location": "730 and G?",
+        "other_location": "7:00 and B",
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
@@ -58895,6 +68482,35 @@
         "event_type": {
             "abbr": "cere",
             "label": "Ritual/Ceremony"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Quixotes Presents “The Dr’s Box”",
+            "id": 8091
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 13:00:00",
+                "end_time": "2015-09-01 16:00:00"
+            }
+        ],
+        "description": "For the 11th year running, A home on the playa for Europeans and fans of Europeans. If you’re looking to meet your fellow Euroburners, or you just have a weakness for tiny countries with dodgy accents, then this annual gathering is the place to be.",
+        "title": "The Annual Euroburners’ Meet ‘n’ Greet",
+        "url": "http://www.qccb.org/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15778,
+        "print_description": "A home on the playa for Europeans and fans of Europeans",
+        "check_location": false,
+        "slug": "the-annual-euroburners-meet-n-greet",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
         }
     },
     {
@@ -59307,6 +68923,36 @@
         }
     },
     {
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-04 20:00:00",
+                "end_time": "2015-09-04 21:00:00"
+            }
+        ],
+        "description": "ABR presents an intricate chamber crowned by 4 Shinto gates looming 20' over the playa bed. You've probed its depths, now celebrate with us as it BURNS!",
+        "title": "The Box Burns",
+        "url": "",
+        "located_at_art": {
+            "location_string": "Unknown",
+            "name": "the box",
+            "id": 2509
+        },
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15796,
+        "print_description": "ABR presents an intricate chamber crowned by 4 Shinto gates looming 20' over the playa. You've probed its depths, now celebrate with us as it BURNS!",
+        "check_location": false,
+        "slug": "the-box-burns",
+        "other_location": "",
+        "event_type": {
+            "abbr": "fire",
+            "label": "Fire"
+        }
+    },
+    {
         "hosted_by_camp": {
             "name": "Do More Now",
             "id": 7784
@@ -59336,6 +68982,10 @@
         }
     },
     {
+        "hosted_by_camp": {
+            "name": "Spanky's Village and Wine Bar",
+            "id": 8248
+        },
         "occurrence_set": [
             {
                 "start_time": "2015-08-31 00:00:00",
@@ -59374,7 +69024,7 @@
         "print_description": "Experience the most unique massage on the playa.  Relaxing massage done with car-buffers!  You need to feel it to believe it!",
         "check_location": false,
         "slug": "the-buffer-zone",
-        "other_location": "Spanky's Wine Bar",
+        "other_location": "",
         "event_type": {
             "abbr": "adlt",
             "label": "Adult-oriented"
@@ -59663,6 +69313,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Hamster Camp",
+            "id": 7422
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-04 12:00:00",
+                "end_time": "2015-09-04 16:00:00"
+            }
+        ],
+        "description": "Think you know your campmates or that new playa partner well? Can you recognize them like a hamster does-by smell? Try recognizing them with their face covered up in a frolicking hamster free-for-all, where boys could be girls, and girls might be kissing squirrels! Bring your creepiest mask, you creative DIY Burner, you. But if you don't, make one for the occasion in our mask booth. If costumed trickery is what you crave, come on down for our rodent masquerade!",
+        "title": "The Creepy Hamster Masquerade",
+        "url": "http://www.hamstercamp.com/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15585,
+        "print_description": "If costumed trickery is what you crave, come on down for our rodent masquerade!",
+        "check_location": true,
+        "slug": "the-creepy-hamster-masquerade",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Dusty Beavers",
             "id": 7922
         },
@@ -59748,6 +69427,68 @@
         }
     },
     {
+        "hosted_by_camp": {
+            "name": "Sexagon",
+            "id": 7767
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 11:00:00",
+                "end_time": "2015-08-31 13:00:00"
+            }
+        ],
+        "description": "Come and explore your inner god/goddess at the Erotic Edge Boutique. We have lingerie and accessories for all tastes, regardless of age, gender or size. Our own Sexagon team will help you find what you wish you had brought to Burning Man--our gift to you!",
+        "title": "The Erotic Edge Boutique at the Sexagon",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15490,
+        "print_description": "Explore your inner god/goddess! We have lingerie & accessories for all tastes, regardless of age, gender or size.",
+        "check_location": false,
+        "slug": "the-erotic-edge-boutique-at-the-sexagon",
+        "other_location": "4:30 Plaza",
+        "event_type": {
+            "abbr": "adlt",
+            "label": "Adult-oriented"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "The Lost Penguin",
+            "id": 8104
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-05 14:00:00",
+                "end_time": "2015-09-05 18:00:00"
+            }
+        ],
+        "description": "Allegro Bob hosts the Famous Lost Penguin Blues Jam: On the playa with your guitar, bone, mandolin or drum? Here's where you should be today.",
+        "title": "The Famous Lost Penguin Blues Jam!",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15753,
+        "print_description": "Allegro Bob hosts the Famous Lost Penguin Blues Jam: On the playa with your guitar, bone, mandolin or drum? Here's where you should be today.",
+        "check_location": false,
+        "slug": "the-famous-lost-penguin-blues-jam",
+        "other_location": "marcgorcey1",
+        "event_type": {
+            "abbr": "perf",
+            "label": "Performance"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Spanky's Village and Wine Bar",
+            "id": 8248
+        },
         "occurrence_set": [
             {
                 "start_time": "2015-09-02 22:00:00",
@@ -59766,10 +69507,39 @@
         "print_description": "Girls Rule, Boys Drool. Females are in control and males must obey at Spanky's annual adult-only FemDom party. Winner- “Best Party at Bman”!",
         "check_location": false,
         "slug": "the-festival-of-bubastis",
-        "other_location": "Spanky's Wine Bar",
+        "other_location": "At Spanky's Wine Bar",
         "event_type": {
             "abbr": "adlt",
             "label": "Adult-oriented"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "The Enclave",
+            "id": 7861
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 20:00:00",
+                "end_time": "2015-09-02 02:00:00"
+            }
+        ],
+        "description": "This is it!  Simply the fanciest party on the Playa.  We'll be dressing to the 11's and pouring our most topest-shelf alchemies. Come connect with old friends and new as we dance out tails off the back end of the Pyrobar, docked at it's home The Enclave. It shall all happen as it typically does on Tuesday night in Black Rock City, NV, somewhere up the 9:00 Avenue. Bar opens at 8PM, impromptu ad hoc performances to be announced, perhaps, most likely not. So dust on your finest threads and bring your best expression fancy selves to revel in our shared absurdity.",
+        "title": "The Fifth Grande Playastani Ball",
+        "url": "https://www.facebook.com/events/1633105916936976/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15552,
+        "print_description": "We'll be pouring our fanciest special alchemies as we dance, perform, and revel off the back of our dear Pyrobar, docked at Home, the Enclave up 9:00.",
+        "check_location": false,
+        "slug": "the-fifth-grande-playastani-ball",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
         }
     },
     {
@@ -59799,6 +69569,76 @@
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "White Bronco",
+            "id": 7110
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 16:00:00",
+                "end_time": "2015-08-31 17:30:00"
+            },
+            {
+                "start_time": "2015-09-01 16:00:00",
+                "end_time": "2015-09-01 17:30:00"
+            },
+            {
+                "start_time": "2015-09-03 16:00:00",
+                "end_time": "2015-09-03 17:30:00"
+            },
+            {
+                "start_time": "2015-09-04 16:00:00",
+                "end_time": "2015-09-04 17:30:00"
+            }
+        ],
+        "description": "Music sets spinning a combination of deep/tech/progressive house, breaks, funk, and hip-hop!\r\n\r\nIf you DJ or play live music or any kind, YOU ARE MORE THAN WELCOME TO COME AND SHOWCASE YOUR SKILLS!!\r\n\r\nJUSt let me know when and what and I'll throw you on the schedule!",
+        "title": "THE FREE DESIGN",
+        "url": "http://www.whitebronco.life/events/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15744,
+        "print_description": "Dance dance dance!",
+        "check_location": true,
+        "slug": "the-free-design",
+        "other_location": "smartfit101@gmail.com",
+        "event_type": {
+            "abbr": "perf",
+            "label": "Performance"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Chakralicious Camp",
+            "id": 7404
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-04 19:30:00",
+                "end_time": "2015-09-04 21:00:00"
+            }
+        ],
+        "description": "The sounds and performances of The Galactic Effect blend many different realms and styles into one stellar glue. He will be performing dancy, future bass, music with glitch hop elements, live electric violin, and some vocals. His sound crafting technique incorporates vibrant synthesizers and future bass with orchestral vibes, strings, and other world elements. Arranging music which defies all barriers, genre’s and labels, creating in constant change and movement, leaving the audience curious for the next possibility plucked out of the infinite spectrum of the auditory universe.",
+        "title": "The Galactic Effect",
+        "url": "https://m.soundcloud.com/thegalacticeffect",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15770,
+        "print_description": "Bringing in a cinematic twist to Electronic music.",
+        "check_location": false,
+        "slug": "the-galactic-effect",
+        "other_location": "",
+        "event_type": {
+            "abbr": "perf",
+            "label": "Performance"
         }
     },
     {
@@ -60021,6 +69861,43 @@
         "event_type": {
             "abbr": "prty",
             "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "STAR STAR ROADHOUSE",
+            "id": 7680
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 21:15:00",
+                "end_time": "2015-09-02 23:00:00"
+            },
+            {
+                "start_time": "2015-09-03 21:15:00",
+                "end_time": "2015-09-03 23:00:00"
+            },
+            {
+                "start_time": "2015-09-04 21:15:00",
+                "end_time": "2015-09-04 23:00:00"
+            }
+        ],
+        "description": "Come ROCK OUT with Grateful Greg and Guitar Doug at our incredible new stage and ROCKING sound system. DANCE with the legendary HAIRFARMERS live! \r\n\r\nCHECK OUT www.starstarroadhouse.com for artist bios, photos, video, camp layout, class schedules and discover what Star Star is all about!",
+        "title": "The HAIRFARMERS LIVE!",
+        "url": "http://www.starstarroadhouse.com/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15741,
+        "print_description": "Come ROCK OUT with Grateful Greg and Guitar Doug at our incredible new stage and ROCKING sound system. DANCE with the legendary HAIRFARMERS live!",
+        "check_location": false,
+        "slug": "the-hairfarmers-live",
+        "other_location": "",
+        "event_type": {
+            "abbr": "perf",
+            "label": "Performance"
         }
     },
     {
@@ -60336,8 +70213,8 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-05 14:00:00",
-                "end_time": "2015-09-05 15:30:00"
+                "start_time": "2015-09-05 14:15:00",
+                "end_time": "2015-09-05 15:45:00"
             }
         ],
         "description": "Why are we here? What is the Universe/Divine up to with this whole life and creation business? Drawing on a number of diverse traditions and perspectives, we will explore the very biggest of big questions: Life and Death, Good and Evil, How we got started on this journey and how it will all \"end.\" :)",
@@ -60616,8 +70493,8 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-06 09:00:00",
-                "end_time": "2015-09-06 12:00:00"
+                "start_time": "2015-08-31 12:00:00",
+                "end_time": "2015-08-31 22:00:00"
             }
         ],
         "description": "The legendary Orgasmatron first came to the playa in 2002, and it provided exceptional physical pleasure to thousands of women in an environment that was safe, comfortable, sensual and private.  Five years ago we completely redesigned the machine for even greater intensity and enjoyment, and gave it a new name: The Orgasamator.  When you visit, you will be in a private room with an operator who is experienced, very sensitive to your needs and concerns, who listens well and is deeply dedicated to giving you an amazing experience.  Your specific needs and desires will be discussed at the beginning, and the experience will be fine-tuned to give you exactly what you want.  No penetration is involved, but sexy talk and sensual touch are available options.  We want everyone to feel refreshed and respected when they leave.  We are strongly focused on cleanliness and health, along with fun.  Come solo, or bring a good friend (male or female) to add another dimension to this deeply immersive and wonderfully personal experience.  Wear as much or as little as you would like, you can stop any time if the pleasure becomes too intense.  If you are a woman, 18+, the Orgasamator Experience is something you won't want to miss. Lines are shortest early in the week, and early in the day.",
@@ -60628,40 +70505,11 @@
             "year": "2015"
         },
         "all_day": false,
-        "id": 13774,
+        "id": 13555,
         "print_description": "The Orgasamator gives intense physical pleasure in a setting that's safe, comfortable, sensual & private. Exit refreshed & smiling. Female18+ only.",
         "check_location": false,
         "slug": "the-orgasamator-experience",
-        "other_location": "",
-        "event_type": {
-            "abbr": "adlt",
-            "label": "Adult-oriented"
-        }
-    },
-    {
-        "hosted_by_camp": {
-            "name": "Sensual Pleasures (The Camp for)",
-            "id": 7918
-        },
-        "occurrence_set": [
-            {
-                "start_time": "2015-09-01 10:00:00",
-                "end_time": "2015-09-02 00:00:00"
-            }
-        ],
-        "description": "The legendary Orgasmatron first came to the playa in 2002, and it provided exceptional physical pleasure to thousands of women in an environment that was safe, comfortable, sensual and private.  Five years ago we completely redesigned the machine for even greater intensity and enjoyment, and gave it a new name: The Orgasamator.  When you visit, you will be in a private room with an operator who is experienced, very sensitive to your needs and concerns, who listens well and is deeply dedicated to giving you an amazing experience.  Your specific needs and desires will be discussed at the beginning, and the experience will be fine-tuned to give you exactly what you want.  No penetration is involved, but sexy talk and sensual touch are available options.  We want everyone to feel refreshed and respected when they leave.  We are strongly focused on cleanliness and health, along with fun.  Come solo, or bring a good friend (male or female) to add another dimension to this deeply immersive and wonderfully personal experience.  Wear as much or as little as you would like, you can stop any time if the pleasure becomes too intense.  If you are a woman, 18+, the Orgasamator Experience is something you won't want to miss. Lines are shortest early in the week, and early in the day.",
-        "title": "The Orgasamator Experience",
-        "url": "http://www.orgasamator.com/",
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "all_day": false,
-        "id": 13615,
-        "print_description": "The Orgasamator gives intense physical pleasure in a setting that's safe, comfortable, sensual & private. Exit refreshed & smiling. Female18+ only.",
-        "check_location": false,
-        "slug": "the-orgasamator-experience",
-        "other_location": "",
+        "other_location": "Located in Spanky's Village and Wine Bar",
         "event_type": {
             "abbr": "adlt",
             "label": "Adult-oriented"
@@ -60690,7 +70538,7 @@
         "print_description": "The Orgasamator gives intense physical pleasure in a setting that's safe, comfortable, sensual & private. Exit refreshed & smiling. Female18+ only.",
         "check_location": false,
         "slug": "the-orgasamator-experience",
-        "other_location": "",
+        "other_location": "Located in Spanky's Village and Wine Bar",
         "event_type": {
             "abbr": "adlt",
             "label": "Adult-oriented"
@@ -60703,8 +70551,8 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-08-31 12:00:00",
-                "end_time": "2015-08-31 22:00:00"
+                "start_time": "2015-09-02 10:00:00",
+                "end_time": "2015-09-03 01:00:00"
             }
         ],
         "description": "The legendary Orgasmatron first came to the playa in 2002, and it provided exceptional physical pleasure to thousands of women in an environment that was safe, comfortable, sensual and private.  Five years ago we completely redesigned the machine for even greater intensity and enjoyment, and gave it a new name: The Orgasamator.  When you visit, you will be in a private room with an operator who is experienced, very sensitive to your needs and concerns, who listens well and is deeply dedicated to giving you an amazing experience.  Your specific needs and desires will be discussed at the beginning, and the experience will be fine-tuned to give you exactly what you want.  No penetration is involved, but sexy talk and sensual touch are available options.  We want everyone to feel refreshed and respected when they leave.  We are strongly focused on cleanliness and health, along with fun.  Come solo, or bring a good friend (male or female) to add another dimension to this deeply immersive and wonderfully personal experience.  Wear as much or as little as you would like, you can stop any time if the pleasure becomes too intense.  If you are a woman, 18+, the Orgasamator Experience is something you won't want to miss. Lines are shortest early in the week, and early in the day.",
@@ -60715,40 +70563,11 @@
             "year": "2015"
         },
         "all_day": false,
-        "id": 13555,
+        "id": 13649,
         "print_description": "The Orgasamator gives intense physical pleasure in a setting that's safe, comfortable, sensual & private. Exit refreshed & smiling. Female18+ only.",
         "check_location": false,
         "slug": "the-orgasamator-experience",
-        "other_location": "",
-        "event_type": {
-            "abbr": "adlt",
-            "label": "Adult-oriented"
-        }
-    },
-    {
-        "hosted_by_camp": {
-            "name": "Sensual Pleasures (The Camp for)",
-            "id": 7918
-        },
-        "occurrence_set": [
-            {
-                "start_time": "2015-09-04 10:00:00",
-                "end_time": "2015-09-05 02:30:00"
-            }
-        ],
-        "description": "The legendary Orgasmatron first came to the playa in 2002, and it provided exceptional physical pleasure to thousands of women in an environment that was safe, comfortable, sensual and private.  Five years ago we completely redesigned the machine for even greater intensity and enjoyment, and gave it a new name: The Orgasamator.  When you visit, you will be in a private room with an operator who is experienced, very sensitive to your needs and concerns, who listens well and is deeply dedicated to giving you an amazing experience.  Your specific needs and desires will be discussed at the beginning, and the experience will be fine-tuned to give you exactly what you want.  No penetration is involved, but sexy talk and sensual touch are available options.  We want everyone to feel refreshed and respected when they leave.  We are strongly focused on cleanliness and health, along with fun.  Come solo, or bring a good friend (male or female) to add another dimension to this deeply immersive and wonderfully personal experience.  Wear as much or as little as you would like, you can stop any time if the pleasure becomes too intense.  If you are a woman, 18+, the Orgasamator Experience is something you won't want to miss. Lines are shortest early in the week, and early in the day.",
-        "title": "The Orgasamator Experience",
-        "url": "http://www.orgasamator.com/",
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "all_day": false,
-        "id": 13714,
-        "print_description": "The Orgasamator gives intense physical pleasure in a setting that's safe, comfortable, sensual & private. Exit refreshed & smiling. Female18+ only.",
-        "check_location": false,
-        "slug": "the-orgasamator-experience",
-        "other_location": "",
+        "other_location": "Located in Spanky's Village and Wine Bar",
         "event_type": {
             "abbr": "adlt",
             "label": "Adult-oriented"
@@ -60790,8 +70609,8 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-02 10:00:00",
-                "end_time": "2015-09-03 01:00:00"
+                "start_time": "2015-09-01 10:00:00",
+                "end_time": "2015-09-02 00:00:00"
             }
         ],
         "description": "The legendary Orgasmatron first came to the playa in 2002, and it provided exceptional physical pleasure to thousands of women in an environment that was safe, comfortable, sensual and private.  Five years ago we completely redesigned the machine for even greater intensity and enjoyment, and gave it a new name: The Orgasamator.  When you visit, you will be in a private room with an operator who is experienced, very sensitive to your needs and concerns, who listens well and is deeply dedicated to giving you an amazing experience.  Your specific needs and desires will be discussed at the beginning, and the experience will be fine-tuned to give you exactly what you want.  No penetration is involved, but sexy talk and sensual touch are available options.  We want everyone to feel refreshed and respected when they leave.  We are strongly focused on cleanliness and health, along with fun.  Come solo, or bring a good friend (male or female) to add another dimension to this deeply immersive and wonderfully personal experience.  Wear as much or as little as you would like, you can stop any time if the pleasure becomes too intense.  If you are a woman, 18+, the Orgasamator Experience is something you won't want to miss. Lines are shortest early in the week, and early in the day.",
@@ -60802,11 +70621,69 @@
             "year": "2015"
         },
         "all_day": false,
-        "id": 13649,
+        "id": 13615,
         "print_description": "The Orgasamator gives intense physical pleasure in a setting that's safe, comfortable, sensual & private. Exit refreshed & smiling. Female18+ only.",
         "check_location": false,
         "slug": "the-orgasamator-experience",
-        "other_location": "",
+        "other_location": "Located in Spanky's Village and Wine Bar",
+        "event_type": {
+            "abbr": "adlt",
+            "label": "Adult-oriented"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Sensual Pleasures (The Camp for)",
+            "id": 7918
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-06 09:00:00",
+                "end_time": "2015-09-06 12:00:00"
+            }
+        ],
+        "description": "The legendary Orgasmatron first came to the playa in 2002, and it provided exceptional physical pleasure to thousands of women in an environment that was safe, comfortable, sensual and private.  Five years ago we completely redesigned the machine for even greater intensity and enjoyment, and gave it a new name: The Orgasamator.  When you visit, you will be in a private room with an operator who is experienced, very sensitive to your needs and concerns, who listens well and is deeply dedicated to giving you an amazing experience.  Your specific needs and desires will be discussed at the beginning, and the experience will be fine-tuned to give you exactly what you want.  No penetration is involved, but sexy talk and sensual touch are available options.  We want everyone to feel refreshed and respected when they leave.  We are strongly focused on cleanliness and health, along with fun.  Come solo, or bring a good friend (male or female) to add another dimension to this deeply immersive and wonderfully personal experience.  Wear as much or as little as you would like, you can stop any time if the pleasure becomes too intense.  If you are a woman, 18+, the Orgasamator Experience is something you won't want to miss. Lines are shortest early in the week, and early in the day.",
+        "title": "The Orgasamator Experience",
+        "url": "http://www.orgasamator.com/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 13774,
+        "print_description": "The Orgasamator gives intense physical pleasure in a setting that's safe, comfortable, sensual & private. Exit refreshed & smiling. Female18+ only.",
+        "check_location": false,
+        "slug": "the-orgasamator-experience",
+        "other_location": "Located in Spanky's Village and Wine Bar",
+        "event_type": {
+            "abbr": "adlt",
+            "label": "Adult-oriented"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Sensual Pleasures (The Camp for)",
+            "id": 7918
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-04 10:00:00",
+                "end_time": "2015-09-05 02:30:00"
+            }
+        ],
+        "description": "The legendary Orgasmatron first came to the playa in 2002, and it provided exceptional physical pleasure to thousands of women in an environment that was safe, comfortable, sensual and private.  Five years ago we completely redesigned the machine for even greater intensity and enjoyment, and gave it a new name: The Orgasamator.  When you visit, you will be in a private room with an operator who is experienced, very sensitive to your needs and concerns, who listens well and is deeply dedicated to giving you an amazing experience.  Your specific needs and desires will be discussed at the beginning, and the experience will be fine-tuned to give you exactly what you want.  No penetration is involved, but sexy talk and sensual touch are available options.  We want everyone to feel refreshed and respected when they leave.  We are strongly focused on cleanliness and health, along with fun.  Come solo, or bring a good friend (male or female) to add another dimension to this deeply immersive and wonderfully personal experience.  Wear as much or as little as you would like, you can stop any time if the pleasure becomes too intense.  If you are a woman, 18+, the Orgasamator Experience is something you won't want to miss. Lines are shortest early in the week, and early in the day.",
+        "title": "The Orgasamator Experience",
+        "url": "http://www.orgasamator.com/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 13714,
+        "print_description": "The Orgasamator gives intense physical pleasure in a setting that's safe, comfortable, sensual & private. Exit refreshed & smiling. Female18+ only.",
+        "check_location": false,
+        "slug": "the-orgasamator-experience",
+        "other_location": "Located in Spanky's Village and Wine Bar",
         "event_type": {
             "abbr": "adlt",
             "label": "Adult-oriented"
@@ -61219,6 +71096,40 @@
     {
         "occurrence_set": [
             {
+                "start_time": "2015-08-31 22:00:00",
+                "end_time": "2015-08-31 23:45:00"
+            }
+        ],
+        "description": "Recently a deep space signal was received from the spaceship EMPIRE.  The transmission stated that the spaceship lost for the last 50 years will land at the coordinates for Black Rock City.  Welcome the ship home to Earth after their 50 year absence.",
+        "title": "The spaceship EMPIRE lands",
+        "url": "http://projectempire.org/",
+        "located_at_art": {
+            "location_string": "Unknown",
+            "name": "Black Rock Observatory",
+            "id": 2294
+        },
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15763,
+        "print_description": "Welcome home the spaceship EMPIRE, lost in the galaxy for the last 50 years.",
+        "check_location": false,
+        "slug": "the-spaceship-empire-lands",
+        "other_location": "Look for the spaceship",
+        "event_type": {
+            "abbr": "perf",
+            "label": "Performance"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Spanky's Village and Wine Bar",
+            "id": 8248
+        },
+        "occurrence_set": [
+            {
                 "start_time": "2015-09-06 23:00:00",
                 "end_time": "2015-09-07 02:00:00"
             }
@@ -61235,7 +71146,7 @@
         "print_description": "Help Spanky’s polish-off the wine as we “wine-down” the week of Bman festivities.  And say happy birthday to Lazy Bar Slut!",
         "check_location": false,
         "slug": "the-spankys-wine-bar-wine-down-party",
-        "other_location": "Spanky's Wine Bar",
+        "other_location": "",
         "event_type": {
             "abbr": "prty",
             "label": "Gathering/Party"
@@ -61358,6 +71269,10 @@
         }
     },
     {
+        "hosted_by_camp": {
+            "name": "Spanky's Village and Wine Bar",
+            "id": 8248
+        },
         "occurrence_set": [
             {
                 "start_time": "2015-09-04 17:00:00",
@@ -61376,7 +71291,7 @@
         "print_description": "Stoopid Kamp and Spanky's Wine Bar host a fine wine & cheese soiree just before sunset.  This is the good stuff!",
         "check_location": false,
         "slug": "the-wrath-of-grapes",
-        "other_location": "Spanky's Wine Bar",
+        "other_location": "At Camp Stupid, within Spanky's Village",
         "event_type": {
             "abbr": "prty",
             "label": "Gathering/Party"
@@ -61528,6 +71443,36 @@
         }
     },
     {
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 21:00:00",
+                "end_time": "2015-09-04 07:00:00"
+            }
+        ],
+        "description": "60’S-90’S MUSIC Shake Your Groove Thang Inside The LOVE ILLUMINARIUM. An Immersive, Inspirational & Holographic Love Light Experience.",
+        "title": "THROW-BACK THURSDAY ",
+        "url": "http://LOVEILLUMINARIUM.WIX.COM/LOVE-ILLUMINARIUM",
+        "located_at_art": {
+            "location_string": "Unknown",
+            "name": "LOVE ILLUMINARIUM",
+            "id": 2517
+        },
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15667,
+        "print_description": "60’S-90’S MUSIC Shake Your Groove Thang Inside The LOVE ILLUMINARIUM. An Immersive, Inspirational & Holographic Love Light Experience.",
+        "check_location": true,
+        "slug": "throw-back-thursday",
+        "other_location": "MamaLove",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
         "hosted_by_camp": {
             "name": "Ludus Symposium",
             "id": 7149
@@ -61636,6 +71581,55 @@
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Dusty Taint",
+            "id": 7370
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 00:00:00",
+                "end_time": "2015-08-31 23:59:00"
+            },
+            {
+                "start_time": "2015-09-01 00:00:00",
+                "end_time": "2015-09-01 23:59:00"
+            },
+            {
+                "start_time": "2015-09-02 00:00:00",
+                "end_time": "2015-09-02 23:59:00"
+            },
+            {
+                "start_time": "2015-09-03 00:00:00",
+                "end_time": "2015-09-03 23:59:00"
+            },
+            {
+                "start_time": "2015-09-04 00:00:00",
+                "end_time": "2015-09-04 23:59:00"
+            },
+            {
+                "start_time": "2015-09-05 00:00:00",
+                "end_time": "2015-09-05 23:59:00"
+            }
+        ],
+        "description": "While carnival boardwalks and midways are perfumed with the smell of Coney dogs, and funnel cakes, and dotted with souvenir shops, we transform the people into the attractions for others to enjoy.  There is a juxtaposition of who receives the excitement and who gives the excitement with an ample supply of tighty-whitey under pants in various styles.  The inner artists can express their creativity and dusty taints through colored markers then don the one-of-a-kind art. Snap a picture (instant camera on site) for our “Taint Wall of Freaks” then take your art on a traveling show - the living canvas of “the self”.\r\nMonday/Tuesday – Foreplay! To get one excited and invigorated.  “Manifest it Monday”, “Free for all Tuesday”. You call it; it’s yours, especially our bartenders.  Monday and Tuesday are the days we establish our regulars!  We play “The Game” until we just can’t stand it anymore (In a good way of course).  It’s all about introducing ourselves to our neighbors and making friends for the week, friends for a lifetime.",
+        "title": "Tighty- Whitey Take-Out",
+        "url": "http://www.dustytaint.com/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": true,
+        "id": 14874,
+        "print_description": "Watch as people become mobile art, visual masterpieces! Using underwear as a canvas, manifest your creativity with colored markers. Wear away!",
+        "check_location": false,
+        "slug": "tighty-whitey-take-out",
+        "other_location": "",
+        "event_type": {
+            "abbr": "game",
+            "label": "Game"
         }
     },
     {
@@ -61797,6 +71791,35 @@
         "event_type": {
             "abbr": "adlt",
             "label": "Adult-oriented"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Automatic Subconscious",
+            "id": 8137
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-05 14:00:00",
+                "end_time": "2015-09-05 16:00:00"
+            }
+        ],
+        "description": "For all our baked and burnt comrades, a complimentary aloe/sunscreen bar.  Prizes for \"Most Likely to Freckle\" & \"Best 3rd Degree Burn\", and more",
+        "title": "Toasted Buns Happy Hour / Meet Up",
+        "url": "http://www.automaticsubconscious.com/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15524,
+        "print_description": "For all our baked and burnt comrades, a complimentary aloe/sunscreen bar.  Prizes for \"Most Likely to Freckle\" & \"Best 3rd Degree Burn\", and more",
+        "check_location": false,
+        "slug": "toasted-buns-happy-hour-meet-up",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
         }
     },
     {
@@ -61987,6 +72010,64 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Playa Jazz Cafe",
+            "id": 7448
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 14:00:00",
+                "end_time": "2015-09-02 17:00:00"
+            }
+        ],
+        "description": "The Professor will guide you through a listening tour of all the eras of jazz history from ragtime & blues through Post-Bop Modernism. Cold drinks will be served and patrons will gain a deeper understanding of the various eras and styles of jazz to enhance you listening pleasure.",
+        "title": "Tour of Jazz History ",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15535,
+        "print_description": "The Professor will guide you through a listening tour of all the eras of jazz history from ragtime & blues through Post-Bop Modernism.",
+        "check_location": true,
+        "slug": "tour-of-jazz-history",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Taiwanderlust",
+            "id": 7302
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 19:30:00",
+                "end_time": "2015-09-02 21:00:00"
+            }
+        ],
+        "description": "Adorn yourself or others with the bold designs of traditional Taiwanese theater paint.",
+        "title": " Traditional Taiwanese Facepaint workshop",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15799,
+        "print_description": "Adorn yourself or others with the bold designs of traditional Taiwanese theater paint.",
+        "check_location": true,
+        "slug": "traditional-taiwanese-facepaint-workshop",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Pickle Joint",
             "id": 7311
         },
@@ -62038,6 +72119,51 @@
         "check_location": false,
         "slug": "transcending-shame-guilt-envy",
         "other_location": "Mystic Theater",
+        "event_type": {
+            "abbr": "none",
+            "label": "None"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "KazbusKamp Transformation Station",
+            "id": 7198
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 10:30:00",
+                "end_time": "2015-08-31 12:30:00"
+            },
+            {
+                "start_time": "2015-09-01 10:30:00",
+                "end_time": "2015-09-01 12:30:00"
+            },
+            {
+                "start_time": "2015-09-02 10:30:00",
+                "end_time": "2015-09-02 12:30:00"
+            },
+            {
+                "start_time": "2015-09-03 10:30:00",
+                "end_time": "2015-09-03 12:30:00"
+            },
+            {
+                "start_time": "2015-09-04 10:30:00",
+                "end_time": "2015-09-04 12:30:00"
+            }
+        ],
+        "description": "Peer into the carnival mirror and reflect upon a whole new YOU! Our Transformation Station offers four festival booths, with opportunities for corporeal, sartorial, psychological, or sensual reinvention with our happy helpers -- we offer advice, costuming, hair and makeup, and even a kissing booth for your transformational relation, elation, satiation and osculation. Mirror, mirror on the wall -- YOU'RE the fairest of them all!",
+        "title": "Transformation Station Inundation!",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15703,
+        "print_description": "Reflect upon a whole new YOU!  Advice, costuming, hair, makeup, a kissing booth for your transformational relation, elation, satiation and osculation!",
+        "check_location": false,
+        "slug": "transformation-station-inundation",
+        "other_location": "United States",
         "event_type": {
             "abbr": "none",
             "label": "None"
@@ -62328,6 +72454,36 @@
         "check_location": false,
         "slug": "trifucta-playa-prom",
         "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 21:00:00",
+                "end_time": "2015-09-02 07:00:00"
+            }
+        ],
+        "description": "TRIP BEATS & Sparkling Lights Enliven The LOVE ILLUMINARIUM. \r\nAn Immersive, Inspirational & Holographic Love Light Experience.",
+        "title": "TRIPTASTIC TEASE TUESDAY ",
+        "url": "http://LOVEILLUMINARIUM.WIX.COM/LOVE-ILLUMINARIUM",
+        "located_at_art": {
+            "location_string": "Unknown",
+            "name": "LOVE ILLUMINARIUM",
+            "id": 2517
+        },
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15665,
+        "print_description": "TRIP BEATS & Sparkling Lights Enliven The LOVE ILLUMINARIUM. \r\nAn Immersive, Inspirational & Holographic Love Light Experience.",
+        "check_location": true,
+        "slug": "triptastic-tease-tuesday",
+        "other_location": "MamaLove",
         "event_type": {
             "abbr": "prty",
             "label": "Gathering/Party"
@@ -62848,6 +73004,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Space Gnomes",
+            "id": 8044
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-05 17:00:00",
+                "end_time": "2015-09-05 18:00:00"
+            }
+        ],
+        "description": "Join Tygerlily, the crazy naked Missoulian, for an advanced twerkshop covering all things twerk!  Including booty stacks, leapfrog booty, dolphin twerk, all of it!  You don’t want to miss this booty-shaking bonanza that was the highlight of Space Gnomes Burning Man 2013! (*no guarantee of Missoulian nakedness*)",
+        "title": "Twerkshop",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15559,
+        "print_description": "Join Tygerlily for an advanced twerkshop covering all things twerk!  Including booty stacks, leapfrog booty, dolphin twerk, all of it!",
+        "check_location": false,
+        "slug": "twerkshop",
+        "other_location": "3 o'clock",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Slutgarden",
             "id": 7491
         },
@@ -63085,6 +73270,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Uhuru",
+            "id": 7325
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 15:00:00",
+                "end_time": "2015-09-02 17:00:00"
+            }
+        ],
+        "description": "Funky beats and playa treats to the wild animals who join us Wednesday afternoon. Watch out for Playa Stampedes.",
+        "title": "Uhuru Presents a Funky Safari Party",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15610,
+        "print_description": "Funky beats and playa treats to the wild animals who join us Wednesday afternoon. Watch out for Playa Stampedes.",
+        "check_location": false,
+        "slug": "uhuru-presents-a-funky-safari-party",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Club Neu Verboten",
             "id": 7045
         },
@@ -63168,6 +73382,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Camp Charlie",
+            "id": 8225
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 21:00:00",
+                "end_time": "2015-09-03 08:00:00"
+            }
+        ],
+        "description": "Are you ready to RAMPAGE?!?!?! The unicorns are back with more sparkle, more rainbows, MORE EPICNESS! Join the Charlie the Unicorn Art Car and The Blackbird Bus for a night of funky, booty bouncin' house til' dawn! Attend the Unicorn Stampede and then stomp your hooves on over to us for the after party!",
+        "title": "Unicorn Rampage",
+        "url": "https://www.facebook.com/CampCharlie",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15093,
+        "print_description": "The unicorns are back with more sparkle, more rainbows, MORE EPICNESS! Hit the Unicorn Stampede and then stomp on over to us for the after party!",
+        "check_location": true,
+        "slug": "unicorn-rampage",
+        "other_location": "on the Charlie the Unicorn Art Car in the open playa",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "The Sunset Trip",
             "id": 8226
         },
@@ -63231,35 +73474,6 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-05 13:00:00",
-                "end_time": "2015-09-05 15:00:00"
-            }
-        ],
-        "description": "Sponsored by Reverend Salamander and Minister Grommet to honor the relationships that are meaningful to you. Open to all who wish to declare the true love in their life irregardless of gender, number, or any other limitations. Celebrate and bless your union in our temple. Bring your own officiant or vows, or allow us to officiate.",
-        "title": "Union Ceremonies",
-        "url": "",
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "all_day": false,
-        "id": 14761,
-        "print_description": "Open to all who wish to declare the true love in their life. Celebrate and bless your union in our temple. Bring your officiant or vows, or allow us.",
-        "check_location": false,
-        "slug": "union-ceremonies",
-        "other_location": "",
-        "event_type": {
-            "abbr": "cere",
-            "label": "Ritual/Ceremony"
-        }
-    },
-    {
-        "hosted_by_camp": {
-            "name": "Comfort and Joy",
-            "id": 8125
-        },
-        "occurrence_set": [
-            {
                 "start_time": "2015-09-03 20:00:00",
                 "end_time": "2015-09-03 22:00:00"
             }
@@ -63277,6 +73491,35 @@
         "check_location": false,
         "slug": "union-ceremonies",
         "other_location": "Queer Temple",
+        "event_type": {
+            "abbr": "cere",
+            "label": "Ritual/Ceremony"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Comfort and Joy",
+            "id": 8125
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-05 13:00:00",
+                "end_time": "2015-09-05 15:00:00"
+            }
+        ],
+        "description": "Sponsored by Reverend Salamander and Minister Grommet to honor the relationships that are meaningful to you. Open to all who wish to declare the true love in their life irregardless of gender, number, or any other limitations. Celebrate and bless your union in our temple. Bring your own officiant or vows, or allow us to officiate.",
+        "title": "Union Ceremonies",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 14761,
+        "print_description": "Open to all who wish to declare the true love in their life. Celebrate and bless your union in our temple. Bring your officiant or vows, or allow us.",
+        "check_location": false,
+        "slug": "union-ceremonies",
+        "other_location": "",
         "event_type": {
             "abbr": "cere",
             "label": "Ritual/Ceremony"
@@ -63391,6 +73634,31 @@
         "event_type": {
             "abbr": "cere",
             "label": "Ritual/Ceremony"
+        }
+    },
+    {
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 14:00:00",
+                "end_time": "2015-09-01 15:00:00"
+            }
+        ],
+        "description": "Much of our experience is shaped by happenings below the surface of direct consciousness.  Join us as we venture deeper with the aid of approachable mindfulness exercises!",
+        "title": "Unsubbing the Subconscious",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15651,
+        "print_description": "Much of our experience is shaped by what's beneath the surface of direct consciousness. We'll venture deeper with the aid of mindfulness exercises!",
+        "check_location": true,
+        "slug": "unsubbing-the-subconscious",
+        "other_location": "Camp Galapagos",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
         }
     },
     {
@@ -63610,6 +73878,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Valhalla on the Playa",
+            "id": 7299
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 18:30:00",
+                "end_time": "2015-09-02 21:00:00"
+            }
+        ],
+        "description": "It's Wednesday evening and you're all settled into your camp for the week. Come join us for a sunset potluck dinner about an hour before sunset. Grab that special food item you brought and bring it to share and meet your fellow burners. Viking clothing is encouraged. Bring a cup and a fork unless you prefer to eat with your hands like a real Viking.",
+        "title": "Valhalla On The Playa Sunset Potluck",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15096,
+        "print_description": "Sunset Potluck at Valhalla on the Playa. Bring that special food item you brought to the playa and a cup and a fork. Viking clothing encouraged.",
+        "check_location": true,
+        "slug": "valhalla-on-the-playa-sunset-potluck",
+        "other_location": "Valhalla on the Playa Camp",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Cirque Brûlée",
             "id": 7332
         },
@@ -63635,6 +73932,64 @@
         "event_type": {
             "abbr": "prty",
             "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Space Gnomes",
+            "id": 8044
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-04 17:00:00",
+                "end_time": "2015-09-04 18:00:00"
+            }
+        ],
+        "description": "Ladies and Gentlemen, Boys and Germs... Step right up & bring your enthusiasm (and a cup) to The Rocket Stage for a delightful display of performance art and sound carefully crafted to start off your evening’s entertainment, featuring some of our earth’s tastiest talents!",
+        "title": "Variety Show",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15562,
+        "print_description": "Step right up to The Rocket Stage for a delightful display of performance art and sound carefully crafted to start off your evening’s entertainment!",
+        "check_location": false,
+        "slug": "variety-show",
+        "other_location": "3 o'clock",
+        "event_type": {
+            "abbr": "perf",
+            "label": "Performance"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Irrelephant Bird Camp",
+            "id": 7854
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-04 14:00:00",
+                "end_time": "2015-09-04 18:00:00"
+            }
+        ],
+        "description": "In this day of short attention spans, 10 min variety acts just barely keep your...what were we doing? We got you covered.",
+        "title": "Variety Sh...squirrel!",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15499,
+        "print_description": "In this day of short attention spans, 10 min variety acts just barely keep your...what were we doing? We got you covered.",
+        "check_location": true,
+        "slug": "variety-shsquirrel",
+        "other_location": "",
+        "event_type": {
+            "abbr": "perf",
+            "label": "Performance"
         }
     },
     {
@@ -64154,6 +74509,31 @@
         }
     },
     {
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 11:00:00",
+                "end_time": "2015-09-03 13:00:00"
+            }
+        ],
+        "description": "Join musicians Michael Zeligs and Meredith Rom in a guided journey to free our voices and connect to our highest hearts intentions for ourselves and the world.  Learn mantra, pranayama, and singing as a tool for manifesting our visions. This workshop includes time for exploring how to remove blocks to the voice, meditation to discover our visions and singing to use sound as a healing tool.  Together, we will develop devotional group harmonies that envelop everyone in a beautiful sea of voices.",
+        "title": "Vision & Voice Ritual",
+        "url": "http://meredithrom.com/vision-and-voice-tour",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15719,
+        "print_description": "Free your Voice, Sing your Prayers. Join Michael Zeligs and Meredith Rom in a guided journey to connect to your highest self.",
+        "check_location": false,
+        "slug": "vision-voice-ritual",
+        "other_location": "Camp Soft Landing / Palenque Norte",
+        "event_type": {
+            "abbr": "cere",
+            "label": "Ritual/Ceremony"
+        }
+    },
+    {
         "hosted_by_camp": {
             "name": "Sin City Volleyball & Rec Center",
             "id": 7212
@@ -64372,6 +74752,36 @@
         }
     },
     {
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 21:00:00",
+                "end_time": "2015-09-03 07:00:00"
+            }
+        ],
+        "description": "Get Down With Dub-Step Beats Inside The LOVE ILLUMINARIUM. \r\nAn Immersive, Inspirational & Holographic Love Light Experience.",
+        "title": "WAH-WAH-WAH WEDNESDAY",
+        "url": "http://LOVEILLUMINARIUM.WIX.COM/LOVE-ILLUMINARIUM",
+        "located_at_art": {
+            "location_string": "Unknown",
+            "name": "LOVE ILLUMINARIUM",
+            "id": 2517
+        },
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15666,
+        "print_description": "Get Down With Dub-Step Beats Inside The LOVE ILLUMINARIUM. \r\nAn Immersive, Inspirational & Holographic Love Light Experience.",
+        "check_location": true,
+        "slug": "wah-wah-wah-wednesday",
+        "other_location": "MamaLove",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
         "hosted_by_camp": {
             "name": "Shamandome Camp",
             "id": 7035
@@ -64394,7 +74804,7 @@
         "print_description": "Shout Open vocal channels. Bridge into waking sensory and emotional bodies. Energetically explore connections with others without sensor. OK. Secrets?",
         "check_location": false,
         "slug": "wake-up-to-your-irreverent-truth",
-        "other_location": "730 and G?",
+        "other_location": "7:00 and B",
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
@@ -64601,6 +75011,64 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Dr.Baron von Realz esq. Steampunk",
+            "id": 7156
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-06 14:00:00",
+                "end_time": "2015-09-06 16:00:00"
+            }
+        ],
+        "description": "Water fight! Get rid of your extra water and have fun. Dr. Baron von Realz Esq. will be hosting a water fight at the 4:30 and esplanade we will supply the water guns you bring your clean potable water, please no cooler water or dirty water of any kind and remove your empty containers.",
+        "title": "Water fight ",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15514,
+        "print_description": "Water fight! Get rid of your extra water and have fun. We will be hosting a water fight at the 4:30 and esplanade we will supply the water guns.",
+        "check_location": false,
+        "slug": "water-fight",
+        "other_location": "4:30 and esplanade",
+        "event_type": {
+            "abbr": "game",
+            "label": "Game"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Valhalla on the Playa",
+            "id": 7299
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-05 14:00:00",
+                "end_time": "2015-09-05 16:00:00"
+            }
+        ],
+        "description": "Come enjoy watermelon refreshments (boozed or virgin) served by Enzo the Cool and his lady and take a spin in our Carnival of Mirrors cylinder!",
+        "title": "Watermelon drinks served at Valhalla on the Playa",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15479,
+        "print_description": "Come enjoy watermelon refreshments (boozed or virgin) served by Enzo the Cool and his lady and take a spin in our Carnival of Mirrors cylinder!",
+        "check_location": true,
+        "slug": "watermelon-drinks-served-at-valhalla-on-the-playa",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Camp Mystic",
             "id": 7406
         },
@@ -64713,6 +75181,35 @@
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "P3: The Princess Party Palace",
+            "id": 7062
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 09:00:00",
+                "end_time": "2015-09-02 16:00:00"
+            }
+        ],
+        "description": "Do you like to play dress up?  Then come join us for our annual Wedding Dress Wednesday Parade.  Our very own Princes S. Stephanie kicks off our Annual Parade with a Champagne Toasts followed by a short dancing procession to the chapel.  Who gets married….does it really matter?  We have pretty dresses and champagne.",
+        "title": "Wedding Dress Wednesday Parade",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15775,
+        "print_description": "Do you like to play dress up?  Then come join us for our annual Wedding Dress Wednesday Parade. White Dresses, a Champagne Toast, and a Parade.",
+        "check_location": false,
+        "slug": "wedding-dress-wednesday-parade",
+        "other_location": "Meet at our Camp! ",
+        "event_type": {
+            "abbr": "para",
+            "label": "Parade"
         }
     },
     {
@@ -64908,7 +75405,7 @@
             "year": "2015"
         },
         "all_day": false,
-        "id": 14971,
+        "id": 14972,
         "print_description": "Cool mimosas for first time burners and returning champions. Come meet and greet each other.",
         "check_location": true,
         "slug": "welcome-home-mimosa-social",
@@ -64937,7 +75434,7 @@
             "year": "2015"
         },
         "all_day": false,
-        "id": 14972,
+        "id": 14971,
         "print_description": "Cool mimosas for first time burners and returning champions. Come meet and greet each other.",
         "check_location": true,
         "slug": "welcome-home-mimosa-social",
@@ -65094,6 +75591,35 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Dr.Baron von Realz esq. Steampunk",
+            "id": 7156
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 15:00:00",
+                "end_time": "2015-09-02 17:00:00"
+            }
+        ],
+        "description": "Are your camp mates Werewolves? Can you figure out who the Werewolves are before they rampage across the playa? All are invited to this classic party game (with a playa twist).",
+        "title": "Werewolves",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15504,
+        "print_description": "Are your camp mates Werewolves? Can you figure out who the Werewolves are before they rampage across the playa? All are invited to this classic game.",
+        "check_location": false,
+        "slug": "werewolves",
+        "other_location": "",
+        "event_type": {
+            "abbr": "game",
+            "label": "Game"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Pickle Joint",
             "id": 7311
         },
@@ -65157,8 +75683,8 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-08-31 16:00:00",
-                "end_time": "2015-08-31 17:30:00"
+                "start_time": "2015-09-01 16:00:00",
+                "end_time": "2015-09-01 17:30:00"
             }
         ],
         "description": "Just like light, sound, or ocean waves, a dancing body moving freely passes through five distinct rhythmic patterns. These patterns continuously repeat themselves in a wave of motion. The 5Rhythms are: FLOWING – the fluid, continuous, grounded glide of our own movements; STACCATO – the percussive, pulsing beat that shapes us a thousand different ways; CHAOS – the rhythm of letting go, releasing into the catalytic wildness of our dance that can never be planned or repeated; LYRICAL – the rhythm of trance, where the weight of self-consciousness dissolves, where we lighten up and disappear into our own uniqueness; and STILLNESS – the quiet emptiness, where gentle movements rise and fall, start and end, in a field of silence. Please join Marcia Dancing Heart for an introduction to the 5Rhythms at RhythmWave.",
@@ -65392,8 +75918,8 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-01 10:30:00",
-                "end_time": "2015-09-01 11:00:00"
+                "start_time": "2015-09-04 10:30:00",
+                "end_time": "2015-09-04 11:00:00"
             }
         ],
         "description": "Spin the wheel and find out what happy gift destiny has in store for YOU. Is it a compliment? A hug? What does \"something naughty\" mean? Spin and win!",
@@ -65404,8 +75930,8 @@
             "year": "2015"
         },
         "all_day": false,
-        "id": 14239,
-        "print_description": "Spin the wheel and find out what happy gift destiny has in store for YOU. Is it a compliment? A hug? What does \"something naughty\" mean? Spin and win!",
+        "id": 14276,
+        "print_description": "Wheel of Happy!",
         "check_location": false,
         "slug": "wheel-of-happy",
         "other_location": "The Happy Spot",
@@ -65421,8 +75947,8 @@
         },
         "occurrence_set": [
             {
-                "start_time": "2015-09-04 10:30:00",
-                "end_time": "2015-09-04 11:00:00"
+                "start_time": "2015-09-01 10:30:00",
+                "end_time": "2015-09-01 11:00:00"
             }
         ],
         "description": "Spin the wheel and find out what happy gift destiny has in store for YOU. Is it a compliment? A hug? What does \"something naughty\" mean? Spin and win!",
@@ -65433,8 +75959,8 @@
             "year": "2015"
         },
         "all_day": false,
-        "id": 14276,
-        "print_description": "Wheel of Happy!",
+        "id": 14239,
+        "print_description": "Spin the wheel and find out what happy gift destiny has in store for YOU. Is it a compliment? A hug? What does \"something naughty\" mean? Spin and win!",
         "check_location": false,
         "slug": "wheel-of-happy",
         "other_location": "The Happy Spot",
@@ -65560,6 +76086,36 @@
         }
     },
     {
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 05:45:00",
+                "end_time": "2015-09-03 09:00:00"
+            }
+        ],
+        "description": "Join fellow burners as we each process from our camps out onto the playa to meet at the Temple at Sunrise. Dress to your delight in white. Bring acoustic instruments, wind chimes, incense, or just a smile and we'll watch the sun rise together.  - No amplified sound please, as this is sacred Temple time. \r\n\r\nThanks so much for allowing us this one morning of acoustic sound only.",
+        "title": "White Procession to the Temple",
+        "url": "",
+        "located_at_art": {
+            "location_string": "Unknown",
+            "name": "Temple of Promise",
+            "id": 2245
+        },
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15550,
+        "print_description": "Join fellow burners as we each process from our camps out onto the playa to meet at the Temple at Sunrise. Dress in white & watch the sunrise together",
+        "check_location": false,
+        "slug": "white-procession-to-the-temple",
+        "other_location": "",
+        "event_type": {
+            "abbr": "para",
+            "label": "Parade"
+        }
+    },
+    {
         "hosted_by_camp": {
             "name": "Pretentious Fox",
             "id": 8055
@@ -65582,6 +76138,43 @@
         "print_description": "Come chill with the foxes wearing your best WednesdayWhite.  Prepare to realize your vodka-soaked dreams with a whole lot of bass.",
         "check_location": false,
         "slug": "white-russian-revolution",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "White Trash Superstars",
+            "id": 7846
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-02 11:00:00",
+                "end_time": "2015-09-02 13:00:00"
+            },
+            {
+                "start_time": "2015-09-03 11:00:00",
+                "end_time": "2015-09-03 13:00:00"
+            },
+            {
+                "start_time": "2015-09-07 11:00:00",
+                "end_time": "2015-09-07 13:00:00"
+            }
+        ],
+        "description": "We cannot lay claim to inventing this, but we can't not serve it...  Its amazing and served cold and its SOOOOO us.  Don't forget a cup! We are on burning man time, so all our times are ISH!!! And we are not sorry!!!!",
+        "title": "White Trash Mimosas",
+        "url": "https://www.facebook.com/pages/White-Trash-Superstars/174384205941598",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15725,
+        "print_description": "We cannot lay claim to inventing this, but we can't not serve it...  Its amazing and its SOOOOO us.  Don't forget a cup! We are on burning man time, s",
+        "check_location": false,
+        "slug": "white-trash-mimosas",
         "other_location": "",
         "event_type": {
             "abbr": "prty",
@@ -65644,6 +76237,35 @@
         "event_type": {
             "abbr": "prty",
             "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Kentucky Fried Camp",
+            "id": 7241
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 17:00:00",
+                "end_time": "2015-09-03 17:30:00"
+            }
+        ],
+        "description": "A punishing lap around the 3:00 Plaza in the sluttiest tallest heels imaginable. Prizes for winners, greyhound cocktails for participants. Dress to impress: slutty to race, derby hats and elegant playa wear to drink and yell at racers.",
+        "title": "Whoreshoe Derby 4th Annual at Kentucky Fried Camp",
+        "url": "http://kentuckyfriedcamp.com/",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15474,
+        "print_description": "A punishing lap around the 3:00 Plaza in the sluttiest tallest heels imaginable. Prizes for winners, greyhound cocktails for participants.",
+        "check_location": false,
+        "slug": "whoreshoe-derby-4th-annual-at-kentucky-fried-camp",
+        "other_location": "",
+        "event_type": {
+            "abbr": "game",
+            "label": "Game"
         }
     },
     {
@@ -66230,6 +76852,64 @@
     },
     {
         "hosted_by_camp": {
+            "name": "Salute Your Jorts!",
+            "id": 7684
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 12:00:00",
+                "end_time": "2015-09-03 14:00:00"
+            }
+        ],
+        "description": "Do you feel wiser at Burning Man?  Like you've got it all figured out?  Tell yourself about it!  Write a letter and we'll send it in time for 2016!  Paper, envelopes, and pens provided. You bring the stickers.",
+        "title": "Write a Letter to Your Default Self",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15481,
+        "print_description": "Do you feel wiser at Burning Man?  Like you've got it all figured out?  Tell yourself about it!  Write a letter and we'll send it in time for 2016!",
+        "check_location": true,
+        "slug": "write-a-letter-to-your-default-self",
+        "other_location": "",
+        "event_type": {
+            "abbr": "kid",
+            "label": "Kid-friendly"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "POLYNATION",
+            "id": 8021
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-03 15:00:00",
+                "end_time": "2015-09-03 17:30:00"
+            }
+        ],
+        "description": "Has this burn been a transformational experience? Feel overwhelmed with personal insight and self-exploration? Come write yourself a letter about your profound shift in consciousness, who you are, who you want to be and we'll mail it to you in 1,2,5,10 or however many years. We have paper, pens and stamps, you have a future self that deserves mail.",
+        "title": "Write Your Future Self A Letter",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15589,
+        "print_description": "Write yourself a letter about your profound shift in consciousness, who you are & who you want to be. We’ll mail it to you in 1, 2, 5 or 10 years.",
+        "check_location": true,
+        "slug": "write-your-future-self-a-letter",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
             "name": "Naked Heart",
             "id": 7586
         },
@@ -66251,6 +76931,157 @@
         "print_description": "I have some ideas, you? Let's explore cerebrally and in our bodies thru guided exercises to discover what this shits about.",
         "check_location": false,
         "slug": "wtf-is-sacred-sexuality",
+        "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "White Trash Superstars",
+            "id": 7846
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 17:00:00",
+                "end_time": "2015-08-31 20:00:00"
+            },
+            {
+                "start_time": "2015-09-01 17:00:00",
+                "end_time": "2015-09-01 20:00:00"
+            },
+            {
+                "start_time": "2015-09-02 17:00:00",
+                "end_time": "2015-09-02 20:00:00"
+            },
+            {
+                "start_time": "2015-09-03 17:00:00",
+                "end_time": "2015-09-03 20:00:00"
+            },
+            {
+                "start_time": "2015-09-04 17:00:00",
+                "end_time": "2015-09-04 20:00:00"
+            },
+            {
+                "start_time": "2015-09-05 17:00:00",
+                "end_time": "2015-09-05 20:00:00"
+            }
+        ],
+        "description": "Come on Down and try your luck at our Carnival Games, WTS style... You may even win a prize, or not...",
+        "title": "WTS Carnival Games",
+        "url": "https://www.facebook.com/pages/White-Trash-Superstars/174384205941598",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15723,
+        "print_description": "Come on Down and try your luck at our Carnival Games, WTS style... You may even win a prize, or not...",
+        "check_location": false,
+        "slug": "wts-carnival-games",
+        "other_location": "",
+        "event_type": {
+            "abbr": "none",
+            "label": "None"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "White Trash Superstars",
+            "id": 7846
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 00:00:00",
+                "end_time": "2015-08-31 23:59:00"
+            },
+            {
+                "start_time": "2015-09-01 00:00:00",
+                "end_time": "2015-09-01 23:59:00"
+            },
+            {
+                "start_time": "2015-09-02 00:00:00",
+                "end_time": "2015-09-02 23:59:00"
+            },
+            {
+                "start_time": "2015-09-03 00:00:00",
+                "end_time": "2015-09-03 23:59:00"
+            },
+            {
+                "start_time": "2015-09-04 00:00:00",
+                "end_time": "2015-09-04 23:59:00"
+            },
+            {
+                "start_time": "2015-09-05 00:00:00",
+                "end_time": "2015-09-05 23:59:00"
+            },
+            {
+                "start_time": "2015-09-06 00:00:00",
+                "end_time": "2015-09-06 23:59:00"
+            },
+            {
+                "start_time": "2015-09-07 00:00:00",
+                "end_time": "2015-09-07 23:59:00"
+            }
+        ],
+        "description": "Come One, Come All, Come Party with/like a Superstar.  Our Signature drinks are Vodka Lemonade (no promises its cold) or White trash Mimosas, and we hardly stop there...  Our Bartenders are on Vacay too so they can be nice or they can be snarky! Sometimes drinks are gifted, sometimes they are bartered; but never sold!!! So leave your $$ in your tent, and bring something fun to tip your bartender!!!   We do not operate on any schedule, so the rule of thumb is: If the barstools are down, we are most likely serving drinks, or at least attitude...\r\nSome of our games include: Pool, fooseball, teather ball, shuffleboard, and...",
+        "title": "WTS Pink Lemonade Dive Bar with Games aplenty",
+        "url": "https://www.facebook.com/pages/White-Trash-Superstars/174384205941598",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": true,
+        "id": 15722,
+        "print_description": "Bartenders can be snarky; Sometimes drinks are gifted, sometimes they are bartered; but never sold!!! So leave your $$ in your tent",
+        "check_location": false,
+        "slug": "wts-pink-lemonade-dive-bar-with-games-aplenty",
+        "other_location": "",
+        "event_type": {
+            "abbr": "prty",
+            "label": "Gathering/Party"
+        }
+    },
+    {
+        "hosted_by_camp": {
+            "name": "Wulf Den",
+            "id": 7240
+        },
+        "occurrence_set": [
+            {
+                "start_time": "2015-08-31 10:30:00",
+                "end_time": "2015-08-31 12:00:00"
+            },
+            {
+                "start_time": "2015-09-01 10:30:00",
+                "end_time": "2015-09-01 12:00:00"
+            },
+            {
+                "start_time": "2015-09-02 10:30:00",
+                "end_time": "2015-09-02 12:00:00"
+            },
+            {
+                "start_time": "2015-09-03 10:30:00",
+                "end_time": "2015-09-03 12:00:00"
+            },
+            {
+                "start_time": "2015-09-04 10:30:00",
+                "end_time": "2015-09-04 12:00:00"
+            }
+        ],
+        "description": "Morning sessions of yoga taught by pros, with chill beats by Wulfpack DJs. Rejuvenate, then Dance!",
+        "title": "Wulf Yoga",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15574,
+        "print_description": "Morning sessions of yoga taught by pros, with chill beats by Wulfpack DJs. Rejuvenate, then Dance!",
+        "check_location": false,
+        "slug": "wulf-yoga",
         "other_location": "",
         "event_type": {
             "abbr": "work",
@@ -66680,7 +77511,7 @@
                 "end_time": "2015-09-05 02:00:00"
             }
         ],
-        "description": "May the biggest orgy win! Apply to be cheerleaders or secret judges if you play well with others? No monogamous couples or single guys. 21+",
+        "description": "May the biggest orgy win! Apply to be cheerleaders or secret judges if you play well with others? No monogamous couples or single guys. 21+. Location is 4:00 and Hanky Pank. Look for the Purple RV Orgy Bus.",
         "title": "Young Sluts Orgy Contest!",
         "url": "",
         "year": {
@@ -66692,7 +77523,7 @@
         "print_description": "May the biggest orgy win! Apply to be cheerleaders or secret judges if you play well with others? No monogamous couples or single guys. 21+",
         "check_location": false,
         "slug": "young-sluts-orgy-contest",
-        "other_location": "",
+        "other_location": "4:00 & Hanky Pank",
         "event_type": {
             "abbr": "adlt",
             "label": "Adult-oriented"
@@ -66827,35 +77658,6 @@
         }
     },
     {
-        "occurrence_set": [
-            {
-                "start_time": "2015-09-01 08:30:00",
-                "end_time": "2015-09-01 09:30:00"
-            },
-            {
-                "start_time": "2015-09-02 08:30:00",
-                "end_time": "2015-09-02 09:30:00"
-            }
-        ],
-        "description": "There's no better way to enjoy a centered arrival and connect with yourself, the Playa, the abundance and your camp mates. Join us for a gentle morning Yoga practice to wake us up, and ease our aching Playa bodies. Bring a mat or embrace the dust!",
-        "title": "Yummy Yoga",
-        "url": "",
-        "year": {
-            "id": 11,
-            "year": "2015"
-        },
-        "all_day": false,
-        "id": 15150,
-        "print_description": "Join us for a gentle morning Yoga practice to wake us up, and ease our aching Playa bodies. Bring a mat or embrace the dust!",
-        "check_location": false,
-        "slug": "yummy-yoga",
-        "other_location": "Arrow Dynamic (registered theme camp, but I didn't see it in the list)",
-        "event_type": {
-            "abbr": "work",
-            "label": "Class/Workshop"
-        }
-    },
-    {
         "hosted_by_camp": {
             "name": "Yummy RUMInations",
             "id": 7804
@@ -66908,6 +77710,35 @@
         "check_location": false,
         "slug": "yummy-yoga",
         "other_location": "",
+        "event_type": {
+            "abbr": "work",
+            "label": "Class/Workshop"
+        }
+    },
+    {
+        "occurrence_set": [
+            {
+                "start_time": "2015-09-01 08:30:00",
+                "end_time": "2015-09-01 09:30:00"
+            },
+            {
+                "start_time": "2015-09-02 08:30:00",
+                "end_time": "2015-09-02 09:30:00"
+            }
+        ],
+        "description": "There's no better way to enjoy a centered arrival and connect with yourself, the Playa, the abundance and your camp mates. Join us for a gentle morning Yoga practice to wake us up, and ease our aching Playa bodies. Bring a mat or embrace the dust!",
+        "title": "Yummy Yoga",
+        "url": "",
+        "year": {
+            "id": 11,
+            "year": "2015"
+        },
+        "all_day": false,
+        "id": 15150,
+        "print_description": "Join us for a gentle morning Yoga practice to wake us up, and ease our aching Playa bodies. Bring a mat or embrace the dust!",
+        "check_location": false,
+        "slug": "yummy-yoga",
+        "other_location": "Arrow Dynamic (registered theme camp, but I didn't see it in the list)",
         "event_type": {
             "abbr": "work",
             "label": "Class/Workshop"
