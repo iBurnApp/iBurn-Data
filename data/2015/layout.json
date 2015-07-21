@@ -13,6 +13,10 @@
   "fence_distance": 8175,
   "bearing": 45,
   "road_width": 40,
+  "entrance_road": {
+    "distance": 250,
+    "angle": 105
+  },
   "center_camp":{
     "distance": 2907,
     "rod_road_distance":750,

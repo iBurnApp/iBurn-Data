@@ -55,6 +55,40 @@ exports.radialStreets = function(jsonFile) {
   return turf.featurecollection(features);
 }
 
+exports.entranceRoad = function(jsonFile) {
+  var cityBearing  = jsonFile.bearing;
+  var cityCenter = jsonFile.center;
+  var entranceRoadAngle= jsonFile.entrance_road.angle;
+  var entranceRoadSplitDistance = utils.feetToMiles(jsonFile.entrance_road.distance);
+  var f = fence.fence(jsonFile);
+  var longSix = turf.linestring([cityCenter.geometry.coordinates,turf.destination(cityCenter,5,utils.timeToCompassDegrees("6","00",cityBearing),'miles').geometry.coordinates])
+  var iPoint = turf.intersect(f.features[0],longSix);
+  var endPoint = turf.destination(iPoint,entranceRoadSplitDistance,utils.timeToCompassDegrees("12","00",cityBearing),'miles');
+  var lines = [[iPoint.geometry.coordinates,endPoint.geometry.coordinates]]
+
+  var bearing1 = cityBearing + entranceRoadAngle/2;
+  var bearing2 = cityBearing - entranceRoadAngle/2;
+
+  var entrance1 = turf.linestring([endPoint.geometry.coordinates,turf.destination(endPoint,1,bearing1,'miles').geometry.coordinates]);
+  var entrance2 = turf.linestring([endPoint.geometry.coordinates,turf.destination(endPoint,1,bearing2,'miles').geometry.coordinates]);
+
+  var outerStreet = turf.filter(exports.circularStreets(jsonFile),'ref','l').features[0];
+  outerStreet.geometry.type = 'Polygon';
+  outerStreet.geometry.coordinates[0].push(outerStreet.geometry.coordinates[0][0])
+
+  entrance1 = utils.cutStreets(entrance1,outerStreet);
+  entrance2 = utils.cutStreets(entrance2,outerStreet);
+
+  lines.push(entrance1.coordinates);
+  lines.push(entrance2.coordinates);
+
+  var mls = turf.multilinestring(lines,{
+    'ref': 'entrance',
+    'name': 'Entrance Road'
+  });
+  return mls;
+}
+
 exports.rodRoad = function(centerCenterCamp, distance, units) {
   var rodRoad = utils.createArc(centerCenterCamp, distance, units, 0, 360, 5);
   rodRoad = turf.linestring(rodRoad.geometry.coordinates[0]);
@@ -195,7 +229,11 @@ exports.allStreets = function(jsonFile) {
       })
       features.push(airportRoad);
     }
-  })
+  });
+
+  //Entrance road
+  var eRoad = exports.entranceRoad(jsonFile);
+  features.push(eRoad);
 
   return turf.featurecollection(features)
 }
