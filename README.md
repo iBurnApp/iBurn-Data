@@ -83,7 +83,7 @@ Clients fetch from an 'secret' S3 `ENDPOINT_URL`/`update.json.js` to check the l
 
 If a file has been updated since the last time the client fetched it, simply fetch the new data for each datatype from `ENDPOINT_URL`/`file` and merge it with the existing data on the client.
 
-We can display when the data was last updated for each item in the app and show a warning on data objects that weren't updated in the last fetch, indicating that the item may have been removed.
+Currently each file describes a complete snapshot of its collection, not a "delta" update. An item previously present but absent in an update should be treated as removed.
 
 # TODO
 
