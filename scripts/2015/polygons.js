@@ -177,8 +177,27 @@ exports.streetsOutline = function(jsonFile) {
       outline = newBuffer;
     }
 
+  });
+
+  //Remove 2 smallest areas. The two tiny triangles at Rod's Road
+  //and 5:30/6:30
+  var inner = outline.geometry.coordinates.slice(1);
+  inner.sort(function(a, b){
+    var areaA = turf.area(turf.polygon([a]));
+    var areaB = turf.area(turf.polygon([b]));
+
+    if (areaA < areaB) {
+      return -1
+    }
+
+    if (areaB < areaA) {
+      return 1;
+    }
+
+    return 0;
   })
 
+  outline.geometry.coordinates = [outline.geometry.coordinates[0]].concat(inner.slice(2));
   return outline;
 }
 

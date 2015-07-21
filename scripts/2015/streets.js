@@ -193,7 +193,6 @@ exports.allStreets = function(jsonFile) {
         'ref': 'airport',
         'name': 'Airport Road'
       })
-      console.log("%j",airportRoad)
       features.push(airportRoad);
     }
   })
