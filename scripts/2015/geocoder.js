@@ -1,13 +1,21 @@
 
 var turf  = require('turf');
 var utils = require('./utils.js');
+var Parser = require('./geocodeParser.js')
 
-var Geocoder = function(centerPoint, cityBearing, centerCamp, hardcodedLocations) {
+var Geocoder = function(centerPoint, cityBearing, centerCamp,streets,polygons, hardcodedLocations) {
   this.centerPoint = centerPoint;
   this.centerCamp = centerCamp;
   this.cityBearing = cityBearing;
-  this.hardcodedLocations = hardcodedLocations;
+  this.streets = streets;
+  this.polygons = polygons;
+  this.hardcodedLocations = {};
+  if (hardcodedLocations){
+    this.hardcodedLocations = hardcodedLocations;
+  }
   this.features = []
+  this.addFeatures(this.streets);
+  this.addFeatures(this.polygons);
 };
 
 Geocoder.prototype.addFeatures = function(features) {
@@ -17,67 +25,45 @@ Geocoder.prototype.addFeatures = function(features) {
 //units must be 'miles', 'kilometers', 'degrees', 'radians'
 Geocoder.prototype.timeDistanceToLatLon = function(time, distance, units) {
 
-  var timeArray = utils.splitTimeString(time);
-  var hour = timeArray[0];
-  var minute = timeArray[1];
-
-  var compassDegrees = utils.timeToCompassDegrees(hour,minute, this.cityBearing);
-
+  var compassDegrees = utils.timeStringToCompaassDegress(time, this.cityBearing);
 
   var destination = turf.destination(this.centerPoint, distance, compassDegrees, units);
   return destination;
 };
 
-Geocoder.prototype.streetIntersectionToLatLon = function(street1, street2) {
-  //Todo: Create special case for Rod's Road uses internal clock coordinates ie. Rod's Road & 1:30
-
-  var features1 = [];
-  var features2 = [];
-
-  var rodString = "Rod's Rd."
-  if (street1 === rodString || street2 === rodString) {
-    //Rod's Road special clock direction
-
-    var time = utils.splitTimeString(street1);
-    if (time.length !== 2) {
-      time = utils.splitTimeString(street2);
-    }
-    var hour = time[0];
-    var min = time[1];
-
-    var timeBearing = utils.timeToCompassDegrees(hour,min,this.cityBearing)
-    var secondPoint = turf.destination(this.centerCamp, 1, timeBearing, 'miles')
-    var radialLine = turf.linestring([this.centerCamp.geometry.coordinates,secondPoint.geometry.coordinates]);
-    features1 = this.fuzzyMatchFeatures('Name',rodString);
-    features2 = [radialLine];
-
-  } else {
-    features1 = this.fuzzyMatchFeatures('Name',street1);
-    features2 = this.fuzzyMatchFeatures('Name',street2);
+Geocoder.prototype.streetIntersectionToLatLon = function(timeString, featureName) {
+  var timeBearing = utils.timeStringToCompaassDegress(timeString,this.cityBearing);
+  var start = this.centerPoint;
+  if (featureName.indexOf("Rod") > -1) {
+    start = this.centerCamp;
   }
 
-  var intersections = intersectingPoints(features1,features2);
+  var end = turf.destination(start, 5, timeBearing, 'miles');
 
-  if (intersections.length === 1) {
-    return intersections[0];
-  } else if (intersections.length === 0) {
+  var imaginaryTimeStreet = turf.linestring([start.geometry.coordinates,end.geometry.coordinates]);
+
+  var features = this.fuzzyMatchFeatures('name',featureName);
+
+  var intersections = intersectingPoints([imaginaryTimeStreet],features);
+
+
+  if (intersections.length === 0) {
     return undefined;
+  } else {
+    return intersections[0];
   }
-
-  return intersecions;
 }
 
 Geocoder.prototype.fuzzyMatchFeatures = function(key, value) {
   var arrayLength = this.features.length;
   var features = []
   //go through all features and pull out matching items for each name
-  for (var i = 0; i < arrayLength; i++) {
-    var feature = this.features[i]
+  this.features.map(function(item){
     //Todo: use some sort of fuzzy matching instead of strict ===
-    if (feature.properties[key] === value) {
-      features.push(feature);
+    if (item.properties[key] === value) {
+      features.push(item);
     }
-  }
+  });
   return features
 }
 
@@ -88,28 +74,30 @@ function intersectingPoints(features1,features2) {
   var intersections = []
 
   //Compare all matching named features with eachother
-  for (var i =0; i < features1Length; i++) {
-    var feature1 = features1[i];
-    for (var j =0; j < features2Length; j++) {
-      var feature2 = features2[j];
-
-      var intersection = turf.intersect(feature1,feature2);
+  features1.map(function(item1){
+    features2.map(function(item2){
+      var intersection = turf.intersect(item1,item2);
       if (typeof intersection !== "undefined") {
         intersections.push(intersection);
       }
-    }
-  }
+    });
+  });
   return intersections;
 }
 
-function parseLocationString(locationStirng) {
-  locationStirng = locationStirng.toLowerCase()
-  if (locationStirng in this.hardcodedLocations) {
+Geocoder.prototype.geocode = function(locationString,callback) {
+  if (locationString in this.hardcodedLocations) {
     return this.hardcodedLocations[locationStirng]
-  } else if (true) {
+  } else {
+    var coder = this;
+    Parser.parse(locationString, function(time,distance,feature){
+      if(distance > 0){
 
-  } else if (true) {
-
+        callback(coder.timeDistanceToLatLon(time,utils.feetToMiles(distance),'miles'))
+      } else {
+        callback(coder.streetIntersectionToLatLon(time,feature));
+      }
+    })
   }
 }
 
