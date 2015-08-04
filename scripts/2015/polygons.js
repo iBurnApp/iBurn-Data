@@ -2,9 +2,72 @@ var turf = require('turf');
 var utils = require('./utils.js');
 turf.multilinestring = require('turf-multilinestring');
 turf.difference = require('turf-difference');
+turf.meta = require('turf-meta');
 var jsts = require("jsts");
 var streets = require('./streets.js');
 var points = require('./points.js');
+var fence = require('./fence.js');
+
+exports.innerPlaya = function(jsonFile) {
+  var centerCamp = streets.centerCampStreets(jsonFile);
+  var rod = turf.filter(centerCamp, 'ref','rod').features[0];
+
+  var rodPoly = exports.centerCampArea(jsonFile);
+  var distance;
+  jsonFile.cStreets.map(function(item){
+    if(item.ref === 'esplanade') {
+      distance = item.distance;
+    }
+  });
+
+  var innerPolygon = utils.createArc(jsonFile.center, utils.feetToMiles(distance), 'miles', 0, 360, 5);
+
+  var polygon = turf.difference(innerPolygon,rodPoly);
+
+  return polygon;
+}
+
+exports.outerPlaya = function(jsonFile) {
+  var polygon = turf.polygon([fence.fence(jsonFile).features[0].geometry.coordinates])
+  polygon = turf.difference(polygon,exports.streetsArea(jsonFile));
+  polygon = turf.difference(polygon,exports.centerCampArea(jsonFile));
+  polygon = turf.difference(polygon,exports.innerPlaya(jsonFile));
+
+
+  return polygon;
+}
+
+exports.centerCampArea = function(jsonFile) {
+  var centerCamp = streets.centerCampStreets(jsonFile);
+  var rod = turf.filter(centerCamp, 'ref','rod').features[0];
+
+  var rodPoly = turf.polygon([rod.geometry.coordinates]);
+  return rodPoly;
+}
+
+exports.streetsArea = function(jsonFile) {
+
+  var points = []
+
+  var circularStreets = streets.circularStreets(jsonFile);
+  var esplanade = turf.filter(circularStreets,'ref','esplanade').features[0];
+  var lStreet = turf.filter(circularStreets,'ref','l').features[0];
+
+  turf.meta.coordEach(lStreet,function(point){
+    points.push(point);
+  })
+
+  points = points.reverse();
+
+  turf.meta.coordEach(esplanade,function(point){
+    points.push(point);
+  })
+
+  points.push(points[0])
+
+  var poly = turf.polygon([points]);
+  return poly
+}
 
 exports.plazas = function(jsonFile) {
   var features = []
@@ -123,7 +186,7 @@ exports.centerCampPolygons = function(jsonFile) {
   var plazaRadius = utils.feetToMiles(jsonFile.center_camp.cafe_plaza_radius);
   var plaza = utils.createArc(centerCampCenter, plazaRadius, 'miles', 0, 360, 5);
   //Create hole for cafe
-  plaza.geometry.coordinates.push(cafe.geometry.coordinates[0]);
+  plaza.geometry.coordinates.push(cafe.geometry.coordinates[0],{'ref':'centerPlaza'});
 
   return turf.featurecollection([cafe,plaza]);
 }
