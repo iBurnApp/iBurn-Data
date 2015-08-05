@@ -48,7 +48,7 @@ exports.radialStreets = function(jsonFile) {
 
         lines.push([startPoint.geometry.coordinates,endPoint.geometry.coordinates]);
       })
-      features.push(turf.multilinestring(lines,{"ref":timeString,"name":timeString,"width":item.width}));
+      features.push(turf.multilinestring(lines,{"ref":timeString,"name":timeString,"width":item.width,'type':"time"}));
     });
 
   });
@@ -245,6 +245,7 @@ function circleStreet(cityCenter, cityBearing, distance, units, segments, ref, n
   var properties = {
     "ref":ref,
     "name":name,
+    "type":"circle"
   };
   var multiLineString = turf.multilinestring([],properties);
   var segments = segments;

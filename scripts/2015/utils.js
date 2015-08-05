@@ -20,9 +20,31 @@ var splitTimeString = function(timeString) {
     return timeString.split(":");
   }
 
+var degreesToTime = function(degrees,cityBearing) {
+  degrees = degrees - cityBearing;
+  if (degrees < 0) {
+    degrees = degrees + 360;
+  }
+
+  var hours = degrees*2/60;
+  var minutes = Math.round(hours % 1 * 60)
+  //http://stackoverflow.com/questions/8089875/show-a-leading-zero-if-a-number-is-less-than-10
+  minutes = (minutes < 10) ? ("0" + minutes) : minutes;
+
+  var hours = Math.floor(hours)
+  if (hours === 0 ){
+    hours = 12;
+  }
+  return hours+":"+minutes;
+}
+
 var feetToMiles = function(feet) {
     return feet * 0.000189394;
   }
+
+var milesToFeet = function(miles) {
+  return miles / 0.000189394
+}
 
 var streetDistanceLookup =  function(jsonFile){
     var distanceLookup = {};
@@ -106,7 +128,9 @@ module.exports = {
   timeToCompassDegrees : timeToCompassDegrees,
   timeStringToCompaassDegress : timeStringToCompaassDegress,
   splitTimeString : splitTimeString,
+  degreesToTime : degreesToTime,
   feetToMiles: feetToMiles,
+  milesToFeet: milesToFeet,
   streetDistanceLookup: streetDistanceLookup,
   bearingCompare: bearingCompare,
   createArc: createArc,

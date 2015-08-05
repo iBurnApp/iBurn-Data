@@ -117,4 +117,8 @@ test('bulkParse', function(t) {
   t.ok(numberMissingTIme/ numberOfcamps < .05,"95% success rate")
   t.end()
 
-})
+});
+
+test('reverseGeocode',function(t) {
+  
+});
