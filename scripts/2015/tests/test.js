@@ -6,6 +6,8 @@ var s = require('../streets.js');
 var p = require('../polygons.js');
 var layout2015 = require('./layout2015.json')
 var points = require('../points.js')
+var prepare = require('../reverse-geocoder/prepare.js');
+var reverseGeocoder = require('../reverse-geocoder/reverse.js');
 
 var cityCenter = layout2015.center;
 
@@ -120,5 +122,28 @@ test('bulkParse', function(t) {
 });
 
 test('reverseGeocode',function(t) {
-  
+  prepare(layout2015, function(cityCenter,centerCampCenter,bearing,polygons,streets){
+    t.ok(cityCenter,"Should have city center");
+    t.ok(centerCampCenter,"Should have center camp center");
+    t.ok(bearing, "City should have bearing");
+    t.ok(polygons, "Should have polygons");
+    t.ok(streets, "Should have streets");
+    var coder = new reverseGeocoder(cityCenter,centerCampCenter,bearing,polygons,streets)
+
+    var result = coder.geocode(40.7873,-119.2101);
+    t.equal(result,"8:07 & 1686' Inner Playa","Inner Playa test");
+    result = coder.geocode(40.7931,-119.1978);
+    t.equal(result,"11:59 & 5518' Outer Playa","Outer Playa test");
+    result = coder.geocode(40.7808,-119.2140);
+    t.equal(result, "Café","Cafe test");
+    result = coder.geocode(40.7807,-119.2132);
+    t.equal(result, "Center Camp Plaza","Center camp plaza test");
+    result = coder.geocode(40.7901,-119.2199);
+    t.equal(result, "8:10 & Ersatz","street test")
+    result = coder.geocode(40.7826,-119.2132);
+    t.equal(result, "11:05 & Rod's Road","rod Road test");
+    result = coder.geocode(40.7821, -119.2140);
+    t.equal(result, "10:26 & Route 66","route 66 test");
+    t.end();
+  });
 });
