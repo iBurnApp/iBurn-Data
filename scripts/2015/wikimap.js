@@ -242,15 +242,19 @@ var mergeWikiGeoWithPlayaEventsEvents = function (wikiGeoJson, playaEventsEvents
 
 var matchWikiGeoWithPlayaEventsCamps = function (wikiGeoJson, playaEventsCampsJson) {
 
-    // Output
+    // Debugging Output. This writes camp names into three files representing
+    // those that are not matched, those considered potential matches, and those considered confident matches.
+    const WRITE_OUTPUT = false;
     var wikiToPeNamePath = '/Users/dbro/Downloads/wiki_to_pe.json';
     var confidentMatchPath = '/Users/dbro/Downloads/confident_matches.json';
     var possibleMatchPath = '/Users/dbro/Downloads/possible_matches.json';
     var noMatchPath = '/Users/dbro/Downloads/no_matches.json';
 
-    var confidentOutput = fs.createWriteStream(confidentMatchPath);
-    var possibleMatchOutput = fs.createWriteStream(possibleMatchPath);
-    var unmatchOutput = fs.createWriteStream(noMatchPath);
+    if (WRITE_OUTPUT) {
+        var confidentOutput = fs.createWriteStream(confidentMatchPath);
+        var possibleMatchOutput = fs.createWriteStream(possibleMatchPath);
+        var unmatchOutput = fs.createWriteStream(noMatchPath);
+    }
 
     // Loose string match score above this value results in auto-match
     const CONFIDENT_MATCH_THRESHOLD = .9;
@@ -277,7 +281,7 @@ var matchWikiGeoWithPlayaEventsCamps = function (wikiGeoJson, playaEventsCampsJs
             console.log('Got match for ' + wName + ' : ' + curatedWikiToPeName[wName]);
             matchedCampNames.push(wName);
             peIdToWIdx[curatedWikiToPeName[wName]] = wName;
-            confidentOutput.write(makeMatchReportString(1, wName, curatedWikiToPeName[wName]));
+            if (WRITE_OUTPUT) confidentOutput.write(makeMatchReportString(1, wName, curatedWikiToPeName[wName]));
             continue;
         }
 
@@ -296,20 +300,23 @@ var matchWikiGeoWithPlayaEventsCamps = function (wikiGeoJson, playaEventsCampsJs
         if (bestMatchScore >= CONFIDENT_MATCH_THRESHOLD) {
             matchedCampNames.push(wName);
             peIdToWIdx[bestMatchName] = wName;
-            confidentOutput.write(makeMatchReportString(bestMatchScore, wName, bestMatchName));
+            if (WRITE_OUTPUT) confidentOutput.write(makeMatchReportString(bestMatchScore, wName, bestMatchName));
             //console.log('Match ' + peName + ' with ' + bestMatchName + ' score: ' + bestMatchScore);
         } else if (bestMatchScore >= POSSIBLE_MATCH_THRESHOLD) {
             possibleMatchCampNames.push(bestMatchName);
-            possibleMatchOutput.write(makeMatchReportString(bestMatchScore, wName, bestMatchName));
+            if (WRITE_OUTPUT) possibleMatchOutput.write(makeMatchReportString(bestMatchScore, wName, bestMatchName));
         } else {
             unmatchedCampNames.push(wName);
-            unmatchOutput.write(makeMatchReportString(bestMatchScore, wName, bestMatchName));
+            if (WRITE_OUTPUT) unmatchOutput.write(makeMatchReportString(bestMatchScore, wName, bestMatchName));
             //console.log('No match for playaEvents name ' + peName);
         }
     }
-    possibleMatchOutput.destroy();
-    unmatchOutput.destroy();
-    confidentOutput.destroy();
+
+    if (WRITE_OUTPUT) {
+        possibleMatchOutput.destroy();
+        unmatchOutput.destroy();
+        confidentOutput.destroy();
+    }
     console.log('Confident Match Rate ' + Math.floor((matchedCampNames.length / wikiGeoJson.features.length) * 100) + '% items: ' + matchedCampNames.length);
     console.log('Possible Match Rate ' + Math.floor((possibleMatchCampNames.length / wikiGeoJson.features.length) * 100) + '% items: ' + possibleMatchCampNames.length);
     console.log('No Match Rate ' + Math.floor((unmatchedCampNames.length / wikiGeoJson.features.length) * 100) + '% items: ' + unmatchedCampNames.length);
