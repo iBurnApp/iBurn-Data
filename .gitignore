@@ -53,3 +53,5 @@ coverage.xml
 docs/_build/
 
 .DS_Store
+
+data/2015/camps.json.js
