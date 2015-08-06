@@ -14,8 +14,8 @@
   "bearing": 45,
   "road_width": 40,
   "entrance_road": {
-    "distance": 250,
-    "angle": 105
+    "distance": 300,
+    "angle": 110
   },
   "center_camp":{
     "distance": 2907,

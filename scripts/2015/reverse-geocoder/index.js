@@ -3,7 +3,7 @@ var reverseGeocoder = require('./reverse.js');
 var layoutFile = require('../../../data/2015/geo/layout.json');
 
 
-global.prepare = function(callback) {
+global.prepare = function() {
   var dict = prepare(layoutFile)
   var coder = new reverseGeocoder(dict.center,dict.centerCamp,dict.bearing,dict.polygons,dict.streets);
   return coder;
