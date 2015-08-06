@@ -4,7 +4,7 @@ var points = require('../points.js');
 var streets = require('../streets.js');
 
 
-module.exports = function(layoutFile,callback) {
+module.exports = function(layoutFile) {
   var streetsArea = polygons.streetsArea(layoutFile);
 
   var innerPlaya = polygons.innerPlaya(layoutFile);
@@ -28,5 +28,11 @@ module.exports = function(layoutFile,callback) {
 
   var centerCampCenter = points.centerCampCenter(layoutFile);
 
-  callback(layoutFile.center,centerCampCenter,layoutFile.bearing,fc,s);
+  return {
+    "center":layoutFile.center,
+    "centerCamp":centerCampCenter,
+    "bearing":layoutFile.bearing,
+    "polygons":fc,
+    "streets":s
+  }
 }

@@ -122,28 +122,27 @@ test('bulkParse', function(t) {
 });
 
 test('reverseGeocode',function(t) {
-  prepare(layout2015, function(cityCenter,centerCampCenter,bearing,polygons,streets){
-    t.ok(cityCenter,"Should have city center");
-    t.ok(centerCampCenter,"Should have center camp center");
-    t.ok(bearing, "City should have bearing");
-    t.ok(polygons, "Should have polygons");
-    t.ok(streets, "Should have streets");
-    var coder = new reverseGeocoder(cityCenter,centerCampCenter,bearing,polygons,streets)
+  var dict = prepare(layout2015);
+  t.ok(dict.center,"Should have city center");
+  t.ok(dict.centerCamp,"Should have center camp center");
+  t.ok(dict.bearing, "City should have bearing");
+  t.ok(dict.polygons, "Should have polygons");
+  t.ok(dict.streets, "Should have streets");
+  var coder = new reverseGeocoder(dict.center,dict.centerCamp,dict.bearing,dict.polygons,dict.streets);
 
-    var result = coder.geocode(40.7873,-119.2101);
-    t.equal(result,"8:07 & 1686' Inner Playa","Inner Playa test");
-    result = coder.geocode(40.7931,-119.1978);
-    t.equal(result,"11:59 & 5518' Outer Playa","Outer Playa test");
-    result = coder.geocode(40.7808,-119.2140);
-    t.equal(result, "Café","Cafe test");
-    result = coder.geocode(40.7807,-119.2132);
-    t.equal(result, "Center Camp Plaza","Center camp plaza test");
-    result = coder.geocode(40.7901,-119.2199);
-    t.equal(result, "8:10 & Ersatz","street test")
-    result = coder.geocode(40.7826,-119.2132);
-    t.equal(result, "11:05 & Rod's Road","rod Road test");
-    result = coder.geocode(40.7821, -119.2140);
-    t.equal(result, "10:26 & Route 66","route 66 test");
-    t.end();
-  });
+  var result = coder.geocode(40.7873,-119.2101);
+  t.equal(result,"8:07 & 1686' Inner Playa","Inner Playa test");
+  result = coder.geocode(40.7931,-119.1978);
+  t.equal(result,"11:59 & 5518' Outer Playa","Outer Playa test");
+  result = coder.geocode(40.7808,-119.2140);
+  t.equal(result, "Café","Cafe test");
+  result = coder.geocode(40.7807,-119.2132);
+  t.equal(result, "Center Camp Plaza","Center camp plaza test");
+  result = coder.geocode(40.7901,-119.2199);
+  t.equal(result, "8:10 & Ersatz","street test")
+  result = coder.geocode(40.7826,-119.2132);
+  t.equal(result, "11:05 & Rod's Road","rod Road test");
+  result = coder.geocode(40.7821, -119.2140);
+  t.equal(result, "10:26 & Route 66","route 66 test");
+  t.end();
 });

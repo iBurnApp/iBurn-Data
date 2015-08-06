@@ -4,10 +4,9 @@ var layoutFile = require('../../../data/2015/geo/layout.json');
 
 
 global.prepare = function(callback) {
-  prepare(layoutFile, function(cityCenter,centerCampCenter,bearing,polygons,streets){
-    var coder = new reverseGeocoder(cityCenter,centerCampCenter,bearing,polygons,streets)
-    callback(coder);
-  });
+  var dict = prepare(layoutFile)
+  var coder = new reverseGeocoder(dict.center,dict.centerCamp,dict.bearing,dict.polygons,dict.streets);
+  return coder;
 }
 
 global.reverseGeocode = function(coder,lat,lon) {
