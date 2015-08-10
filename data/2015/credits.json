@@ -1,0 +1,42 @@
+[
+	{
+		"name": "Andrew Johnstone / Haggis",
+		"url": "http://architecturalartsguild.com/about/",
+		"blurb": "Design Steward of the Man"
+	},
+	{
+		"name": "Chris Ballinger",
+		"url": "http://chrisballinger.info",
+		"blurb": "iBurn iOS"
+	},
+	{
+		"name": "David Brodsky",
+		"url": "https://github.com/onlyinamerica",
+		"blurb": "iBurn Android"
+	},
+	{
+		"name": "David Chiles",
+		"url": "https://github.com/davidchiles",
+		"blurb": "iBurn Data"
+	},
+	{
+		"name": "Savannah Henderson",
+		"url": "http://www.savannahhenderson.com",
+		"blurb": "iBurn Maps"
+	},
+	{
+		"name": "BurnerMap",
+		"url": "https://burnermap.com/",
+		"blurb": "Camp Location Data"
+	},
+	{
+		"name": "2015 Unofficial Map",
+		"url": "https://www.google.com/maps/d/viewer?mid=zkszwyFJ-h7E.kaxgaF8gR5Sw",
+		"blurb": "Camp Location Data"
+	},
+	{
+		"name": "PlayaEvents API",
+		"url": "http://playaevents.burningman.org/api/0.2/docs/",
+		"blurb": "Art, Camp, Event Data"
+	}
+]
