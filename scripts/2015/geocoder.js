@@ -85,19 +85,18 @@ function intersectingPoints(features1,features2) {
   return intersections;
 }
 
-Geocoder.prototype.geocode = function(locationString,callback) {
+Geocoder.prototype.geocode = function(locationString) {
   if (locationString in this.hardcodedLocations) {
     return this.hardcodedLocations[locationStirng]
   } else {
     var coder = this;
-    Parser.parse(locationString, function(time,distance,feature){
-      if(distance > 0){
+    var result = Parser.parse(locationString)
+    if(result.distance > 0){
 
-        callback(coder.timeDistanceToLatLon(time,utils.feetToMiles(distance),'miles'))
-      } else {
-        callback(coder.streetIntersectionToLatLon(time,feature));
-      }
-    })
+      return coder.timeDistanceToLatLon(result.time,utils.feetToMiles(result.distance),'miles');
+    } else {
+      return coder.streetIntersectionToLatLon(result.time,result.feature);
+    }
   }
 }
 

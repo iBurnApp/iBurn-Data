@@ -60,10 +60,13 @@ test ('StreetIntersection', function(t) {
   for (var i =0; i < testSearches.length; i++) {
     var testIntersection = testSearches[i];
     var intersection = coder.streetIntersectionToLatLon(testIntersection.properties.time,testIntersection.properties.street);
-    coder.geocode(testIntersection.properties.street +' & '+testIntersection.properties.time,function(intsection){
-      var distance1 = turf.distance(intsection,testIntersection);
-      t.ok(distance1 < 0.001, "Intersection should be close "+distance);
-    })
+    var intersection = coder.geocode(testIntersection.properties.street +' & '+testIntersection.properties.time);
+    var distance1 = turf.distance(intersection,testIntersection);
+    t.ok(distance1 < 0.001, "Intersection should be close "+distance);
+
+    intersection = coder.geocode(testIntersection.properties.time +' & '+testIntersection.properties.street);
+    distance1 = turf.distance(intersection,testIntersection);
+    t.ok(distance1 < 0.001, "Intersection should be close "+distance);
 
     var distance = turf.distance(intersection,testIntersection);
     t.ok(distance < 0.001, "Intersection should be close "+distance);
@@ -74,21 +77,18 @@ test ('StreetIntersection', function(t) {
 
 test ('parserTimeDistance', function(t) {
   var artString = "11:55 6600\', Open Playa";
-  Parser.parse(artString,function(tm,dist){
-    t.ok(tm === '11:55' ,"Time string should be equal")
-    t.ok(dist === 6600, "Distance should be equal")
-    t.end();
-  });
+  var result = Parser.parse(artString);
+  t.ok(result.time === '11:55' ,"Time string should be equal")
+  t.ok(result.distance === 6600, "Distance should be equal")
+  t.end();
 });
 
 test ('parseStreetTime', function(t) {
   var campString =  "Cinnamon & 5:15"
-  Parser.parse(campString,function(tm,dist,street){
-    console.log(tm)
-    t.ok(tm === '5:15' ,"Time string should be equal")
-    t.ok(street === 'Cinnamon', "Street should be equal")
-    t.end();
-  });
+  var result = Parser.parse(campString);
+  t.ok(result.time === '5:15' ,"Time string should be equal")
+  t.ok(result.feature === 'Cinnamon', "Street should be equal")
+  t.end();
 });
 
 test('bulkParse', function(t) {
@@ -100,20 +100,19 @@ test('bulkParse', function(t) {
 
   camps.map(function(item) {
     var locationString = item.location;
-    Parser.parse(locationString,function(tm,dist,street) {
-      if(tm) {
-        numberWithTime += 1;
-        var hasSecondary = false;
-        if (dist || street) {
-          hasSecondary = true;
-        } else {
-          console.log("Missing Secondary: %s",locationString)
-        }
+    var result = Parser.parse(locationString);
+    if(result.time) {
+      numberWithTime += 1;
+      var hasSecondary = false;
+      if (result.distance || result.feature) {
+        hasSecondary = true;
       } else {
-        console.log("Missing Time: %s",locationString);
-        numberMissingTIme += 1;
+        console.log("Missing Secondary: %s",locationString)
       }
-    })
+    } else {
+      console.log("Missing Time: %s",locationString);
+      numberMissingTIme += 1;
+    }
   });
 
   t.ok(numberMissingTIme/ numberOfcamps < .05,"95% success rate")
