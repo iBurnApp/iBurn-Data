@@ -28,6 +28,10 @@ var degreesToTime = function(degrees,cityBearing) {
 
   var hours = degrees*2/60;
   var minutes = Math.round(hours % 1 * 60)
+  if (minutes === 60) {
+    hours += 1
+    minutes = 0
+  };
   //http://stackoverflow.com/questions/8089875/show-a-leading-zero-if-a-number-is-less-than-10
   minutes = (minutes < 10) ? ("0" + minutes) : minutes;
 

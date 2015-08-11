@@ -143,5 +143,7 @@ test('reverseGeocode',function(t) {
   t.equal(result, "11:05 & Rod's Road","rod Road test");
   result = coder.geocode(40.7821, -119.2140);
   t.equal(result, "10:26 & Route 66","route 66 test");
+  result = coder.geocode(40.776184, -119.22);
+  t.equal(result, "6:00 & Kook","Crossing hour test");
   t.end();
 });
