@@ -1,6 +1,6 @@
 
 
-module.exports.location = function(playaEvents, unofficialArray, geocoder, reverseGeocoder) {
+module.exports.location = function(playaEvents, unofficialArray, geocoder) {
   var final = [];
   var count = 0;
   for (var key in playaEvents) {
@@ -46,7 +46,7 @@ module.exports.location = function(playaEvents, unofficialArray, geocoder, rever
         playaEventItem.longitude = best.coordinates[0];
         if (!best.address) {
           //reverse-geocode
-          playaEventItem.location = reverseGeocoder.geocode(playaEventItem.latitude,  playaEventItem.longitude);
+          playaEventItem.location = geocoder.reverse(playaEventItem.latitude,  playaEventItem.longitude);
         }
       }
 
@@ -55,9 +55,9 @@ module.exports.location = function(playaEvents, unofficialArray, geocoder, rever
         playaEventItem.location = best.address;
         if (!best.coordinates) {
 
-          var point = geocoder.geocode(playaEventItem.location);
+          var point = geocoder.forward(playaEventItem.location);
           if (point) {
-            
+
             playaEventItem.latitude = point.geometry.coordinates[1];
             playaEventItem.longitude = point.geometry.coordinates[0];
           }

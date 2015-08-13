@@ -14,12 +14,14 @@ var nopt = require("nopt")
   , knownOpts = {
     "wiki" : path,
     'hardcoded' : path,
-    "playaEvents": path
+    "playaEvents": path,
+    "out": path
   }
   , shortHands = {
      "w" : ["--wiki"],
      "h" : ["--hardcoded"],
-     "p" : ["--playaEvents"]
+     "p" : ["--playaEvents"],
+     "o" : ["--out"]
    }
   , parsed = nopt(knownOpts, shortHands, process.argv, 2)
 
@@ -58,4 +60,8 @@ wikiJSON.features.map(function(item){
   });
 });
 
-console.log (JSON.stringify(final, null, 4));
+if (parsed.out) {
+fs.writeFile(parsed.out, JSON.stringify(final), function(err) {});
+} else {
+  console.log(JSON.stringify(final));
+}
