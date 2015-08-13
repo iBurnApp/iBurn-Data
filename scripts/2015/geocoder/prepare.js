@@ -32,7 +32,9 @@ module.exports = function(layoutFile) {
     "center":layoutFile.center,
     "centerCamp":centerCampCenter,
     "bearing":layoutFile.bearing,
-    "polygons":fc,
-    "streets":s
+    "reversePolygons":fc,
+    "reverseStreets":s,
+    "forwardPolygons":polygons.allPolygons(layoutFile),
+    "forwardStreets":streets.allStreets(layoutFile)
   }
 }

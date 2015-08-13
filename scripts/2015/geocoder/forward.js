@@ -1,9 +1,9 @@
 
 var turf  = require('turf');
-var utils = require('./utils.js');
+var utils = require('../utils.js');
 var Parser = require('./geocodeParser.js')
 
-var Geocoder = function(centerPoint, cityBearing, centerCamp,streets,polygons, hardcodedLocations) {
+var Geocoder = function(centerPoint, centerCamp, cityBearing, streets, polygons, hardcodedLocations) {
   this.centerPoint = centerPoint;
   this.centerCamp = centerCamp;
   this.cityBearing = cityBearing;
