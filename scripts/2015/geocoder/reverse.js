@@ -8,8 +8,9 @@ var reverseGeocoder = function(cityCenter,centerCampCenter,cityBearing,polygons,
   this.streets = streets.features;
   this.centerPlaza = turf.filter(polygons,'ref','centerPlaza').features[0];
   this.cafe = turf.filter(polygons,'ref','cafe').features[0];
-  this.innerPlaya = turf.filter(polygons,'ref','innerPlaya').features[0]
-  this.outerPlaya = turf.filter(polygons,'ref','outerPlaya').features[0]
+  this.innerPlaya = turf.filter(polygons,'ref','innerPlaya').features[0];
+  this.outerPlaya = turf.filter(polygons,'ref','outerPlaya').features[0];
+  this.streetsArea = turf.filter(polygons,'ref','streets').features[0];
 };
 
 reverseGeocoder.prototype.geocode = function(lat, lon) {
@@ -24,10 +25,12 @@ reverseGeocoder.prototype.geocode = function(lat, lon) {
 
   } else if (turf.inside(point,this.outerPlaya)) {
     return this.playaResult(point,this.outerPlaya);
-  } else {
+  } else if (turf.inside(point,this.streetsArea)) {
     var result = streetResult(point,this.streets);
     var time = this.timeForStreet(result.point,result.street);
     return time + ' & ' + result.street.properties.name;
+  } else {
+    return 'Outside Black Rock City';
   }
 };
 

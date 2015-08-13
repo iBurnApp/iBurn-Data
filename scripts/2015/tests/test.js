@@ -129,5 +129,7 @@ test('reverseGeocode',function(t) {
   t.equal(result, "10:26 & Route 66","route 66 test");
   result = coder.reverse(40.776184, -119.22);
   t.equal(result, "6:00 & Kook","Crossing hour test");
+  result = coder.reverse(40.659,-119.363);
+  t.equal(result, "Outside Black Rock City")
   t.end();
 });
