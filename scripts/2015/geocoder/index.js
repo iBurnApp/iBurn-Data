@@ -7,7 +7,7 @@ var layoutFile = require('../../../data/2015/geo/layout.json');
  * doesn't change.
 */
 global.prepare = function() {
-  return Geocoder(layoutFile);
+  return new Geocoder(layoutFile);
 }
 
 global.reverseGeocode = function(coder, lat, lon) {
