@@ -252,7 +252,7 @@ function circleStreet(cityCenter, cityBearing, distance, units, segments, ref, n
   segments.map( function(segment){
     var splitStartTime = utils.splitTimeString(segment[0]);
     var splitEndTime = utils.splitTimeString(segment[1]);
-    var startBearing = utils.timeToCompassDegrees(splitStartTime[0],splitEndTime[1],cityBearing);
+    var startBearing = utils.timeToCompassDegrees(splitStartTime[0],splitStartTime[1],cityBearing);
     var endBearing = utils.timeToCompassDegrees(splitEndTime[0],splitEndTime[1],cityBearing);
     var arc = utils.createArc(cityCenter,distance,units,startBearing,endBearing,5)
     multiLineString.geometry.coordinates.push(arc.geometry.coordinates);
