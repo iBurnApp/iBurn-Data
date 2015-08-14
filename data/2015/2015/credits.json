@@ -37,6 +37,11 @@
 	{
 		"name": "PlayaEvents API",
 		"url": "http://playaevents.burningman.org/api/0.2/docs/",
-		"blurb": "Art, Camp, Event Data"
+		"blurb": "Art Camp & Event Data"
+	},
+	{
+		"name": "Matthew Goodman",
+		"url": "http://craneium.net/index.php?option=com_content&view=article&id=109&Itemid=116",
+		"blurb": "Playa Time Lapse Video"
 	}
 ]
