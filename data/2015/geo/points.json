@@ -758,6 +758,20 @@
       "properties": {
         "ref": "toilet"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Temple of Promise",
+        "ref": "temple"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.20010164472536,
+          40.79124398547589
+        ]
+      }
     }
   ]
 }

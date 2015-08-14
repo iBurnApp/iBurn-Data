@@ -10,3 +10,15 @@ exports.centerCampCenter = function(jsonFile) {
 
   return ccc;
 }
+
+exports.temple = function(jsonFile) {
+  var cityBearing = jsonFile.bearing;
+  var cityCenter = jsonFile.center;
+  var espInfo = jsonFile.cStreets.filter(function(item){
+    return item.ref === "esplanade";
+  })[0];
+  var distance = utils.feetToMiles(espInfo.distance);
+
+  var temple = turf.destination(cityCenter,distance,cityBearing,'miles')
+  return temple;
+}
