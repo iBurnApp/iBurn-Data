@@ -35,7 +35,7 @@ Geocoder.prototype.timeDistanceToLatLon = function(time, distance, units) {
 Geocoder.prototype.streetIntersectionToLatLon = function(timeString, featureName) {
   var timeBearing = utils.timeStringToCompaassDegress(timeString,this.cityBearing);
   var start = this.centerPoint;
-  if (featureName.indexOf("Rod") > -1) {
+  if (featureName.indexOf("Rod") > -1 ||featureName.indexOf("Inner") > -1 || featureName.indexOf("66") > -1) {
     start = this.centerCamp;
   }
 

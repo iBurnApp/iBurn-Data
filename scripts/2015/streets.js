@@ -117,7 +117,8 @@ exports.centerCampStreets = function(jsonFile) {
   var plazaRoadRadius = utils.feetToMiles(cafeRadius+ (plazaRadius-cafeRadius)/2.0);
   var plazaRoad = utils.createArc(ccc, plazaRoadRadius, 'miles', 0, 360, 5);
   plazaRoad = turf.linestring(plazaRoad.geometry.coordinates[0],{
-    "ref": "centerCampPlazaRoad"
+    "ref": "centerCampPlazaRoad",
+    "name": "Inner Circle"
   });
 
   //Two roads that go out at about 3:00 & 9:00 to intersect at A Road

@@ -36,7 +36,7 @@ reverseGeocoder.prototype.geocode = function(lat, lon) {
 
 reverseGeocoder.prototype.timeForStreet = function(point,street) {
   var center = this.cityCenter;
-  if (street.properties.ref === '66' || street.properties.ref === 'rod') {
+  if (street.properties.ref === '66' || street.properties.ref === 'rod' || street.properties.ref === 'centerCampPlazaRoad') {
     center = this.centerCampCenter
   }
 

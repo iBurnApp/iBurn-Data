@@ -46,7 +46,8 @@ test ('StreetIntersection', function(t) {
     turf.point([ -119.218315, 40.777443 ],{street:"Hanky Panky", time:'6:00'}),
     turf.point([ -119.215238, 40.784623 ],{street:'Esplanade',time:"7:00"}),
     turf.point([ -119.215856, 40.779312 ],{street:'Rod\'s Road',time:"6:00"}),
-    turf.point([ -119.215856, 40.779312 ],{street:'Rod Road',time:"6:00"})
+    turf.point([ -119.215856, 40.779312 ],{street:'Rod Road',time:"6:00"}),
+    turf.point([ -119.213835, 40.780169 ],{street:"Inner Circle",time:"4:15"})
   ];
 
   for (var i =0; i < testSearches.length; i++) {
@@ -133,5 +134,7 @@ test('reverseGeocode',function(t) {
   t.equal(result, "6:00 & Kook","Crossing hour test");
   result = coder.reverse(40.659,-119.363);
   t.equal(result, "Outside Black Rock City")
+  result = coder.reverse(40.779819000011244, -119.21382886807997);
+  t.equal(result, "4:20 & Inner Circle");
   t.end();
 });
