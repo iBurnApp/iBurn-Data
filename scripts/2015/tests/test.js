@@ -43,23 +43,25 @@ test ('StreetIntersection', function(t) {
 
   var testSearches = [
     turf.point([ -119.218315, 40.777443 ],{street:"Hankypanky", time:'6:00'}),
+    turf.point([ -119.218315, 40.777443 ],{street:"Hanky Panky", time:'6:00'}),
     turf.point([ -119.215238, 40.784623 ],{street:'Esplanade',time:"7:00"}),
-    turf.point([ -119.215856, 40.779312 ],{street:'Rod\'s Road',time:"6:00"})
+    turf.point([ -119.215856, 40.779312 ],{street:'Rod\'s Road',time:"6:00"}),
+    turf.point([ -119.215856, 40.779312 ],{street:'Rod Road',time:"6:00"})
   ];
 
   for (var i =0; i < testSearches.length; i++) {
     var testIntersection = testSearches[i];
     var intersection = coder.forwardStreetIntersection(testIntersection.properties.time,testIntersection.properties.street);
-    var intersection = coder.forward(testIntersection.properties.street +' & '+testIntersection.properties.time);
-    var distance1 = turf.distance(intersection,testIntersection);
-    t.ok(distance1 < 0.001, "Intersection should be close "+distance);
+    var distanceDifference = turf.distance(intersection,testIntersection);
+    t.ok(distanceDifference < 0.001, "Intersection should be close "+distanceDifference);
+
+    intersection = coder.forward(testIntersection.properties.street +' & '+testIntersection.properties.time);
+    distanceDifference = turf.distance(intersection,testIntersection);
+    t.ok(distanceDifference < 0.001, "Intersection should be close "+distanceDifference);
 
     intersection = coder.forward(testIntersection.properties.time +' & '+testIntersection.properties.street);
-    distance1 = turf.distance(intersection,testIntersection);
-    t.ok(distance1 < 0.001, "Intersection should be close "+distance);
-
-    var distance = turf.distance(intersection,testIntersection);
-    t.ok(distance < 0.001, "Intersection should be close "+distance);
+    distanceDifference = turf.distance(intersection,testIntersection);
+    t.ok(distanceDifference < 0.001, "Intersection should be close "+distanceDifference);
   }
 
   t.end()

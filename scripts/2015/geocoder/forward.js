@@ -2,6 +2,7 @@
 var turf  = require('turf');
 var utils = require('../utils.js');
 var Parser = require('./geocodeParser.js')
+var leven = require('levenshtein');
 
 var Geocoder = function(centerPoint, centerCamp, cityBearing, streets, polygons, hardcodedLocations) {
   this.centerPoint = centerPoint;
@@ -55,13 +56,16 @@ Geocoder.prototype.streetIntersectionToLatLon = function(timeString, featureName
 }
 
 Geocoder.prototype.fuzzyMatchFeatures = function(key, value) {
-  var arrayLength = this.features.length;
   var features = []
   //go through all features and pull out matching items for each name
   this.features.map(function(item){
-    //Todo: use some sort of fuzzy matching instead of strict ===
-    if (item.properties[key] === value) {
-      features.push(item);
+    var geoName = item.properties[key];
+    if (geoName) {
+      var largestNameLength = Math.max(geoName.length, value.length);
+      var match = (largestNameLength - new leven(geoName, value).distance) / largestNameLength;
+      if (match > 0.6) {
+        features.push(item);
+      }
     }
   });
   return features
