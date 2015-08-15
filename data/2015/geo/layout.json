@@ -14,8 +14,8 @@
   "bearing": 45,
   "road_width": 40,
   "entrance_road": {
-    "distance": 250,
-    "angle": 105
+    "distance": 300,
+    "angle": 110
   },
   "center_camp":{
     "distance": 2907,
@@ -43,7 +43,7 @@
     },
     {
       "distance":3180,
-      "segments":[["2:00","10:00"]],
+      "segments":[["2:00","5:30"],["6:30","10:00"]],
       "ref":"b",
       "name": "Ballyhoo"
     },
@@ -69,7 +69,7 @@
       "distance":4140,
       "segments":[["2:30","3:30"],["4:00","5:00"],["7:00","8:00"],["8:30","9:30"]],
       "ref":"f",
-      "name": "Freakshow"
+      "name": "Freak Show"
     },
     {
       "distance":4380,
@@ -81,7 +81,7 @@
       "distance":4620,
       "segments":[["2:00","10:00"]],
       "ref":"h",
-      "name": "Hankypanky"
+      "name": "Hanky Panky"
     },
     {
       "distance":4860,
@@ -105,7 +105,7 @@
       "distance":5580,
       "segments":[["2:00","10:00"]],
       "ref":"l",
-      "name": "LaffingSal"
+      "name": "Laffing Sal"
     }
   ],
   "tStreets":[

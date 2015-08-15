@@ -48,7 +48,7 @@ exports.radialStreets = function(jsonFile) {
 
         lines.push([startPoint.geometry.coordinates,endPoint.geometry.coordinates]);
       })
-      features.push(turf.multilinestring(lines,{"ref":timeString,"name":timeString,"width":item.width}));
+      features.push(turf.multilinestring(lines,{"ref":timeString,"name":timeString,"width":item.width,'type':"time"}));
     });
 
   });
@@ -117,7 +117,8 @@ exports.centerCampStreets = function(jsonFile) {
   var plazaRoadRadius = utils.feetToMiles(cafeRadius+ (plazaRadius-cafeRadius)/2.0);
   var plazaRoad = utils.createArc(ccc, plazaRoadRadius, 'miles', 0, 360, 5);
   plazaRoad = turf.linestring(plazaRoad.geometry.coordinates[0],{
-    "ref": "centerCampPlazaRoad"
+    "ref": "centerCampPlazaRoad",
+    "name": "Inner Circle"
   });
 
   //Two roads that go out at about 3:00 & 9:00 to intersect at A Road
@@ -245,13 +246,14 @@ function circleStreet(cityCenter, cityBearing, distance, units, segments, ref, n
   var properties = {
     "ref":ref,
     "name":name,
+    "type":"circle"
   };
   var multiLineString = turf.multilinestring([],properties);
   var segments = segments;
   segments.map( function(segment){
     var splitStartTime = utils.splitTimeString(segment[0]);
     var splitEndTime = utils.splitTimeString(segment[1]);
-    var startBearing = utils.timeToCompassDegrees(splitStartTime[0],splitEndTime[1],cityBearing);
+    var startBearing = utils.timeToCompassDegrees(splitStartTime[0],splitStartTime[1],cityBearing);
     var endBearing = utils.timeToCompassDegrees(splitEndTime[0],splitEndTime[1],cityBearing);
     var arc = utils.createArc(cityCenter,distance,units,startBearing,endBearing,5)
     multiLineString.geometry.coordinates.push(arc.geometry.coordinates);

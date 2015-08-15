@@ -1,7 +1,7 @@
 var test = require('tape');
 var turf  = require('turf');
-var Geocoder = require('../geocoder.js');
-var Parser = require('../geocodeParser.js')
+var Geocoder = require('../geocoder/geocoder.js');
+var Parser = require('../geocoder/geocodeParser.js')
 var s = require('../streets.js');
 var p = require('../polygons.js');
 var layout2015 = require('./layout2015.json')
@@ -9,16 +9,9 @@ var points = require('../points.js')
 
 var cityCenter = layout2015.center;
 
-var centerCamp = points.centerCampCenter(layout2015);
-
-var cityBearingDegrees = layout2015.bearing;
-
-var streets = s.allStreets(layout2015);
-var polygons = p.allPolygons(layout2015);
-
 test('TimeAndDistance', function(t) {
 
-  var coder = new Geocoder(cityCenter,cityBearingDegrees,centerCamp,streets,polygons);
+  var coder = new Geocoder(layout2015);
   var distance = 0.5;
   var unit = 'miles';
 
@@ -33,7 +26,7 @@ test('TimeAndDistance', function(t) {
   };
 
   for (time in timeDict) {
-    var newPoint = coder.timeDistanceToLatLon(time,distance,unit);
+    var newPoint = coder.forwardTimeDistance(time, distance, unit);
     var calculatedDistance = turf.distance(cityCenter,newPoint, unit);
     var goodEnoughDistance = Math.abs(distance-calculatedDistance) < 0.001;
     var bearing = turf.bearing(cityCenter,newPoint).toFixed(2);
@@ -46,25 +39,30 @@ test('TimeAndDistance', function(t) {
 
 test ('StreetIntersection', function(t) {
 
-  var coder = new Geocoder(cityCenter,cityBearingDegrees,centerCamp,streets,polygons);
-  coder.addFeatures(streets);
+  var coder = new Geocoder(layout2015);
 
   var testSearches = [
     turf.point([ -119.218315, 40.777443 ],{street:"Hankypanky", time:'6:00'}),
+    turf.point([ -119.218315, 40.777443 ],{street:"Hanky Panky", time:'6:00'}),
     turf.point([ -119.215238, 40.784623 ],{street:'Esplanade',time:"7:00"}),
-    turf.point([ -119.215856, 40.779312 ],{street:'Rod\'s Road',time:"6:00"})
+    turf.point([ -119.215856, 40.779312 ],{street:'Rod\'s Road',time:"6:00"}),
+    turf.point([ -119.215856, 40.779312 ],{street:'Rod Road',time:"6:00"}),
+    turf.point([ -119.213835, 40.780169 ],{street:"Inner Circle",time:"4:15"})
   ];
 
   for (var i =0; i < testSearches.length; i++) {
     var testIntersection = testSearches[i];
-    var intersection = coder.streetIntersectionToLatLon(testIntersection.properties.time,testIntersection.properties.street);
-    coder.geocode(testIntersection.properties.street +' & '+testIntersection.properties.time,function(intsection){
-      var distance1 = turf.distance(intsection,testIntersection);
-      t.ok(distance1 < 0.001, "Intersection should be close "+distance);
-    })
+    var intersection = coder.forwardStreetIntersection(testIntersection.properties.time,testIntersection.properties.street);
+    var distanceDifference = turf.distance(intersection,testIntersection);
+    t.ok(distanceDifference < 0.001, "Intersection should be close "+distanceDifference);
 
-    var distance = turf.distance(intersection,testIntersection);
-    t.ok(distance < 0.001, "Intersection should be close "+distance);
+    intersection = coder.forward(testIntersection.properties.street +' & '+testIntersection.properties.time);
+    distanceDifference = turf.distance(intersection,testIntersection);
+    t.ok(distanceDifference < 0.001, "Intersection should be close "+distanceDifference);
+
+    intersection = coder.forward(testIntersection.properties.time +' & '+testIntersection.properties.street);
+    distanceDifference = turf.distance(intersection,testIntersection);
+    t.ok(distanceDifference < 0.001, "Intersection should be close "+distanceDifference);
   }
 
   t.end()
@@ -72,21 +70,18 @@ test ('StreetIntersection', function(t) {
 
 test ('parserTimeDistance', function(t) {
   var artString = "11:55 6600\', Open Playa";
-  Parser.parse(artString,function(tm,dist){
-    t.ok(tm === '11:55' ,"Time string should be equal")
-    t.ok(dist === 6600, "Distance should be equal")
-    t.end();
-  });
+  var result = Parser.parse(artString);
+  t.ok(result.time === '11:55' ,"Time string should be equal")
+  t.ok(result.distance === 6600, "Distance should be equal")
+  t.end();
 });
 
 test ('parseStreetTime', function(t) {
   var campString =  "Cinnamon & 5:15"
-  Parser.parse(campString,function(tm,dist,street){
-    console.log(tm)
-    t.ok(tm === '5:15' ,"Time string should be equal")
-    t.ok(street === 'Cinnamon', "Street should be equal")
-    t.end();
-  });
+  var result = Parser.parse(campString);
+  t.ok(result.time === '5:15' ,"Time string should be equal")
+  t.ok(result.feature === 'Cinnamon', "Street should be equal")
+  t.end();
 });
 
 test('bulkParse', function(t) {
@@ -98,23 +93,48 @@ test('bulkParse', function(t) {
 
   camps.map(function(item) {
     var locationString = item.location;
-    Parser.parse(locationString,function(tm,dist,street) {
-      if(tm) {
-        numberWithTime += 1;
-        var hasSecondary = false;
-        if (dist || street) {
-          hasSecondary = true;
-        } else {
-          console.log("Missing Secondary: %s",locationString)
-        }
+    var result = Parser.parse(locationString);
+    if(result.time) {
+      numberWithTime += 1;
+      var hasSecondary = false;
+      if (result.distance || result.feature) {
+        hasSecondary = true;
       } else {
-        console.log("Missing Time: %s",locationString);
-        numberMissingTIme += 1;
+        console.log("Missing Secondary: %s",locationString)
       }
-    })
+    } else {
+      console.log("Missing Time: %s",locationString);
+      numberMissingTIme += 1;
+    }
   });
 
   t.ok(numberMissingTIme/ numberOfcamps < .05,"95% success rate")
   t.end()
 
-})
+});
+
+test('reverseGeocode',function(t) {
+  var coder = new Geocoder(layout2015);
+
+  var result = coder.reverse(40.7873,-119.2101);
+  t.equal(result,"8:07 & 1686' Inner Playa","Inner Playa test");
+  result = coder.reverse(40.7931,-119.1978);
+  t.equal(result,"11:59 & 5518' Outer Playa","Outer Playa test");
+  result = coder.reverse(40.7808,-119.2140);
+  t.equal(result, "Café","Cafe test");
+  result = coder.reverse(40.7807,-119.2132);
+  t.equal(result, "Center Camp Plaza","Center camp plaza test");
+  result = coder.reverse(40.7901,-119.2199);
+  t.equal(result, "8:10 & Ersatz","street test")
+  result = coder.reverse(40.7826,-119.2132);
+  t.equal(result, "11:05 & Rod's Road","rod Road test");
+  result = coder.reverse(40.7821, -119.2140);
+  t.equal(result, "10:26 & Route 66","route 66 test");
+  result = coder.reverse(40.776184, -119.22);
+  t.equal(result, "6:00 & Kook","Crossing hour test");
+  result = coder.reverse(40.659,-119.363);
+  t.equal(result, "Outside Black Rock City")
+  result = coder.reverse(40.779819000011244, -119.21382886807997);
+  t.equal(result, "4:20 & Inner Circle");
+  t.end();
+});

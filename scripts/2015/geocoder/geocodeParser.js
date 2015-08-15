@@ -15,8 +15,8 @@ module.exports.parse = function(string,callback) {
   var timeRegEx = new RegExp("([0-9]|0[0-9]|1[0-9]|2[0-3]):[0-5][0-9]");
   //Distance regex 100'
   var feetRegEx = new RegExp("[0-9]*(?=')");
-  //featureRegEx captures streets A-L Rod's road and plazas when they begin the string and are followed by ' &'
-  var featureRegEx = new RegExp("^[A-L|Rod|P].*(?= &)");
+  //featureRegEx captures streets A-L Rod's road and plazas when they begin the string and are followed by ' &' or are at the end
+  var featureRegEx = new RegExp("^[A-L|Rod|P].*(?= &)|[A-L|Rod|P].*$");
 
   var timeString;
   var timeArray = timeRegEx.exec(string);
@@ -37,5 +37,5 @@ module.exports.parse = function(string,callback) {
   }
 
 
-  callback(timeString,feet,feature);
+  return {"time":timeString,"distance":feet,"feature":feature};
 }

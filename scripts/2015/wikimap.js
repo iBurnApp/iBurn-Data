@@ -258,7 +258,7 @@ var matchWikiGeoWithPlayaEventsCamps = function (wikiGeoJson, playaEventsCampsJs
 
     // Loose string match score above this value results in auto-match
     const CONFIDENT_MATCH_THRESHOLD = .9;
-    // Loose string match above this value, but below AUTO_MATCH is a candidate for human matching
+    // Loose string match above this value, but below CONFIDENT_MATCH_THRESHOLD is a candidate for human matching
     const POSSIBLE_MATCH_THRESHOLD = .51;
 
     var unmatchedCampNames = [];

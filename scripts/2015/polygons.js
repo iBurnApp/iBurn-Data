@@ -23,6 +23,7 @@ exports.innerPlaya = function(jsonFile) {
   var innerPolygon = utils.createArc(jsonFile.center, utils.feetToMiles(distance), 'miles', 0, 360, 5);
 
   var polygon = turf.difference(innerPolygon,rodPoly);
+  polygon.properties = {'ref':'innerPlaya','name':'Inner Playa'};
 
   return polygon;
 }
@@ -33,6 +34,7 @@ exports.outerPlaya = function(jsonFile) {
   polygon = turf.difference(polygon,exports.centerCampArea(jsonFile));
   polygon = turf.difference(polygon,exports.innerPlaya(jsonFile));
 
+  polygon.properties = {'ref':'outerPlaya','name':'Outer Playa'}
 
   return polygon;
 }
@@ -66,6 +68,9 @@ exports.streetsArea = function(jsonFile) {
   points.push(points[0])
 
   var poly = turf.polygon([points]);
+  var centerCamp = exports.centerCampArea(jsonFile);
+  poly = turf.union(poly,centerCamp);
+  poly.properties = {'ref':'streets'}
   return poly
 }
 
@@ -185,8 +190,9 @@ exports.centerCampPolygons = function(jsonFile) {
   //Plaza
   var plazaRadius = utils.feetToMiles(jsonFile.center_camp.cafe_plaza_radius);
   var plaza = utils.createArc(centerCampCenter, plazaRadius, 'miles', 0, 360, 5);
+  plaza.properties = {'ref':'centerPlaza','name':'Center Camp Plaza'};
   //Create hole for cafe
-  plaza.geometry.coordinates.push(cafe.geometry.coordinates[0],{'ref':'centerPlaza'});
+  plaza.geometry.coordinates.push(cafe.geometry.coordinates[0]);
 
   return turf.featurecollection([cafe,plaza]);
 }

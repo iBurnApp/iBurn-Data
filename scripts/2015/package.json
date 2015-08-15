@@ -4,16 +4,17 @@
   "description": "A basic geocoder for burning man",
   "main": "index.js",
   "dependencies": {
+    "babyparse": "^0.4.3",
     "jsts": "^0.16.0",
+    "levenshtein": "^1.0.5",
     "nopt": "^3.0.3",
+    "request": "^2.60.0",
     "tape": "^4.0.0",
+    "togeojson": "^0.12.2",
     "turf": "^2.0.2",
     "turf-difference": "^2.0.0",
     "turf-meta": "^1.0.2",
-    "turf-multilinestring": "^1.0.2",
-    "levenshtein": "^1.0.5",
-    "request": "^2.60.0",
-    "babyparse": "^0.4.3"
+    "turf-multilinestring": "^1.0.2"
   },
   "devDependencies": {},
   "scripts": {
