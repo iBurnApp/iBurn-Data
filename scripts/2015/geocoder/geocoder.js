@@ -8,6 +8,16 @@ var Geocoder = function(layoutFile) {
   this.forwardCoder = new forwardGeocoder(dict.center,dict.centerCamp,dict.bearing,dict.forwardStreets,dict.forwardPolygons);
 }
 
+// Legacy Android (pre 4.4) Javascript bridge only accepts primitives
+Geocoder.prototype.forwardAsString = function(locationString) {
+  var resultObj = this.forwardCoder.geocode(locationString);
+  if (resultObj === undefined) {
+  	return '';
+  }
+  var resultStr = resultObj.geometry.coordinates[0] + ', ' + resultObj.geometry.coordinates[1];
+  return resultStr;
+}
+
 Geocoder.prototype.forward = function(locationString) {
   return this.forwardCoder.geocode(locationString);
 }
