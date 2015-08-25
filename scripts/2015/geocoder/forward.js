@@ -94,8 +94,8 @@ Geocoder.prototype.geocode = function(locationString) {
     return this.hardcodedLocations[locationStirng]
   } else {
     var coder = this;
-    var result = Parser.parse(locationString)
-    if(result.distance > 0){
+    var result = Parser.parse(locationString);
+    if(result.distance >= 0){
 
       return coder.timeDistanceToLatLon(result.time,utils.feetToMiles(result.distance),'miles');
     } else {

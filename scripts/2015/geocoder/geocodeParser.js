@@ -24,10 +24,12 @@ module.exports.parse = function(string,callback) {
     timeString = timeArray[0];
   }
 
-  var feet;
+  var feet = -1;
   var feetArray = feetRegEx.exec(string);
   if (feetArray != null && feetArray.length > 0) {
-    feet = Number(feetArray[0]);
+    if (feetArray[0].length > 0) {
+      feet = Number(feetArray[0]);
+    }
   }
 
   var featureArray = featureRegEx.exec(string)
