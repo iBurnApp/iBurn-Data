@@ -2,6 +2,7 @@
 var streets = require('./streets.js');
 var polygons = require('./polygons.js');
 var fence = require('./fence.js');
+var dmz = require('./dmz.js');
 var fs = require('fs');
 
 var nopt = require("nopt")
@@ -10,7 +11,7 @@ var nopt = require("nopt")
   , knownOpts = {
     "file" : path,
     "out": path,
-    "type" : [ "streets", "polygons", "outline", "fence" ],
+    "type" : [ "streets", "polygons", "outline", "fence", "dmz" ],
   }
   , shortHands = {
      "f" : ["--file"],
@@ -35,6 +36,9 @@ switch (parsed.type) {
     break;
   case 'fence':
     output = fence.fence(jsonFile);
+    break;
+  case 'dmz':
+    output = dmz.area(jsonFile);
     break;
 }
 

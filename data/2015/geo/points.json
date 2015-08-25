@@ -759,6 +759,7 @@
         "ref": "toilet"
       }
     },
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-119.2065,40.80130707932985]},"properties":{"ref":"toilet"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.19896401018761,40.80017210038785]},"properties":{"ref":"toilet"}},
     {
       "type": "Feature",
       "properties": {

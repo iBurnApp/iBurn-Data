@@ -241,7 +241,7 @@ exports.allStreets = function(jsonFile) {
 
 //Takes in cStreet item keys: distance, segments, ref, name, city_center, units
 //returns multiLineString
-function circleStreet(cityCenter, cityBearing, distance, units, segments, ref, name) {
+var circleStreet = function (cityCenter, cityBearing, distance, units, segments, ref, name) {
 
   var properties = {
     "ref":ref,
@@ -261,3 +261,4 @@ function circleStreet(cityCenter, cityBearing, distance, units, segments, ref, n
 
   return multiLineString;
 }
+module.exports.circleStreet = circleStreet;

@@ -4,8 +4,9 @@ var Geocoder = require('../geocoder/geocoder.js');
 var Parser = require('../geocoder/geocodeParser.js')
 var s = require('../streets.js');
 var p = require('../polygons.js');
-var layout2015 = require('./layout2015.json')
+var layout2015 = require('../../../data/2015/geo/layout.json')
 var points = require('../points.js')
+var dmz = require('../dmz.js');
 
 var cityCenter = layout2015.center;
 
@@ -22,7 +23,7 @@ test('TimeAndDistance', function(t) {
     "9:00" : -45,
     "10:30": 0,
     "00:00": 45,
-    "16:30": 180
+    "16:30": 180,
   };
 
   for (time in timeDict) {
@@ -45,8 +46,8 @@ test ('StreetIntersection', function(t) {
     turf.point([ -119.218315, 40.777443 ],{street:"Hankypanky", time:'6:00'}),
     turf.point([ -119.218315, 40.777443 ],{street:"Hanky Panky", time:'6:00'}),
     turf.point([ -119.215238, 40.784623 ],{street:'Esplanade',time:"7:00"}),
-    turf.point([ -119.215856, 40.779312 ],{street:'Rod\'s Road',time:"6:00"}),
-    turf.point([ -119.215856, 40.779312 ],{street:'Rod Road',time:"6:00"}),
+    turf.point([ -119.215857, 40.779313 ],{street:'Rod\'s Road',time:"6:00"}),
+    turf.point([ -119.215857, 40.779313 ],{street:'Rod Road',time:"6:00"}),
     turf.point([ -119.213835, 40.780169 ],{street:"Inner Circle",time:"4:15"})
   ];
 
@@ -75,6 +76,15 @@ test ('parserTimeDistance', function(t) {
   t.ok(result.distance === 6600, "Distance should be equal")
   t.end();
 });
+
+test ("timeStringMan", function(t) {
+  var coder = new Geocoder(layout2015);
+  var artString = "12:00 0\'";
+  var result = coder.forward(artString);
+  var distance = turf.distance(result,layout2015.center,'miles');
+  t.ok(distance < .001 ,"Should be about equal")
+  t.end();
+})
 
 test ('parseStreetTime', function(t) {
   var campString =  "Cinnamon & 5:15"
@@ -136,5 +146,26 @@ test('reverseGeocode',function(t) {
   t.equal(result, "Outside Black Rock City")
   result = coder.reverse(40.779819000011244, -119.21382886807997);
   t.equal(result, "4:20 & Inner Circle");
+  t.end();
+});
+
+test('dmzArc', function(t){
+  //https://eplaya.burningman.com/viewtopic.php?f=65&t=74372
+  var dmzGeo = dmz.frontArc(layout2015);
+  var distance = turf.lineDistance(dmzGeo,'miles');
+  t.ok(Math.abs(distance - 0.3309) < .1,"Should have correct arc distance " + distance);
+  t.end();
+});
+
+test('dmzArea', function(t){
+  var dmzGeo = dmz.area(layout2015);
+  var area = turf.area(dmzGeo);
+  t.ok(area > 0,"Should have correct arc area " + area);
+  t.end();
+});
+
+test('dmzToilets', function(t){
+  var toilets = dmz.toilets(layout2015);
+  t.equal(toilets.features.length,2,"Two toilets please")
   t.end();
 });

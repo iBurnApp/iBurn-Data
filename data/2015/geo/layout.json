@@ -17,6 +17,11 @@
     "distance": 300,
     "angle": 110
   },
+  "dmz": {
+    "distance": 5340,
+    "depth": 200,
+    "segments": [["10:30","11:15"]]
+  },
   "center_camp":{
     "distance": 2907,
     "rod_road_distance":750,
