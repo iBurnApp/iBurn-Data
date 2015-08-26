@@ -69,6 +69,22 @@ test ('StreetIntersection', function(t) {
   t.end()
 });
 
+test("geocode",function(t){
+  var coder = new Geocoder(layout2015);
+
+  var testSearches = [
+    turf.point([ -119.2164665, 40.7820425],{address:"6:30 & Ballyhoo"}),
+  ];
+
+  testSearches.map(function(item){
+    intersection = coder.forward(item.properties.address);
+    distanceDifference = turf.distance(item,intersection);
+    t.ok(distanceDifference < 0.001, "Intersection should be close "+distanceDifference);
+  });
+
+  t.end();
+})
+
 test ('parserTimeDistance', function(t) {
   var artString = "11:55 6600\', Open Playa";
   var result = Parser.parse(artString);

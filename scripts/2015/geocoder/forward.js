@@ -39,13 +39,27 @@ Geocoder.prototype.streetIntersectionToLatLon = function(timeString, featureName
     start = this.centerCamp;
   }
 
-  var end = turf.destination(start, 5, timeBearing, 'miles');
+//Bad hack because when cirucular roads end at the 'intersecting' time street they don't really intersect so we got to fake it by
+//trying raidal roads ever so slightly off 1/20 of a degree. 6:30 & B
+  var radial = []
+  for (var i = 0; i < 3; i++) {
 
-  var imaginaryTimeStreet = turf.linestring([start.geometry.coordinates,end.geometry.coordinates]);
+    var bearing = timeBearing+i/20;
+    if (i > 1) {
+      bearing = timeBearing-1/20;
+    }
+
+
+    var end = turf.destination(start, 5, bearing, 'miles');
+
+    var imaginaryTimeStreet = turf.linestring([start.geometry.coordinates,end.geometry.coordinates]);
+    radial.push(imaginaryTimeStreet);
+  }
+
 
   var features = this.fuzzyMatchFeatures('name',featureName);
 
-  var intersections = intersectingPoints([imaginaryTimeStreet],features);
+  var intersections = intersectingPoints(radial,features);
 
 
   if (intersections.length === 0) {

@@ -57,7 +57,7 @@ parsed.unofficial.map(function(item){
 
 var result = combine.location(playaEventDict, unofficialList,coder);
 if (parsed.out) {
-fs.writeFile(parsed.out, JSON.stringify(result), function(err) {});
+fs.writeFile(parsed.out, JSON.stringify(result,null, 2), function(err) {});
 } else {
   console.log(JSON.stringify(result));
 }

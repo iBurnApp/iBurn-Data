@@ -7,8 +7,8 @@ module.exports.location = function(playaEvents, unofficialArray, geocoder) {
     var playaEventItem = playaEvents[key];
 
     //get score for playaEventItem
-
-    var scores = [];
+    var playaEventsScore = score(1,null,playaEventItem.location_string)
+    var scores = [playaEventsScore];
 
 
     unofficialArray.map(function(item){
@@ -46,16 +46,14 @@ module.exports.location = function(playaEvents, unofficialArray, geocoder) {
         playaEventItem.longitude = best.coordinates[0];
         if (!best.address) {
           //reverse-geocode
-          playaEventItem.location = geocoder.reverse(playaEventItem.latitude,  playaEventItem.longitude);
+          playaEventItem.location_string = geocoder.reverse(playaEventItem.latitude,  playaEventItem.longitude);
         }
       }
-
-
-      if (best.address) {
-        playaEventItem.location = best.address;
+      else if (best.address) {
+        playaEventItem.location_string = best.address;
         if (!best.coordinates) {
 
-          var point = geocoder.forward(playaEventItem.location);
+          var point = geocoder.forward(playaEventItem.location_string);
           if (point) {
 
             playaEventItem.latitude = point.geometry.coordinates[1];
@@ -66,6 +64,9 @@ module.exports.location = function(playaEvents, unofficialArray, geocoder) {
       }
     }
 
+    if (playaEventItem.location_string && playaEventItem.location_string !== "Unknown" && !playaEventItem.latitude) {
+      console.log(playaEventItem.location_string)
+    }
 
     final.push(playaEventItem)
   }
