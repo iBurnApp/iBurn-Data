@@ -74,6 +74,7 @@ test("geocode",function(t){
 
   var testSearches = [
     turf.point([ -119.2164665, 40.7820425],{address:"6:30 & Ballyhoo"}),
+    turf.point([ -119.2164665, 40.7820425],{address:"Rod's Road @ 4:30"})
   ];
 
   testSearches.map(function(item){

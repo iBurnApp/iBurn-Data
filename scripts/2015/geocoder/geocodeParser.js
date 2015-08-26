@@ -10,13 +10,13 @@
  @param callback a function with 3 parameters: timeString, feet, feature
  @return
  */
-module.exports.parse = function(string,callback) {
+module.exports.parse = function(string) {
   //Time Regex 12:00
   var timeRegEx = new RegExp("([0-9]|0[0-9]|1[0-9]|2[0-3]):[0-5][0-9]");
   //Distance regex 100'
   var feetRegEx = new RegExp("[0-9]*(?=')");
   //featureRegEx captures streets A-L Rod's road and plazas when they begin the string and are followed by ' &' or are at the end
-  var featureRegEx = new RegExp("^[A-L|Rod|P].*(?= &)|[A-L|Rod|P].*$");
+  var featureRegEx = new RegExp("^[A-L|Rod|P].*(?= &|@)|[A-L|Rod|P].*$");
 
   var timeString;
   var timeArray = timeRegEx.exec(string);
