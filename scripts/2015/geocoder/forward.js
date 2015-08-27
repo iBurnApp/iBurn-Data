@@ -33,9 +33,13 @@ Geocoder.prototype.timeDistanceToLatLon = function(time, distance, units) {
 };
 
 Geocoder.prototype.streetIntersectionToLatLon = function(timeString, featureName) {
+  if (!timeString || !featureName) {
+    return undefined;
+  }
+  featureName = featureName.toLowerCase();
   var timeBearing = utils.timeStringToCompaassDegress(timeString,this.cityBearing);
   var start = this.centerPoint;
-  if (featureName.indexOf("Rod") > -1 ||featureName.indexOf("Inner") > -1 || featureName.indexOf("66") > -1) {
+  if (featureName.indexOf("rod") > -1 ||featureName.indexOf("inner") > -1 || featureName.indexOf("66") > -1) {
     start = this.centerCamp;
   }
 
@@ -75,6 +79,7 @@ Geocoder.prototype.fuzzyMatchFeatures = function(key, value) {
   this.features.map(function(item){
     var geoName = item.properties[key];
     if (geoName) {
+      geoName=geoName.toLowerCase();
       var largestNameLength = Math.max(geoName.length, value.length);
       var match = (largestNameLength - new leven(geoName, value).distance) / largestNameLength;
       if (match > 0.6) {

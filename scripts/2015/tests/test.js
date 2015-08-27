@@ -74,7 +74,9 @@ test("geocode",function(t){
 
   var testSearches = [
     turf.point([ -119.2164665, 40.7820425],{address:"6:30 & Ballyhoo"}),
-    turf.point([ -119.2164665, 40.7820425],{address:"Rod's Road @ 4:30"})
+    turf.point([ -119.2139388, 40.7787117],{address:"Rod's Road @ 4:30"}),
+    turf.point([ -119.2139388, 40.7787117],{address:"9:00 Plaza @ 1:00"}),
+    turf.point([ -119.2139388, 40.7787117],{address:"Center Camp Plaza @ 9:15"})
   ];
 
   testSearches.map(function(item){
@@ -111,34 +113,34 @@ test ('parseStreetTime', function(t) {
   t.end();
 });
 
-test('bulkParse', function(t) {
-  var camps = require('../../../data/2014/camps.json')
-
-  var numberOfcamps = camps.length;
-  var numberWithTime  = 0;
-  var numberMissingTIme = 0;
-
-  camps.map(function(item) {
-    var locationString = item.location;
-    var result = Parser.parse(locationString);
-    if(result.time) {
-      numberWithTime += 1;
-      var hasSecondary = false;
-      if (result.distance || result.feature) {
-        hasSecondary = true;
-      } else {
-        console.log("Missing Secondary: %s",locationString)
-      }
-    } else {
-      console.log("Missing Time: %s",locationString);
-      numberMissingTIme += 1;
-    }
-  });
-
-  t.ok(numberMissingTIme/ numberOfcamps < .05,"95% success rate")
-  t.end()
-
-});
+// test('bulkParse', function(t) {
+//   var camps = require('../../../data/2014/camps.json')
+//
+//   var numberOfcamps = camps.length;
+//   var numberWithTime  = 0;
+//   var numberMissingTIme = 0;
+//
+//   camps.map(function(item) {
+//     var locationString = item.location;
+//     var result = Parser.parse(locationString);
+//     if(result.time) {
+//       numberWithTime += 1;
+//       var hasSecondary = false;
+//       if (result.distance || result.feature) {
+//         hasSecondary = true;
+//       } else {
+//         console.log("Missing Secondary: %s",locationString)
+//       }
+//     } else {
+//       console.log("Missing Time: %s",locationString);
+//       numberMissingTIme += 1;
+//     }
+//   });
+//
+//   t.ok(numberMissingTIme/ numberOfcamps < .05,"95% success rate")
+//   t.end()
+//
+// });
 
 test('reverseGeocode',function(t) {
   var coder = new Geocoder(layout2015);

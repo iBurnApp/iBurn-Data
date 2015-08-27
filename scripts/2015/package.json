@@ -14,7 +14,8 @@
     "turf": "^2.0.2",
     "turf-difference": "^2.0.0",
     "turf-meta": "^1.0.2",
-    "turf-multilinestring": "^1.0.2"
+    "turf-multilinestring": "^1.0.2",
+    "xls-to-json": "^0.3.2"
   },
   "devDependencies": {},
   "scripts": {
