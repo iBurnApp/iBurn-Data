@@ -172,8 +172,7 @@
         "8:45",
         "9:15",
         "9:45"],
-      "segments":[["g","l"]],
-      "width":30
+      "segments":[["g","l"]]
     }
   ],
   "plazas":[
@@ -193,31 +192,31 @@
       "name":"4:30 Art Plaza",
       "time":"4:30",
       "distance":"g",
-      "diameter": 200
+      "diameter": 250
     },
     {
       "name":"7:30 Art Plaza",
       "time":"7:30",
       "distance":"g",
-      "diameter": 200
+      "diameter": 250
     },
     {
       "name":"9:00 Public Plaza",
       "time":"9:00",
-      "distance":"k",
-      "diameter": 200
+      "distance":"g",
+      "diameter": 250
     },
     {
       "name":"6:00 Public Plaza",
       "time":"6:00",
-      "distance":"k",
-      "diameter": 200
+      "distance":"i",
+      "diameter": 250
     },
     {
       "name":"3:00 Public Plaza",
       "time":"3:00",
-      "distance":"k",
-      "diameter": 200
+      "distance":"g",
+      "diameter": 250
     },
     {
       "name":"The Man Plaza",
