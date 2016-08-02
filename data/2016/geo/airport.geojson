@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ref": "7L/25R"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -119.235483,
+            40.754783
+          ],
+          [
+            -119.218083,
+            40.76095
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"ref":"7R/25L"},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -119.20625,
+            40.762767
+          ],
+          [
+            -119.188467,
+            40.768217
+          ]
+        ]
+      }
+    }
+  ]
+}
