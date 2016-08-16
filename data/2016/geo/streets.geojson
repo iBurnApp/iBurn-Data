@@ -735,7 +735,7 @@
             },
             "properties": {
                 "ref": "a",
-                "name": "Ano",
+                "name": "Arno",
                 "type": "arc"
             }
         },
@@ -1890,7 +1890,7 @@
             },
             "properties": {
                 "ref": "d",
-                "name": "Donnatello",
+                "name": "Donatello",
                 "type": "arc"
             }
         },
@@ -7230,7 +7230,7 @@
             },
             "properties": {
                 "ref": "a",
-                "name": "Ano",
+                "name": "Arno",
                 "type": "arc"
             }
         },
