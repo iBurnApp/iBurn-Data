@@ -44,7 +44,7 @@
       "distance":2940,
       "segments":[["2:00","6:00"],["6:00","10:00"]],
       "ref":"a",
-      "name": "Ano"
+      "name": "Arno"
     },
     {
       "distance":3180,
@@ -62,7 +62,7 @@
       "distance":3660,
       "segments":[["2:00","6:00"],["6:00","10:00"]],
       "ref":"d",
-      "name": "Donnatello"
+      "name": "Donatello"
     },
     {
       "distance":3900,
