@@ -32,9 +32,15 @@
       "orientation":"center"
     },
     {
-      "bearing":["2:30","3:00","3:30","4:00","4:30","5:00","5:30"],
+      "bearing":["2:30","3:00","3:30","4:00","5:00","5:30"],
       "offset":-45,
       "distance":["h","i"],
+      "orientation":"center"
+    },
+    {
+      "bearing":["4:30"],
+      "offset":-45,
+      "distance":["i","j"],
       "orientation":"center"
     },
     {
@@ -62,9 +68,15 @@
       "orientation":"center"
     },
     {
-      "bearing":["6:30","7:00","7:30","8:00","8:30","9:00","9:30"],
+      "bearing":["6:30","7:00","8:00","8:30","9:00","9:30"],
       "offset":45,
       "distance":["h","i"],
+      "orientation":"center"
+    },
+    {
+      "bearing":["7:30"],
+      "offset":45,
+      "distance":["i","j"],
       "orientation":"center"
     },
     {
