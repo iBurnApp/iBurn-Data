@@ -291,6 +291,62 @@
           40.79124398547589
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ref":"bus",
+        "name":"Burner Express Bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.22074675559996,
+          40.77694237744686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ref":"bus",
+        "name": "Local Shuttle Bus Service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.21671271324156,
+          40.78020022062183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ref":"recycle",
+        "name":"Recycle Camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.21469569206236,
+          40.77985088349038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ref":"info",
+        "name":"Playa Info"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2127001285553,
+          40.78113448531836
+        ]
+      }
     }
   ]
 }
