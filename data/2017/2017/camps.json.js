@@ -465,7 +465,7 @@
         "url": null,
         "contact_email": null,
         "hometown": "Portland",
-        "description": "Svoyasii is located at 1 Small Party Pl.,\r\nat the edge of civilization.\r\nIt is a realization, \r\na beacon of possibility of hospitality\r\narising on the event horizon\r\nof the sea of Nothing.\r\n[\u03b5\u03c1\u03c7\u03bf\u03bc\u03b1\u03c3\u03c4\u03b5 \u03c5\u03c0\u03cc\u03c3\u03c4\u03b1\u03c3\u03b7 \u03bd\u03b1 \u03b5\u03ba\u03c3\u03c4\u03b1\u03c3\u03b7]\r\n[we go, through understanding to outstanding]"
+        "description": "Svoyasii is located at 1 Small Party Pl.,\r\nat the edge of civilization.\r\nIt is a realization, \r\na beacon of possibility of hospitality\r\narising on the event horizon\r\nof the sea of Nothing.\r\n[ερχομαστε υπόσταση να εκσταση]\r\n[we go, through understanding to outstanding]"
     },
     {
         "uid": "a1X0V000002rkB7UAI",
@@ -519,7 +519,7 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "The Voice of Peace (Hebrew: \u05e7\u05d5\u05dc \u05d4\u05e9\u05dc\u05d5\u05dd\u200e\u200e, Kol HaShalom) the plays offshore radio station!"
+        "description": "The Voice of Peace (Hebrew: קול השלום‎‎, Kol HaShalom) the plays offshore radio station!"
     },
     {
         "uid": "a1X0V000002rkdvUAA",
@@ -636,7 +636,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Seatlle and Vancouver, BC.",
-        "description": "We are The Picklebackers, your one-stop shop for all things pickle. Be sure to attend our notorious Get Pickled with the Picklebackers Party Tuesday and Thursday 11am - 1pm!"
+        "description": "We are The Picklebackers, your one-stop shop for all things pickle. Be sure to attend our notorious Get Pickled with the Picklebackers Party Tuesday and Thursday 11am - 1pm!",
+        "burnermap_location": {
+            "string": "7:45 & Genuflect",
+            "gps_longitude": -119.22231686363757,
+            "gps_latitude": 40.78816556022795
+        }
     },
     {
         "uid": "a1Xd0000002rgvcEAA",
@@ -645,7 +650,12 @@
         "url": null,
         "contact_email": "stuartmacintyre11@gmail.com",
         "hometown": "Oakland",
-        "description": "BAR MACTROPOLIS is the friendlyest andbrst oasis in BRC. open and serving mostly day and night for your enjoyment WELCOME.Oakland"
+        "description": "BAR MACTROPOLIS is the friendlyest andbrst oasis in BRC. open and serving mostly day and night for your enjoyment WELCOME.Oakland",
+        "burnermap_location": {
+            "string": "3:00 & Kundalini",
+            "gps_longitude": -119.19293619779894,
+            "gps_latitude": 40.776252063700284
+        }
     },
     {
         "uid": "a1Xd0000002rgwpEAA",
@@ -654,7 +664,12 @@
         "url": "http://www.campremotecontrol.com",
         "contact_email": "sir@burnercostumes.com",
         "hometown": "Portland",
-        "description": "Camp Remote Control. Come play Spin the TV Remote, Toss the Remote, or pose with bedazzled remotes in our photo booth. We give you a fabric MOOP-collection bag. Return it full and choose from our treasure chest of costumes, accessories, and Playa bling."
+        "description": "Camp Remote Control. Come play Spin the TV Remote, Toss the Remote, or pose with bedazzled remotes in our photo booth. We give you a fabric MOOP-collection bag. Return it full and choose from our treasure chest of costumes, accessories, and Playa bling.",
+        "burnermap_location": {
+            "string": "7:15 & Dance",
+            "gps_longitude": -119.21973174661066,
+            "gps_latitude": 40.78528546667241
+        }
     },
     {
         "uid": "a1Xd0000002rgzeEAA",
@@ -663,7 +678,12 @@
         "url": null,
         "contact_email": "will.do1991@gmail.com",
         "hometown": "Reno",
-        "description": "Join us at the Shit Show Saloon for some belligerent activities. Leave the kids at home =]"
+        "description": "Join us at the Shit Show Saloon for some belligerent activities. Leave the kids at home =]",
+        "burnermap_location": {
+            "string": "9:45 & Eulogy",
+            "gps_longitude": -119.21200660038281,
+            "gps_latitude": 40.79647201073141
+        }
     },
     {
         "uid": "a1Xd0000002rh0IEAQ",
@@ -672,7 +692,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Ramon",
-        "description": "Popo Ville is about honoring our patron saint Popo, and how we contribute to making the world a better place one burn at a time.  We invite our fellow burners, new and returning, to join us for food, drink, music, games and friendship."
+        "description": "Popo Ville is about honoring our patron saint Popo, and how we contribute to making the world a better place one burn at a time.  We invite our fellow burners, new and returning, to join us for food, drink, music, games and friendship.",
+        "burnermap_location": {
+            "string": "4:45 & Inspirit",
+            "gps_longitude": -119.20889541160703,
+            "gps_latitude": 40.77339619060309
+        }
     },
     {
         "uid": "a1Xd0000002rh0mEAA",
@@ -690,7 +715,12 @@
         "url": null,
         "contact_email": "vacbed@rocketmail.com",
         "hometown": "Salt Lake City",
-        "description": "Orgy Bus Camp provides a safe and clean space for consensual adult activities on the playa."
+        "description": "Orgy Bus Camp provides a safe and clean space for consensual adult activities on the playa.",
+        "burnermap_location": {
+            "string": "7:30 & Inspirit",
+            "gps_longitude": -119.22418932733392,
+            "gps_latitude": 40.78659866462986
+        }
     },
     {
         "uid": "a1Xd0000002rh55EAA",
@@ -699,7 +729,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Sydney",
-        "description": "Come and play with our growing tribe. Bring your music instruments and fun activities to us."
+        "description": "Come and play with our growing tribe. Bring your music instruments and fun activities to us.",
+        "burnermap_location": {
+            "string": "3:15 & Fire",
+            "gps_longitude": -119.19748535810336,
+            "gps_latitude": 40.77759621181311
+        }
     },
     {
         "uid": "a1Xd0000002rhcJEAQ",
@@ -708,7 +743,12 @@
         "url": "https://www.facebook.com/groups/476024835926123/",
         "contact_email": "homebrew4ahomebrew@yahoo.com",
         "hometown": "Sparks",
-        "description": "A Home Brewers community hub where brewers of the Playa come to meet and share. Enjoy a cold home brewed beer, mead or soda served daily from noon into the dark. We have a pool table, games and daily events including our world famous pickle party! Bring your keg and we will refrigerate and tap it."
+        "description": "A Home Brewers community hub where brewers of the Playa come to meet and share. Enjoy a cold home brewed beer, mead or soda served daily from noon into the dark. We have a pool table, games and daily events including our world famous pickle party! Bring your keg and we will refrigerate and tap it.",
+        "burnermap_location": {
+            "string": "2:30 & Center Camp Plaza",
+            "gps_longitude": -119.21334960846953,
+            "gps_latitude": 40.78066523615475
+        }
     },
     {
         "uid": "a1Xd0000002rh2uEAA",
@@ -717,7 +757,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "London",
-        "description": "Cheese Camp. Art support camp for the Cheese Maze."
+        "description": "Cheese Camp. Art support camp for the Cheese Maze.",
+        "burnermap_location": {
+            "string": "2:45 & Dance",
+            "gps_longitude": -119.19609621098215,
+            "gps_latitude": 40.7804900260168
+        }
     },
     {
         "uid": "a1Xd0000002rh8sEAA",
@@ -726,7 +771,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Barcelona Spain",
-        "description": "Tramp Camp.  Join the Radical Ritual of Breaking Free on our giant trampoline."
+        "description": "Tramp Camp.  Join the Radical Ritual of Breaking Free on our giant trampoline.",
+        "burnermap_location": {
+            "string": "5:30 & Breath",
+            "gps_longitude": -119.21235387926005,
+            "gps_latitude": 40.77905325564518
+        }
     },
     {
         "uid": "a1Xd0000002rhgVEAQ",
@@ -735,7 +785,12 @@
         "url": "http://chromaforms.net",
         "contact_email": "chromaforms@gmail.com",
         "hometown": "San Francisco",
-        "description": "A crafty camp for chrome enthusiasts. Lets make art!"
+        "description": "A crafty camp for chrome enthusiasts. Lets make art!",
+        "burnermap_location": {
+            "string": "8:15 & Ceremony",
+            "gps_longitude": -119.21803835138897,
+            "gps_latitude": 40.79018145270112
+        }
     },
     {
         "uid": "a1Xd0000002rhkhEAA",
@@ -744,7 +799,12 @@
         "url": "http://www.brc-fun.webs.com/Porndog.html",
         "contact_email": "grady.bartley@gmail.com",
         "hometown": "Honolulu",
-        "description": "Sodom, Gomorrah, and now back in Black Rock City (as a theme camp) after 10 years! Strap-on corndog feeding/eating; the Playa's S&M exhibitionist fast food restaurant."
+        "description": "Sodom, Gomorrah, and now back in Black Rock City (as a theme camp) after 10 years! Strap-on corndog feeding/eating; the Playa's S&M exhibitionist fast food restaurant.",
+        "burnermap_location": {
+            "string": "9:00 & Dance",
+            "gps_longitude": -119.21596753742148,
+            "gps_latitude": 40.79369147468789
+        }
     },
     {
         "uid": "a1Xd0000002rhdlEAA",
@@ -753,7 +813,12 @@
         "url": "http://www.cora.org/BlackRockRollerDisco2016.html",
         "contact_email": "sk8godfather@earthlink.net",
         "hometown": "San Francisco",
-        "description": "A roller disco in the middle of the desert? Yes, there's a camp for that!!!  The Black Rock Roller Disco is your friendly neighborhood full service roller skating rink in BRC!!!  We bring the old school funk and roller disco magic to Burning Man!!! Come join D. Miles, the GodFather of Skate in San Francisco and the Holy Rollers from the Church of 8 Wheels and have a funky good time with us!!!"
+        "description": "A roller disco in the middle of the desert? Yes, there's a camp for that!!!  The Black Rock Roller Disco is your friendly neighborhood full service roller skating rink in BRC!!!  We bring the old school funk and roller disco magic to Burning Man!!! Come join D. Miles, the GodFather of Skate in San Francisco and the Holy Rollers from the Church of 8 Wheels and have a funky good time with us!!!",
+        "burnermap_location": {
+            "string": "7:00 & Esplanade",
+            "gps_longitude": -119.2153394712476,
+            "gps_latitude": 40.784826583915375
+        }
     },
     {
         "uid": "a1Xd0000002rhkmEAA",
@@ -762,7 +827,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Portland",
-        "description": "The Lingerie Lounge will adorn you, adore you, and make you even more fabulous than you are already! We cater to all individuals regardless of shape, size, age, gender, gender preference, gender identity, race, religion, creed or color."
+        "description": "The Lingerie Lounge will adorn you, adore you, and make you even more fabulous than you are already! We cater to all individuals regardless of shape, size, age, gender, gender preference, gender identity, race, religion, creed or color.",
+        "burnermap_location": {
+            "string": "4:30 & Inspirit",
+            "gps_longitude": -119.20660000000001,
+            "gps_latitude": 40.77328227839283
+        }
     },
     {
         "uid": "a1Xd0000002rhjtEAA",
@@ -771,7 +841,12 @@
         "url": "http://schoolofsafesex.weebly.com/",
         "contact_email": "schoolofsafesex@gmail.com",
         "hometown": "Salt Lake City",
-        "description": "The School of Safe Sex is a casual environment inviting guests from all corners of the globe and all walks of life to come together for an amazing burn. Our relaxing, judgment free, venue features shaded space to take a break from the heat, a daily happy hour (and a half), prize wheel for free sex toys and dispensers with free condoms."
+        "description": "The School of Safe Sex is a casual environment inviting guests from all corners of the globe and all walks of life to come together for an amazing burn. Our relaxing, judgment free, venue features shaded space to take a break from the heat, a daily happy hour (and a half), prize wheel for free sex toys and dispensers with free condoms.",
+        "burnermap_location": {
+            "string": "2:45 & Ceremony",
+            "gps_longitude": -119.19678496654431,
+            "gps_latitude": 40.780890669875745
+        }
     },
     {
         "uid": "a1Xd0000002rhkwEAA",
@@ -780,7 +855,12 @@
         "url": "http://www.mobilitycamp.org/",
         "contact_email": "brcaccessibility@gmail.com",
         "hometown": "Hesperia,",
-        "description": "Mobility Camp! Disabled services, loan of Mobility Equipment, accessible Playa Tours!"
+        "description": "Mobility Camp! Disabled services, loan of Mobility Equipment, accessible Playa Tours!",
+        "burnermap_location": {
+            "string": "7:30 & Center Camp Plaza",
+            "gps_longitude": -119.21483500404968,
+            "gps_latitude": 40.78096664107804
+        }
     },
     {
         "uid": "a1Xd0000002rhl6EAA",
@@ -789,7 +869,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Newport Beach",
-        "description": "none"
+        "description": "none",
+        "burnermap_location": {
+            "string": "6:00 & Hallowed",
+            "gps_longitude": -119.21842174009511,
+            "gps_latitude": 40.777647385058536
+        }
     },
     {
         "uid": "a1Xd0000002rhlBEAQ",
@@ -798,7 +883,12 @@
         "url": "http://www.aez.green",
         "contact_email": "aez@nometer.com",
         "hometown": "Reno",
-        "description": "The AEZ is a generator free zone. If you like alternative energy, then welcome, you are invited to join our village of friendly folks. You will see and can learn about solar panels, wind generators, solar ovens, solar showers, water cleaning, and meet people who can show YOU how to do this."
+        "description": "The AEZ is a generator free zone. If you like alternative energy, then welcome, you are invited to join our village of friendly folks. You will see and can learn about solar panels, wind generators, solar ovens, solar showers, water cleaning, and meet people who can show YOU how to do this.",
+        "burnermap_location": {
+            "string": "6:30 & Eulogy",
+            "gps_longitude": -119.21882287193033,
+            "gps_latitude": 40.78125582486021
+        }
     },
     {
         "uid": "a1Xd0000002rhqzEAA",
@@ -816,7 +906,12 @@
         "url": "https://www.gypsyandrocket.com/lotus-ranch",
         "contact_email": "lotusranch@gmail.com",
         "hometown": "Dallas",
-        "description": "A Texas based Entertainment Camp featuring Texas Artists and Entertainers making the long journey to the Playa."
+        "description": "A Texas based Entertainment Camp featuring Texas Artists and Entertainers making the long journey to the Playa.",
+        "burnermap_location": {
+            "string": "3:15 & Dance",
+            "gps_longitude": -119.19854210643658,
+            "gps_latitude": 40.77864010780672
+        }
     },
     {
         "uid": "a1Xd0000002rhvQEAQ",
@@ -834,7 +929,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Toronto",
-        "description": "We are the LAUGH OUT LOUD camp of Burning Man. Come join us and participate in some hilarious interactive adult themed games like naughty twister and spin the wheel."
+        "description": "We are the LAUGH OUT LOUD camp of Burning Man. Come join us and participate in some hilarious interactive adult themed games like naughty twister and spin the wheel.",
+        "burnermap_location": {
+            "string": "7:15 & Genuflect",
+            "gps_longitude": -119.22231612211759,
+            "gps_latitude": 40.78503230749086
+        }
     },
     {
         "uid": "a1Xd0000002ri67EAA",
@@ -843,7 +943,12 @@
         "url": null,
         "contact_email": "ronabell@gmail.com",
         "hometown": "West Coast U.S.A./ Canada",
-        "description": "We are the bar that never closes. Come on by for a drink anytime day or night. We offer music, DJs, dancing, chill out areas and apparatuses to play and interact on. Stop on in. Drink our booze and join us as we strive for radical self-stupidity."
+        "description": "We are the bar that never closes. Come on by for a drink anytime day or night. We offer music, DJs, dancing, chill out areas and apparatuses to play and interact on. Stop on in. Drink our booze and join us as we strive for radical self-stupidity.",
+        "burnermap_location": {
+            "string": "2:00 & Awe",
+            "gps_longitude": -119.1963224301186,
+            "gps_latitude": 40.78451439445373
+        }
     },
     {
         "uid": "a1Xd0000002riDsEAI",
@@ -852,7 +957,12 @@
         "url": "http://www.campletitgo.com",
         "contact_email": "contact@campletitgo.com",
         "hometown": "Oakland",
-        "description": "At \"Let it Go\" we would like to provide a space where people can feel comfortable to let go regardless of their cultural background or spiritual beliefs. Come to our tea lounge and let go of that which does not serve you. We offer a variety of meditation, martial arts, dance, reiki, arts & crafts, and flow classes, come visit our camp for an up to date schedule of our workshops. Need a place to reconnect with the infinite? Come visit our lotus dome."
+        "description": "At \"Let it Go\" we would like to provide a space where people can feel comfortable to let go regardless of their cultural background or spiritual beliefs. Come to our tea lounge and let go of that which does not serve you. We offer a variety of meditation, martial arts, dance, reiki, arts & crafts, and flow classes, come visit our camp for an up to date schedule of our workshops. Need a place to reconnect with the infinite? Come visit our lotus dome.",
+        "burnermap_location": {
+            "string": "2:15 & Ceremony",
+            "gps_longitude": -119.19516764091506,
+            "gps_latitude": 40.78300872251151
+        }
     },
     {
         "uid": "a1Xd0000002ri6gEAA",
@@ -861,7 +971,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Reno",
-        "description": "We supply the canvas and paint, you supply the cheeks, together, we will create nothing Butt art! (Complimentary T-shirts provided to participants. We also feature body stamp temporary tattoos . Stop by, make some art and get a tramp stamp."
+        "description": "We supply the canvas and paint, you supply the cheeks, together, we will create nothing Butt art! (Complimentary T-shirts provided to participants. We also feature body stamp temporary tattoos . Stop by, make some art and get a tramp stamp.",
+        "burnermap_location": {
+            "string": "4:45 & Ceremony",
+            "gps_longitude": -119.2082138771665,
+            "gps_latitude": 40.77730831015283
+        }
     },
     {
         "uid": "a1Xd0000002ri7ZEAQ",
@@ -870,7 +985,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Novato, CA - La Mesa, CA - Lincoln, CA",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "7:45 & Hallowed",
+            "gps_longitude": -119.22317808305544,
+            "gps_latitude": 40.788251282726016
+        }
     },
     {
         "uid": "a1Xd0000002riEREAY",
@@ -879,7 +999,12 @@
         "url": "https://www.facebook.com/groups/IcyHands/",
         "contact_email": "alotofur-ontheplaya@yahoo.com",
         "hometown": "San Pedro",
-        "description": "Chill out with the Icy Hands crew as they defrost between midday mercy missions: share cool stories, images and video of those touched by icy hands under the sizzling playa sun.  Learn how to turn a simple block of ice into smiles, goosebumps and a truly incredible shared experience!"
+        "description": "Chill out with the Icy Hands crew as they defrost between midday mercy missions: share cool stories, images and video of those touched by icy hands under the sizzling playa sun.  Learn how to turn a simple block of ice into smiles, goosebumps and a truly incredible shared experience!",
+        "burnermap_location": {
+            "string": "6:15 & Genuflect",
+            "gps_longitude": -119.21917494088358,
+            "gps_latitude": 40.77929272469477
+        }
     },
     {
         "uid": "a1Xd0000002riElEAI",
@@ -888,7 +1013,12 @@
         "url": null,
         "contact_email": "brent.j.dill@gmail.com",
         "hometown": "Berkeley",
-        "description": "Burning Man is unique in its ability to shock people out of their everyday routines - both physical and mental - and leave them open for radical change. We've become skilled at recognizing when people are ready to change direction, and helping them dig out and uncover ideas about what those new directions might look like.\r\n\r\nMagic and ritual use a combination of physical, emotional, and mental transformations that work. They've been developed and tested for tens of thousands of years, across every culture known to man, and keep converging on the same basic methods *because* they work. While modern culture provides many benefits - ready access to food, to health care, to shelter, to conveniences and entertainment and distraction - those same benefits can separate us from the flow of life that we originally evolved within. Magic and ritual seem so powerful to modern humans precisely because, for the most part, they have never experienced them directly.\r\n\r\nLet's fix that."
+        "description": "Burning Man is unique in its ability to shock people out of their everyday routines - both physical and mental - and leave them open for radical change. We've become skilled at recognizing when people are ready to change direction, and helping them dig out and uncover ideas about what those new directions might look like.\r\n\r\nMagic and ritual use a combination of physical, emotional, and mental transformations that work. They've been developed and tested for tens of thousands of years, across every culture known to man, and keep converging on the same basic methods *because* they work. While modern culture provides many benefits - ready access to food, to health care, to shelter, to conveniences and entertainment and distraction - those same benefits can separate us from the flow of life that we originally evolved within. Magic and ritual seem so powerful to modern humans precisely because, for the most part, they have never experienced them directly.\r\n\r\nLet's fix that.",
+        "burnermap_location": {
+            "string": "7:30 & Breath",
+            "gps_longitude": -119.21810906612154,
+            "gps_latitude": 40.78659942828001
+        }
     },
     {
         "uid": "a1Xd0000002riFyEAI",
@@ -897,7 +1027,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Salt Lake City",
-        "description": "The Parched Albatross Lounge & Bar is a place where the community can come and relax, enjoy the shade and learn from one another and sign the 'Ritual of Kindness Wall'.  Serving Happy Hour Drinks from 3:30pm to 7:00 pm daily."
+        "description": "The Parched Albatross Lounge & Bar is a place where the community can come and relax, enjoy the shade and learn from one another and sign the 'Ritual of Kindness Wall'.  Serving Happy Hour Drinks from 3:30pm to 7:00 pm daily.",
+        "burnermap_location": {
+            "string": "7:15 & Hallowed",
+            "gps_longitude": -119.22317725804663,
+            "gps_latitude": 40.78494634491609
+        }
     },
     {
         "uid": "a1Xd0000002riK1EAI",
@@ -906,7 +1041,12 @@
         "url": null,
         "contact_email": "iceteabandits2017@gmail.com",
         "hometown": "London",
-        "description": "Ice Tea Bandits. \r\n\r\n\r\nThe Ice tea bandits are a group of fun loving artists, musicians trampoliners and fun lovers. Christened in playa dust our Trampoline and ice tea are all you've ever dreamed off ...Stop on by for a bounce and some refreshments from 12-3"
+        "description": "Ice Tea Bandits. \r\n\r\n\r\nThe Ice tea bandits are a group of fun loving artists, musicians trampoliners and fun lovers. Christened in playa dust our Trampoline and ice tea are all you've ever dreamed off ...Stop on by for a bounce and some refreshments from 12-3",
+        "burnermap_location": {
+            "string": "4:30 & Kundalini",
+            "gps_longitude": -119.20660000000001,
+            "gps_latitude": 40.77196694786372
+        }
     },
     {
         "uid": "a1Xd0000002riG3EAI",
@@ -915,7 +1055,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Venice Beach",
-        "description": "No website"
+        "description": "No website",
+        "burnermap_location": {
+            "string": "2:45 & Inspirit",
+            "gps_longitude": -119.19264715162441,
+            "gps_latitude": 40.77849184441712
+        }
     },
     {
         "uid": "a1Xd0000002riGXEAY",
@@ -924,7 +1069,12 @@
         "url": "https://www.facebook.com/walkover.camp",
         "contact_email": "f1k@aol.com",
         "hometown": "Cave Junction",
-        "description": "Come visit camp Walkover and see what we have to offer including map stamps and iron on man logos."
+        "description": "Come visit camp Walkover and see what we have to offer including map stamps and iron on man logos.",
+        "burnermap_location": {
+            "string": "4:45 & Genuflect",
+            "gps_longitude": -119.20866874489691,
+            "gps_latitude": 40.774700272567486
+        }
     },
     {
         "uid": "a1Xd0000002riMWEAY",
@@ -933,7 +1083,12 @@
         "url": null,
         "contact_email": null,
         "hometown": null,
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "9:05 & Fire",
+            "gps_longitude": -119.21672917156148,
+            "gps_latitude": 40.79496000489987
+        }
     },
     {
         "uid": "a1Xd0000002riMqEAI",
@@ -951,7 +1106,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Reno",
-        "description": "Fire Conclave Convergence is the place for all members of fire groups, ambiant drummers and processional performing in the Great Circle to check in and get the latest information."
+        "description": "Fire Conclave Convergence is the place for all members of fire groups, ambiant drummers and processional performing in the Great Circle to check in and get the latest information.",
+        "burnermap_location": {
+            "string": "6:00 & Portal",
+            "gps_longitude": -119.19878814345002,
+            "gps_latitude": 40.78067547010965
+        }
     },
     {
         "uid": "a1Xd0000002riSoEAI",
@@ -978,7 +1138,12 @@
         "url": null,
         "contact_email": "lavonc@mac.com",
         "hometown": "Pleasanton",
-        "description": "mis-fit: a person whose behavior or attitude sets them apart from others in an uncomfortably, conspicuous way. \"a motley collection of social mistfits\";\r\nsynonyms: nonconformist, eccentric, maverick, individualist, square peg in a round hole. The Mighty Misfits is a camp that celebrates the misfit in everyone. Check our listings for events and join us to celebrate radical rituals."
+        "description": "mis-fit: a person whose behavior or attitude sets them apart from others in an uncomfortably, conspicuous way. \"a motley collection of social mistfits\";\r\nsynonyms: nonconformist, eccentric, maverick, individualist, square peg in a round hole. The Mighty Misfits is a camp that celebrates the misfit in everyone. Check our listings for events and join us to celebrate radical rituals.",
+        "burnermap_location": {
+            "string": "2:15 & Ceremony",
+            "gps_longitude": -119.19516764091506,
+            "gps_latitude": 40.78300872251151
+        }
     },
     {
         "uid": "a1Xd0000002ririEAA",
@@ -987,7 +1152,10 @@
         "url": null,
         "contact_email": null,
         "hometown": "Seattle",
-        "description": "Lithic Altars Sculpture Camp is the team behind the three outdoor rooms with stone alters at the center of the ritual space.  Come by to meet the artists and craftsman behind this complex set of sculptural environments."
+        "description": "Lithic Altars Sculpture Camp is the team behind the three outdoor rooms with stone alters at the center of the ritual space.  Come by to meet the artists and craftsman behind this complex set of sculptural environments.",
+        "burnermap_location": {
+            "string": "9:00 & Plaza"
+        }
     },
     {
         "uid": "a1Xd0000002ripmEAA",
@@ -996,7 +1164,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Boulder",
-        "description": "Woop Woop means distant, remote even, from the daily default world."
+        "description": "Woop Woop means distant, remote even, from the daily default world.",
+        "burnermap_location": {
+            "string": "8:45 & Fire",
+            "gps_longitude": -119.21849287500578,
+            "gps_latitude": 40.79350104830081
+        }
     },
     {
         "uid": "a1Xd0000002rivkEAA",
@@ -1005,7 +1178,12 @@
         "url": "https://prezi.com/dej_xw4nqxej/corporation-chaos-2016-organization-chart/",
         "contact_email": "reality.apologist@gmail.com",
         "hometown": "Reno",
-        "description": "Corporation Chaos\u00ae (\"We Own You!\"\u2122) is a collaboration of professional philosophers, other academics, artists, and happy mutants dedicated to spreading philosophy, chaos, and Red Vines on the playa.  This will be our fourth year as a registered theme camp, and seventh year as a cohesive group.  Our major activities include world-renowned Ask A Philosopher Booth\u2122, RichROT the semi-autonomous Burner robot, and general mayhem."
+        "description": "Corporation Chaos® (\"We Own You!\"™) is a collaboration of professional philosophers, other academics, artists, and happy mutants dedicated to spreading philosophy, chaos, and Red Vines on the playa.  This will be our fourth year as a registered theme camp, and seventh year as a cohesive group.  Our major activities include world-renowned Ask A Philosopher Booth™, RichROT the semi-autonomous Burner robot, and general mayhem.",
+        "burnermap_location": {
+            "string": "5:00 & Hallowed",
+            "gps_longitude": -119.21092684378499,
+            "gps_latitude": 40.774371243801795
+        }
     },
     {
         "uid": "a1Xd0000002riwEEAQ",
@@ -1014,7 +1192,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Salt Lake City",
-        "description": "FREEDOM LOUNGE - A MYSTICAL DAY SPA FOR THE SOUL AND SPIRIT - FINDING THE GOLD IN YOU.  come hang around some positive space and people. sit on our front porch and inside the tent, allow yourself to be enlightened and reset with a negativity cleanse not only for a great burn, but for a great life. every day from like 10 ish to 3 or 4 ish kind of."
+        "description": "FREEDOM LOUNGE - A MYSTICAL DAY SPA FOR THE SOUL AND SPIRIT - FINDING THE GOLD IN YOU.  come hang around some positive space and people. sit on our front porch and inside the tent, allow yourself to be enlightened and reset with a negativity cleanse not only for a great burn, but for a great life. every day from like 10 ish to 3 or 4 ish kind of.",
+        "burnermap_location": {
+            "string": "2:45 & Genuflect",
+            "gps_longitude": -119.19402505911644,
+            "gps_latitude": 40.77929272469477
+        }
     },
     {
         "uid": "a1Xd0000002rjKLEAY",
@@ -1023,7 +1206,12 @@
         "url": null,
         "contact_email": "stevenmatthewbraun@yahoo.com",
         "hometown": "Cascadia: Eugene - Portland",
-        "description": "Dumpster Dive Bar: Repurposed camp infrastructure, botanic ales wildcrafted in Cascadia, hammocks and fermented foods."
+        "description": "Dumpster Dive Bar: Repurposed camp infrastructure, botanic ales wildcrafted in Cascadia, hammocks and fermented foods.",
+        "burnermap_location": {
+            "string": "4:45 & Breath",
+            "gps_longitude": -119.20810062271201,
+            "gps_latitude": 40.77796035808232
+        }
     },
     {
         "uid": "a1Xd0000002rjGJEAY",
@@ -1032,7 +1220,12 @@
         "url": "http://www.dustynutstavern.com",
         "contact_email": "dustynutstavern@gmail.com",
         "hometown": "San Jose",
-        "description": "Come visit the Dusty Nuts Tavern for drinks, weird music, and random events."
+        "description": "Come visit the Dusty Nuts Tavern for drinks, weird music, and random events.",
+        "burnermap_location": {
+            "string": "3:15 & Juju",
+            "gps_longitude": -119.19536539590487,
+            "gps_latitude": 40.775512035316275
+        }
     },
     {
         "uid": "a1Xd0000002rjLEEAY",
@@ -1041,7 +1234,12 @@
         "url": "https://www.facebook.com/groups/499722046857896/",
         "contact_email": "eggchairsteve@gmail.com",
         "hometown": "Oakland, CA",
-        "description": "EGGS Bar is returning to Burning Man 2017, still buzzing from a most successful 2016!\nBuilding on years of well-honed playa experience, EGGS Bar crew of veteran burners will again create a welcoming venue of the deepest interaction.  A jewel on the playa; it is a beautifully designed bar with amazing artifacts. While disguised as a friendly tavern, the space we create will be so much more than a place to grab a drink... a storytelling station, meeting place of the minds, incubator of adventures, spontaneous dance party spot, sometimes even a Burning Man debate forum. All that and so much more,  we are YOUR local on the playa!"
+        "description": "EGGS Bar is returning to Burning Man 2017, still buzzing from a most successful 2016!\nBuilding on years of well-honed playa experience, EGGS Bar crew of veteran burners will again create a welcoming venue of the deepest interaction.  A jewel on the playa; it is a beautifully designed bar with amazing artifacts. While disguised as a friendly tavern, the space we create will be so much more than a place to grab a drink... a storytelling station, meeting place of the minds, incubator of adventures, spontaneous dance party spot, sometimes even a Burning Man debate forum. All that and so much more,  we are YOUR local on the playa!",
+        "burnermap_location": {
+            "string": "6:00 & Center Camp Plaza",
+            "gps_longitude": -119.21460149153904,
+            "gps_latitude": 40.78054044307478
+        }
     },
     {
         "uid": "a1Xd0000002rjSZEAY",
@@ -1050,7 +1248,12 @@
         "url": null,
         "contact_email": "dragoncamparmory@gmail.com",
         "hometown": "Orange County",
-        "description": "DragonCampArmory teaches women to hand make their own sexy armor bikini. Participants will trace, cut, pound, and decorate thin sheet aluminum into a custom fitting metal bikini costume."
+        "description": "DragonCampArmory teaches women to hand make their own sexy armor bikini. Participants will trace, cut, pound, and decorate thin sheet aluminum into a custom fitting metal bikini costume.",
+        "burnermap_location": {
+            "string": "7:00 & Eulogy",
+            "gps_longitude": -119.22023337125158,
+            "gps_latitude": 40.78383318292532
+        }
     },
     {
         "uid": "a1Xd0000002rjZJEAY",
@@ -1059,7 +1262,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Moscow",
-        "description": "Every night all Burners are be invited to chill in our cinema camp and to enjoy a variety of breath-taking cartoons. As in all other great places pop-corn will be served to all Burner during the screening."
+        "description": "Every night all Burners are be invited to chill in our cinema camp and to enjoy a variety of breath-taking cartoons. As in all other great places pop-corn will be served to all Burner during the screening.",
+        "burnermap_location": {
+            "string": "7:15 & Fire",
+            "gps_longitude": -119.22145392711097,
+            "gps_latitude": 40.785113070438236
+        }
     },
     {
         "uid": "a1Xd0000002rjWYEAY",
@@ -1068,7 +1276,10 @@
         "url": "http://www.ludussymposium.com",
         "contact_email": "ludussympusium@gmail.com",
         "hometown": "Sacramento",
-        "description": "Ludus (playful love) Symposium (Meeting for music, drinking and intellectual discussion) is a place to hang out on our friendly deck/bar above the playa."
+        "description": "Ludus (playful love) Symposium (Meeting for music, drinking and intellectual discussion) is a place to hang out on our friendly deck/bar above the playa.",
+        "burnermap_location": {
+            "string": "5:45 & Awe"
+        }
     },
     {
         "uid": "a1Xd0000002rjavEAA",
@@ -1077,7 +1288,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Sacramento",
-        "description": "Oyez! Oyez! Oyez! All persons having business before the kind of Honorable Court of Black Rock City, are admonished to draw near and give their attention, for the Court is now sitting.  Bring your own defendant, or one will be provided for you."
+        "description": "Oyez! Oyez! Oyez! All persons having business before the kind of Honorable Court of Black Rock City, are admonished to draw near and give their attention, for the Court is now sitting.  Bring your own defendant, or one will be provided for you.",
+        "burnermap_location": {
+            "string": "8:30 & Eulogy",
+            "gps_longitude": -119.21882483908391,
+            "gps_latitude": 40.791942885258905
+        }
     },
     {
         "uid": "a1Xd0000002rjTPEAY",
@@ -1086,7 +1302,12 @@
         "url": "http://thehotd.com",
         "contact_email": "hotdinfo@gmail.com",
         "hometown": "San Francisco",
-        "description": "The longest continuous full service bar and live music venue on the playa. \nYou bring the booze and music and we provide the drinks and fun."
+        "description": "The longest continuous full service bar and live music venue on the playa. \nYou bring the booze and music and we provide the drinks and fun.",
+        "burnermap_location": {
+            "string": "3:15 & Rods Road",
+            "gps_longitude": -119.21238776135205,
+            "gps_latitude": 40.77933581736501
+        }
     },
     {
         "uid": "a1Xd0000002rjbPEAQ",
@@ -1095,7 +1316,12 @@
         "url": null,
         "contact_email": "homagecamp2017@gmail.com",
         "hometown": "San Francisco",
-        "description": "We hold Homage to the Burning Man Temples and Builders and what they represent and our main goal is to interact and welcome to all of those who consider all sacred sites within Burning Man."
+        "description": "We hold Homage to the Burning Man Temples and Builders and what they represent and our main goal is to interact and welcome to all of those who consider all sacred sites within Burning Man.",
+        "burnermap_location": {
+            "string": "7:30 & Esplanade",
+            "gps_longitude": -119.21564800797701,
+            "gps_latitude": 40.7865996466467
+        }
     },
     {
         "uid": "a1Xd0000002rjlhEAA",
@@ -1113,7 +1339,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Leandro",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "8:15 & Dance",
+            "gps_longitude": -119.21884106386673,
+            "gps_latitude": 40.79043278933819
+        }
     },
     {
         "uid": "a1Xd0000002rjh6EAA",
@@ -1131,7 +1362,12 @@
         "url": "http://www.polyparadise.com",
         "contact_email": "scotto@burningman.org",
         "hometown": "Phoenix",
-        "description": "The Village of PolyParadise has been influencing the Hearts & Minds and Washing the Bodies of Playa Citizens from '2:00 - 10:00' since 1999 celebrating 19 years in BRC in 2017.\r\n\r\nPolyamory involves openness to multiple loving relationships, with honesty among all partners. We welcome ALL Poly & Poly Friendly folks to camp within our borders.\r\n\r\nThe Village of PolyParadise 2017 welcomes the addition of three Theme Camps within in it's borders Sugar Bitch | 9 Energies | Twisted Swan.\r\n\r\nPolyParadise is NOT a Swinger Camp. Being Poly or Practicing Poly is NOT a requirement for camping with us, but being OPEN MINDED about other people's lifestyle choices IS!!"
+        "description": "The Village of PolyParadise has been influencing the Hearts & Minds and Washing the Bodies of Playa Citizens from '2:00 - 10:00' since 1999 celebrating 19 years in BRC in 2017.\r\n\r\nPolyamory involves openness to multiple loving relationships, with honesty among all partners. We welcome ALL Poly & Poly Friendly folks to camp within our borders.\r\n\r\nThe Village of PolyParadise 2017 welcomes the addition of three Theme Camps within in it's borders Sugar Bitch | 9 Energies | Twisted Swan.\r\n\r\nPolyParadise is NOT a Swinger Camp. Being Poly or Practicing Poly is NOT a requirement for camping with us, but being OPEN MINDED about other people's lifestyle choices IS!!",
+        "burnermap_location": {
+            "string": "3:45 & Eulogy",
+            "gps_longitude": -119.20120359348034,
+            "gps_latitude": 40.77672504385827
+        }
     },
     {
         "uid": "a1X0V000003H1GeUAK",
@@ -1140,7 +1376,12 @@
         "url": null,
         "contact_email": "guernsey65@msn.com",
         "hometown": "Hood River",
-        "description": "We are the playful, sensual playa spanking experience. Let us tease, torment and turn your cheeks a light shade of pink while satiating your thirst with an ice-cold cocktail in one of our commemorative cups!"
+        "description": "We are the playful, sensual playa spanking experience. Let us tease, torment and turn your cheeks a light shade of pink while satiating your thirst with an ice-cold cocktail in one of our commemorative cups!",
+        "burnermap_location": {
+            "string": "8:15 & Breath",
+            "gps_longitude": -119.21723564168582,
+            "gps_latitude": 40.78993011693281
+        }
     },
     {
         "uid": "a1X0V000003H1IfUAK",
@@ -1149,7 +1390,12 @@
         "url": null,
         "contact_email": "mburback@comcast.net",
         "hometown": "Seattle, Ventura, Ithaca",
-        "description": "Friendly neighborhood misting Parlor, hair washing, Spa and Bike Repair. Stop in and experience an overall cooling sensation from head to foot as you stroll through the mist. Got crunchy hair, feeling a bit beat...You may qualify for an emergency hair wash; perhaps there is an opening in the massage room...Stop in and chill. Got a flat, derailleur doesn't work, chain broke, we can fix that also. You might even get lucky and be gifted a bike. \r\nOpen 11:00 to 4:00. Volunteer opportunities."
+        "description": "Friendly neighborhood misting Parlor, hair washing, Spa and Bike Repair. Stop in and experience an overall cooling sensation from head to foot as you stroll through the mist. Got crunchy hair, feeling a bit beat...You may qualify for an emergency hair wash; perhaps there is an opening in the massage room...Stop in and chill. Got a flat, derailleur doesn't work, chain broke, we can fix that also. You might even get lucky and be gifted a bike. \r\nOpen 11:00 to 4:00. Volunteer opportunities.",
+        "burnermap_location": {
+            "string": "6:45 & Dance",
+            "gps_longitude": -119.21883461146463,
+            "gps_latitude": 40.78275670882913
+        }
     },
     {
         "uid": "a1X0V000003H1HrUAK",
@@ -1158,7 +1404,12 @@
         "url": null,
         "contact_email": "galaleo7@gmail.com",
         "hometown": "Redwood City",
-        "description": "We will amuse, entertain, and exhilarate you as well as compliment your shoes.  We are the perfect place for your pussy to visit to be styled, pampered, refreshed, stimulated, and relaxed."
+        "description": "We will amuse, entertain, and exhilarate you as well as compliment your shoes.  We are the perfect place for your pussy to visit to be styled, pampered, refreshed, stimulated, and relaxed.",
+        "burnermap_location": {
+            "string": "8:15 & Genuflect",
+            "gps_longitude": -119.22124645290613,
+            "gps_latitude": 40.7911921903411
+        }
     },
     {
         "uid": "a1X0V000003H1JOUA0",
@@ -1167,7 +1418,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "Lux Vag is where sandy bodies come to get fancy! Enter our parlor to try on tattoos, bedazzle your bodies, and leave feeling special. Stop by the adjacent Lux Cafe for coffee and yoga during the day + dancing and interactive visualizations in the evening."
+        "description": "Lux Vag is where sandy bodies come to get fancy! Enter our parlor to try on tattoos, bedazzle your bodies, and leave feeling special. Stop by the adjacent Lux Cafe for coffee and yoga during the day + dancing and interactive visualizations in the evening.",
+        "burnermap_location": {
+            "string": "7:45 & Ceremony",
+            "gps_longitude": -119.21887265178056,
+            "gps_latitude": 40.78781815115325
+        }
     },
     {
         "uid": "a1X0V000003H1KgUAK",
@@ -1176,7 +1432,12 @@
         "url": "http://contraptionists.com",
         "contact_email": null,
         "hometown": "Black Rock City",
-        "description": "Contraptionists Afternoon Snowcone and Fire Fries, from 1 until 3 each afternoon, Monday through Saturday, or as ice lasts. Kids to the front.\r\n     Guests who wish to power our human powered shaving bike may do so, so we may split the crystallized H2O into a fine feathery powder of flakes ready to fully accept the flavors of Our choice, and encapsulate them into the jewel colored crystals that are so desired by the weary travelers visiting our humble establishment and which we know you will very much enjoy.\r\n\r\nThe Futurama French Fry experience brings to life the long forgotten art of the \"julienne the pommes frites\". Our carefully curated stock of individually picked potatoes makes for a subtle yet palatable snack in the early afternoon hours. Complimented with homemade spices and a homemade tomato and vinegar sauce recipe. Bring a berret, cook us a souffl\u00e9 and enjoy our pommes homemade. \r\nCheck out the art and events schedule for more Contraptionists activities.\r\nDon't bring a cup."
+        "description": "Contraptionists Afternoon Snowcone and Fire Fries, from 1 until 3 each afternoon, Monday through Saturday, or as ice lasts. Kids to the front.\r\n     Guests who wish to power our human powered shaving bike may do so, so we may split the crystallized H2O into a fine feathery powder of flakes ready to fully accept the flavors of Our choice, and encapsulate them into the jewel colored crystals that are so desired by the weary travelers visiting our humble establishment and which we know you will very much enjoy.\r\n\r\nThe Futurama French Fry experience brings to life the long forgotten art of the \"julienne the pommes frites\". Our carefully curated stock of individually picked potatoes makes for a subtle yet palatable snack in the early afternoon hours. Complimented with homemade spices and a homemade tomato and vinegar sauce recipe. Bring a berret, cook us a soufflé and enjoy our pommes homemade. \r\nCheck out the art and events schedule for more Contraptionists activities.\r\nDon't bring a cup.",
+        "burnermap_location": {
+            "string": "7:30 & Eulogy",
+            "gps_longitude": -119.22071489237238,
+            "gps_latitude": 40.786599140079424
+        }
     },
     {
         "uid": "a1X0V000003H1LtUAK",
@@ -1185,7 +1446,12 @@
         "url": null,
         "contact_email": "kendrick_peter@yahoo.ca",
         "hometown": "Reno",
-        "description": "Tiki Bar & Hammock \u2013  bring your thirsty lips over to enjoy a fresh cool island drink and visit and connect with neighbors and fellow burners.  Get some advice if you are new to burning man, and of course, swing in our hammocks with us or relax on our sofas and stools in the shade!"
+        "description": "Tiki Bar & Hammock –  bring your thirsty lips over to enjoy a fresh cool island drink and visit and connect with neighbors and fellow burners.  Get some advice if you are new to burning man, and of course, swing in our hammocks with us or relax on our sofas and stools in the shade!",
+        "burnermap_location": {
+            "string": "9:30 & Lustrate",
+            "gps_longitude": -119.21669959095563,
+            "gps_latitude": 40.799841709498125
+        }
     },
     {
         "uid": "a1X0V000003H1YYUA0",
@@ -1212,7 +1478,12 @@
         "url": null,
         "contact_email": "drameowing@hotmail.com",
         "hometown": "Portland",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "7:45 & Ceremony",
+            "gps_longitude": -119.21887265178056,
+            "gps_latitude": 40.78781815115325
+        }
     },
     {
         "uid": "a1X0V000003H1ikUAC",
@@ -1230,7 +1501,12 @@
         "url": "http://www.stuver.com/spankofamerica",
         "contact_email": "spankofamerica@stuver.com",
         "hometown": "Torrance",
-        "description": "Get your bottom robotically spanked on our ATM (Ass Thwacking Machine).\r\n\r\n Enjoy the mist system, Bottom Bar ,bank/spank satire art and videos. Mark your hometown on our \"world o spank\" world map.\r\n\r\n Our motto.. We give till it hurts .\r\n\r\nhttp://www.stuver.com/spankofamerica"
+        "description": "Get your bottom robotically spanked on our ATM (Ass Thwacking Machine).\r\n\r\n Enjoy the mist system, Bottom Bar ,bank/spank satire art and videos. Mark your hometown on our \"world o spank\" world map.\r\n\r\n Our motto.. We give till it hurts .\r\n\r\nhttp://www.stuver.com/spankofamerica",
+        "burnermap_location": {
+            "string": "4:15 & Eulogy",
+            "gps_longitude": -119.20475961396234,
+            "gps_latitude": 40.77600421451153
+        }
     },
     {
         "uid": "a1X0V000003H1oEUAS",
@@ -1239,7 +1515,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Santa Monica",
-        "description": "Breathe easy with the Maskman's quality N-95 dusk masks with their psychedelic Burning Man logo."
+        "description": "Breathe easy with the Maskman's quality N-95 dusk masks with their psychedelic Burning Man logo.",
+        "burnermap_location": {
+            "string": "4:45 & Genuflect",
+            "gps_longitude": -119.20866874489691,
+            "gps_latitude": 40.774700272567486
+        }
     },
     {
         "uid": "a1X0V000003H1nBUAS",
@@ -1248,7 +1529,12 @@
         "url": null,
         "contact_email": "campshrunkenheads@yahoo.com",
         "hometown": "Oakland",
-        "description": "Camo Shrunken Heads is back. Come make a head or a voodoo doll!"
+        "description": "Camo Shrunken Heads is back. Come make a head or a voodoo doll!",
+        "burnermap_location": {
+            "string": "7:00 & Rods Road",
+            "gps_longitude": -119.21666011003548,
+            "gps_latitude": 40.78043393773682
+        }
     },
     {
         "uid": "a1X0V000003H1qeUAC",
@@ -1257,7 +1543,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Oakland",
-        "description": "Connect with the Something Other often overlooked at Burning Man. Your Playa Choir welcomes all Burners to come and participate in a fun 4-part harmony of classic sacred and secular songs. Rehearsals are Wednesday through Saturday 10:30 a.m. to 12:30 p.m. To listen, please join us for the Sunday Sunrise Performance at the Temple, or the Full Choir non-denominational, non-religious but entirely welcoming, spiritual and moving \"service\" at 11:00 a.m. in our Dome. Singers of all skill levels, and persuasions are welcome :) Also looking for Musicians! Contact madis_service@yahoo.com for more information or swing by our camp on the playa!"
+        "description": "Connect with the Something Other often overlooked at Burning Man. Your Playa Choir welcomes all Burners to come and participate in a fun 4-part harmony of classic sacred and secular songs. Rehearsals are Wednesday through Saturday 10:30 a.m. to 12:30 p.m. To listen, please join us for the Sunday Sunrise Performance at the Temple, or the Full Choir non-denominational, non-religious but entirely welcoming, spiritual and moving \"service\" at 11:00 a.m. in our Dome. Singers of all skill levels, and persuasions are welcome :) Also looking for Musicians! Contact madis_service@yahoo.com for more information or swing by our camp on the playa!",
+        "burnermap_location": {
+            "string": "7:00 & Rods Road",
+            "gps_longitude": -119.21666011003548,
+            "gps_latitude": 40.78043393773682
+        }
     },
     {
         "uid": "a1X0V000003H1tJUAS",
@@ -1266,7 +1557,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Portland",
-        "description": "We are the Sparrows!  We serve the best bloody mary on the playa.  We entertain, we make friends, we make fun, we welcome all.  Chirp Chirp Blarf!"
+        "description": "We are the Sparrows!  We serve the best bloody mary on the playa.  We entertain, we make friends, we make fun, we welcome all.  Chirp Chirp Blarf!",
+        "burnermap_location": {
+            "string": "8:30 & Breath",
+            "gps_longitude": -119.21656779764457,
+            "gps_latitude": 40.790956603546924
+        }
     },
     {
         "uid": "a1X0V000003H1wXUAS",
@@ -1275,7 +1571,12 @@
         "url": null,
         "contact_email": "whiskeydivisionbrc@gmail.com",
         "hometown": "Seattle",
-        "description": "Whiskey Division: Whiskey is a solution. We are the problem"
+        "description": "Whiskey Division: Whiskey is a solution. We are the problem",
+        "burnermap_location": {
+            "string": "4:45 & Ceremony",
+            "gps_longitude": -119.2082138771665,
+            "gps_latitude": 40.77730831015283
+        }
     },
     {
         "uid": "a1X0V000003H1vPUAS",
@@ -1284,7 +1585,12 @@
         "url": "http://www.northwestmist.com",
         "contact_email": "mistme@northwestmist.com",
         "hometown": "Greater Portland/Vancouver area",
-        "description": "Providing a soothing Northwest atmosphere to escape the mid-day heat with misting and quiet music. Step through the Northwest Mist portal and transcend the heat of the day for a momentary refreshing encounter."
+        "description": "Providing a soothing Northwest atmosphere to escape the mid-day heat with misting and quiet music. Step through the Northwest Mist portal and transcend the heat of the day for a momentary refreshing encounter.",
+        "burnermap_location": {
+            "string": "3:15 & Esplanade",
+            "gps_longitude": -119.20109593844835,
+            "gps_latitude": 40.781162879711495
+        }
     },
     {
         "uid": "a1X0V000003H1wrUAC",
@@ -1293,7 +1599,12 @@
         "url": null,
         "contact_email": null,
         "hometown": null,
-        "description": "Phantasmatis is a camp celebrating the uncanny in technology, the fascinating autonomy that mechanisms seem to take on,and their habit of playfully subverting  users' intentions.  Our camp features DIY, hacked devices that come alive in the hands of participants, and a interactive themed environment that gives Burners a glimpse of the fun machines would create if left to their own devices. Night time Rainbow \"Laser\" Tag engages humans and machines in a game of light. Players pursue each other with laser guns in a maze hung with prisms that cast rainbows on the fabric walls. Burners will emerge exhilarated from this excursion into the colorful dream world of machines while in the midst of amazing music!"
+        "description": "Phantasmatis is a camp celebrating the uncanny in technology, the fascinating autonomy that mechanisms seem to take on,and their habit of playfully subverting  users' intentions.  Our camp features DIY, hacked devices that come alive in the hands of participants, and a interactive themed environment that gives Burners a glimpse of the fun machines would create if left to their own devices. Night time Rainbow \"Laser\" Tag engages humans and machines in a game of light. Players pursue each other with laser guns in a maze hung with prisms that cast rainbows on the fabric walls. Burners will emerge exhilarated from this excursion into the colorful dream world of machines while in the midst of amazing music!",
+        "burnermap_location": {
+            "string": "8:45 & Awe",
+            "gps_longitude": -119.21504557987254,
+            "gps_latitude": 40.79150069513052
+        }
     },
     {
         "uid": "a1X0V000003H22pUAC",
@@ -1302,7 +1613,12 @@
         "url": "http://barbiedeathcamp.com",
         "contact_email": "jimdrpyro@aol.clom",
         "hometown": "Newcastle",
-        "description": "Come by and meet up once again with the sickest bastards on the playa: yes the demented denizens of Barbie Death Village--complete with piano bar and wine bistro--are back for our 18th year to amaze and offend even the most jaded of burners.  Join us for a glass of Barbie burgundy, relax in the shade, or step up to the plate for fizzball.  At Barbie Death Village, we know how to make you party."
+        "description": "Come by and meet up once again with the sickest bastards on the playa: yes the demented denizens of Barbie Death Village--complete with piano bar and wine bistro--are back for our 18th year to amaze and offend even the most jaded of burners.  Join us for a glass of Barbie burgundy, relax in the shade, or step up to the plate for fizzball.  At Barbie Death Village, we know how to make you party.",
+        "burnermap_location": {
+            "string": "4:00 & Eulogy",
+            "gps_longitude": -119.2029473647456,
+            "gps_latitude": 40.77627703461784
+        }
     },
     {
         "uid": "a1X0V000003H2CVUA0",
@@ -1311,7 +1627,12 @@
         "url": "https://www.facebook.com/apoxwow/",
         "contact_email": "winner.meredith@gmail.com",
         "hometown": "San Francisco",
-        "description": "Trade up! Go AWOL (or commando) at Apocalypse Wow. We're here to fulfill you need for cold beers, dusty beats and daily shenanigans. All comrades welcome!"
+        "description": "Trade up! Go AWOL (or commando) at Apocalypse Wow. We're here to fulfill you need for cold beers, dusty beats and daily shenanigans. All comrades welcome!",
+        "burnermap_location": {
+            "string": "2:15 & Ceremony",
+            "gps_longitude": -119.19516764091506,
+            "gps_latitude": 40.78300872251151
+        }
     },
     {
         "uid": "a1X0V000003H23iUAC",
@@ -1329,7 +1650,12 @@
         "url": "https://www.flickr.com/photos/7198774@N04/albums/72157665982562875",
         "contact_email": "randyhencken@gmail.com",
         "hometown": "El Cerrito",
-        "description": "The Miscellaneous Heathen's are home to The Beethen, a Mutant Vehicle that is one part Bee, one part Beast, and one part Heathen. She brings devilment, laughs and comfort to burners who encounter her in the dust."
+        "description": "The Miscellaneous Heathen's are home to The Beethen, a Mutant Vehicle that is one part Bee, one part Beast, and one part Heathen. She brings devilment, laughs and comfort to burners who encounter her in the dust.",
+        "burnermap_location": {
+            "string": "3:15 & Kundalini",
+            "gps_longitude": -119.19483680105056,
+            "gps_latitude": 40.77499022190424
+        }
     },
     {
         "uid": "a1X0V000003H2i2UAC",
@@ -1338,7 +1664,12 @@
         "url": null,
         "contact_email": "mrpeeperscloset@gmail.com",
         "hometown": null,
-        "description": "Mr. Peepers Closet (boutique)- We have Burner clothing, Wedding dresses, Tutus( on Tutu Tuesday). Come find your Playa persona."
+        "description": "Mr. Peepers Closet (boutique)- We have Burner clothing, Wedding dresses, Tutus( on Tutu Tuesday). Come find your Playa persona.",
+        "burnermap_location": {
+            "string": "6:45 & Eulogy",
+            "gps_longitude": -119.21963686142745,
+            "gps_latitude": 40.78250469590597
+        }
     },
     {
         "uid": "a1X0V000003H2vQUAS",
@@ -1347,7 +1678,12 @@
         "url": "http://bmanvr.com",
         "contact_email": "shannon@bmanvr.com",
         "hometown": "Silicon Valley, California",
-        "description": "Come experience amazing VR artwork and VR experiences created by the great digital artists of our day. Android Jones, Jeremiah Allen Welch, Denny Unger and many others will be exhibiting. Some nights we will feature live VR painting. Check out our website, http://bmanvr.com, for more details as they develop."
+        "description": "Come experience amazing VR artwork and VR experiences created by the great digital artists of our day. Android Jones, Jeremiah Allen Welch, Denny Unger and many others will be exhibiting. Some nights we will feature live VR painting. Check out our website, http://bmanvr.com, for more details as they develop.",
+        "burnermap_location": {
+            "string": "4:30 & Portal",
+            "gps_longitude": -119.19913558797893,
+            "gps_latitude": 40.78116562379517
+        }
     },
     {
         "uid": "a1X0V000003H2igUAC",
@@ -1356,7 +1692,12 @@
         "url": null,
         "contact_email": "jdf2401@aol.com",
         "hometown": "Monterey",
-        "description": "Playfully Yours Village is a collection of adult themed camps. Our main attraction is a well equipped dungeon area for beginners and intermediate level players to come and experience the dungeonous atmosphere. We have several dungeon equipment and toys for you to use or your welcome to bring your own. We can teach you how to use all the equipment and supervise or facilitate your using them. This is a great place to experience a variety of toys like, floggers, paddles, feathers, fur mites, violet wands, and more in a safe and environment. We have a misting booth to help cool off from the heat, a bean bag toss game, and puzzles to challenge your brain. You can live out your exhibitionist and sultry side in The Bare Naked Tramps photo booth. Also, relax and chat in either of out 2 lounges or take a chance with our fun spinning wheel, just remember, if you spin the wheel, you have to do what it says"
+        "description": "Playfully Yours Village is a collection of adult themed camps. Our main attraction is a well equipped dungeon area for beginners and intermediate level players to come and experience the dungeonous atmosphere. We have several dungeon equipment and toys for you to use or your welcome to bring your own. We can teach you how to use all the equipment and supervise or facilitate your using them. This is a great place to experience a variety of toys like, floggers, paddles, feathers, fur mites, violet wands, and more in a safe and environment. We have a misting booth to help cool off from the heat, a bean bag toss game, and puzzles to challenge your brain. You can live out your exhibitionist and sultry side in The Bare Naked Tramps photo booth. Also, relax and chat in either of out 2 lounges or take a chance with our fun spinning wheel, just remember, if you spin the wheel, you have to do what it says",
+        "burnermap_location": {
+            "string": "8:00 & Breath",
+            "gps_longitude": -119.21771728177454,
+            "gps_latitude": 40.78885483247069
+        }
     },
     {
         "uid": "a1X0V000003H2LSUA0",
@@ -1365,7 +1706,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Truckee, CA Portland, OR, Durango, CO, Los Angeles, CA, Reno, NV, Oakland, CA, Seattle, WA",
-        "description": "Funky Monkey Camp - Furthering Funky Merriment of Maniacal Monkeys Everywhere!"
+        "description": "Funky Monkey Camp - Furthering Funky Merriment of Maniacal Monkeys Everywhere!",
+        "burnermap_location": {
+            "string": "4:00 & Hallowed",
+            "gps_longitude": -119.20227315621503,
+            "gps_latitude": 40.774371243801795
+        }
     },
     {
         "uid": "a1X0V000003H2BcUAK",
@@ -1374,7 +1720,12 @@
         "url": "https://www.facebook.com/plaisancecamp",
         "contact_email": "plaisancecamp@gmail.com",
         "hometown": "Washington DC",
-        "description": "Plaisance: This group is for the Plaisance Tribe and Faux French burners.  Plaisance is a community of seekers, healers, creatives, doers and volunteers.  Who embrace and inspire one another and Burning Man's 10 principles."
+        "description": "Plaisance: This group is for the Plaisance Tribe and Faux French burners.  Plaisance is a community of seekers, healers, creatives, doers and volunteers.  Who embrace and inspire one another and Burning Man's 10 principles.",
+        "burnermap_location": {
+            "string": "5:30 & Dance",
+            "gps_longitude": -119.21322227576812,
+            "gps_latitude": 40.77791409959976
+        }
     },
     {
         "uid": "a1X0V000003H2urUAC",
@@ -1383,12 +1734,17 @@
         "url": null,
         "contact_email": null,
         "hometown": "Boulder and Denver",
-        "description": "Help us make liquid nitrogen ice cream!  Come by to enjoy some cold ice cream made by YOU in the heat of the hot summer day."
+        "description": "Help us make liquid nitrogen ice cream!  Come by to enjoy some cold ice cream made by YOU in the heat of the hot summer day.",
+        "burnermap_location": {
+            "string": "6:45 & Ceremony",
+            "gps_longitude": -119.21803235908496,
+            "gps_latitude": 40.783008722511504
+        }
     },
     {
         "uid": "a1X0V000003H3aTUAS",
         "year": 2017,
-        "name": "Friend or Ph\u00f4?",
+        "name": "Friend or Phô?",
         "url": null,
         "contact_email": null,
         "hometown": "Seattle",
@@ -1401,7 +1757,12 @@
         "url": null,
         "contact_email": "wereinbusiness@gmail.com",
         "hometown": "Tucson",
-        "description": "The Slutt Putt is a mini-putt course where you can get strokes off your golf game by being slutty! Come enjoy a refreshing Arnold Palmer and play a few rounds!"
+        "description": "The Slutt Putt is a mini-putt course where you can get strokes off your golf game by being slutty! Come enjoy a refreshing Arnold Palmer and play a few rounds!",
+        "burnermap_location": {
+            "string": "4:30 & Portal",
+            "gps_longitude": -119.19913558797893,
+            "gps_latitude": 40.78116562379517
+        }
     },
     {
         "uid": "a1X0V000003H2ilUAC",
@@ -1410,7 +1771,12 @@
         "url": "https://www.facebook.com/twolanternsthemecamp/?ref=aymt_homepage_panel",
         "contact_email": "bobo@cruzio.com",
         "hometown": "Santa Cruz",
-        "description": "Best weddings on playa, Unofficial Playa Civil Unions (incl. rings/certificate), Black Rock Temporary Divorce, Annulments. Amazing interactive elwire sculpture and a Kubb game to boot."
+        "description": "Best weddings on playa, Unofficial Playa Civil Unions (incl. rings/certificate), Black Rock Temporary Divorce, Annulments. Amazing interactive elwire sculpture and a Kubb game to boot.",
+        "burnermap_location": {
+            "string": "4:00 & Awe",
+            "gps_longitude": -119.2038463696281,
+            "gps_latitude": 40.778818082935224
+        }
     },
     {
         "uid": "a1X0V000003H2QhUAK",
@@ -1428,7 +1794,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Reno",
-        "description": "Flamingo Camp: Walk among the 350 Flamingos in their natural burningman habitat."
+        "description": "Flamingo Camp: Walk among the 350 Flamingos in their natural burningman habitat.",
+        "burnermap_location": {
+            "string": "2:30 & Breath",
+            "gps_longitude": -119.19663351022156,
+            "gps_latitude": 40.78224253887308
+        }
     },
     {
         "uid": "a1X0V000003H2u3UAC",
@@ -1437,7 +1808,12 @@
         "url": null,
         "contact_email": "clubverboten@aol.com",
         "hometown": "Fallon, Nevada",
-        "description": "Club Neu Verboten continues it Eternal Service to The BRC Popular Masses. Music,Parties,Workshops,shade. Stop by."
+        "description": "Club Neu Verboten continues it Eternal Service to The BRC Popular Masses. Music,Parties,Workshops,shade. Stop by.",
+        "burnermap_location": {
+            "string": "8:45 & Esplanade",
+            "gps_longitude": -119.21378158904267,
+            "gps_latitude": 40.79076724238975
+        }
     },
     {
         "uid": "a1X0V000003H2oPUAS",
@@ -1455,7 +1831,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Auburn",
-        "description": "Kindergarten Kamp is bringing it's 24/7 lighted interactive playground out for your enjoyment - kids of all ages (families, friends - all playa peeps) are welcome to enjoy our swings, trampoline, and teeter-totter, mini teeter totter, sand-less sand box, tether ball and our new creative interactivity opportunities.  Our new features will include an large kaleidoscope (lit at night), corn hole, rope maze, outdoor games and over-sized \"paint by number\" panels to invite participants to create colorful works of ART.    In our new interactive structure, we will share our camp art, airbrush body art and over-sized games in our colorful space.  You will also be able to relax to low music inside the space and/or outside around our ambient flame fire pit.   We welcome all to experience your playful side, create art and interact with your Kindergarten Kamp hosts!"
+        "description": "Kindergarten Kamp is bringing it's 24/7 lighted interactive playground out for your enjoyment - kids of all ages (families, friends - all playa peeps) are welcome to enjoy our swings, trampoline, and teeter-totter, mini teeter totter, sand-less sand box, tether ball and our new creative interactivity opportunities.  Our new features will include an large kaleidoscope (lit at night), corn hole, rope maze, outdoor games and over-sized \"paint by number\" panels to invite participants to create colorful works of ART.    In our new interactive structure, we will share our camp art, airbrush body art and over-sized games in our colorful space.  You will also be able to relax to low music inside the space and/or outside around our ambient flame fire pit.   We welcome all to experience your playful side, create art and interact with your Kindergarten Kamp hosts!",
+        "burnermap_location": {
+            "string": "6:30 & Ceremony",
+            "gps_longitude": -119.21731862461127,
+            "gps_latitude": 40.781913639085346
+        }
     },
     {
         "uid": "a1X0V000003H2ytUAC",
@@ -1464,7 +1845,12 @@
         "url": "http://www.dustycobra.com",
         "contact_email": "unitedcampsbrc@gmail.com",
         "hometown": "Truckee",
-        "description": "Come learn more about our exciting art car and camp at www.dustycobra.com"
+        "description": "Come learn more about our exciting art car and camp at www.dustycobra.com",
+        "burnermap_location": {
+            "string": "8:45 & Hallowed",
+            "gps_longitude": -119.21986697775772,
+            "gps_latitude": 40.794306194330275
+        }
     },
     {
         "uid": "a1X0V000003H3l7UAC",
@@ -1473,7 +1859,12 @@
         "url": "http://www.facebook.com/CampSuburbia",
         "contact_email": "campsuburbia@gmail.com",
         "hometown": "Bend",
-        "description": "Bringing class and sophistication to the playa like never before."
+        "description": "Bringing class and sophistication to the playa like never before.",
+        "burnermap_location": {
+            "string": "8:30 & Esplanade",
+            "gps_longitude": -119.21443620896422,
+            "gps_latitude": 40.790025074884774
+        }
     },
     {
         "uid": "a1X0V000003H2r9UAC",
@@ -1482,7 +1873,12 @@
         "url": "http://funkytownbrc.com",
         "contact_email": null,
         "hometown": null,
-        "description": "Funky Town is a welcoming, neighborhood corner of Black Rock City with funky, groovy, sexy beats, sensational cocktails, and gorgeous, natural wooden structures that welcome you to dance, chill and connect with your fellow citizens of Black Rock.  Get your Funk on!"
+        "description": "Funky Town is a welcoming, neighborhood corner of Black Rock City with funky, groovy, sexy beats, sensational cocktails, and gorgeous, natural wooden structures that welcome you to dance, chill and connect with your fellow citizens of Black Rock.  Get your Funk on!",
+        "burnermap_location": {
+            "string": "10:00 & Ceremony",
+            "gps_longitude": -119.20980401478498,
+            "gps_latitude": 40.7956523517575
+        }
     },
     {
         "uid": "a1X0V000003H3dXUAS",
@@ -1491,7 +1887,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Nikola Lenivets",
-        "description": "Not ready yet, but will be in couple weeks"
+        "description": "Not ready yet, but will be in couple weeks",
+        "burnermap_location": {
+            "string": "7:45 & Awe",
+            "gps_longitude": -119.21715015873647,
+            "gps_latitude": 40.7876471810218
+        }
     },
     {
         "uid": "a1X0V000003H2oyUAC",
@@ -1500,7 +1901,12 @@
         "url": "http://www.facebook.com/groups/destinylounge",
         "contact_email": "bigbludog1@gmail.com",
         "hometown": "Pasadena and Joshua Tree",
-        "description": "Destiny Lounge 3D invites you to enjoy our comfy lounge under the sea, completely surrounded by amazing 3D UV artwork! Challenge your friends to a crazy game of Rock Yer Balls, get the best sloppy wet Free Blowjobs available on the playa (all ages, genders, and species welcome!), and have your mind completely twisted by a journey thru the amazing Vortex of Destiny!"
+        "description": "Destiny Lounge 3D invites you to enjoy our comfy lounge under the sea, completely surrounded by amazing 3D UV artwork! Challenge your friends to a crazy game of Rock Yer Balls, get the best sloppy wet Free Blowjobs available on the playa (all ages, genders, and species welcome!), and have your mind completely twisted by a journey thru the amazing Vortex of Destiny!",
+        "burnermap_location": {
+            "string": "3:00 & Portal",
+            "gps_longitude": -119.19925849296976,
+            "gps_latitude": 40.781298520887006
+        }
     },
     {
         "uid": "a1X0V000003H2wnUAC",
@@ -1509,7 +1915,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Reno, Nevada",
-        "description": "Conscious Dreamers has merged with Cosby's Kids and Ego Death Camp this year. Stop in, check out our chill dance dome with trippy lights and DJ station, our fire pit with comfy couches, our trampoline and meet some of the best peeps on the playa!"
+        "description": "Conscious Dreamers has merged with Cosby's Kids and Ego Death Camp this year. Stop in, check out our chill dance dome with trippy lights and DJ station, our fire pit with comfy couches, our trampoline and meet some of the best peeps on the playa!",
+        "burnermap_location": {
+            "string": "9:15 & Genuflect",
+            "gps_longitude": -119.21625153709941,
+            "gps_latitude": 40.79612173502019
+        }
     },
     {
         "uid": "a1X0V000003H3swUAC",
@@ -1518,7 +1929,12 @@
         "url": "https://www.facebook.com/CultOfTheMagicLady/",
         "contact_email": null,
         "hometown": "Alameda",
-        "description": "Come on down to the Cult for all day entertainment!  Movies at night, spiritual and physical wellness during the day, and of course self service abortions for drunken fun."
+        "description": "Come on down to the Cult for all day entertainment!  Movies at night, spiritual and physical wellness during the day, and of course self service abortions for drunken fun.",
+        "burnermap_location": {
+            "string": "7:45 & Awe",
+            "gps_longitude": -119.21715015873647,
+            "gps_latitude": 40.7876471810218
+        }
     },
     {
         "uid": "a1X0V000003H3JhUAK",
@@ -1527,7 +1943,12 @@
         "url": null,
         "contact_email": "tropicaltreehouse.burningman@gmail.com",
         "hometown": "San Francisco",
-        "description": "A verdant home alive with the warmth of aloha!  Castaways welcomed to paddle up to the tiki lights and toast the night with a Mai Thai."
+        "description": "A verdant home alive with the warmth of aloha!  Castaways welcomed to paddle up to the tiki lights and toast the night with a Mai Thai.",
+        "burnermap_location": {
+            "string": "7:45 & Genuflect",
+            "gps_longitude": -119.22231686363757,
+            "gps_latitude": 40.78816556022795
+        }
     },
     {
         "uid": "a1X0V000003H2sgUAC",
@@ -1536,7 +1957,12 @@
         "url": null,
         "contact_email": "campwolfpack@gmail.com",
         "hometown": "Seattle",
-        "description": "Wolf Pack\r\n\r\nWe're Wolf Pack, and we're the camp destination if you want to learn about body bead work from our accomplished artist Shine or eat some pippin' hot traditional ramen at night by our resident master water boiler, Tyme."
+        "description": "Wolf Pack\r\n\r\nWe're Wolf Pack, and we're the camp destination if you want to learn about body bead work from our accomplished artist Shine or eat some pippin' hot traditional ramen at night by our resident master water boiler, Tyme.",
+        "burnermap_location": {
+            "string": "9:15 & Dance",
+            "gps_longitude": -119.21466960683222,
+            "gps_latitude": 40.794553648023985
+        }
     },
     {
         "uid": "a1X0V000003H2eAUAS",
@@ -1545,7 +1971,12 @@
         "url": "http://www.artcarbusstop.com",
         "contact_email": "wait@artcarbusstop.com",
         "hometown": "Los Angeles",
-        "description": "Hurry up and wait!  Art Car Bus Stop is your premier source for faux municipality.   Do you desperately crave the civil structure of a Metropolis?   Can your thirst for order and reason only be quenched by public service legislation?  Do you desire municipal services to help your lifestyle gain that extra degree of sophistication?  Us neither!  But we can pretend, right?"
+        "description": "Hurry up and wait!  Art Car Bus Stop is your premier source for faux municipality.   Do you desperately crave the civil structure of a Metropolis?   Can your thirst for order and reason only be quenched by public service legislation?  Do you desire municipal services to help your lifestyle gain that extra degree of sophistication?  Us neither!  But we can pretend, right?",
+        "burnermap_location": {
+            "string": "4:45 & Fire",
+            "gps_longitude": -119.20855364045433,
+            "gps_latitude": 40.77535216679971
+        }
     },
     {
         "uid": "a1X0V000003H3IKUA0",
@@ -1554,7 +1985,12 @@
         "url": null,
         "contact_email": "retawrat@comcast.net",
         "hometown": "santa rosa",
-        "description": "Tarwater will be back with bowling and throwing games and Lady S's Boutique.  Join us for the Ritual Rat Dance, Tuesday, Thursday, and Saturday at 11:00 AM."
+        "description": "Tarwater will be back with bowling and throwing games and Lady S's Boutique.  Join us for the Ritual Rat Dance, Tuesday, Thursday, and Saturday at 11:00 AM.",
+        "burnermap_location": {
+            "string": "6:30 & Eulogy",
+            "gps_longitude": -119.21882287193033,
+            "gps_latitude": 40.78125582486021
+        }
     },
     {
         "uid": "a1X0V000003H3reUAC",
@@ -1563,7 +1999,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Santa Rosa",
-        "description": "IN DUST WE TRUST\nCome by, enjoy the chill space,choose some sexy lingerie, share stories,add to our Shrine of Deception, join in chaos."
+        "description": "IN DUST WE TRUST\nCome by, enjoy the chill space,choose some sexy lingerie, share stories,add to our Shrine of Deception, join in chaos.",
+        "burnermap_location": {
+            "string": "4:15 & Ceremony",
+            "gps_longitude": -119.2049861228335,
+            "gps_latitude": 40.77730831015283
+        }
     },
     {
         "uid": "a1X0V000003H44TUAS",
@@ -1581,7 +2022,12 @@
         "url": "http://www.sunguardians.net",
         "contact_email": "info@sunguardians.net",
         "hometown": "Bay Area",
-        "description": "We are Sun Guardians; a Hindu themed temple honoring Kali offering yoga, mediation and the best Boba Tea anywhere!!!!"
+        "description": "We are Sun Guardians; a Hindu themed temple honoring Kali offering yoga, mediation and the best Boba Tea anywhere!!!!",
+        "burnermap_location": {
+            "string": "7:15 & Breath",
+            "gps_longitude": -119.21800956245362,
+            "gps_latitude": 40.78545786327263
+        }
     },
     {
         "uid": "a1X0V000003H3rFUAS",
@@ -1599,7 +2045,12 @@
         "url": "https://www.mudskippercafe.com",
         "contact_email": "info2017@mudskippercafe.com",
         "hometown": "Palm Springs, Los Angeles, San Francisco",
-        "description": "The Mudskipper Urban Decay Cafe is a close-knit, gay-friendly diverse camp with a history at burning man that goes back to 1993, Come chill out in our jungle themed smoothie cafe or get a finger & toe nail make over in our amazing Beauty Bar, all are welcome!!!!"
+        "description": "The Mudskipper Urban Decay Cafe is a close-knit, gay-friendly diverse camp with a history at burning man that goes back to 1993, Come chill out in our jungle themed smoothie cafe or get a finger & toe nail make over in our amazing Beauty Bar, all are welcome!!!!",
+        "burnermap_location": {
+            "string": "7:15 & Eulogy",
+            "gps_longitude": -119.22059283731787,
+            "gps_latitude": 40.78519926850957
+        }
     },
     {
         "uid": "a1X0V000003H3ZpUAK",
@@ -1617,7 +2068,12 @@
         "url": "http://barbots.camp",
         "contact_email": "champsandtramps@gmail.com",
         "hometown": "Santa Barbara",
-        "description": "Champagne saber lessons! Champs and Tramps teach you the only real way to open bubbly--with a blade! Trampoline bounce and champagne toasts on demand at our New Year's Re-Do parties. Restart your burn after any \"oopsy\". European guest appearances and maybe a famous Barbot???"
+        "description": "Champagne saber lessons! Champs and Tramps teach you the only real way to open bubbly--with a blade! Trampoline bounce and champagne toasts on demand at our New Year's Re-Do parties. Restart your burn after any \"oopsy\". European guest appearances and maybe a famous Barbot???",
+        "burnermap_location": {
+            "string": "7:15 & Ceremony",
+            "gps_longitude": -119.21887065498927,
+            "gps_latitude": 40.785371664926764
+        }
     },
     {
         "uid": "a1X0V000003H1v5UAC",
@@ -1626,7 +2082,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Seattle",
-        "description": "Come and visit some Hot Broads for surly advice and assorted sundries. Relax on our Electric Loveseat if you dare!"
+        "description": "Come and visit some Hot Broads for surly advice and assorted sundries. Relax on our Electric Loveseat if you dare!",
+        "burnermap_location": {
+            "string": "6:45 & Hallowed",
+            "gps_longitude": -119.22204680284527,
+            "gps_latitude": 40.78175417627813
+        }
     },
     {
         "uid": "a1X0V000003H4IpUAK",
@@ -1635,7 +2096,12 @@
         "url": "https://www.facebook.com/yahhhssskween",
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "Full Throated Enthusiasm,  Coffee.  Sake.  Squirt guns."
+        "description": "Full Throated Enthusiasm,  Coffee.  Sake.  Squirt guns.",
+        "burnermap_location": {
+            "string": "7:15 & Breath",
+            "gps_longitude": -119.21800956245362,
+            "gps_latitude": 40.78545786327263
+        }
     },
     {
         "uid": "a1X0V000003H3PBUA0",
@@ -1644,7 +2110,12 @@
         "url": "http://www.fb.com/saunadome",
         "contact_email": "sam@verk.com",
         "hometown": "Hellsinki",
-        "description": "Empty your mind, purify your soul, feel amazing and refreshed at the Geodesic Sauna Dome that is being heated by 400 lbs of hot moon stones. Our experienced \"Sauna Masters\" have traveled from the Moon with our experimental Lunar Lover Mutant Vehicle to bring this unearthly experience."
+        "description": "Empty your mind, purify your soul, feel amazing and refreshed at the Geodesic Sauna Dome that is being heated by 400 lbs of hot moon stones. Our experienced \"Sauna Masters\" have traveled from the Moon with our experimental Lunar Lover Mutant Vehicle to bring this unearthly experience.",
+        "burnermap_location": {
+            "string": "8:45 & Awe",
+            "gps_longitude": -119.21504557987254,
+            "gps_latitude": 40.79150069513052
+        }
     },
     {
         "uid": "a1X0V000003H4BKUA0",
@@ -1653,7 +2124,12 @@
         "url": null,
         "contact_email": "burningman@shaw.ca",
         "hometown": "Sault Ste. Marie",
-        "description": "It's the 13th anniversary for the ChainsawMargaritaGuys. Stop by for our happy hour. Daily from 2-3PM Mon-Wed-Fri. At 12,000 rpm, it's the frothiest margarita on the playa. This year we will be serving our 13,000 drink. 13th year,,,13k rpm,,, 13k drinks,,, 13million year old ice,, Coincidence? As in the past years, we will be using our Northern Canadian glacial ice that is over 13 million years old. 21 and over please. check this site out. http://www.youtube.com/watch?v=LngEInjk8HI"
+        "description": "It's the 13th anniversary for the ChainsawMargaritaGuys. Stop by for our happy hour. Daily from 2-3PM Mon-Wed-Fri. At 12,000 rpm, it's the frothiest margarita on the playa. This year we will be serving our 13,000 drink. 13th year,,,13k rpm,,, 13k drinks,,, 13million year old ice,, Coincidence? As in the past years, we will be using our Northern Canadian glacial ice that is over 13 million years old. 21 and over please. check this site out. http://www.youtube.com/watch?v=LngEInjk8HI",
+        "burnermap_location": {
+            "string": "3:45 & Breath",
+            "gps_longitude": -119.20219984531452,
+            "gps_latitude": 40.77854809835442
+        }
     },
     {
         "uid": "a1X0V000003H4X1UAK",
@@ -1662,7 +2138,12 @@
         "url": "http://www.facebook.com/RootistLounge",
         "contact_email": "mikepierce@texaslive.us",
         "hometown": "Las Vegas",
-        "description": "Rootist Lounge - A place to call home! The Rootist Lounge is a camp dedicated to sharing the joy of knowledge, of healing, of yoga, of oneness and so much more."
+        "description": "Rootist Lounge - A place to call home! The Rootist Lounge is a camp dedicated to sharing the joy of knowledge, of healing, of yoga, of oneness and so much more.",
+        "burnermap_location": {
+            "string": "4:00 & Awe",
+            "gps_longitude": -119.2038463696281,
+            "gps_latitude": 40.778818082935224
+        }
     },
     {
         "uid": "a1X0V000003H4XpUAK",
@@ -1671,7 +2152,12 @@
         "url": "http://www.lipbomb.org",
         "contact_email": "camplipbomb@gmail.com",
         "hometown": "Temecula",
-        "description": "Lip Bomb is all things TANK GIRL! A naughty post-apocalyptic theme camp. We are free spirited women and men with a desire to bring about an environment of \"anything goes\" party and fun. As such, our gift to the playa is to provide a fun and relatively safe place for those who visit to express themselves in a many manner of ways, to include live music and performances. Our bar boasts 6 ice cold beers on tap, margaritas, cherry lip bomb and the only camp to offer VAPORIZED ALCOHOL SHOTS!"
+        "description": "Lip Bomb is all things TANK GIRL! A naughty post-apocalyptic theme camp. We are free spirited women and men with a desire to bring about an environment of \"anything goes\" party and fun. As such, our gift to the playa is to provide a fun and relatively safe place for those who visit to express themselves in a many manner of ways, to include live music and performances. Our bar boasts 6 ice cold beers on tap, margaritas, cherry lip bomb and the only camp to offer VAPORIZED ALCOHOL SHOTS!",
+        "burnermap_location": {
+            "string": "7:30 & Ceremony",
+            "gps_longitude": -119.21897767487431,
+            "gps_latitude": 40.78659933872616
+        }
     },
     {
         "uid": "a1X0V000003H1rSUAS",
@@ -1689,16 +2175,26 @@
         "url": "https://www.facebook.com/groups/114999981871269/",
         "contact_email": null,
         "hometown": "Alameda",
-        "description": "Playa Pete's Plaza is the home port for the Artship PV Monaco. The PV stands for Playa Vessel and she makes Playa Pete's Plaza her home."
+        "description": "Playa Pete's Plaza is the home port for the Artship PV Monaco. The PV stands for Playa Vessel and she makes Playa Pete's Plaza her home.",
+        "burnermap_location": {
+            "string": "8:30 & Genuflect",
+            "gps_longitude": -119.22032957062862,
+            "gps_latitude": 40.79260038196808
+        }
     },
     {
         "uid": "a1X0V000003H4brUAC",
         "year": 2017,
         "name": "Big Puffy Yellow",
-        "url": "https://www.facebook.com/Big-Puffy-Yellow-558193654250611/\u2013",
+        "url": "https://www.facebook.com/Big-Puffy-Yellow-558193654250611/–",
         "contact_email": null,
         "hometown": "Charlotte, NYC, SF, Seattle, Chicago, NOLA, London, Las Vegas, Philadelphia, etc.",
-        "description": "What began as a Burning Man Theme Camp in 1999 has grown into a collective of Burners, artists, DJs, performers and general badasses who love all things Big, Puffy and Yellow!"
+        "description": "What began as a Burning Man Theme Camp in 1999 has grown into a collective of Burners, artists, DJs, performers and general badasses who love all things Big, Puffy and Yellow!",
+        "burnermap_location": {
+            "string": "6:15 & Genuflect",
+            "gps_longitude": -119.21917494088358,
+            "gps_latitude": 40.77929272469477
+        }
     },
     {
         "uid": "a1X0V000003H4e7UAC",
@@ -1707,7 +2203,12 @@
         "url": "https://www.facebook.com/BlackRockCabanas/",
         "contact_email": "blackrockcabanas@gmail.com",
         "hometown": "San Francisco",
-        "description": "Come and enjoy The Favorite Vacation Destination for the hard working citizens of Black Rock City!  The Cabana Club is an oasis of hospitality and friendship. We serve up a refreshing array of nosh and cocktails for your Afternoon Delight daily."
+        "description": "Come and enjoy The Favorite Vacation Destination for the hard working citizens of Black Rock City!  The Cabana Club is an oasis of hospitality and friendship. We serve up a refreshing array of nosh and cocktails for your Afternoon Delight daily.",
+        "burnermap_location": {
+            "string": "4:30 & Awe",
+            "gps_longitude": -119.20660000000001,
+            "gps_latitude": 40.77854360050924
+        }
     },
     {
         "uid": "a1X0V000003H4eCUAS",
@@ -1716,7 +2217,12 @@
         "url": "http://www.7sirenscove.com",
         "contact_email": "beth.pferd@gmail.com",
         "hometown": "SAN FRANCISCO",
-        "description": "A pirate bohemia where merrymaking, gypsy lounging, dancing rhythms and mischief run aground.  Beware, it is futile to resist the 7 Siren's call!"
+        "description": "A pirate bohemia where merrymaking, gypsy lounging, dancing rhythms and mischief run aground.  Beware, it is futile to resist the 7 Siren's call!",
+        "burnermap_location": {
+            "string": "7:30 & Awe",
+            "gps_longitude": -119.21724045736653,
+            "gps_latitude": 40.786599511320865
+        }
     },
     {
         "uid": "a1X0V000003H4fFUAS",
@@ -1725,7 +2231,12 @@
         "url": null,
         "contact_email": "burningman@twocaptainsbeer.com",
         "hometown": "Vancouver and Melbourne",
-        "description": "Comprised of members spanning the globe, this year we'll have members residing in Canada, Australia, UK, Israel, USA, Nicaragua, Argentina attending.\r\n\r\nKeep an eye out for our famous blender bike parties (and maybe even the biggest ballpit this side of 6 o'clock)!\r\n\r\nWe're also hosting the first ever Intercontinental Banana March, where everyone who has a Banana costume is welcome to meet up on Thursday at 4pm to protest the Carrot and Bunny March."
+        "description": "Comprised of members spanning the globe, this year we'll have members residing in Canada, Australia, UK, Israel, USA, Nicaragua, Argentina attending.\r\n\r\nKeep an eye out for our famous blender bike parties (and maybe even the biggest ballpit this side of 6 o'clock)!\r\n\r\nWe're also hosting the first ever Intercontinental Banana March, where everyone who has a Banana costume is welcome to meet up on Thursday at 4pm to protest the Carrot and Bunny March.",
+        "burnermap_location": {
+            "string": "3:15 & Eulogy",
+            "gps_longitude": -119.19801373155731,
+            "gps_latitude": 40.77811815910593
+        }
     },
     {
         "uid": "a1X0V000003H4kKUAS",
@@ -1734,7 +2245,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Salt Lake City",
-        "description": "Photo art, photo soul, photo gifts. Cold drinks and chill boogie. Serving/photographing M/W/F noon to 6pm (or whenever we're around). People are strange, but no one is a stranger."
+        "description": "Photo art, photo soul, photo gifts. Cold drinks and chill boogie. Serving/photographing M/W/F noon to 6pm (or whenever we're around). People are strange, but no one is a stranger.",
+        "burnermap_location": {
+            "string": "8:45 & Eulogy",
+            "gps_longitude": -119.21780341042755,
+            "gps_latitude": 40.793100974445345
+        }
     },
     {
         "uid": "a1X0V000003H4kAUAS",
@@ -1743,7 +2259,12 @@
         "url": "https://www.rhythmwave.org/",
         "contact_email": "info@rhythmwave.org",
         "hometown": null,
-        "description": "Proud and thankful to return to Black Rock City in 2017, and begin our second decade at Burning Man!\r\n\r\nRhythmWave is dedicated to the practice of Conscious Dance as a moving meditation. With no experience necessary and no \"steps\" to learn, Conscious Dance offers a path, different for each person, and the destination is the discovery of ourselves and a return to our center.\r\n\r\nFacilitators from around the globe offer multiple daily sessions of Conscious Dance and movement on our 2,000 sq.ft., fully shaded and easily-accessible bamboo dance floor. RW also hosts morning yoga and meditation, as well as workshops and intention circles throughout the week.\r\n\r\nAll citizens of Black Rock City are once again invited to bless the bamboo at RhythmWave in 2017. Please join us!"
+        "description": "Proud and thankful to return to Black Rock City in 2017, and begin our second decade at Burning Man!\r\n\r\nRhythmWave is dedicated to the practice of Conscious Dance as a moving meditation. With no experience necessary and no \"steps\" to learn, Conscious Dance offers a path, different for each person, and the destination is the discovery of ourselves and a return to our center.\r\n\r\nFacilitators from around the globe offer multiple daily sessions of Conscious Dance and movement on our 2,000 sq.ft., fully shaded and easily-accessible bamboo dance floor. RW also hosts morning yoga and meditation, as well as workshops and intention circles throughout the week.\r\n\r\nAll citizens of Black Rock City are once again invited to bless the bamboo at RhythmWave in 2017. Please join us!",
+        "burnermap_location": {
+            "string": "5:00 & Awe",
+            "gps_longitude": -119.20935363037192,
+            "gps_latitude": 40.778818082935224
+        }
     },
     {
         "uid": "a1X0V000003H4ptUAC",
@@ -1761,7 +2282,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Sacramento & San Francisco",
-        "description": "Many years ago, a snake oil salesman named Dr. LeTawdry traveled the swamps of Louisiana in search of fabled elixirs. Many of his potions were successful, but it was his mixture for lovesickness that backfired and lead to tragedy -- awkward hugs. \r\n\r\nNow, Dr. LeTawdry urges you to visit Awkward & Tawdry Lounge to find the cure! He offers many treatments:  moving pictures, sing-alongs, breakfast with cartoons, easy listening and lemonade, drinking and merriment."
+        "description": "Many years ago, a snake oil salesman named Dr. LeTawdry traveled the swamps of Louisiana in search of fabled elixirs. Many of his potions were successful, but it was his mixture for lovesickness that backfired and lead to tragedy -- awkward hugs. \r\n\r\nNow, Dr. LeTawdry urges you to visit Awkward & Tawdry Lounge to find the cure! He offers many treatments:  moving pictures, sing-alongs, breakfast with cartoons, easy listening and lemonade, drinking and merriment.",
+        "burnermap_location": {
+            "string": "3:30 & Center Camp Plaza",
+            "gps_longitude": -119.21364111031947,
+            "gps_latitude": 40.78044473987587
+        }
     },
     {
         "uid": "a1X0V000003H4cBUAS",
@@ -1770,7 +2296,12 @@
         "url": null,
         "contact_email": "monsterburns10@gmail.com",
         "hometown": "Boulder",
-        "description": "Cotton Candy Camp serves up delicious, fluffy cotton candy cones in a multiple of flavors, every day during the event."
+        "description": "Cotton Candy Camp serves up delicious, fluffy cotton candy cones in a multiple of flavors, every day during the event.",
+        "burnermap_location": {
+            "string": "8:00 & Center Camp Plaza",
+            "gps_longitude": -119.214807992199,
+            "gps_latitude": 40.78112267239388
+        }
     },
     {
         "uid": "a1X0V000003H4diUAC",
@@ -1779,7 +2310,12 @@
         "url": "http://www.feedtheartists.net",
         "contact_email": "info@feedtheartists.net",
         "hometown": "Atlanta",
-        "description": "Started in 2007 with Larry Harvey's blessing and support, FtA has fed tens of thousands of burners, and actively modeled the concept of creating community through the sharing of meals at BRC and far beyond.  We serve as a primary resource for playa food safety, kitchen design, and playa cooking.  You never know what we'll be cooking, but whatever it is, you're invited to help us prepare and eat it, and you'll be treated to some of the finest food ever gifted on the playa!"
+        "description": "Started in 2007 with Larry Harvey's blessing and support, FtA has fed tens of thousands of burners, and actively modeled the concept of creating community through the sharing of meals at BRC and far beyond.  We serve as a primary resource for playa food safety, kitchen design, and playa cooking.  You never know what we'll be cooking, but whatever it is, you're invited to help us prepare and eat it, and you'll be treated to some of the finest food ever gifted on the playa!",
+        "burnermap_location": {
+            "string": "10:00 & Genuflect",
+            "gps_longitude": -119.21070354441277,
+            "gps_latitude": 40.79819334684544
+        }
     },
     {
         "uid": "a1X0V000003H4r6UAC",
@@ -1788,7 +2324,12 @@
         "url": "http://www.playaskool.com",
         "contact_email": "jon@playaskool.com",
         "hometown": "Stateline",
-        "description": "Our Mission is simple:  We work hard, we play hard.  We share.  We learn.  We grow.  We Evolve.  We are Play)A(Skool -- dedicated to creating meaningful and positive experiences.  \n\nThis year we will feature a daytime and evening schedule to include some of the most provocative thought leaders, artists, musicians and entertainment on the playa!  \n\nWe are launching our new Playa-Ed program that includes thought leaders in the world of Power, Money, Art, Relationships, Fashion, Music and Futurism.  As the founders of TEDx in Black Rock City, we are taking things in a different direction - more collaborative and more interactive than ever before! \n\nAt night we are transformed into a mesmeric, interactive environment melding the worlds of art, design, and science under one fire-laden roof. Incendia, one of our art projects for the year will be the gathering place for some of the top entertainment and visual art on the playa this year. \n\nDay or night --- come and check us out!"
+        "description": "Our Mission is simple:  We work hard, we play hard.  We share.  We learn.  We grow.  We Evolve.  We are Play)A(Skool -- dedicated to creating meaningful and positive experiences.  \n\nThis year we will feature a daytime and evening schedule to include some of the most provocative thought leaders, artists, musicians and entertainment on the playa!  \n\nWe are launching our new Playa-Ed program that includes thought leaders in the world of Power, Money, Art, Relationships, Fashion, Music and Futurism.  As the founders of TEDx in Black Rock City, we are taking things in a different direction - more collaborative and more interactive than ever before! \n\nAt night we are transformed into a mesmeric, interactive environment melding the worlds of art, design, and science under one fire-laden roof. Incendia, one of our art projects for the year will be the gathering place for some of the top entertainment and visual art on the playa this year. \n\nDay or night --- come and check us out!",
+        "burnermap_location": {
+            "string": "10:00 & Eulogy",
+            "gps_longitude": -119.21025377099113,
+            "gps_latitude": 40.79692285017463
+        }
     },
     {
         "uid": "a1X0V000003H4tHUAS",
@@ -1797,7 +2338,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Seattle",
-        "description": "Furlaxation Station is a casual conglomeration of crazy coolness. Wind down on our plush overstuffed mammals, relax with a soothing buffer massage, enjoy erotic story time, and finally get geared back up again for playa antics at the Frazzle Dazzle bar."
+        "description": "Furlaxation Station is a casual conglomeration of crazy coolness. Wind down on our plush overstuffed mammals, relax with a soothing buffer massage, enjoy erotic story time, and finally get geared back up again for playa antics at the Frazzle Dazzle bar.",
+        "burnermap_location": {
+            "string": "2:45 & Breath",
+            "gps_longitude": -119.19747372456047,
+            "gps_latitude": 40.78129131516215
+        }
     },
     {
         "uid": "a1X0V000003H4Z7UAK",
@@ -1806,7 +2352,12 @@
         "url": "https://www.facebook.com/campfuegoburningman/",
         "contact_email": "dean@deanhanley.net",
         "hometown": "Berkeley, CA",
-        "description": "Fuego's No Mercy Karaoke Bar hosts a full top shelf bar & Karaoke Stage with \"No Mercy\" and \"Mo' Mercy\" karaoke parties and prizes.  Neighbors love Fuego's Karaoke Stage because \"No Mercy\" means any listener can end any unpleasant sound at any time--a missed note, fade to dance music! \"Mo' Mercy\" means well-keyed voices chime in, mic volumes magically adjust and the performance sounds great! \r\nFuego's Stage also invites guests to an Open Mic and hosts DJ dance parties, spoken word and musical performances.\r\nCamp Fuego's namesake is its Art Installation, \"Fuego\", an arresting life-sized stretched barbed-wire prancing HORSE with flame effects coming from her eyes and mane. \r\nhttps://www.facebook.com/campfuegoburningman/"
+        "description": "Fuego's No Mercy Karaoke Bar hosts a full top shelf bar & Karaoke Stage with \"No Mercy\" and \"Mo' Mercy\" karaoke parties and prizes.  Neighbors love Fuego's Karaoke Stage because \"No Mercy\" means any listener can end any unpleasant sound at any time--a missed note, fade to dance music! \"Mo' Mercy\" means well-keyed voices chime in, mic volumes magically adjust and the performance sounds great! \r\nFuego's Stage also invites guests to an Open Mic and hosts DJ dance parties, spoken word and musical performances.\r\nCamp Fuego's namesake is its Art Installation, \"Fuego\", an arresting life-sized stretched barbed-wire prancing HORSE with flame effects coming from her eyes and mane. \r\nhttps://www.facebook.com/campfuegoburningman/",
+        "burnermap_location": {
+            "string": "6:15 & Hallowed",
+            "gps_longitude": -119.21986389878278,
+            "gps_latitude": 40.77889228660458
+        }
     },
     {
         "uid": "a1X0V000003H4tlUAC",
@@ -1815,7 +2366,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Los Angeles",
-        "description": "Serving up the playa's dankest quesadillas alongside a desert cantina playing salsa music hits."
+        "description": "Serving up the playa's dankest quesadillas alongside a desert cantina playing salsa music hits.",
+        "burnermap_location": {
+            "string": "2:45 & Kundalini",
+            "gps_longitude": -119.19126927735734,
+            "gps_latitude": 40.77769094775076
+        }
     },
     {
         "uid": "a1X0V000003H50SUAS",
@@ -1833,7 +2389,12 @@
         "url": "https://www.facebook.com/groups/107433335338/",
         "contact_email": "excentrix@aol.com",
         "hometown": "Douglas AZ",
-        "description": "Art Car Camp is a celebration of Art Cars founded in 1994 by Harrod Blank.  In addition to art cars parked in front, there is a  photo exhibit of the history and with the DMV located nearby it helps to demonstrate the difference between art cars and mutant vehicles.  Come see for yourself."
+        "description": "Art Car Camp is a celebration of Art Cars founded in 1994 by Harrod Blank.  In addition to art cars parked in front, there is a  photo exhibit of the history and with the DMV located nearby it helps to demonstrate the difference between art cars and mutant vehicles.  Come see for yourself.",
+        "burnermap_location": {
+            "string": "5:30 & Esplanade",
+            "gps_longitude": -119.21112359988747,
+            "gps_latitude": 40.78066704889926
+        }
     },
     {
         "uid": "a1X0V000003H52OUAS",
@@ -1842,7 +2403,12 @@
         "url": "https://www.facebook.com/abstininthe/",
         "contact_email": null,
         "hometown": "Bay Area/Santa Barbara/Seattle",
-        "description": "Abstininthe is the friendly bar on the playa, providing our special drink to the thirsty of BRC since the last millennium. Come try our many flavors and enjoy the music, ambiance and conversation of our neighborhood bar."
+        "description": "Abstininthe is the friendly bar on the playa, providing our special drink to the thirsty of BRC since the last millennium. Come try our many flavors and enjoy the music, ambiance and conversation of our neighborhood bar.",
+        "burnermap_location": {
+            "string": "7:30 & Fire",
+            "gps_longitude": -119.22158350111735,
+            "gps_latitude": 40.786599030986544
+        }
     },
     {
         "uid": "a1X0V000003H579UAC",
@@ -1851,7 +2417,12 @@
         "url": "http://www.hellfireshow.com",
         "contact_email": "husted49@gmail.com",
         "hometown": "Orange County",
-        "description": "Hellfire Society Fire Artists Camp"
+        "description": "Hellfire Society Fire Artists Camp",
+        "burnermap_location": {
+            "string": "2:45 & Breath",
+            "gps_longitude": -119.19747372456047,
+            "gps_latitude": 40.78129131516215
+        }
     },
     {
         "uid": "a1X0V000003H58HUAS",
@@ -1860,7 +2431,12 @@
         "url": "http://www.electricgiraffe.com",
         "contact_email": null,
         "hometown": "Ramona",
-        "description": "Lindsay Lawlor welcomes you to Electric Giraffe Land!"
+        "description": "Lindsay Lawlor welcomes you to Electric Giraffe Land!",
+        "burnermap_location": {
+            "string": "5:30 & Genuflect",
+            "gps_longitude": -119.21452481468833,
+            "gps_latitude": 40.77620535332683
+        }
     },
     {
         "uid": "a1X0V000003H57xUAC",
@@ -1869,7 +2445,12 @@
         "url": "http://burningman.org/event/volunteering/teams/lamplighters/",
         "contact_email": "lamplighters@burningman.com",
         "hometown": null,
-        "description": "The Lamplighters begin EVERY EVENING of the event in their center camp workspace, Lamplighter Chapel, at 5pm to prepare lanterns to light the streets of Black Rock City. The parade and ceremony begins around 6PM. No experience is required. We welcome virgin and seasoned burners alike. One thing is certain though. We can't do it without YOU."
+        "description": "The Lamplighters begin EVERY EVENING of the event in their center camp workspace, Lamplighter Chapel, at 5pm to prepare lanterns to light the streets of Black Rock City. The parade and ceremony begins around 6PM. No experience is required. We welcome virgin and seasoned burners alike. One thing is certain though. We can't do it without YOU.",
+        "burnermap_location": {
+            "string": "5:00 & Center Camp Plaza",
+            "gps_longitude": -119.21424470641256,
+            "gps_latitude": 40.78038461264828
+        }
     },
     {
         "uid": "a1X0V000003H58WUAS",
@@ -1878,7 +2459,12 @@
         "url": "http://burningman.org/event/volunteering/teams/lamplighters/",
         "contact_email": "lamplighters@burningman.com",
         "hometown": null,
-        "description": "Illuminate! Navigate! Celebrate!\r\n\r\nThe Lamplighters light the city every night without fail. Come join our pre-lighting daily parties from 3-5 PM before volunteering to help light the city with kerosene lanterns. \r\n\r\nWe're located at 5:45 and Rod's Road."
+        "description": "Illuminate! Navigate! Celebrate!\r\n\r\nThe Lamplighters light the city every night without fail. Come join our pre-lighting daily parties from 3-5 PM before volunteering to help light the city with kerosene lanterns. \r\n\r\nWe're located at 5:45 and Rod's Road.",
+        "burnermap_location": {
+            "string": "5:45 & Rods Road",
+            "gps_longitude": -119.21568995116566,
+            "gps_latitude": 40.77933581736501
+        }
     },
     {
         "uid": "a1X0V000003H59yUAC",
@@ -1887,7 +2473,12 @@
         "url": null,
         "contact_email": "kisyfish@gmail.com",
         "hometown": null,
-        "description": "Come play swings, daytime drinks, stuffy fluffy toys, UV camera sunscreen scan, hammock flop, and smooches and tunes from the Kissy Fish mutant vehicle."
+        "description": "Come play swings, daytime drinks, stuffy fluffy toys, UV camera sunscreen scan, hammock flop, and smooches and tunes from the Kissy Fish mutant vehicle.",
+        "burnermap_location": {
+            "string": "8:30 & Dance",
+            "gps_longitude": -119.21807248448715,
+            "gps_latitude": 40.791614129574576
+        }
     },
     {
         "uid": "a1X0V000003H5B1UAK",
@@ -1896,7 +2487,12 @@
         "url": "http://www.brcweekly.com",
         "contact_email": "brcweekly@brcweekly.com",
         "hometown": "San Francisco",
-        "description": "BRC WEEKLY is Black Rock City's favorite independent newsweekly. As BRC's premiere lifestyle & culture rag, the BRC Weekly features insightful articles, colorful editorials, and of course, its infamous Out/In List and Playa Lingo. http://BRCWeekly.com"
+        "description": "BRC WEEKLY is Black Rock City's favorite independent newsweekly. As BRC's premiere lifestyle & culture rag, the BRC Weekly features insightful articles, colorful editorials, and of course, its infamous Out/In List and Playa Lingo. http://BRCWeekly.com",
+        "burnermap_location": {
+            "string": "1:30 & Center Camp Plaza",
+            "gps_longitude": -119.21324270846804,
+            "gps_latitude": 40.78096664107804
+        }
     },
     {
         "uid": "a1X0V000003H5COUA0",
@@ -1905,7 +2501,12 @@
         "url": "http://desertparadise.org",
         "contact_email": "contact@desertparadise.org",
         "hometown": "San Francisco, Los Angeles",
-        "description": "Celebrating our 10th year on the playa, come experience the American Dream that is Paradise Motel, the most garish of roadside motels, yet the best of the \"no-tel\" genre; located in the heart of the Gayborhood and established in 2008 with a diverse group of folks hailing from our Default World locales of SF and LA. We welcome weary wanderers to stop in for a snow cone and enjoy some progressive beats while you lounge in the shade by the \"pool\", visit our Concierge Desk to discover the local attractions and to sign up for guided tours or stop by our arts and crafts table every afternoon; awaken your spirit with sunrise Vinyasa Yoga every morning; come to our Tuesday Sunset Party and enjoy our evening bonfire featuring \"Cocoa and Cabernet Cabaret\"."
+        "description": "Celebrating our 10th year on the playa, come experience the American Dream that is Paradise Motel, the most garish of roadside motels, yet the best of the \"no-tel\" genre; located in the heart of the Gayborhood and established in 2008 with a diverse group of folks hailing from our Default World locales of SF and LA. We welcome weary wanderers to stop in for a snow cone and enjoy some progressive beats while you lounge in the shade by the \"pool\", visit our Concierge Desk to discover the local attractions and to sign up for guided tours or stop by our arts and crafts table every afternoon; awaken your spirit with sunrise Vinyasa Yoga every morning; come to our Tuesday Sunset Party and enjoy our evening bonfire featuring \"Cocoa and Cabernet Cabaret\".",
+        "burnermap_location": {
+            "string": "7:15 & Genuflect",
+            "gps_longitude": -119.22231612211759,
+            "gps_latitude": 40.78503230749086
+        }
     },
     {
         "uid": "a1X0V000003H5GuUAK",
@@ -1914,7 +2515,12 @@
         "url": null,
         "contact_email": null,
         "hometown": null,
-        "description": "\"You will never find a more wretched hive of scum and villainy.\" - Obi-Wan Kenobi"
+        "description": "\"You will never find a more wretched hive of scum and villainy.\" - Obi-Wan Kenobi",
+        "burnermap_location": {
+            "string": "7:15 & Ceremony",
+            "gps_longitude": -119.21887065498927,
+            "gps_latitude": 40.785371664926764
+        }
     },
     {
         "uid": "a1X0V000003H5K3UAK",
@@ -1923,7 +2529,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Park City",
-        "description": "Home to the weird the wild and the interesting.  ZaZen is your welcoming family of hug givers and guides for your time on the playa."
+        "description": "Home to the weird the wild and the interesting.  ZaZen is your welcoming family of hug givers and guides for your time on the playa.",
+        "burnermap_location": {
+            "string": "4:30 & Eulogy",
+            "gps_longitude": -119.20660000000001,
+            "gps_latitude": 40.77591293945103
+        }
     },
     {
         "uid": "a1X0V000003H5KcUAK",
@@ -1932,7 +2543,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Diego",
-        "description": "Camp XOXO Short Bus is a welcoming group of friends who share a sense of community. We love taking care of you and each other, gifting drinks, love, food, and hugs to the community."
+        "description": "Camp XOXO Short Bus is a welcoming group of friends who share a sense of community. We love taking care of you and each other, gifting drinks, love, food, and hugs to the community.",
+        "burnermap_location": {
+            "string": "6:15 & Genuflect",
+            "gps_longitude": -119.21917494088358,
+            "gps_latitude": 40.77929272469477
+        }
     },
     {
         "uid": "a1X0V000003H59eUAC",
@@ -1941,7 +2557,12 @@
         "url": "http://youarehealer.com/",
         "contact_email": "oleg8888@gmail.com",
         "hometown": "San Francisco",
-        "description": "We offer to the playa our healing sanctuary. A quiet place to relax, receive healing, body work, aromatherapy, ceremony, an occasional workshop, yoga and other mystically centered healing modalities. Come to rest and get out of the hot sun to refresh your body and your mind"
+        "description": "We offer to the playa our healing sanctuary. A quiet place to relax, receive healing, body work, aromatherapy, ceremony, an occasional workshop, yoga and other mystically centered healing modalities. Come to rest and get out of the hot sun to refresh your body and your mind",
+        "burnermap_location": {
+            "string": "6:15 & Inspirit",
+            "gps_longitude": -119.22055284837559,
+            "gps_latitude": 40.77849184441712
+        }
     },
     {
         "uid": "a1X0V000003H5NqUAK",
@@ -1950,7 +2571,12 @@
         "url": "https://www.facebook.com/groups/649543511880605/",
         "contact_email": null,
         "hometown": "Reno",
-        "description": "Pesky Playa dust packed into those irritated head holes? We can help with that! Be warned, you might need a shot.....Yeah, you're probably going to need a shot.\r\nOur decidedly  NON MEDICAL staff is available Mon -Saturday from 1-4 PM"
+        "description": "Pesky Playa dust packed into those irritated head holes? We can help with that! Be warned, you might need a shot.....Yeah, you're probably going to need a shot.\r\nOur decidedly  NON MEDICAL staff is available Mon -Saturday from 1-4 PM",
+        "burnermap_location": {
+            "string": "10:15 & Rods Road",
+            "gps_longitude": -119.21439350572908,
+            "gps_latitude": 40.783004547334485
+        }
     },
     {
         "uid": "a1X0V000003H5OKUA0",
@@ -1959,7 +2585,12 @@
         "url": "https://www.facebook.com/templehedron/",
         "contact_email": "templehedron@gmail.com",
         "hometown": "Pequannock, NJ & London England",
-        "description": "Templehedron meditation temple.  BRC, early morning ritual meditation, & afternoon chill space. Evening Deep House and ice cold wine\r\n\r\nwww.facebook.com/templehedron"
+        "description": "Templehedron meditation temple.  BRC, early morning ritual meditation, & afternoon chill space. Evening Deep House and ice cold wine\r\n\r\nwww.facebook.com/templehedron",
+        "burnermap_location": {
+            "string": "3:45 & Ceremony",
+            "gps_longitude": -119.20186776097587,
+            "gps_latitude": 40.77794041280151
+        }
     },
     {
         "uid": "a1X0V000003H5OPUA0",
@@ -1968,7 +2599,12 @@
         "url": "http://www.playcreate.org",
         "contact_email": null,
         "hometown": "Mountain View",
-        "description": "Camp PlayCreate - We have toys!\nEnjoy our shade, sip a drink and participate in one of our many workshops."
+        "description": "Camp PlayCreate - We have toys!\nEnjoy our shade, sip a drink and participate in one of our many workshops.",
+        "burnermap_location": {
+            "string": "3:00 & Inspirit",
+            "gps_longitude": -119.19416423060504,
+            "gps_latitude": 40.77718228119359
+        }
     },
     {
         "uid": "a1X0V000003H5OFUA0",
@@ -1977,7 +2613,12 @@
         "url": "http://www.prometheatrics.com",
         "contact_email": "info@prometheatrics.com",
         "hometown": "Los Angeles",
-        "description": "Bringing the gift of Fire to humanity since the dawn of time, Prometheatrics has been a part of Black Rock City since 2002. Historically located on the Esplanade, our theme camp hosts a fine collection of interactive installations and helpful hosts ready to surprise and delight you!\r\n\r\nStep inside the temporally anomalous Tesseract, where you'll experience yourself as you truly are: infinite! Trace your face with our Self Portrait Studio and take home your masterpiece, or shoot a selfie in Clesthyra's Eye. Enjoy a bounce on our delightful Danpoline or enter the dream-space of the Infinitipi. On your way into or out of our domain, admire all the colors of Burning Man through the radiant Rainbow Scrim, or cast your fortune on our giant I-Ching.\r\n\r\nJoin us at dusk and dawn at our mirrored stage for twice-daily fire spinning jams, where there's always a safety on duty and all wicks are welcome. We're honored to be a part of what makes our city magical, and eager to share what makes us shine!"
+        "description": "Bringing the gift of Fire to humanity since the dawn of time, Prometheatrics has been a part of Black Rock City since 2002. Historically located on the Esplanade, our theme camp hosts a fine collection of interactive installations and helpful hosts ready to surprise and delight you!\r\n\r\nStep inside the temporally anomalous Tesseract, where you'll experience yourself as you truly are: infinite! Trace your face with our Self Portrait Studio and take home your masterpiece, or shoot a selfie in Clesthyra's Eye. Enjoy a bounce on our delightful Danpoline or enter the dream-space of the Infinitipi. On your way into or out of our domain, admire all the colors of Burning Man through the radiant Rainbow Scrim, or cast your fortune on our giant I-Ching.\r\n\r\nJoin us at dusk and dawn at our mirrored stage for twice-daily fire spinning jams, where there's always a safety on duty and all wicks are welcome. We're honored to be a part of what makes our city magical, and eager to share what makes us shine!",
+        "burnermap_location": {
+            "string": "7:45 & Esplanade",
+            "gps_longitude": -119.21557121125572,
+            "gps_latitude": 40.78749045884562
+        }
     },
     {
         "uid": "a1X0V000003H5PcUAK",
@@ -1995,7 +2636,12 @@
         "url": null,
         "contact_email": "smoresnamour@yahoo.com",
         "hometown": "North Hollywood",
-        "description": "S'MORES every night at sundown \r\nand\r\nThe Temple of the Oracle of Blackrock:  consult the priestess at the Oracle of Blackrock for rites and rituals of purification, release and renewal.\r\nand\r\nThe TARDIS and Pandorica. (Doctor Who is a burner)"
+        "description": "S'MORES every night at sundown \r\nand\r\nThe Temple of the Oracle of Blackrock:  consult the priestess at the Oracle of Blackrock for rites and rituals of purification, release and renewal.\r\nand\r\nThe TARDIS and Pandorica. (Doctor Who is a burner)",
+        "burnermap_location": {
+            "string": "3:30 & Fire",
+            "gps_longitude": -119.19910935750652,
+            "gps_latitude": 40.77677493704503
+        }
     },
     {
         "uid": "a1X0V000003H5cbUAC",
@@ -2004,7 +2650,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Bay Area",
-        "description": "Black Rock Yacht Club is an arena for aeolian celebrants. We teach sailing on our our custom-built windsurfers-on-wheels."
+        "description": "Black Rock Yacht Club is an arena for aeolian celebrants. We teach sailing on our our custom-built windsurfers-on-wheels.",
+        "burnermap_location": {
+            "string": "9:00 & Lustrate",
+            "gps_longitude": -119.22088245564218,
+            "gps_latitude": 40.79741128958385
+        }
     },
     {
         "uid": "a1X0V000003H5e3UAC",
@@ -2013,7 +2664,12 @@
         "url": "https://sites.google.com/site/pandorascamp/",
         "contact_email": "aalcina@sbcglobal.net",
         "hometown": "St. Louis",
-        "description": "Our camp keeps our fellow Burners biking: in our repair shop, we offer tools, parts, and education in bike repair. Actually we'll help you repair just about anything, but bikes are our specialty. We also love to mix drinks and host visitors in our adjacent lounge. We have a strong eco focus; we have been running on solar power for years, and we recycle and reuse as much as possible."
+        "description": "Our camp keeps our fellow Burners biking: in our repair shop, we offer tools, parts, and education in bike repair. Actually we'll help you repair just about anything, but bikes are our specialty. We also love to mix drinks and host visitors in our adjacent lounge. We have a strong eco focus; we have been running on solar power for years, and we recycle and reuse as much as possible.",
+        "burnermap_location": {
+            "string": "5:45 & Rods Road",
+            "gps_longitude": -119.21568995116566,
+            "gps_latitude": 40.77933581736501
+        }
     },
     {
         "uid": "a1X0V000003H5ANUA0",
@@ -2022,7 +2678,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Nevada City, California",
-        "description": "SwagMart is a Oasis of Creativity located in the Heart of Black Rock\r\nDesert.Our Swag pins, Earrings, Necklaces and Playa Post Cards are collected and cherished each year while our nightly Branding sessions\r\nof your Boots, Belts, Hats etc are a must have for the Playa. Special Trophy's for our Costume Appreciation. Stop by for a Creative Fun Positive experience and meet Burners from all over the Planet. SwagMart is celebrating our 9th year always close to Center Camp,"
+        "description": "SwagMart is a Oasis of Creativity located in the Heart of Black Rock\r\nDesert.Our Swag pins, Earrings, Necklaces and Playa Post Cards are collected and cherished each year while our nightly Branding sessions\r\nof your Boots, Belts, Hats etc are a must have for the Playa. Special Trophy's for our Costume Appreciation. Stop by for a Creative Fun Positive experience and meet Burners from all over the Planet. SwagMart is celebrating our 9th year always close to Center Camp,",
+        "burnermap_location": {
+            "string": "7:30 & Rods Road",
+            "gps_longitude": -119.21675299707042,
+            "gps_latitude": 40.78096585018553
+        }
     },
     {
         "uid": "a1X0V000003H5XRUA0",
@@ -2031,7 +2692,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Los Angeles/Toronto",
-        "description": "If only there could be another way to do this 'cause it feels like murder to put your heart through this. I know I always said that I could never hurt you, well this is the very, very last time I'm ever going to eat a Spaghetti Burrito"
+        "description": "If only there could be another way to do this 'cause it feels like murder to put your heart through this. I know I always said that I could never hurt you, well this is the very, very last time I'm ever going to eat a Spaghetti Burrito",
+        "burnermap_location": {
+            "string": "4:45 & Hallowed",
+            "gps_longitude": -119.20878207936424,
+            "gps_latitude": 40.77404823164073
+        }
     },
     {
         "uid": "a1X0V000003H5emUAC",
@@ -2040,7 +2706,12 @@
         "url": "https://www.facebook.com/groups/355809514794222/",
         "contact_email": null,
         "hometown": "San Jose",
-        "description": "Creation Nation where you can learn a new skill, make beautiful things, and be creative and crafty! \n\nSee the schedule of workshops and events on our Facebook page Creation Nation! BRC"
+        "description": "Creation Nation where you can learn a new skill, make beautiful things, and be creative and crafty! \n\nSee the schedule of workshops and events on our Facebook page Creation Nation! BRC",
+        "burnermap_location": {
+            "string": "3:45 & Breath",
+            "gps_longitude": -119.20219984531452,
+            "gps_latitude": 40.77854809835442
+        }
     },
     {
         "uid": "a1X0V000003H5fzUAC",
@@ -2049,7 +2720,12 @@
         "url": "https://www.facebook.com/campboring",
         "contact_email": null,
         "hometown": "Mill Valley",
-        "description": "Camp BORING: art support camp for BORING sign. Promoters of sarcasm and shenanigans. Come by for a sunset sign push around the playa with us or a late night dance party!"
+        "description": "Camp BORING: art support camp for BORING sign. Promoters of sarcasm and shenanigans. Come by for a sunset sign push around the playa with us or a late night dance party!",
+        "burnermap_location": {
+            "string": "4:15 & Breath",
+            "gps_longitude": -119.20509937728798,
+            "gps_latitude": 40.77796035808232
+        }
     },
     {
         "uid": "a1X0V000003H68wUAC",
@@ -2058,7 +2734,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Reno",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "3:30 & Breath",
+            "gps_longitude": -119.20084612073997,
+            "gps_latitude": 40.77905325564518
+        }
     },
     {
         "uid": "a1X0V000003H5j8UAC",
@@ -2067,7 +2748,12 @@
         "url": "https://www.facebook.com/groups/gaylacticinvaders2017",
         "contact_email": null,
         "hometown": "Joshua Tree and San Diego",
-        "description": "Gaylactic Invaders Village is returnig to the playa in search of intergalactic love slaves. Out-of-this-world aerial performances, beverages, and workshops held throughout the burn.  Resistance is futile - stop by and be assimilated!"
+        "description": "Gaylactic Invaders Village is returnig to the playa in search of intergalactic love slaves. Out-of-this-world aerial performances, beverages, and workshops held throughout the burn.  Resistance is futile - stop by and be assimilated!",
+        "burnermap_location": {
+            "string": "7:45 & Genuflect",
+            "gps_longitude": -119.22231686363757,
+            "gps_latitude": 40.78816556022795
+        }
     },
     {
         "uid": "a1X0V000003H5giUAC",
@@ -2085,7 +2771,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Alameda",
-        "description": "Occasionally, delicious noodles from the Deep. We believe in Oxford commas, and Making It Better."
+        "description": "Occasionally, delicious noodles from the Deep. We believe in Oxford commas, and Making It Better.",
+        "burnermap_location": {
+            "string": "5:15 & Eulogy",
+            "gps_longitude": -119.21199640651966,
+            "gps_latitude": 40.776725043858264
+        }
     },
     {
         "uid": "a1X0V000003H6AOUA0",
@@ -2094,7 +2785,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Bay Area / Santa Barbara / Squamish",
-        "description": "Eppifany & Co."
+        "description": "Eppifany & Co.",
+        "burnermap_location": {
+            "string": "4:15 & Ceremony",
+            "gps_longitude": -119.2049861228335,
+            "gps_latitude": 40.77730831015283
+        }
     },
     {
         "uid": "a1X0V000003H6EBUA0",
@@ -2103,7 +2799,12 @@
         "url": "http://www.meownge.com",
         "contact_email": "kitagawapowa@gmail.com",
         "hometown": "Oakland, CA",
-        "description": "Welcome to the Meownge! A place for playa cats to rest their paws, play with their curiosity, snuggle with other like-minded felines, and shake off those fleas of everyday life. As you approach the Meownge, prepare to be hypnotized by a 14 ft tall cat head. Crafted out of conduit and 4 way stretch lycra the Meownge will provide you and your feline friends with enough shade and space to nap the day away. With amplified purrs resonating from it's ears, you'll find yourself in a blissful zone of total relaxation. Purrrrfect to help you prepare for the true party animal you are. Which of course, comes out at night. As the sun falls into the horizon and the stars begin to twinkle, the Meownge transforms into an interactive light piece that invites you to play! It's spot light eyes will track and lure you in, challenging you to take control. Lined with over 600 feet of LEDs you will decide what happens next. Your movements will direct how the Meownge will be lit."
+        "description": "Welcome to the Meownge! A place for playa cats to rest their paws, play with their curiosity, snuggle with other like-minded felines, and shake off those fleas of everyday life. As you approach the Meownge, prepare to be hypnotized by a 14 ft tall cat head. Crafted out of conduit and 4 way stretch lycra the Meownge will provide you and your feline friends with enough shade and space to nap the day away. With amplified purrs resonating from it's ears, you'll find yourself in a blissful zone of total relaxation. Purrrrfect to help you prepare for the true party animal you are. Which of course, comes out at night. As the sun falls into the horizon and the stars begin to twinkle, the Meownge transforms into an interactive light piece that invites you to play! It's spot light eyes will track and lure you in, challenging you to take control. Lined with over 600 feet of LEDs you will decide what happens next. Your movements will direct how the Meownge will be lit.",
+        "burnermap_location": {
+            "string": "9:45 & Dance",
+            "gps_longitude": -119.21167388272448,
+            "gps_latitude": 40.795864495461
+        }
     },
     {
         "uid": "a1X0V000003H5lxUAC",
@@ -2112,7 +2813,12 @@
         "url": "https://www.facebook.com/groups/129408767094423/",
         "contact_email": null,
         "hometown": "NEVADA CITY",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "9:15 & Kundalini",
+            "gps_longitude": -119.21836731238537,
+            "gps_latitude": 40.79820858318376
+        }
     },
     {
         "uid": "a1X0V000003H6oEUAS",
@@ -2121,7 +2827,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "4:45 & Dance",
+            "gps_longitude": -119.20832713160837,
+            "gps_latitude": 40.7766562622959
+        }
     },
     {
         "uid": "a1X0V000003H6oTUAS",
@@ -2130,7 +2841,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Boise, Seattle, San Diego",
-        "description": "If you need bacon in your belly, a hammock in the shade, or pasties on your pink parts, the monkey pirate pirate monkeys have you covered. Plop ye tired bones down with a cocktail and enjoy the cool ocean breeze from our swamp coolers as you plot your next plundering adventure."
+        "description": "If you need bacon in your belly, a hammock in the shade, or pasties on your pink parts, the monkey pirate pirate monkeys have you covered. Plop ye tired bones down with a cocktail and enjoy the cool ocean breeze from our swamp coolers as you plot your next plundering adventure.",
+        "burnermap_location": {
+            "string": "4:15 & Ceremony",
+            "gps_longitude": -119.2049861228335,
+            "gps_latitude": 40.77730831015283
+        }
     },
     {
         "uid": "a1X0V000003H6FsUAK",
@@ -2139,7 +2855,12 @@
         "url": null,
         "contact_email": "ben.thompson@burningman.org",
         "hometown": null,
-        "description": "Rampart / ESD station @ 5:15"
+        "description": "Rampart / ESD station @ 5:15",
+        "burnermap_location": {
+            "string": "5:15 & Esplanade",
+            "gps_longitude": -119.21005924691984,
+            "gps_latitude": 40.78026987800261
+        }
     },
     {
         "uid": "a1X0V000003H5hCUAS",
@@ -2148,7 +2869,12 @@
         "url": null,
         "contact_email": "jalbrig1@gmail.com",
         "hometown": "Santa Fe",
-        "description": "A group of international miscreants gathered together to celebrate and share the weirdness of life. The weirder the better!!"
+        "description": "A group of international miscreants gathered together to celebrate and share the weirdness of life. The weirder the better!!",
+        "burnermap_location": {
+            "string": "4:45 & Inspirit",
+            "gps_longitude": -119.20889541160703,
+            "gps_latitude": 40.77339619060309
+        }
     },
     {
         "uid": "a1X0V000003H6qtUAC",
@@ -2166,7 +2892,12 @@
         "url": null,
         "contact_email": "ben.thompson@burningman.org",
         "hometown": "Glacier",
-        "description": "Station 3/Fire Camp"
+        "description": "Station 3/Fire Camp",
+        "burnermap_location": {
+            "string": "3:00 & Ceremony",
+            "gps_longitude": -119.19784853538061,
+            "gps_latitude": 40.77997285556234
+        }
     },
     {
         "uid": "a1X0V000003H71wUAC",
@@ -2175,7 +2906,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Sebastopol",
-        "description": "Lavender Lounge provides a cool, quiet bed for relaxation and head message. Ten minutes to recharge your day!"
+        "description": "Lavender Lounge provides a cool, quiet bed for relaxation and head message. Ten minutes to recharge your day!",
+        "burnermap_location": {
+            "string": "7:00 & Ceremony",
+            "gps_longitude": -119.21855547917153,
+            "gps_latitude": 40.78417380084104
+        }
     },
     {
         "uid": "a1X0V000003H2wdUAC",
@@ -2193,7 +2929,12 @@
         "url": "https://www.facebook.com/groups/988468674542751/",
         "contact_email": "mcwitmer@hotmail.com",
         "hometown": "los angeles",
-        "description": "SMOOTHIES NOON-4. FILTHY BEATS ALSO PROVIDED."
+        "description": "SMOOTHIES NOON-4. FILTHY BEATS ALSO PROVIDED.",
+        "burnermap_location": {
+            "string": "4:45 & Breath",
+            "gps_longitude": -119.20810062271201,
+            "gps_latitude": 40.77796035808232
+        }
     },
     {
         "uid": "a1X0V000003H6YpUAK",
@@ -2202,7 +2943,12 @@
         "url": "http://www.dementha.com",
         "contact_email": "mintygoodness@dementha.com",
         "hometown": "San Francisco",
-        "description": "Come join in the minty fun at DeMentha. You'll find music from out DJ line-up, enthusiastically prepared fresh mojitos, aromatherapy, ample shade and plenty of cooling mist. Combined with a hearty welcome you've got the perfect recipe for a awesome time. 1-6pm daily."
+        "description": "Come join in the minty fun at DeMentha. You'll find music from out DJ line-up, enthusiastically prepared fresh mojitos, aromatherapy, ample shade and plenty of cooling mist. Combined with a hearty welcome you've got the perfect recipe for a awesome time. 1-6pm daily.",
+        "burnermap_location": {
+            "string": "3:00 & Eulogy",
+            "gps_longitude": -119.19662039939428,
+            "gps_latitude": 40.77904267712541
+        }
     },
     {
         "uid": "a1X0V000003H5pkUAC",
@@ -2211,7 +2957,12 @@
         "url": "https://www.facebook.com/groups/GypsyNebula/",
         "contact_email": "gypsymonkeyman@yahoo.com",
         "hometown": "The Gypsy Nebula",
-        "description": "The Gypsy Monkeys, the BRC Boardwalk, Bad Lands cantina, Morning Cock 'n Tails and Kinkos are going polycamperous for Burning Man 2017! Come by and get your fortune told, make a sock monkey or adopt a mutant monkey, have a mimosa or a coffee and then a shaved ice then ride the giant cock if you dare, all in one convenient place."
+        "description": "The Gypsy Monkeys, the BRC Boardwalk, Bad Lands cantina, Morning Cock 'n Tails and Kinkos are going polycamperous for Burning Man 2017! Come by and get your fortune told, make a sock monkey or adopt a mutant monkey, have a mimosa or a coffee and then a shaved ice then ride the giant cock if you dare, all in one convenient place.",
+        "burnermap_location": {
+            "string": "3:30 & Awe",
+            "gps_longitude": -119.20128033016314,
+            "gps_latitude": 40.77962283122676
+        }
     },
     {
         "uid": "a1X0V000003H6FdUAK",
@@ -2220,7 +2971,12 @@
         "url": null,
         "contact_email": "screwbug@icloud.com",
         "hometown": null,
-        "description": "ESD station 9"
+        "description": "ESD station 9",
+        "burnermap_location": {
+            "string": "9:00 & Dance",
+            "gps_longitude": -119.21596753742148,
+            "gps_latitude": 40.79369147468789
+        }
     },
     {
         "uid": "a1X0V000003H6oYUAS",
@@ -2229,7 +2985,12 @@
         "url": "https://www.facebook.com/Camphotmayo/?ref=aymt_homepage_panel",
         "contact_email": "badasschick@live.com",
         "hometown": "SPARKS, Portland, & Boston",
-        "description": "We are a fun loving Camp that would love for you to stop by and have a cold beer and enjoy one of our daily drink special.  Come play our giant jenga, shoot some hoops, bocce ball or corn hole.  We will have daily theme parties so look in the directory for what we will have in store for our playa family!  Our Camp Hot Mayo Clinic is still to be determined on what day it will be held. Our Irish Car Bombs on Thursday at 4:20 and Sangria at Noon on Friday.  We are so excited to Be Home!"
+        "description": "We are a fun loving Camp that would love for you to stop by and have a cold beer and enjoy one of our daily drink special.  Come play our giant jenga, shoot some hoops, bocce ball or corn hole.  We will have daily theme parties so look in the directory for what we will have in store for our playa family!  Our Camp Hot Mayo Clinic is still to be determined on what day it will be held. Our Irish Car Bombs on Thursday at 4:20 and Sangria at Noon on Friday.  We are so excited to Be Home!",
+        "burnermap_location": {
+            "string": "4:00 & Breath",
+            "gps_longitude": -119.20362161195962,
+            "gps_latitude": 40.77818282150993
+        }
     },
     {
         "uid": "a1X0V000003H6Z4UAK",
@@ -2238,7 +2999,12 @@
         "url": "https://www.canva.com/design/DACQ1_QYH74/ndHXUduYcprI5Gx6uvX67Q/view?website",
         "contact_email": null,
         "hometown": "Sydney, Australia",
-        "description": "Come visit the NT, trade gifts with our roo Jack and sample the\r\nlocal delicacy known as vegemite toast. We're a friendly bunch of Australians who love serving Aussie tucker with a side of banter."
+        "description": "Come visit the NT, trade gifts with our roo Jack and sample the\r\nlocal delicacy known as vegemite toast. We're a friendly bunch of Australians who love serving Aussie tucker with a side of banter.",
+        "burnermap_location": {
+            "string": "8:15 & Eulogy",
+            "gps_longitude": -119.21964377911931,
+            "gps_latitude": 40.79068412684408
+        }
     },
     {
         "uid": "a1X0V000003H641UAC",
@@ -2247,7 +3013,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Olympia,",
-        "description": "Visit the amazing Tower of Slackjaw for even more amazing views of BRC from the 3:00 outskirts of town."
+        "description": "Visit the amazing Tower of Slackjaw for even more amazing views of BRC from the 3:00 outskirts of town.",
+        "burnermap_location": {
+            "string": "3:00 & Kundalini",
+            "gps_longitude": -119.19293619779894,
+            "gps_latitude": 40.776252063700284
+        }
     },
     {
         "uid": "a1X0V000003H6G7UAK",
@@ -2256,7 +3027,12 @@
         "url": null,
         "contact_email": "dean.richman@burningman.org",
         "hometown": null,
-        "description": "ESD station 73/Safety Camp"
+        "description": "ESD station 73/Safety Camp",
+        "burnermap_location": {
+            "string": "7:30 & Hallowed",
+            "gps_longitude": -119.22332071859827,
+            "gps_latitude": 40.78659879326175
+        }
     },
     {
         "uid": "a1X0V000003H6MoUAK",
@@ -2265,7 +3041,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Seatte",
-        "description": "Welcome to the edge of space and all the weirdness that lies beyond. Whether human or machine (or something in between) you are guaranteed to find good company, sexy boozy drinks, and a host of asses that don't know how to quit. Strut your stuff on the butt walk, take a spin on the stripper pole, or relax and engage with our spread of events, games and activities. Space-themed dance parties? You bet! Erotic science fiction storytelling? Why not?! Wherever you're coming from or going to, be sure to stop and say hi along the way."
+        "description": "Welcome to the edge of space and all the weirdness that lies beyond. Whether human or machine (or something in between) you are guaranteed to find good company, sexy boozy drinks, and a host of asses that don't know how to quit. Strut your stuff on the butt walk, take a spin on the stripper pole, or relax and engage with our spread of events, games and activities. Space-themed dance parties? You bet! Erotic science fiction storytelling? Why not?! Wherever you're coming from or going to, be sure to stop and say hi along the way.",
+        "burnermap_location": {
+            "string": "3:45 & Dance",
+            "gps_longitude": -119.20153567703115,
+            "gps_latitude": 40.77733272796948
+        }
     },
     {
         "uid": "a1X0V000003H5zuUAC",
@@ -2274,7 +3055,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Orange County",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "8:00 & Hallowed",
+            "gps_longitude": -119.22275177089557,
+            "gps_latitude": 40.789875537711
+        }
     },
     {
         "uid": "a1X0V000003H74WUAS",
@@ -2283,7 +3069,12 @@
         "url": null,
         "contact_email": "dapete@hotmail.com",
         "hometown": "Portland",
-        "description": "Are you too big for your britches? Is your cod-piece not sitting right?  Did the sun go down and now your ass is freezing?  Stop by Random Pants get yourself a new look (on the lower half, at least).  From slacks to gators,  we've got you covered."
+        "description": "Are you too big for your britches? Is your cod-piece not sitting right?  Did the sun go down and now your ass is freezing?  Stop by Random Pants get yourself a new look (on the lower half, at least).  From slacks to gators,  we've got you covered.",
+        "burnermap_location": {
+            "string": "4:20 & Fire",
+            "gps_longitude": -119.20529551451223,
+            "gps_latitude": 40.77529837785403
+        }
     },
     {
         "uid": "a1X0V000003H7BNUA0",
@@ -2292,7 +3083,12 @@
         "url": "http://burningman.org/event/volunteering/teams/gate/",
         "contact_email": "buckdown@burningman.com",
         "hometown": "Black Rock City",
-        "description": "Home of the Black Rock City Gate, Perimeter and Exodus Department. If you're into that sort of thing."
+        "description": "Home of the Black Rock City Gate, Perimeter and Exodus Department. If you're into that sort of thing.",
+        "burnermap_location": {
+            "string": "5:45 & Eulogy",
+            "gps_longitude": -119.2151862684427,
+            "gps_latitude": 40.778118159105915
+        }
     },
     {
         "uid": "a1X0V000003H7CfUAK",
@@ -2301,7 +3097,12 @@
         "url": "http://www.whiskeyanddust.com/",
         "contact_email": "whiskeyanddustfox@gmail.com",
         "hometown": "Denver",
-        "description": "We are a Whiskey camp with a small habitual yoga problem.\nOur concept is simple. Capitalize on what the Burning Man community desires more of (Yoga, Lyra performances, Juggling, Dance classes and Hooping). At the same time, be challenging and creative to show the community something; anything that is new and different."
+        "description": "We are a Whiskey camp with a small habitual yoga problem.\nOur concept is simple. Capitalize on what the Burning Man community desires more of (Yoga, Lyra performances, Juggling, Dance classes and Hooping). At the same time, be challenging and creative to show the community something; anything that is new and different.",
+        "burnermap_location": {
+            "string": "7:45 & Breath",
+            "gps_longitude": -119.21801140462152,
+            "gps_latitude": 40.787732666024304
+        }
     },
     {
         "uid": "a1X0V000003H67FUAS",
@@ -2310,7 +3111,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Taipei, New York, Kaapa, Los Angeles, San Francisco, Wilmington, and Kitty Hawk",
-        "description": "Camp Hot Cheeks where you are welcome to sit, relax, enjoy a cold beverage, get body painted, take a portrait, participate in activities, join a jam session, learn burlesque or Tahitian dance, have some Kava, meet the coolest people, and be yourself."
+        "description": "Camp Hot Cheeks where you are welcome to sit, relax, enjoy a cold beverage, get body painted, take a portrait, participate in activities, join a jam session, learn burlesque or Tahitian dance, have some Kava, meet the coolest people, and be yourself.",
+        "burnermap_location": {
+            "string": "5:15 & Dance",
+            "gps_longitude": -119.21166432296884,
+            "gps_latitude": 40.77733272796947
+        }
     },
     {
         "uid": "a1X0V000003H6OQUA0",
@@ -2319,7 +3125,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Reno",
-        "description": "Camp DISCOnnect: Come for the Spanks, Dranks, & Pancakes stay for the grooooove."
+        "description": "Camp DISCOnnect: Come for the Spanks, Dranks, & Pancakes stay for the grooooove.",
+        "burnermap_location": {
+            "string": "9:45 & Eulogy",
+            "gps_longitude": -119.21200660038281,
+            "gps_latitude": 40.79647201073141
+        }
     },
     {
         "uid": "a1X0V000003H6hNUAS",
@@ -2328,7 +3139,12 @@
         "url": null,
         "contact_email": "jainesy@yahoo.com",
         "hometown": "San Francisco",
-        "description": "Tazii will provide Moroccan chill space and top-shelf bar.  Glittercamp will make the masses shiny and glittery, as nature intended, with our special glitter-slather concoction. The Pulsefield returns with nighttime interactive video fun, and our house band returns to perform Talking Heads!"
+        "description": "Tazii will provide Moroccan chill space and top-shelf bar.  Glittercamp will make the masses shiny and glittery, as nature intended, with our special glitter-slather concoction. The Pulsefield returns with nighttime interactive video fun, and our house band returns to perform Talking Heads!",
+        "burnermap_location": {
+            "string": "2:30 & Ceremony",
+            "gps_longitude": -119.19588137538875,
+            "gps_latitude": 40.781913639085346
+        }
     },
     {
         "uid": "a1X0V000003H7E2UAK",
@@ -2337,7 +3153,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Diego",
-        "description": "Did you forget your shampoo, deodorant and other hygiene products at home and you're now stuck with the natural scent of 'Get out of my tent, you smell'?  Have you just crossed the sun-beaten playa, leaving you with the desperate need to refuel with a light snack or carbonated drink? \r\nWell you're in luck! The playa does provide with a can do, fuck you attitude. Stop by Circle J\u2122 for an irresponsible selection of products designed to make you feel like you're back in corporate America. With our two franchised locations inconveniently located not near you, we're waiting to serve you with a frown that will turn your day upside down.\r\nSorry, we're open!"
+        "description": "Did you forget your shampoo, deodorant and other hygiene products at home and you're now stuck with the natural scent of 'Get out of my tent, you smell'?  Have you just crossed the sun-beaten playa, leaving you with the desperate need to refuel with a light snack or carbonated drink? \r\nWell you're in luck! The playa does provide with a can do, fuck you attitude. Stop by Circle J™ for an irresponsible selection of products designed to make you feel like you're back in corporate America. With our two franchised locations inconveniently located not near you, we're waiting to serve you with a frown that will turn your day upside down.\r\nSorry, we're open!",
+        "burnermap_location": {
+            "string": "2:15 & Breath",
+            "gps_longitude": -119.19596989571168,
+            "gps_latitude": 40.783260736953125
+        }
     },
     {
         "uid": "a1X0V000003H6W5UAK",
@@ -2346,7 +3167,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Reno, Salt Lake, and Sydney, AU.",
-        "description": "Camp Declusterfuqerization is your place to get sendy, gnarly, and tickled up, over, and on top of our climbing wall and bar. We have Not Piss and plastic grips; climb up and get down."
+        "description": "Camp Declusterfuqerization is your place to get sendy, gnarly, and tickled up, over, and on top of our climbing wall and bar. We have Not Piss and plastic grips; climb up and get down.",
+        "burnermap_location": {
+            "string": "4:15 & Genuflect",
+            "gps_longitude": -119.20453125510309,
+            "gps_latitude": 40.774700272567486
+        }
     },
     {
         "uid": "a1X0V000003H7ITUA0",
@@ -2355,7 +3181,12 @@
         "url": "https://www.facebook.com/PlayaBeest",
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "Did you know a pack of cheetahs is also called a coalition?! Well we are the friendliest, silliest, and most ridiculous pack of cheetahs you'll ever meet! Come say hello, take a ride on our PlayaBeest, have a drink at our bar, enjoy our DJs mixes, dance with us, be dazzled by our pyroboard, and make some new best friends."
+        "description": "Did you know a pack of cheetahs is also called a coalition?! Well we are the friendliest, silliest, and most ridiculous pack of cheetahs you'll ever meet! Come say hello, take a ride on our PlayaBeest, have a drink at our bar, enjoy our DJs mixes, dance with us, be dazzled by our pyroboard, and make some new best friends.",
+        "burnermap_location": {
+            "string": "5:30 & Hallowed",
+            "gps_longitude": -119.21495897943825,
+            "gps_latitude": 40.77563576798148
+        }
     },
     {
         "uid": "a1X0V000003H6X3UAK",
@@ -2364,7 +3195,12 @@
         "url": "https://www.facebook.com/SinCityVillage/",
         "contact_email": "sincitybrc@gmail.com",
         "hometown": "Las Vegas",
-        "description": "Sin City is a place where freedom of expression is embraced and \"What happens in Sin City stays in Sin City.\"\r\n\r\nThere is always something happening and there are many things to see and do at the clothing optional Party Naked Tiki Bar, Black Rock City Airbrush, Sin City Day Spa, Sin City Photography Studio, Sin City Art Center, photo opportunities and much more."
+        "description": "Sin City is a place where freedom of expression is embraced and \"What happens in Sin City stays in Sin City.\"\r\n\r\nThere is always something happening and there are many things to see and do at the clothing optional Party Naked Tiki Bar, Black Rock City Airbrush, Sin City Day Spa, Sin City Photography Studio, Sin City Art Center, photo opportunities and much more.",
+        "burnermap_location": {
+            "string": "8:15 & Esplanade",
+            "gps_longitude": -119.21496131259366,
+            "gps_latitude": 40.78921800364014
+        }
     },
     {
         "uid": "a1X0V000003H6ilUAC",
@@ -2382,7 +3218,12 @@
         "url": null,
         "contact_email": "ebbandglow@gmail.com",
         "hometown": "Oakland",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "2:30 & Esplanade",
+            "gps_longitude": -119.19876459936648,
+            "gps_latitude": 40.783174395085275
+        }
     },
     {
         "uid": "a1X0V000003H7M1UAK",
@@ -2391,7 +3232,12 @@
         "url": "https://www.facebook.com/groups/335223049922711/",
         "contact_email": "burnerbuddies@gmail.com",
         "hometown": "Palm Springs",
-        "description": "Ever have someone say you were gonna lose your Gay Card only to realize you don't have one? Get one @ Burner Buddies.  Come for the best music, bar and party on the playa."
+        "description": "Ever have someone say you were gonna lose your Gay Card only to realize you don't have one? Get one @ Burner Buddies.  Come for the best music, bar and party on the playa.",
+        "burnermap_location": {
+            "string": "4:30 & Juju",
+            "gps_longitude": -119.20660000000001,
+            "gps_latitude": 40.77262461312828
+        }
     },
     {
         "uid": "a1X0V000003H6j9UAC",
@@ -2400,7 +3246,12 @@
         "url": "https://www.facebook.com/HarmonicConvergenceCamp/",
         "contact_email": "pumamarco@me.com",
         "hometown": "Santa Monica",
-        "description": "Harmonic Convergence is an intimate Burning Man service camp. We take on a special endeavor because we believe in improving (or \"sharpening\") ourselves via a physical challenge, while making the world a better place. Our public venue is the Harmonic Cafe, where we share love, light & good coffee in a loving, playful, and creative manner."
+        "description": "Harmonic Convergence is an intimate Burning Man service camp. We take on a special endeavor because we believe in improving (or \"sharpening\") ourselves via a physical challenge, while making the world a better place. Our public venue is the Harmonic Cafe, where we share love, light & good coffee in a loving, playful, and creative manner.",
+        "burnermap_location": {
+            "string": "4:30 & Eulogy",
+            "gps_longitude": -119.20660000000001,
+            "gps_latitude": 40.77591293945103
+        }
     },
     {
         "uid": "a1X0V000003H7MkUAK",
@@ -2409,7 +3260,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Mountain View",
-        "description": "Hardly, home of the Hardly's Saloon, a \"we never close\" western style whiskey bar.   Always open, always fun, and always friendly!"
+        "description": "Hardly, home of the Hardly's Saloon, a \"we never close\" western style whiskey bar.   Always open, always fun, and always friendly!",
+        "burnermap_location": {
+            "string": "9:00 & Awe",
+            "gps_longitude": -119.21412458507841,
+            "gps_latitude": 40.79229649034195
+        }
     },
     {
         "uid": "a1X0V000003H7SJUA0",
@@ -2418,7 +3274,12 @@
         "url": null,
         "contact_email": "info@campsofarsogood.com",
         "hometown": "Los Angeles",
-        "description": "A quick and fun three-hole putt-putt course for your golfing pleasure. Come work on your short game through a series of obstacles."
+        "description": "A quick and fun three-hole putt-putt course for your golfing pleasure. Come work on your short game through a series of obstacles.",
+        "burnermap_location": {
+            "string": "6:00 & Genuflect",
+            "gps_longitude": -119.21780770219705,
+            "gps_latitude": 40.77811248566889
+        }
     },
     {
         "uid": "a1X0V000003H7RzUAK",
@@ -2427,7 +3288,12 @@
         "url": null,
         "contact_email": "philip@savingganesh.org",
         "hometown": "Bend",
-        "description": "We love Elephants and share our passion full time in the default world and live our elephant fantasies on the Playa. Ride our life-like elephant, as we take your picture, or even video you for inclusion in our fun website film! Enjoy jungle beverages like coconut water or beer. Draw elephants, trumpet for elephants and more. We have yoga! See our schedule in the program guide!. Meet our conservation group's director who is equally nuts for elephants. You'll love elephants even more as he shares stories over beverages and snacks. Oh, and we've been told our misting system is best ever on the playa! The misting equipment design is one of a kind!"
+        "description": "We love Elephants and share our passion full time in the default world and live our elephant fantasies on the Playa. Ride our life-like elephant, as we take your picture, or even video you for inclusion in our fun website film! Enjoy jungle beverages like coconut water or beer. Draw elephants, trumpet for elephants and more. We have yoga! See our schedule in the program guide!. Meet our conservation group's director who is equally nuts for elephants. You'll love elephants even more as he shares stories over beverages and snacks. Oh, and we've been told our misting system is best ever on the playa! The misting equipment design is one of a kind!",
+        "burnermap_location": {
+            "string": "4:30 & Dance",
+            "gps_longitude": -119.20660000000001,
+            "gps_latitude": 40.77657060471558
+        }
     },
     {
         "uid": "a1X0V000003H7MpUAK",
@@ -2436,7 +3302,12 @@
         "url": "http://love-tribe.us",
         "contact_email": "lovetribecamp@gmail.com",
         "hometown": "Los Angeles",
-        "description": "Love Tribe are a family of burners from across the World who share a common vision of creating and holding space for hearts and souls to connect. We are a camp whose interactivity-designs invite transformation, epiphanies and life-changing moments through a lens of love. Our goal is to enrich and deepen love and connection between ourselves, and our visitors. Play, Magic and Taking Chances are the main touchpoints of our camp."
+        "description": "Love Tribe are a family of burners from across the World who share a common vision of creating and holding space for hearts and souls to connect. We are a camp whose interactivity-designs invite transformation, epiphanies and life-changing moments through a lens of love. Our goal is to enrich and deepen love and connection between ourselves, and our visitors. Play, Magic and Taking Chances are the main touchpoints of our camp.",
+        "burnermap_location": {
+            "string": "7:45 & Inspirit",
+            "gps_longitude": -119.22403930469672,
+            "gps_latitude": 40.78833699882135
+        }
     },
     {
         "uid": "a1X0V000003H7ZjUAK",
@@ -2445,7 +3316,12 @@
         "url": null,
         "contact_email": "a_leksakova@mail.ru",
         "hometown": "Moscow",
-        "description": "Electric Oasis smoothies and cocktail bar. \nLost paradise in middle of desert"
+        "description": "Electric Oasis smoothies and cocktail bar. \nLost paradise in middle of desert",
+        "burnermap_location": {
+            "string": "9:45 & Awe",
+            "gps_longitude": -119.21067573273129,
+            "gps_latitude": 40.79404195509428
+        }
     },
     {
         "uid": "a1X0V000003H7YqUAK",
@@ -2454,7 +3330,12 @@
         "url": "http://dreamcommunity.tw/art-car/",
         "contact_email": "dream.m93@gmail.com",
         "hometown": "New Taipei City",
-        "description": "Zulai uses his hand to carrying people,meaning he's saving us from suffering and protecting us; lead us and watch over us.We hope this vehicle shares the beauty of the East and make people feel peace and comfort."
+        "description": "Zulai uses his hand to carrying people,meaning he's saving us from suffering and protecting us; lead us and watch over us.We hope this vehicle shares the beauty of the East and make people feel peace and comfort.",
+        "burnermap_location": {
+            "string": "8:00 & Inspirit",
+            "gps_longitude": -119.22359086746276,
+            "gps_latitude": 40.790045633978366
+        }
     },
     {
         "uid": "a1X0V000003H7a3UAC",
@@ -2472,7 +3353,12 @@
         "url": "http://monkeylovecamp.com/",
         "contact_email": "monkeylovecamp@gmail.com",
         "hometown": "New York City / Miami",
-        "description": "We want to make Monkey Love a destination on the map. A place you go to experience not just our amazing music, but also beautiful art installations, interactive art walls, dance performances, and a jungle gym like environment. With giant LED trees to climb on, and comfortable inviting lounges and shade structures we are hoping to create a place not one burner would want to miss."
+        "description": "We want to make Monkey Love a destination on the map. A place you go to experience not just our amazing music, but also beautiful art installations, interactive art walls, dance performances, and a jungle gym like environment. With giant LED trees to climb on, and comfortable inviting lounges and shade structures we are hoping to create a place not one burner would want to miss.",
+        "burnermap_location": {
+            "string": "10:00 & Inspirit",
+            "gps_longitude": -119.21115333505128,
+            "gps_latitude": 40.79946384176976
+        }
     },
     {
         "uid": "a1X0V000003H7aIUAS",
@@ -2490,7 +3376,12 @@
         "url": "https://www.facebook.com/groups/LostOasis",
         "contact_email": null,
         "hometown": "Reno",
-        "description": "Come to Lost Oasis any time but especially on Monday, Wednesday or Friday for our afternoon Feast & Beats at [location]. Bring a bottle:-)"
+        "description": "Come to Lost Oasis any time but especially on Monday, Wednesday or Friday for our afternoon Feast & Beats at [location]. Bring a bottle:-)",
+        "burnermap_location": {
+            "string": "8:45 & Hallowed",
+            "gps_longitude": -119.21986697775772,
+            "gps_latitude": 40.794306194330275
+        }
     },
     {
         "uid": "a1X0V000003H7aDUAS",
@@ -2508,7 +3399,12 @@
         "url": "http://www.facebook.com/playa54",
         "contact_email": "jd8812@aol.com",
         "hometown": "Los Angeles/Denver/Las Vegas",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "8:30 & Dance",
+            "gps_longitude": -119.21807248448715,
+            "gps_latitude": 40.791614129574576
+        }
     },
     {
         "uid": "a1X0V000003H7ejUAC",
@@ -2517,7 +3413,12 @@
         "url": "http://simianakademy.com",
         "contact_email": "email@simianakademy.com",
         "hometown": "Boulder",
-        "description": "Bike broken and nowhere to turn?  Well, you may be 'all thumbs' but if at least two are opposable, we can help you fix it!  (And if not, we'll help you break it altogether!)  Here at Simian Akademy, our mission is to help you gain the skills necessary to adapt to today's dynamic, ever-changing playa environment.  Our dedicated team of trained monkeys will show you where it goes and how to work it.  If a trained monkey can do it, you can too!\r\n\r\nLooking for a truly unique and interactive experience?  Come visit the Olfactorium where our Mistress of Scent will concoct a custom perfume just for you, based on your unique, personal preferences.\r\n\r\nFeeling cranky from the heat?  Your new best friend getting on your nerves already?  You need to CHILL THE FUCK OUT AND COLOR!  Come visit our shaded dome to relax and color your frustrations away.  Choose your favorite, beautifully embellished swear word, or perhaps a picture of unicorns being total assholes!"
+        "description": "Bike broken and nowhere to turn?  Well, you may be 'all thumbs' but if at least two are opposable, we can help you fix it!  (And if not, we'll help you break it altogether!)  Here at Simian Akademy, our mission is to help you gain the skills necessary to adapt to today's dynamic, ever-changing playa environment.  Our dedicated team of trained monkeys will show you where it goes and how to work it.  If a trained monkey can do it, you can too!\r\n\r\nLooking for a truly unique and interactive experience?  Come visit the Olfactorium where our Mistress of Scent will concoct a custom perfume just for you, based on your unique, personal preferences.\r\n\r\nFeeling cranky from the heat?  Your new best friend getting on your nerves already?  You need to CHILL THE FUCK OUT AND COLOR!  Come visit our shaded dome to relax and color your frustrations away.  Choose your favorite, beautifully embellished swear word, or perhaps a picture of unicorns being total assholes!",
+        "burnermap_location": {
+            "string": "7:15 & Dance",
+            "gps_longitude": -119.21973174661066,
+            "gps_latitude": 40.78528546667241
+        }
     },
     {
         "uid": "a1X0V000003H7dvUAC",
@@ -2526,7 +3427,12 @@
         "url": "johnbrennanphoto.com",
         "contact_email": "johnbrennanphoto@yahoo.com",
         "hometown": "Santa Clara,",
-        "description": "Free Photography Zone entering into it's third decade of photographing and giving prints to the participants of Burning Man wishes to invite you to our camp to be photographed as you are, wish to be, or never thought you would tell your mother how you really are.  Come by, it will most likely be an experience you will never forget."
+        "description": "Free Photography Zone entering into it's third decade of photographing and giving prints to the participants of Burning Man wishes to invite you to our camp to be photographed as you are, wish to be, or never thought you would tell your mother how you really are.  Come by, it will most likely be an experience you will never forget.",
+        "burnermap_location": {
+            "string": "4:00 & Rods Road",
+            "gps_longitude": -119.21333709478392,
+            "gps_latitude": 40.77898166352459
+        }
     },
     {
         "uid": "a1X0V000003H7i7UAC",
@@ -2544,7 +3450,12 @@
         "url": "https://www.facebook.com/BootyHunterCamp/",
         "contact_email": null,
         "hometown": "Los Angeles",
-        "description": "The Hunters of the Golden Bubble Butt, spankers of booty-ful asses, and givers of booty shorts! A Burning Man camp for all lovers of all booty!"
+        "description": "The Hunters of the Golden Bubble Butt, spankers of booty-ful asses, and givers of booty shorts! A Burning Man camp for all lovers of all booty!",
+        "burnermap_location": {
+            "string": "4:45 & Hallowed",
+            "gps_longitude": -119.20878207936424,
+            "gps_latitude": 40.77404823164073
+        }
     },
     {
         "uid": "a1X0V000003H7i2UAC",
@@ -2553,7 +3464,12 @@
         "url": null,
         "contact_email": "thatlittlecrazycoconut@gmail.com",
         "hometown": "Melbourne",
-        "description": "Coco Poco Loco pops up here and there, uninvited, in festival campgrounds at home and abroad to behave irreverently and to love you so much that you can't help but join in. We look forward to seeing you at our next carefully considered bout of mayhem!"
+        "description": "Coco Poco Loco pops up here and there, uninvited, in festival campgrounds at home and abroad to behave irreverently and to love you so much that you can't help but join in. We look forward to seeing you at our next carefully considered bout of mayhem!",
+        "burnermap_location": {
+            "string": "8:00 & Awe",
+            "gps_longitude": -119.21687821530239,
+            "gps_latitude": 40.788684693658595
+        }
     },
     {
         "uid": "a1X0V000003H7kSUAS",
@@ -2562,7 +3478,12 @@
         "url": null,
         "contact_email": null,
         "hometown": null,
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "2:15 & Breath",
+            "gps_longitude": -119.19596989571168,
+            "gps_latitude": 40.783260736953125
+        }
     },
     {
         "uid": "a1X0V000003H7h4UAC",
@@ -2571,7 +3492,12 @@
         "url": null,
         "contact_email": "whatsyoursigncamp@gmail.com",
         "hometown": null,
-        "description": "WHATS YOUR SIGN? camp will be a super fun, laid back, creative sign making experience! \nWe want to give burners the opportunity to make their mark at Burningman, in a non-destructive way!"
+        "description": "WHATS YOUR SIGN? camp will be a super fun, laid back, creative sign making experience! \nWe want to give burners the opportunity to make their mark at Burningman, in a non-destructive way!",
+        "burnermap_location": {
+            "string": "4:15 & Inspirit",
+            "gps_longitude": -119.20430458839299,
+            "gps_latitude": 40.77339619060309
+        }
     },
     {
         "uid": "a1X0V000003H7n7UAC",
@@ -2580,7 +3506,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Portland & Los Angeles",
-        "description": "Gallery BRC\nConcious, Visionary Art Gallery celebrating Life, Love, and the Playa.\nVisit to enjoy events, workshops, and yoga"
+        "description": "Gallery BRC\nConcious, Visionary Art Gallery celebrating Life, Love, and the Playa.\nVisit to enjoy events, workshops, and yoga",
+        "burnermap_location": {
+            "string": "9:30 & Ceremony",
+            "gps_longitude": -119.21278959396655,
+            "gps_latitude": 40.79471599092689
+        }
     },
     {
         "uid": "a1X0V000003H7nqUAC",
@@ -2589,7 +3520,12 @@
         "url": "https://www.facebook.com/discospaceshuttle/?fref=ts",
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "Join us in the early afternoons to confess your sins and rejuvenate your mind and body with a tasty Bloody Mary.  Then join us at night to fly across the Playa on the Disco Space Shuttle."
+        "description": "Join us in the early afternoons to confess your sins and rejuvenate your mind and body with a tasty Bloody Mary.  Then join us at night to fly across the Playa on the Disco Space Shuttle.",
+        "burnermap_location": {
+            "string": "4:45 & Dance",
+            "gps_longitude": -119.20832713160837,
+            "gps_latitude": 40.7766562622959
+        }
     },
     {
         "uid": "a1X0V000003H7nRUAS",
@@ -2598,7 +3534,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Las Vegas",
-        "description": "Camp Relaxxx- Bring your Tired Titties and Tutus into our camp spa to recharge and rejuvenate. First you'll be offered dust-free infused spa water or a scoop of frozen alcohol ice cream or vegan sorbet. Then choose between a chance to find your natural hair color again, a lotion station to revitalize your cracking hands, or get a back massage..Our excuse to touch you for free!  Don't forget your spoon, or for that matter a towel if you want a shower.."
+        "description": "Camp Relaxxx- Bring your Tired Titties and Tutus into our camp spa to recharge and rejuvenate. First you'll be offered dust-free infused spa water or a scoop of frozen alcohol ice cream or vegan sorbet. Then choose between a chance to find your natural hair color again, a lotion station to revitalize your cracking hands, or get a back massage..Our excuse to touch you for free!  Don't forget your spoon, or for that matter a towel if you want a shower..",
+        "burnermap_location": {
+            "string": "7:45 & Genuflect",
+            "gps_longitude": -119.22231686363757,
+            "gps_latitude": 40.78816556022795
+        }
     },
     {
         "uid": "a1X0V000003H7oKUAS",
@@ -2607,7 +3548,12 @@
         "url": "https://www.facebook.com/groups/DuckPondBRC/",
         "contact_email": "duckpondcrew@gmail.com",
         "hometown": "San Francisco",
-        "description": "The DuckPond is the dive bar at the end of the earth.  Drop your preconceptions, and come to drink, talk, learn, buck, and dance your burn away."
+        "description": "The DuckPond is the dive bar at the end of the earth.  Drop your preconceptions, and come to drink, talk, learn, buck, and dance your burn away.",
+        "burnermap_location": {
+            "string": "9:00 & Inspirit",
+            "gps_longitude": -119.2190392967646,
+            "gps_latitude": 40.7960163834362
+        }
     },
     {
         "uid": "a1X0V000003H7qQUAS",
@@ -2616,7 +3562,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Reno",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "3:15 & Eulogy",
+            "gps_longitude": -119.19801373155731,
+            "gps_latitude": 40.77811815910593
+        }
     },
     {
         "uid": "a1X0V000003H7rEUAS",
@@ -2625,7 +3576,12 @@
         "url": null,
         "contact_email": "melankenny@hotmail.com",
         "hometown": "Los Angeles",
-        "description": "You provide the scars and we provide the drinks. Now with more movie!"
+        "description": "You provide the scars and we provide the drinks. Now with more movie!",
+        "burnermap_location": {
+            "string": "5:15 & Dance",
+            "gps_longitude": -119.21166432296884,
+            "gps_latitude": 40.77733272796947
+        }
     },
     {
         "uid": "a1X0V000003H7qzUAC",
@@ -2643,7 +3599,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "The Organization: Espresso Martini Parties 1-3pm Tuesday-Saturday!"
+        "description": "The Organization: Espresso Martini Parties 1-3pm Tuesday-Saturday!",
+        "burnermap_location": {
+            "string": "8:45 & Fire",
+            "gps_longitude": -119.21849287500578,
+            "gps_latitude": 40.79350104830081
+        }
     },
     {
         "uid": "a1X0V000003H7slUAC",
@@ -2661,7 +3622,12 @@
         "url": "http://thehammockhangout.com",
         "contact_email": "riderpaul@gmail.com",
         "hometown": "San Francisco, LA, Portland",
-        "description": "Hammock Hangout Karaoke Bar and Lounge. Giant cool passive solar structure for daytime relaxing. Cool drinks. Daytime party every day. The Hammock Hangout is open 24/7, so come hang out with us!"
+        "description": "Hammock Hangout Karaoke Bar and Lounge. Giant cool passive solar structure for daytime relaxing. Cool drinks. Daytime party every day. The Hammock Hangout is open 24/7, so come hang out with us!",
+        "burnermap_location": {
+            "string": "4:45 & Fire",
+            "gps_longitude": -119.20855364045433,
+            "gps_latitude": 40.77535216679971
+        }
     },
     {
         "uid": "a1X0V000003H83ZUAS",
@@ -2670,7 +3636,12 @@
         "url": "http://www.eridusociety.org",
         "contact_email": null,
         "hometown": "Sunnyvale",
-        "description": "In 2017 we're bringing back the Brainy Bar - a watering hole for big thinkers.  We are an explorer's club for time travelers, creators, makers, designers and builders."
+        "description": "In 2017 we're bringing back the Brainy Bar - a watering hole for big thinkers.  We are an explorer's club for time travelers, creators, makers, designers and builders.",
+        "burnermap_location": {
+            "string": "5:15 & Dance",
+            "gps_longitude": -119.21166432296884,
+            "gps_latitude": 40.77733272796947
+        }
     },
     {
         "uid": "a1X0V000003H83tUAC",
@@ -2679,7 +3650,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "TortoiseTown is an international village comprised of people of all races, ages and lifestyles."
+        "description": "TortoiseTown is an international village comprised of people of all races, ages and lifestyles.",
+        "burnermap_location": {
+            "string": "6:15 & Dance",
+            "gps_longitude": -119.21710378901787,
+            "gps_latitude": 40.78049002601679
+        }
     },
     {
         "uid": "a1X0V000003H84XUAS",
@@ -2688,7 +3664,12 @@
         "url": "https://discordia.camp",
         "contact_email": "info@discordia.camp",
         "hometown": "London",
-        "description": "Discordia is a 100% international camp of crazy Kiwis, Aussies and Brits who fly half-way around the world to build awesome things.\n\nCome have a frosty beverage in our huge misting pyramid, enjoy the 3-story high tower, new internal decor for 2017 or just chill out to some of the best music on the playa from our resident DJs and interactive music system."
+        "description": "Discordia is a 100% international camp of crazy Kiwis, Aussies and Brits who fly half-way around the world to build awesome things.\n\nCome have a frosty beverage in our huge misting pyramid, enjoy the 3-story high tower, new internal decor for 2017 or just chill out to some of the best music on the playa from our resident DJs and interactive music system.",
+        "burnermap_location": {
+            "string": "9:00 & Inspirit",
+            "gps_longitude": -119.2190392967646,
+            "gps_latitude": 40.7960163834362
+        }
     },
     {
         "uid": "a1X0V000003H84DUAS",
@@ -2697,7 +3678,12 @@
         "url": "https://m.facebook.com/7SinsLounge/",
         "contact_email": "campmaster@pacbell.net",
         "hometown": "Sacramento",
-        "description": "Come Embrace the Heat as the Playa's \"Friendliest Little Slice of Hell\" returns for the 17th straight year!\r\n\r\nDaytime brings what Sinners need - shade, chill music, friendly conversation and slushy drinks. \r\n\r\nBut NIGHT brings what Sinners WANT - Flaming Libations and the ever popular WHEEL of SINS! Spin this brightly painted carnival wheel to expose your Sins again and again! (will it be Greed? or LUST?) \r\n\r\nOur highly skilled and dedicated staff will happily deliver absolution & encouragement with a FIRM hand, sending you dancing forth to SIN ANEW!\r\n\r\nSo come earn your \"Get Out of HELL Free\" card and remember:\r\nStart your SINS at 7!"
+        "description": "Come Embrace the Heat as the Playa's \"Friendliest Little Slice of Hell\" returns for the 17th straight year!\r\n\r\nDaytime brings what Sinners need - shade, chill music, friendly conversation and slushy drinks. \r\n\r\nBut NIGHT brings what Sinners WANT - Flaming Libations and the ever popular WHEEL of SINS! Spin this brightly painted carnival wheel to expose your Sins again and again! (will it be Greed? or LUST?) \r\n\r\nOur highly skilled and dedicated staff will happily deliver absolution & encouragement with a FIRM hand, sending you dancing forth to SIN ANEW!\r\n\r\nSo come earn your \"Get Out of HELL Free\" card and remember:\r\nStart your SINS at 7!",
+        "burnermap_location": {
+            "string": "9:00 & Dance",
+            "gps_longitude": -119.21596753742148,
+            "gps_latitude": 40.79369147468789
+        }
     },
     {
         "uid": "a1X0V000003H86sUAC",
@@ -2706,7 +3692,12 @@
         "url": null,
         "contact_email": "nevadajerrysnyder@gmail.com",
         "hometown": "Reno",
-        "description": "The Flaming Ugly Cowboy Saloon is the kind of cowboy bar that you would see in a movie made by the bastard love child of Sergio Leone and Frederico Fellini. We whoop. We holler. We lasso each other. And every afternoon we pour the finest handcrafted beer you will find this side of the Quinn River."
+        "description": "The Flaming Ugly Cowboy Saloon is the kind of cowboy bar that you would see in a movie made by the bastard love child of Sergio Leone and Frederico Fellini. We whoop. We holler. We lasso each other. And every afternoon we pour the finest handcrafted beer you will find this side of the Quinn River.",
+        "burnermap_location": {
+            "string": "2:45 & Fire",
+            "gps_longitude": -119.19471870721922,
+            "gps_latitude": 40.779688742580994
+        }
     },
     {
         "uid": "a1X0V000003H86TUAS",
@@ -2715,7 +3706,12 @@
         "url": null,
         "contact_email": "jamesdochs@gmail.com",
         "hometown": "Garwin",
-        "description": "People's Art Congress welcomes Burners to 3 exciting Interactive Art Projects: Come paint our mobile structure and chill out under the Illuminated Garden Above and The Wave. Open day and night, after dark viewing is enhanced by UV lighting, accentuating the 3 ring circus effect."
+        "description": "People's Art Congress welcomes Burners to 3 exciting Interactive Art Projects: Come paint our mobile structure and chill out under the Illuminated Garden Above and The Wave. Open day and night, after dark viewing is enhanced by UV lighting, accentuating the 3 ring circus effect.",
+        "burnermap_location": {
+            "string": "3:45 & Esplanade",
+            "gps_longitude": -119.20314075308015,
+            "gps_latitude": 40.78026987800262
+        }
     },
     {
         "uid": "a1X0V000003H87HUAS",
@@ -2724,7 +3720,12 @@
         "url": null,
         "contact_email": "thejerrytanksters@gmail.com",
         "hometown": "Berkeley",
-        "description": "We are the Support Camp for Logical Phallusy's 'Standing Army'. Stop by with ideas for tomorrow's configuration!"
+        "description": "We are the Support Camp for Logical Phallusy's 'Standing Army'. Stop by with ideas for tomorrow's configuration!",
+        "burnermap_location": {
+            "string": "3:15 & Eulogy",
+            "gps_longitude": -119.19801373155731,
+            "gps_latitude": 40.77811815910593
+        }
     },
     {
         "uid": "a1X0V000003H8CRUA0",
@@ -2733,7 +3734,12 @@
         "url": "https://www.facebook.com/groups/557666564336453/",
         "contact_email": "billybob91354@hotmail.com",
         "hometown": "Los Angeles/San Fernando Valley",
-        "description": "Adhering to the tenet of \"what happens at Burning Man stays at Burning Man\", Down Low Club provides all adult men--Gay, Bi, Curious, Straight--a comfortable, discreet & enclosed play space to play freely and erotically with--or observe erotic play between--other adult men."
+        "description": "Adhering to the tenet of \"what happens at Burning Man stays at Burning Man\", Down Low Club provides all adult men--Gay, Bi, Curious, Straight--a comfortable, discreet & enclosed play space to play freely and erotically with--or observe erotic play between--other adult men.",
+        "burnermap_location": {
+            "string": "7:45 & Fire",
+            "gps_longitude": -119.22145640090253,
+            "gps_latitude": 40.78807460729891
+        }
     },
     {
         "uid": "a1X0V000003H87CUAS",
@@ -2742,7 +3748,12 @@
         "url": null,
         "contact_email": "inceptus.ph@gmail.com",
         "hometown": "Orange",
-        "description": ")*(Aloha is a Playanesian Paradise replete with libations, shade, and Spam Musubi for all!"
+        "description": ")*(Aloha is a Playanesian Paradise replete with libations, shade, and Spam Musubi for all!",
+        "burnermap_location": {
+            "string": "4:45 & Genuflect",
+            "gps_longitude": -119.20866874489691,
+            "gps_latitude": 40.774700272567486
+        }
     },
     {
         "uid": "a1X0V000003H8DUUA0",
@@ -2751,7 +3762,12 @@
         "url": "http://rxwburn.com/",
         "contact_email": "rxwburn@gmail.com",
         "hometown": "Brooklyn",
-        "description": "Raised By Wolves is a transcontinental pack of artists, healers, performers, and builders who are inspired and impassioned by the classic story of feral children and their wolf pack families. Each year we bring ourRaised By Wolves is a transcontinental pack of artists, healers, performers, and builders who are inspired and impassioned by the classic story of feral children and their wolf pack families. Each year we bring our untamed energy to the Black Rock desert through play, performance and art.\r\n\r\nOur gifts this year include our Cafe, where you can get iced, cold brew coffee every morning, and Ziza the Roving Tea Truck. We'll also host yoga and other workshops in our dome\u2014all are invited to attend and howl with us."
+        "description": "Raised By Wolves is a transcontinental pack of artists, healers, performers, and builders who are inspired and impassioned by the classic story of feral children and their wolf pack families. Each year we bring ourRaised By Wolves is a transcontinental pack of artists, healers, performers, and builders who are inspired and impassioned by the classic story of feral children and their wolf pack families. Each year we bring our untamed energy to the Black Rock desert through play, performance and art.\r\n\r\nOur gifts this year include our Cafe, where you can get iced, cold brew coffee every morning, and Ziza the Roving Tea Truck. We'll also host yoga and other workshops in our dome—all are invited to attend and howl with us.",
+        "burnermap_location": {
+            "string": "6:30 & Dance",
+            "gps_longitude": -119.2180707519952,
+            "gps_latitude": 40.78158473441435
+        }
     },
     {
         "uid": "a1X0V000003H8EcUAK",
@@ -2769,7 +3785,12 @@
         "url": "https://www.facebook.com/banyahealerslab/?fref=ts",
         "contact_email": "info@steamology.org",
         "hometown": "Moscow",
-        "description": "Join us at the Art of Steam! The guild of steammasters invites you for the transformative Banya ritual. Discover yourself in the evergreen ancient tradition of steam, branches and meditation! And enter the knowledge of the steam spirit together with us."
+        "description": "Join us at the Art of Steam! The guild of steammasters invites you for the transformative Banya ritual. Discover yourself in the evergreen ancient tradition of steam, branches and meditation! And enter the knowledge of the steam spirit together with us.",
+        "burnermap_location": {
+            "string": "6:15 & Inspirit",
+            "gps_longitude": -119.22055284837559,
+            "gps_latitude": 40.77849184441712
+        }
     },
     {
         "uid": "a1X0V000003H8JwUAK",
@@ -2778,7 +3799,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Oakland",
-        "description": "Don't let the name fool you, we're not really numbskulls. We're NumbSkulls!"
+        "description": "Don't let the name fool you, we're not really numbskulls. We're NumbSkulls!",
+        "burnermap_location": {
+            "string": "5:30 & Inspirit",
+            "gps_longitude": -119.21539313674354,
+            "gps_latitude": 40.775066181009045
+        }
     },
     {
         "uid": "a1X0V000003H8ZpUAK",
@@ -2796,7 +3822,12 @@
         "url": "http://www.domeontherangecamp.com",
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "Callin' all you bandits, outlaws and hellraisers for a hell of a hootenany ho'down. The STOOP ain't stoppin, the porch is poppin, and you're always welcome at Black Rock's neighborhood waterin' hole. Come on by for a rootin' tootin' good time!"
+        "description": "Callin' all you bandits, outlaws and hellraisers for a hell of a hootenany ho'down. The STOOP ain't stoppin, the porch is poppin, and you're always welcome at Black Rock's neighborhood waterin' hole. Come on by for a rootin' tootin' good time!",
+        "burnermap_location": {
+            "string": "6:30 & Breath",
+            "gps_longitude": -119.21656648977844,
+            "gps_latitude": 40.78224253887308
+        }
     },
     {
         "uid": "a1X0V000003H9WrUAK",
@@ -2805,7 +3836,12 @@
         "url": "http://healingfootwash.org",
         "contact_email": "annalisakronman@gmail.com",
         "hometown": "Orinda",
-        "description": "Come experience a new level of relaxation and conversation in Healing Foot Wash at one of our 20 comfortable foot wash stations.  Come back every day and participate once you've had your feet washed!"
+        "description": "Come experience a new level of relaxation and conversation in Healing Foot Wash at one of our 20 comfortable foot wash stations.  Come back every day and participate once you've had your feet washed!",
+        "burnermap_location": {
+            "string": "5:30 & Genuflect",
+            "gps_longitude": -119.21452481468833,
+            "gps_latitude": 40.77620535332683
+        }
     },
     {
         "uid": "a1X0V000003H8tuUAC",
@@ -2814,7 +3850,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Hood River",
-        "description": "Hottest holes on the playa.  Tuesday thru Friday mornings come enjoy freshly fried donut holes at Camp Not for Prophets."
+        "description": "Hottest holes on the playa.  Tuesday thru Friday mornings come enjoy freshly fried donut holes at Camp Not for Prophets.",
+        "burnermap_location": {
+            "string": "3:45 & Breath",
+            "gps_longitude": -119.20219984531452,
+            "gps_latitude": 40.77854809835442
+        }
     },
     {
         "uid": "a1X0V000003H8QxUAK",
@@ -2823,7 +3864,12 @@
         "url": "https://curiousadventure.com/wmicc/",
         "contact_email": "iheartwmicc@gmail.com",
         "hometown": "LA / San Diego",
-        "description": "Keeping the people of Black Rock sweet and juicy since 2011. Come nourish yourself with good food and good people."
+        "description": "Keeping the people of Black Rock sweet and juicy since 2011. Come nourish yourself with good food and good people.",
+        "burnermap_location": {
+            "string": "3:00 & Juju",
+            "gps_longitude": -119.19355020990311,
+            "gps_latitude": 40.77671717407414
+        }
     },
     {
         "uid": "a1X0V000003H8I0UAK",
@@ -2832,7 +3878,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "LA-Vegas- Bay Area",
-        "description": "Filament - Bringing the light, love, music, drinks, lounge, and radical inclusion to our beloved West-side neighborhood.  Come by for a drink and savor the positivity."
+        "description": "Filament - Bringing the light, love, music, drinks, lounge, and radical inclusion to our beloved West-side neighborhood.  Come by for a drink and savor the positivity.",
+        "burnermap_location": {
+            "string": "9:30 & Fire",
+            "gps_longitude": -119.21409285920798,
+            "gps_latitude": 40.7964245784482
+        }
     },
     {
         "uid": "a1X0V000003H8S5UAK",
@@ -2850,7 +3901,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "We're from all over the world.",
-        "description": "'Cause this shit ain't right."
+        "description": "'Cause this shit ain't right.",
+        "burnermap_location": {
+            "string": "2:15 & Ceremony",
+            "gps_longitude": -119.19516764091506,
+            "gps_latitude": 40.78300872251151
+        }
     },
     {
         "uid": "a1X0V000003H8TXUA0",
@@ -2859,7 +3915,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Truckee",
-        "description": "Ice Cold Lemonade for dusty humans. We will cure your scurvy and your thirst. We serve from playa noon until dusk or later. We play music and hydrate people."
+        "description": "Ice Cold Lemonade for dusty humans. We will cure your scurvy and your thirst. We serve from playa noon until dusk or later. We play music and hydrate people.",
+        "burnermap_location": {
+            "string": "9:15 & Eulogy",
+            "gps_longitude": -119.21519877481357,
+            "gps_latitude": 40.795075211956
+        }
     },
     {
         "uid": "a1X0V000003H8xrUAC",
@@ -2868,7 +3929,12 @@
         "url": "https://ourkindredspirit.org/",
         "contact_email": "kindredspiritcar@gmail.com",
         "hometown": "Eugene",
-        "description": "Kindred Spirit is 30-feet of audio-visual stimulation designed to spark conversation about the American Bison's complicated past, present, and future."
+        "description": "Kindred Spirit is 30-feet of audio-visual stimulation designed to spark conversation about the American Bison's complicated past, present, and future.",
+        "burnermap_location": {
+            "string": "2:15 & Lustrate",
+            "gps_longitude": -119.18794375474944,
+            "gps_latitude": 40.78074699342587
+        }
     },
     {
         "uid": "a1X0V000003H8hAUAS",
@@ -2877,7 +3943,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Coarsegol",
-        "description": "Badlands Bordello- It is years after Trump has destroyed the planet. The apocalypse is upon us. The worlds oldest profession will also be the last profession. The badlands Bordello is a post apocalyptic brothel and speak easy. The lavish and swank lounge is waiting for you, but only if you know the password. Speak Friend, and enter."
+        "description": "Badlands Bordello- It is years after Trump has destroyed the planet. The apocalypse is upon us. The worlds oldest profession will also be the last profession. The badlands Bordello is a post apocalyptic brothel and speak easy. The lavish and swank lounge is waiting for you, but only if you know the password. Speak Friend, and enter.",
+        "burnermap_location": {
+            "string": "4:00 & Awe",
+            "gps_longitude": -119.2038463696281,
+            "gps_latitude": 40.778818082935224
+        }
     },
     {
         "uid": "a1X0V000003H8bvUAC",
@@ -2886,7 +3957,12 @@
         "url": "http://journal.burningman.org/census",
         "contact_email": "census@burningman.org",
         "hometown": "San Francisco",
-        "description": "The Census has been collecting information about the population of Black Rock City since 2002. The results of the Census from previous years will be on display at the Census camp. The 2017 results of the Census will be presented in the Afterburn report accessible through the Burning Man website."
+        "description": "The Census has been collecting information about the population of Black Rock City since 2002. The results of the Census from previous years will be on display at the Census camp. The 2017 results of the Census will be presented in the Afterburn report accessible through the Burning Man website.",
+        "burnermap_location": {
+            "string": "11:30 & Center Camp Plaza",
+            "gps_longitude": -119.21364045246969,
+            "gps_latitude": 40.78148891262454
+        }
     },
     {
         "uid": "a1X0V000003H94nUAC",
@@ -2895,7 +3971,12 @@
         "url": "http://camptiticaca.com/",
         "contact_email": null,
         "hometown": "South Lake Tahoe, Ca; Reno, Carson City, Las Vegas, Sun Valley Idaho, Denver, Austin",
-        "description": "The winds howl across this high Andean lake, blowing in strangers from mysterious far away lands."
+        "description": "The winds howl across this high Andean lake, blowing in strangers from mysterious far away lands.",
+        "burnermap_location": {
+            "string": "4:20 & Hallowed",
+            "gps_longitude": -119.20514426987243,
+            "gps_latitude": 40.773988045323236
+        }
     },
     {
         "uid": "a1X0V000003H9XkUAK",
@@ -2904,7 +3985,12 @@
         "url": "http://www.discofish.org",
         "contact_email": "vanessa@discofish.org",
         "hometown": "Sunnyvale,CA",
-        "description": "Discofish loves you!"
+        "description": "Discofish loves you!",
+        "burnermap_location": {
+            "string": "4:15 & Kundalini",
+            "gps_longitude": -119.20407793058068,
+            "gps_latitude": 40.77209210819523
+        }
     },
     {
         "uid": "a1X0V000003H8xcUAC",
@@ -2913,7 +3999,12 @@
         "url": "http://mayanwarrior.mx",
         "contact_email": "info@mayanwarrior.mx",
         "hometown": "Mexico City",
-        "description": "The Mayan Warrior project is designed to unite artists, craftsmen, photographers, designers, technologists, architects and musicians from Mexico, the U.S., Canada, and all across the world."
+        "description": "The Mayan Warrior project is designed to unite artists, craftsmen, photographers, designers, technologists, architects and musicians from Mexico, the U.S., Canada, and all across the world.",
+        "burnermap_location": {
+            "string": "10:00 & Hallowed",
+            "gps_longitude": -119.21092843757982,
+            "gps_latitude": 40.79882859452591
+        }
     },
     {
         "uid": "a1X0V000003H9XBUA0",
@@ -2922,7 +4013,12 @@
         "url": "http://www.elevantrising.com",
         "contact_email": null,
         "hometown": "North Lake Tahoe",
-        "description": "Playa fine dining, reservation only.  Look for \"Golden\" tickets and stop by to ask details about eating the best meal of your life!"
+        "description": "Playa fine dining, reservation only.  Look for \"Golden\" tickets and stop by to ask details about eating the best meal of your life!",
+        "burnermap_location": {
+            "string": "2:15 & Breath",
+            "gps_longitude": -119.19596989571168,
+            "gps_latitude": 40.783260736953125
+        }
     },
     {
         "uid": "a1X0V000003H97hUAC",
@@ -2940,7 +4036,12 @@
         "url": "http://www.nectarvillage.com/",
         "contact_email": "questions@nectarvillage.com",
         "hometown": "San Francsico, Boston, Boulder, Costa Rica",
-        "description": "Nectar Village is about you. It is about what you need\u2026 to survive, refuel, and revitalize. Mind, body and spirit are all served, and you'll find the Nectar you seek for any of them in the camps at our oasis. Offerings continuously from 10am to 7pm."
+        "description": "Nectar Village is about you. It is about what you need… to survive, refuel, and revitalize. Mind, body and spirit are all served, and you'll find the Nectar you seek for any of them in the camps at our oasis. Offerings continuously from 10am to 7pm.",
+        "burnermap_location": {
+            "string": "8:00 & Eulogy",
+            "gps_longitude": -119.2202345069882,
+            "gps_latitude": 40.789365212441034
+        }
     },
     {
         "uid": "a1X0V000003H8hZUAS",
@@ -2958,7 +4059,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "London",
-        "description": "Camp Parlour hosts a cutting edge interactive visual display inspired by Burning Man, projected onto a 20' x 8' screen."
+        "description": "Camp Parlour hosts a cutting edge interactive visual display inspired by Burning Man, projected onto a 20' x 8' screen.",
+        "burnermap_location": {
+            "string": "3:15 & Fire",
+            "gps_longitude": -119.19748535810336,
+            "gps_latitude": 40.77759621181311
+        }
     },
     {
         "uid": "a1X0V000003H9a5UAC",
@@ -2976,7 +4082,12 @@
         "url": "https://www.circuscombustus.org",
         "contact_email": "circuscombustus@gmail.com",
         "hometown": "Atlanta",
-        "description": "Marvel at aerialists, acrobats, stilt walkers, jugglers, and fire performers! Circus Combustus is a group of Atlanta artists who create a fire carnival area with evening fire circus shows for all attendees to enjoy."
+        "description": "Marvel at aerialists, acrobats, stilt walkers, jugglers, and fire performers! Circus Combustus is a group of Atlanta artists who create a fire carnival area with evening fire circus shows for all attendees to enjoy.",
+        "burnermap_location": {
+            "string": "3:00 & Esplanade",
+            "gps_longitude": -119.20020255883254,
+            "gps_latitude": 40.781755661172056
+        }
     },
     {
         "uid": "a1X0V000003H9cBUAS",
@@ -2985,7 +4096,12 @@
         "url": null,
         "contact_email": "bell.matt@gmail.com",
         "hometown": "Seattle",
-        "description": "The Black Rock Piano lounge is a place where people from all over the world come to meet, enjoy and play great live music.  We bring one of the best piano's to the playa (and tune it several times throughout the week) in one of the coolest lounges.  Live music is played by both camp members and any fellow Burner who stops by to share their talent.  Music plays 24 hours a day and we host parties throughout the week.  Our hosted parties are:\r\n\r\nSunday = Kick off party with open mic and live music 10PM to 2AM\r\nMonday =  Drink and draw 12pm to 2pm\r\nTuesday = Bloody Mary and Bacon bar 12pm to 4pm\r\nWednesday = Achro yoga 12pm to 2pm\r\nThursday = Bloody Mary and Bacon bar 12pm to 4pm\r\nFriday = Drink and draw 12pm to 2pm\r\nSaturday = Achro yoga 12pm to 2pm\r\nSunday = Blues and sappy song party 12pm to 2pm"
+        "description": "The Black Rock Piano lounge is a place where people from all over the world come to meet, enjoy and play great live music.  We bring one of the best piano's to the playa (and tune it several times throughout the week) in one of the coolest lounges.  Live music is played by both camp members and any fellow Burner who stops by to share their talent.  Music plays 24 hours a day and we host parties throughout the week.  Our hosted parties are:\r\n\r\nSunday = Kick off party with open mic and live music 10PM to 2AM\r\nMonday =  Drink and draw 12pm to 2pm\r\nTuesday = Bloody Mary and Bacon bar 12pm to 4pm\r\nWednesday = Achro yoga 12pm to 2pm\r\nThursday = Bloody Mary and Bacon bar 12pm to 4pm\r\nFriday = Drink and draw 12pm to 2pm\r\nSaturday = Achro yoga 12pm to 2pm\r\nSunday = Blues and sappy song party 12pm to 2pm",
+        "burnermap_location": {
+            "string": "8:15 & Genuflect",
+            "gps_longitude": -119.22124645290613,
+            "gps_latitude": 40.7911921903411
+        }
     },
     {
         "uid": "a1X0V000003H9LeUAK",
@@ -2994,7 +4110,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "Visit Space Hole: Mist Opportunity.  Get misted and see some cool no-RV Burning Man camping tech!"
+        "description": "Visit Space Hole: Mist Opportunity.  Get misted and see some cool no-RV Burning Man camping tech!",
+        "burnermap_location": {
+            "string": "4:45 & Hallowed",
+            "gps_longitude": -119.20878207936424,
+            "gps_latitude": 40.77404823164073
+        }
     },
     {
         "uid": "a1X0V000003H8heUAC",
@@ -3003,7 +4124,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "Dust, Sun, Booze, Bikes, Night, and Noise--it's a ClusterF*ck out there and that's exactly what you'll find here: a ClusterF*ck of activity. Drop by to jump on our trampoline, refresh yourself at our bar, or enjoy a jaw-dropping playa sunset from our 24' tower."
+        "description": "Dust, Sun, Booze, Bikes, Night, and Noise--it's a ClusterF*ck out there and that's exactly what you'll find here: a ClusterF*ck of activity. Drop by to jump on our trampoline, refresh yourself at our bar, or enjoy a jaw-dropping playa sunset from our 24' tower.",
+        "burnermap_location": {
+            "string": "5:15 & Ceremony",
+            "gps_longitude": -119.21133223902413,
+            "gps_latitude": 40.777940412801506
+        }
     },
     {
         "uid": "a1X0V000003H9bwUAC",
@@ -3012,7 +4138,12 @@
         "url": "http://www.campconception.com/",
         "contact_email": "info@campconception.com",
         "hometown": "Seattle",
-        "description": "Conception hovers at the fulcrum between imagined and actual, where potentials collide into form, matter, and light.  Our camp space provides fertile ground for birthing of creation through multiple activities."
+        "description": "Conception hovers at the fulcrum between imagined and actual, where potentials collide into form, matter, and light.  Our camp space provides fertile ground for birthing of creation through multiple activities.",
+        "burnermap_location": {
+            "string": "7:15 & Genuflect",
+            "gps_longitude": -119.22231612211759,
+            "gps_latitude": 40.78503230749086
+        }
     },
     {
         "uid": "a1X0V000003H9caUAC",
@@ -3021,7 +4152,12 @@
         "url": "http://www.hosecoin.com",
         "contact_email": "kampy1@mac.com",
         "hometown": "Los Angeles, Portland, Flagstaff",
-        "description": "Swing by for one of our ritualistic happy hours or chill in one of our hammocks in our cooling dome.  Play a little and dance with your digitized self on our psychedelic  projection wall."
+        "description": "Swing by for one of our ritualistic happy hours or chill in one of our hammocks in our cooling dome.  Play a little and dance with your digitized self on our psychedelic  projection wall.",
+        "burnermap_location": {
+            "string": "4:45 & Fire",
+            "gps_longitude": -119.20855364045433,
+            "gps_latitude": 40.77535216679971
+        }
     },
     {
         "uid": "a1X0V000003H9rkUAC",
@@ -3030,7 +4166,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Seattle",
-        "description": "Welcome to Playasophy, a space to rest and reflect in the excitement of the carnival. Come in the mornings for coffee to start off your day, and in the afternoons sit around a hookah, enjoy a beverage and share stories and experiences with both our members and other travelers! In the evenings, enjoy the splendor of the Wonderdome, a fully controllable immersive light display while resting in the Land of Soft. We hope to see you soon!"
+        "description": "Welcome to Playasophy, a space to rest and reflect in the excitement of the carnival. Come in the mornings for coffee to start off your day, and in the afternoons sit around a hookah, enjoy a beverage and share stories and experiences with both our members and other travelers! In the evenings, enjoy the splendor of the Wonderdome, a fully controllable immersive light display while resting in the Land of Soft. We hope to see you soon!",
+        "burnermap_location": {
+            "string": "3:45 & Awe",
+            "gps_longitude": -119.20253193004713,
+            "gps_latitude": 40.779155784628216
+        }
     },
     {
         "uid": "a1X0V000003H8hyUAC",
@@ -3039,7 +4180,12 @@
         "url": "http://mimosasunrise.org",
         "contact_email": "ian.nabal@gmail.com",
         "hometown": "Santa Cruz",
-        "description": "Come celebrate the birth of a new day with Mimosas at sunrise. Join us for drinks, stories and jokes every sunrise with some awesome people and great vibes. Stop by during the day for frozen mimosas and make some new friends."
+        "description": "Come celebrate the birth of a new day with Mimosas at sunrise. Join us for drinks, stories and jokes every sunrise with some awesome people and great vibes. Stop by during the day for frozen mimosas and make some new friends.",
+        "burnermap_location": {
+            "string": "8:30 & Genuflect",
+            "gps_longitude": -119.22032957062862,
+            "gps_latitude": 40.79260038196808
+        }
     },
     {
         "uid": "a1X0V000003H8YwUAK",
@@ -3048,7 +4194,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Los Angeles",
-        "description": "Playa Dry Cleaning, Xylophone Recital and Playa Portraits"
+        "description": "Playa Dry Cleaning, Xylophone Recital and Playa Portraits",
+        "burnermap_location": {
+            "string": "6:45 & Hallowed",
+            "gps_longitude": -119.22204680284527,
+            "gps_latitude": 40.78175417627813
+        }
     },
     {
         "uid": "a1X0V000003H9pPUAS",
@@ -3057,7 +4208,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Seattle",
-        "description": "Come re-charge with us! Scale our Tree of Life for a full panoramic view of BRC and plot your next playa adventure, chill out in our hammock jungle, grab a cold Disco Lemonade and dance with our resident DJs. We are fully equipped to power your FUN-O-METER."
+        "description": "Come re-charge with us! Scale our Tree of Life for a full panoramic view of BRC and plot your next playa adventure, chill out in our hammock jungle, grab a cold Disco Lemonade and dance with our resident DJs. We are fully equipped to power your FUN-O-METER.",
+        "burnermap_location": {
+            "string": "8:15 & Genuflect",
+            "gps_longitude": -119.22124645290613,
+            "gps_latitude": 40.7911921903411
+        }
     },
     {
         "uid": "a1X0V000003H9zAUAS",
@@ -3066,7 +4222,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "High Falls",
-        "description": "Learning, sharing and exploration stemming from solution-oriented, positive thinking and an unguided, free social environment. Even giants feel small when they gaze at the stars..."
+        "description": "Learning, sharing and exploration stemming from solution-oriented, positive thinking and an unguided, free social environment. Even giants feel small when they gaze at the stars...",
+        "burnermap_location": {
+            "string": "6:45 & Dance",
+            "gps_longitude": -119.21883461146463,
+            "gps_latitude": 40.78275670882913
+        }
     },
     {
         "uid": "a1X0V000003H9NBUA0",
@@ -3075,7 +4236,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "New York / Ft. Lauderdale",
-        "description": "Second Star to the right, and straight on 'til morning! Escape to Neverland and join us in our funk oasis for music, drinks, and good vibes. Have an adventure with the Lost Boys, or dance it out at our Second Annual Second Star FUNKtion. Grab a drink at the Pirate Bar or get your booty in shape...."
+        "description": "Second Star to the right, and straight on 'til morning! Escape to Neverland and join us in our funk oasis for music, drinks, and good vibes. Have an adventure with the Lost Boys, or dance it out at our Second Annual Second Star FUNKtion. Grab a drink at the Pirate Bar or get your booty in shape....",
+        "burnermap_location": {
+            "string": "9:00 & Kundalini",
+            "gps_longitude": -119.22026806074321,
+            "gps_latitude": 40.796946324126644
+        }
     },
     {
         "uid": "a1X0V000003H8aJUAS",
@@ -3084,7 +4250,12 @@
         "url": "http://brch3.com/",
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "We are the BRC Hash House Harriers Bike Repair Camp, a drinking club with a running problem.  Our mission is to share our love of hashing with Black Rock City while keeping the beer cold and bikes running smoothly."
+        "description": "We are the BRC Hash House Harriers Bike Repair Camp, a drinking club with a running problem.  Our mission is to share our love of hashing with Black Rock City while keeping the beer cold and bikes running smoothly.",
+        "burnermap_location": {
+            "string": "8:45 & Fire",
+            "gps_longitude": -119.21849287500578,
+            "gps_latitude": 40.79350104830081
+        }
     },
     {
         "uid": "a1X0V000003H8scUAC",
@@ -3093,7 +4264,12 @@
         "url": null,
         "contact_email": "aadams1997@yahoo.com",
         "hometown": "Reno",
-        "description": "Martini Village offers cold refreshments, entertainment and much more!  Look us up for our daily scheduled events or just stop by and check out a random happy hour.  Be prepared to be immersed in the 10 principles of the playa."
+        "description": "Martini Village offers cold refreshments, entertainment and much more!  Look us up for our daily scheduled events or just stop by and check out a random happy hour.  Be prepared to be immersed in the 10 principles of the playa.",
+        "burnermap_location": {
+            "string": "8:30 & Awe",
+            "gps_longitude": -119.21581546539866,
+            "gps_latitude": 40.790627833203835
+        }
     },
     {
         "uid": "a1X0V000003HA0hUAG",
@@ -3102,7 +4278,12 @@
         "url": "https://www.facebook.com/dustcircus/",
         "contact_email": "dustcircus@gmail.com",
         "hometown": "San Francisco, Sacramento",
-        "description": "The Dust Circus - Twisted mix of entertainment. Real Magic, Dancing, Avant-Garde Theater \u2013 moving your body and mind!  Enjoy and participate in overwhelming, dazing and confusing shows."
+        "description": "The Dust Circus - Twisted mix of entertainment. Real Magic, Dancing, Avant-Garde Theater – moving your body and mind!  Enjoy and participate in overwhelming, dazing and confusing shows.",
+        "burnermap_location": {
+            "string": "5:00 & Awe",
+            "gps_longitude": -119.20935363037192,
+            "gps_latitude": 40.778818082935224
+        }
     },
     {
         "uid": "a1X0V000003HA0rUAG",
@@ -3111,7 +4292,12 @@
         "url": "https://www.facebook.com/groups/88124456049",
         "contact_email": "rrevanrr@gmail.com",
         "hometown": "Santa Cruz, CA and Claremont, CA",
-        "description": "The French Maid Brigade -- dedicated to eradicating dust and bad spirits in Black Rock City! We facilitate events and the famous French Maid Brigade Parade (Thursday 2PM, 3/Esplanade) https://www.facebook.com/groups/88124456049"
+        "description": "The French Maid Brigade -- dedicated to eradicating dust and bad spirits in Black Rock City! We facilitate events and the famous French Maid Brigade Parade (Thursday 2PM, 3/Esplanade) https://www.facebook.com/groups/88124456049",
+        "burnermap_location": {
+            "string": "2:45 & Fire",
+            "gps_longitude": -119.19471870721922,
+            "gps_latitude": 40.779688742580994
+        }
     },
     {
         "uid": "a1X0V000003H9QyUAK",
@@ -3120,7 +4306,12 @@
         "url": "http://www.radio-electra.com",
         "contact_email": "rockstar@burningman.org",
         "hometown": "Tucson",
-        "description": "Radio Electra 89.9 FM returns yet again for our 17th year for your listening pleasure or displeasure. Tune us in during the event for an eclectic array of music, news, interviews and commentary. Artists and camps wishing to get the word out about events or projects on playa are always welcome to stop in for a live interview or just drop off a prerecorded PSA for our play list."
+        "description": "Radio Electra 89.9 FM returns yet again for our 17th year for your listening pleasure or displeasure. Tune us in during the event for an eclectic array of music, news, interviews and commentary. Artists and camps wishing to get the word out about events or projects on playa are always welcome to stop in for a live interview or just drop off a prerecorded PSA for our play list.",
+        "burnermap_location": {
+            "string": "6:45 & Awe",
+            "gps_longitude": -119.2164278470746,
+            "gps_latitude": 40.78351275215403
+        }
     },
     {
         "uid": "a1X0V000003H8vgUAC",
@@ -3129,7 +4320,12 @@
         "url": "http://equilibrium.camp/",
         "contact_email": null,
         "hometown": "Bay Area",
-        "description": "All week Camp Equilibrium invites you to come over, hangout, play some cornhole, throw some bones, and just chillax. Ask Matt to help you setup your tent.\r\nJoin us Sunday morning 9/3 @ 10 am for our Annual Sunday Funday Mimosa MOOP March.. yup, it's mimosas and MOOPing while treking out to the remnants of the Man"
+        "description": "All week Camp Equilibrium invites you to come over, hangout, play some cornhole, throw some bones, and just chillax. Ask Matt to help you setup your tent.\r\nJoin us Sunday morning 9/3 @ 10 am for our Annual Sunday Funday Mimosa MOOP March.. yup, it's mimosas and MOOPing while treking out to the remnants of the Man",
+        "burnermap_location": {
+            "string": "8:45 & Ceremony",
+            "gps_longitude": -119.21642448959871,
+            "gps_latitude": 40.79230083156668
+        }
     },
     {
         "uid": "a1X0V000003H9y2UAC",
@@ -3138,7 +4334,12 @@
         "url": null,
         "contact_email": "fishface@thrillchillcult.com",
         "hometown": "Chicago/LA/NYC",
-        "description": "Need some energy for your nighttime adventures?  Those who dare to join the Thrill Chill Cult will be rewarded with tasty coffee and visual treats."
+        "description": "Need some energy for your nighttime adventures?  Those who dare to join the Thrill Chill Cult will be rewarded with tasty coffee and visual treats.",
+        "burnermap_location": {
+            "string": "4:15 & Genuflect",
+            "gps_longitude": -119.20453125510309,
+            "gps_latitude": 40.774700272567486
+        }
     },
     {
         "uid": "a1X0V000003H8lRUAS",
@@ -3147,7 +4348,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Williamsburg",
-        "description": "We connect directly with the cosmos so all of your scientific questions are answered. For the rest you are on your own."
+        "description": "We connect directly with the cosmos so all of your scientific questions are answered. For the rest you are on your own.",
+        "burnermap_location": {
+            "string": "9:45 & Breath",
+            "gps_longitude": -119.21100844889875,
+            "gps_latitude": 40.794649467642486
+        }
     },
     {
         "uid": "a1X0V000003HA8qUAG",
@@ -3156,7 +4362,12 @@
         "url": "https://www.facebook.com/departmentofwonder/",
         "contact_email": "artwonderbus@gmail.com",
         "hometown": "Lakebay, WA.",
-        "description": "Wonder Camp is a place to bring your broken bicycle, art project, mutant vehicle, etc. Come with a tee shirt for a silkscreen print and a worn body for a massage."
+        "description": "Wonder Camp is a place to bring your broken bicycle, art project, mutant vehicle, etc. Come with a tee shirt for a silkscreen print and a worn body for a massage.",
+        "burnermap_location": {
+            "string": "4:30 & Hallowed",
+            "gps_longitude": -119.20660000000001,
+            "gps_latitude": 40.77393994365737
+        }
     },
     {
         "uid": "a1X0V000003HA9FUAW",
@@ -3174,7 +4385,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Scottsdale, AZ",
-        "description": "Camp Liminal is an intimate ritual on the participant's path toward Communitas offering respite from the desert heat with a cup of chilled wine and perfectly aged cheese from a can, with a nipple, on a ritzy crisp, in our tastefully appointed sacred space.  And for the participant in need, we present the Camp Liminality SWAG SWAP - ART that doubles as a SWAG Exchange."
+        "description": "Camp Liminal is an intimate ritual on the participant's path toward Communitas offering respite from the desert heat with a cup of chilled wine and perfectly aged cheese from a can, with a nipple, on a ritzy crisp, in our tastefully appointed sacred space.  And for the participant in need, we present the Camp Liminality SWAG SWAP - ART that doubles as a SWAG Exchange.",
+        "burnermap_location": {
+            "string": "7:45 & Genuflect",
+            "gps_longitude": -119.22231686363757,
+            "gps_latitude": 40.78816556022795
+        }
     },
     {
         "uid": "a1X0V000003HADbUAO",
@@ -3183,7 +4399,12 @@
         "url": "http://siliconvillageburners.org/",
         "contact_email": "mayor@siliconvillageburners.org",
         "hometown": "San Jose",
-        "description": "Silicon Village is non stop fun for Burners seeking entertainment.  Come and enjoy our Twirling Teeter Totter, Joyism and Party Snail art cars, Java Joy Caf\u00e9 Hut, Joy-Climbing Wall, Mindwerk brainwave control light and music, Airbrush Body Art, Pomerosegasm cocktail, trick or treating, Deep playa art tours, Labyrinth, No Drama Camp Bar, Oracle Readings, Rituals, Orgasmic Meditation Workshops, Wine Tastings, Love Notes, and much, much more!    We are online at http://siliconvillageburners.org"
+        "description": "Silicon Village is non stop fun for Burners seeking entertainment.  Come and enjoy our Twirling Teeter Totter, Joyism and Party Snail art cars, Java Joy Café Hut, Joy-Climbing Wall, Mindwerk brainwave control light and music, Airbrush Body Art, Pomerosegasm cocktail, trick or treating, Deep playa art tours, Labyrinth, No Drama Camp Bar, Oracle Readings, Rituals, Orgasmic Meditation Workshops, Wine Tastings, Love Notes, and much, much more!    We are online at http://siliconvillageburners.org",
+        "burnermap_location": {
+            "string": "6:30 & Eulogy",
+            "gps_longitude": -119.21882287193033,
+            "gps_latitude": 40.78125582486021
+        }
     },
     {
         "uid": "a1X0V000003HAEKUA4",
@@ -3192,7 +4413,12 @@
         "url": "http://www.fuckingflamingos.com",
         "contact_email": "emorysimson@gmail.com",
         "hometown": "Phoenix",
-        "description": "Celebrating our 11th year on Playa this year, we are a group of veteran Burner's that regularly incorporates virgins into our camp and impress upon them our vision of a Burner lifestyle filled with fun, irreverence, creativity, participation and semi-responsible-ish adventure"
+        "description": "Celebrating our 11th year on Playa this year, we are a group of veteran Burner's that regularly incorporates virgins into our camp and impress upon them our vision of a Burner lifestyle filled with fun, irreverence, creativity, participation and semi-responsible-ish adventure",
+        "burnermap_location": {
+            "string": "8:30 & Ceremony",
+            "gps_longitude": -119.21732013734074,
+            "gps_latitude": 40.79128536900388
+        }
     },
     {
         "uid": "a1X0V000003HAEUUA4",
@@ -3201,7 +4427,12 @@
         "url": null,
         "contact_email": "blue_dominique@yahoo.com",
         "hometown": "Boulder",
-        "description": "The Hall of Just Us: We will offer various levels of exploring your super hero persona. The fictional super hero characters have become a radical ritual in the lives of not only Americans but all cultures. The heroes in our lives take on many forms, come from many walks of life, and express themselves in unique and individual means. The Hall of Just Us camp members are experienced with finding individual's unique meaning and more importantly, how you can express that."
+        "description": "The Hall of Just Us: We will offer various levels of exploring your super hero persona. The fictional super hero characters have become a radical ritual in the lives of not only Americans but all cultures. The heroes in our lives take on many forms, come from many walks of life, and express themselves in unique and individual means. The Hall of Just Us camp members are experienced with finding individual's unique meaning and more importantly, how you can express that.",
+        "burnermap_location": {
+            "string": "5:15 & Eulogy",
+            "gps_longitude": -119.21199640651966,
+            "gps_latitude": 40.776725043858264
+        }
     },
     {
         "uid": "a1X0V000003HAFmUAO",
@@ -3210,7 +4441,12 @@
         "url": "https://karmacamp.net/",
         "contact_email": "info@dustopia.us",
         "hometown": "Gerlach",
-        "description": "Dustopia Village is home to Karma Love Camp and Zerodrome, makers of the OMG/WTF mutant vehcile and the kinetic mecha-wonder: Scorpion."
+        "description": "Dustopia Village is home to Karma Love Camp and Zerodrome, makers of the OMG/WTF mutant vehcile and the kinetic mecha-wonder: Scorpion.",
+        "burnermap_location": {
+            "string": "8:45 & Genuflect",
+            "gps_longitude": -119.21917770827395,
+            "gps_latitude": 40.793905909965694
+        }
     },
     {
         "uid": "a1X0V000003HAGkUAO",
@@ -3219,7 +4455,12 @@
         "url": null,
         "contact_email": "quenton.cook@gmail.com",
         "hometown": "San Francisco",
-        "description": "Bubbles, bubbles everywhere and drops to drink for all. Dispensing thai iced tea and cold pressed coffee for all you parched playa peeps."
+        "description": "Bubbles, bubbles everywhere and drops to drink for all. Dispensing thai iced tea and cold pressed coffee for all you parched playa peeps.",
+        "burnermap_location": {
+            "string": "2:15 & Breath",
+            "gps_longitude": -119.19596989571168,
+            "gps_latitude": 40.783260736953125
+        }
     },
     {
         "uid": "a1X0V000003HAFXUA4",
@@ -3228,7 +4469,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Los Angeles",
-        "description": "T.B.C. \nWe are the Breakfast club and all are welcome!"
+        "description": "T.B.C. \nWe are the Breakfast club and all are welcome!",
+        "burnermap_location": {
+            "string": "2:45 & Dance",
+            "gps_longitude": -119.19609621098215,
+            "gps_latitude": 40.7804900260168
+        }
     },
     {
         "uid": "a1X0V000003HAHYUA4",
@@ -3237,7 +4483,12 @@
         "url": "http://www.upwarp.com/lml/index.htm",
         "contact_email": null,
         "hometown": "Palo Alto",
-        "description": "Leopard Martini Lounge, Palo Alto, CA, US, http://www.upwarp.com/lml/index.htm"
+        "description": "Leopard Martini Lounge, Palo Alto, CA, US, http://www.upwarp.com/lml/index.htm",
+        "burnermap_location": {
+            "string": "6:30 & Genuflect",
+            "gps_longitude": -119.22032708945433,
+            "gps_latitude": 40.780597991102866
+        }
     },
     {
         "uid": "a1X0V000003HAJ0UAO",
@@ -3246,7 +4497,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "Eyes of the Soul is a unique Burning Man experience that combines providing Eye Make-up, Astrology Readings, and tea all in a rejuvenating space with soothing sounds and aroma-therapy. Come by and RePLENISH, ReFRESH, ReFLECT!"
+        "description": "Eyes of the Soul is a unique Burning Man experience that combines providing Eye Make-up, Astrology Readings, and tea all in a rejuvenating space with soothing sounds and aroma-therapy. Come by and RePLENISH, ReFRESH, ReFLECT!",
+        "burnermap_location": {
+            "string": "8:15 & Eulogy",
+            "gps_longitude": -119.21964377911931,
+            "gps_latitude": 40.79068412684408
+        }
     },
     {
         "uid": "a1X0V000003HAJoUAO",
@@ -3255,7 +4511,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "London",
-        "description": "Eurotrash Sangria Bar, serving the best sangria in Black Rock City!"
+        "description": "Eurotrash Sangria Bar, serving the best sangria in Black Rock City!",
+        "burnermap_location": {
+            "string": "4:30 & Inspirit",
+            "gps_longitude": -119.20660000000001,
+            "gps_latitude": 40.77328227839283
+        }
     },
     {
         "uid": "a1X0V000003HALaUAO",
@@ -3264,7 +4525,12 @@
         "url": "http://www.solipmission.com",
         "contact_email": "vdhogen@gmail.com",
         "hometown": "Amsterdam",
-        "description": "Solipmission - 50)'(50 Camp\r\nwww.solipmission.com\r\n\r\nThe support/theme camp for Dadara's Solipmission.\r\n\r\nWe make the art happen and ensure that it will be great! on the basis of 50)'(50\r\nA permanent camp structure with different art project each two years.\r\nThe Art will be the picture, the camp as a permanent flow in background. The camp also hosts the famous Solipmission Bar.\r\nYear on, year off\r\nHalf old, half new."
+        "description": "Solipmission - 50)'(50 Camp\r\nwww.solipmission.com\r\n\r\nThe support/theme camp for Dadara's Solipmission.\r\n\r\nWe make the art happen and ensure that it will be great! on the basis of 50)'(50\r\nA permanent camp structure with different art project each two years.\r\nThe Art will be the picture, the camp as a permanent flow in background. The camp also hosts the famous Solipmission Bar.\r\nYear on, year off\r\nHalf old, half new.",
+        "burnermap_location": {
+            "string": "2:15 & Dance",
+            "gps_longitude": -119.19436538853539,
+            "gps_latitude": 40.78275670882914
+        }
     },
     {
         "uid": "a1X0V000003HAOZUA4",
@@ -3273,7 +4539,12 @@
         "url": null,
         "contact_email": "pigmalionscamp@gmail.com",
         "hometown": "San Francisco",
-        "description": "Don't be a Boar by yourself, come play with the Pigs! We've been hosting our famous daytime party on the Playa since 2001. Our fabulous bartenders hog-craft each and every Bloody Mary we make with over 10 different ingredients. Sizzling strips of pork are hoof-served to the squealing swine wallowing on our shaded sofas. All vegetarians are welcomed....to be converted. It'll be sooieet!"
+        "description": "Don't be a Boar by yourself, come play with the Pigs! We've been hosting our famous daytime party on the Playa since 2001. Our fabulous bartenders hog-craft each and every Bloody Mary we make with over 10 different ingredients. Sizzling strips of pork are hoof-served to the squealing swine wallowing on our shaded sofas. All vegetarians are welcomed....to be converted. It'll be sooieet!",
+        "burnermap_location": {
+            "string": "7:45 & Fire",
+            "gps_longitude": -119.22145640090253,
+            "gps_latitude": 40.78807460729891
+        }
     },
     {
         "uid": "a1X0V000003HAS7UAO",
@@ -3282,7 +4553,12 @@
         "url": null,
         "contact_email": "deathguildthunderdome@gmail.com",
         "hometown": "Oakland",
-        "description": "Join us at Death Guild Thunderdome for fighting Tuesday-Saturday. Diva goes on at 9."
+        "description": "Join us at Death Guild Thunderdome for fighting Tuesday-Saturday. Diva goes on at 9.",
+        "burnermap_location": {
+            "string": "4:30 & Esplanade",
+            "gps_longitude": -119.20660000000001,
+            "gps_latitude": 40.77974932016092
+        }
     },
     {
         "uid": "a1X0V000003HAOUUA4",
@@ -3291,7 +4567,12 @@
         "url": null,
         "contact_email": "hello@lemonadeandart.com",
         "hometown": "Portland",
-        "description": "Art & Lemonade since 2006. Come join us for ice cold lemonade and group painting. Stop by at night for interactive LED Painting."
+        "description": "Art & Lemonade since 2006. Come join us for ice cold lemonade and group painting. Stop by at night for interactive LED Painting.",
+        "burnermap_location": {
+            "string": "5:15 & Dance",
+            "gps_longitude": -119.21166432296884,
+            "gps_latitude": 40.77733272796947
+        }
     },
     {
         "uid": "a1X0V000003HARsUAO",
@@ -3300,7 +4581,12 @@
         "url": "https://www.facebook.com/cluebar/",
         "contact_email": "howard.cheryl@gmail.com",
         "hometown": "Bend",
-        "description": "Clue Bar Murder Mystery Adventures, Bar and Hydration Station"
+        "description": "Clue Bar Murder Mystery Adventures, Bar and Hydration Station",
+        "burnermap_location": {
+            "string": "8:45 & Ceremony",
+            "gps_longitude": -119.21642448959871,
+            "gps_latitude": 40.79230083156668
+        }
     },
     {
         "uid": "a1X0V000003HAHOUA4",
@@ -3318,7 +4604,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Eugene",
-        "description": "ENTROPY WITH TIME - Get the most out of life by living radically in the moment and drinking the nectar of reality. Devolution is inevitable so get after it."
+        "description": "ENTROPY WITH TIME - Get the most out of life by living radically in the moment and drinking the nectar of reality. Devolution is inevitable so get after it.",
+        "burnermap_location": {
+            "string": "3:15 & Eulogy",
+            "gps_longitude": -119.19801373155731,
+            "gps_latitude": 40.77811815910593
+        }
     },
     {
         "uid": "a1X0V000003HAT5UAO",
@@ -3327,7 +4618,12 @@
         "url": null,
         "contact_email": "coconauts@googlegroups.com",
         "hometown": "San Francisco",
-        "description": "An island oasis of scientific discovery. Enjoy our tiki bar and lounge. Every-other-night demonstrations of the Large Pi\u00f1a Collider. Interactive Moai God ready to receive your playa prayers."
+        "description": "An island oasis of scientific discovery. Enjoy our tiki bar and lounge. Every-other-night demonstrations of the Large Piña Collider. Interactive Moai God ready to receive your playa prayers.",
+        "burnermap_location": {
+            "string": "4:45 & Dance",
+            "gps_longitude": -119.20832713160837,
+            "gps_latitude": 40.7766562622959
+        }
     },
     {
         "uid": "a1X0V000003HAVuUAO",
@@ -3336,7 +4632,12 @@
         "url": null,
         "contact_email": "benjaminstrub@gmail.com",
         "hometown": "Winnipeg",
-        "description": "PHISH phrenzy! We're back for our fifth year with an all new set list. Join us in our piano lounge on Thursday at 1:00 p.m. for an epic live Phish jam. Pound your Northern neighbors in our life-size Whack-Ca-Nuck game (you know you always wanted to). Need a hat? Pick out a dandy from our Chapeaupourri."
+        "description": "PHISH phrenzy! We're back for our fifth year with an all new set list. Join us in our piano lounge on Thursday at 1:00 p.m. for an epic live Phish jam. Pound your Northern neighbors in our life-size Whack-Ca-Nuck game (you know you always wanted to). Need a hat? Pick out a dandy from our Chapeaupourri.",
+        "burnermap_location": {
+            "string": "7:45 & Dance",
+            "gps_longitude": -119.21973390021368,
+            "gps_latitude": 40.787903636408664
+        }
     },
     {
         "uid": "a1X0V000003HAUIUA4",
@@ -3345,7 +4646,12 @@
         "url": "http://formandreform.com/empire-of-dirt/",
         "contact_email": "jon@formandreform.com",
         "hometown": "Oakland",
-        "description": "Empire of Dirt is the landing base for the long thought lost spaceship EMPIRE."
+        "description": "Empire of Dirt is the landing base for the long thought lost spaceship EMPIRE.",
+        "burnermap_location": {
+            "string": "2:30 & Breath",
+            "gps_longitude": -119.19663351022156,
+            "gps_latitude": 40.78224253887308
+        }
     },
     {
         "uid": "a1X0V000003HAYeUAO",
@@ -3354,7 +4660,12 @@
         "url": "http://www.vuja-de.net",
         "contact_email": "info@vuja-de.net",
         "hometown": "West Coast, United States",
-        "description": "formerly known as the Burners @ the End of the Universe"
+        "description": "formerly known as the Burners @ the End of the Universe",
+        "burnermap_location": {
+            "string": "9:30 & Fire",
+            "gps_longitude": -119.21409285920798,
+            "gps_latitude": 40.7964245784482
+        }
     },
     {
         "uid": "a1X0V000003HAXqUAO",
@@ -3363,7 +4674,12 @@
         "url": null,
         "contact_email": "dreadlockcowbooy@gmail.com",
         "hometown": "Black Rock City",
-        "description": "Rancho Sparkle Pony and the Buddha Lounge are a sanctuary for the care of the all so vulnerable and so often exploited sparkle ponies of the world.  At RSP wranglers and ponies alike engage in numerous healthy and fulfilling activities with a focus on improving confidence, esteem and self-reliance."
+        "description": "Rancho Sparkle Pony and the Buddha Lounge are a sanctuary for the care of the all so vulnerable and so often exploited sparkle ponies of the world.  At RSP wranglers and ponies alike engage in numerous healthy and fulfilling activities with a focus on improving confidence, esteem and self-reliance.",
+        "burnermap_location": {
+            "string": "3:30 & Eulogy",
+            "gps_longitude": -119.1995435371465,
+            "gps_latitude": 40.77734451913604
+        }
     },
     {
         "uid": "a1X0V000003HAakUAG",
@@ -3372,7 +4688,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "Sit back, relax, and enjoy one of our afternoon flights while you sip the beverage of your choice - afternoon sets of Progressive and other House laid on by one out five house DJs in a jet-era fantasy!"
+        "description": "Sit back, relax, and enjoy one of our afternoon flights while you sip the beverage of your choice - afternoon sets of Progressive and other House laid on by one out five house DJs in a jet-era fantasy!",
+        "burnermap_location": {
+            "string": "4:15 & Genuflect",
+            "gps_longitude": -119.20453125510309,
+            "gps_latitude": 40.774700272567486
+        }
     },
     {
         "uid": "a1X0V000003HAWxUAO",
@@ -3381,7 +4702,12 @@
         "url": null,
         "contact_email": "tomburningman@gmail.com",
         "hometown": "Reno/ San Diego",
-        "description": "The Whomp Wagon and The Lions Den will have DJs and dancing at camp and provide art tours on the playa day and night. An 'Open Closet' gifting playa gear and attire will provide selections to help amp up your style."
+        "description": "The Whomp Wagon and The Lions Den will have DJs and dancing at camp and provide art tours on the playa day and night. An 'Open Closet' gifting playa gear and attire will provide selections to help amp up your style.",
+        "burnermap_location": {
+            "string": "9:45 & Lustrate",
+            "gps_longitude": -119.21432999528908,
+            "gps_latitude": 40.800726522968205
+        }
     },
     {
         "uid": "a1X0V000003HAffUAG",
@@ -3399,7 +4725,12 @@
         "url": null,
         "contact_email": "paramedicschool@yahoo.com",
         "hometown": null,
-        "description": "Emergency Service Station 4:30"
+        "description": "Emergency Service Station 4:30",
+        "burnermap_location": {
+            "string": "4:30 & Inspirit",
+            "gps_longitude": -119.20660000000001,
+            "gps_latitude": 40.77328227839283
+        }
     },
     {
         "uid": "a1X0V000003HAjPUAW",
@@ -3408,7 +4739,12 @@
         "url": "https://www.facebook.com/PlayaJazzCafe/",
         "contact_email": "neilsjazz@hotmail.com",
         "hometown": "San Jose",
-        "description": "A Jazz Club and cafe that host nightly jazz jam sessions and daily Jazz workshops while serving coffee and specialty drinks."
+        "description": "A Jazz Club and cafe that host nightly jazz jam sessions and daily Jazz workshops while serving coffee and specialty drinks.",
+        "burnermap_location": {
+            "string": "9:15 & Rods Road",
+            "gps_longitude": -119.21569229242539,
+            "gps_latitude": 40.78259678454618
+        }
     },
     {
         "uid": "a1X0V000003HAg9UAG",
@@ -3417,7 +4753,12 @@
         "url": "https://www.facebook.com/thepsychictaxicamp/?ref=aymt_homepage_panel",
         "contact_email": null,
         "hometown": "Oakland",
-        "description": "Psychic Taxi Camp + Golden Guy alley: Come discover the mysteries within a Tokyo-replica alleyway of tiny bars.  Make tit-print postcards, ride our psychic taxi to where you never knew you needed to go, and celebrate a wedding to yourself\u2026 an interactive adventure of discovery awaits!"
+        "description": "Psychic Taxi Camp + Golden Guy alley: Come discover the mysteries within a Tokyo-replica alleyway of tiny bars.  Make tit-print postcards, ride our psychic taxi to where you never knew you needed to go, and celebrate a wedding to yourself… an interactive adventure of discovery awaits!",
+        "burnermap_location": {
+            "string": "7:15 & Eulogy",
+            "gps_longitude": -119.22059283731787,
+            "gps_latitude": 40.78519926850957
+        }
     },
     {
         "uid": "a1X0V000003HAjIUAW",
@@ -3426,7 +4767,12 @@
         "url": "http://blintzkrieg.shonic.net",
         "contact_email": null,
         "hometown": "Davis",
-        "description": "Blintzkrieg is a theme camp centered on the ritual of breaking fast to the core of people's beings by nourishing their tummies and taste buds with delicious and surprising flavors every morning. After a long night on the playa wouldn't you like a delicious breakfast blintz?"
+        "description": "Blintzkrieg is a theme camp centered on the ritual of breaking fast to the core of people's beings by nourishing their tummies and taste buds with delicious and surprising flavors every morning. After a long night on the playa wouldn't you like a delicious breakfast blintz?",
+        "burnermap_location": {
+            "string": "8:45 & Ceremony",
+            "gps_longitude": -119.21642448959871,
+            "gps_latitude": 40.79230083156668
+        }
     },
     {
         "uid": "a1X0V000003HAlOUAW",
@@ -3435,7 +4781,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Reno",
-        "description": "Camp Peace of Ass supports the vulnerable, sumptuous, cheeks of biking Burners as they travel the vast, course playa environment. The repetitive motion propelling your steed, up and down, fast or slow, hard or soft over and over again demands the protection and shield available only from Camp Peace of Ass; colorful, hand-crafted fleece bicycle seat covers that are guaranteed to soothe and caress your precious assets all day and all night long."
+        "description": "Camp Peace of Ass supports the vulnerable, sumptuous, cheeks of biking Burners as they travel the vast, course playa environment. The repetitive motion propelling your steed, up and down, fast or slow, hard or soft over and over again demands the protection and shield available only from Camp Peace of Ass; colorful, hand-crafted fleece bicycle seat covers that are guaranteed to soothe and caress your precious assets all day and all night long.",
+        "burnermap_location": {
+            "string": "4:45 & Genuflect",
+            "gps_longitude": -119.20866874489691,
+            "gps_latitude": 40.774700272567486
+        }
     },
     {
         "uid": "a1X0V000003HAt8UAG",
@@ -3453,7 +4804,12 @@
         "url": "http://atlantissunsets.com/",
         "contact_email": "info@campatlantis.com",
         "hometown": "San Francisco",
-        "description": "Imagine a future a thousand years from now.  We have lost all history and technology, but discovered strange artifacts and the sun gods.  Let's worship deep house with them\u2026"
+        "description": "Imagine a future a thousand years from now.  We have lost all history and technology, but discovered strange artifacts and the sun gods.  Let's worship deep house with them…",
+        "burnermap_location": {
+            "string": "4:30 & Awe",
+            "gps_longitude": -119.20660000000001,
+            "gps_latitude": 40.77854360050924
+        }
     },
     {
         "uid": "a1X0V000003HAwWUAW",
@@ -3462,7 +4818,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "An community of inspired Artists and Makers sharing the Deaf sensory experience with the entire community!"
+        "description": "An community of inspired Artists and Makers sharing the Deaf sensory experience with the entire community!",
+        "burnermap_location": {
+            "string": "6:45 & Awe",
+            "gps_longitude": -119.2164278470746,
+            "gps_latitude": 40.78351275215403
+        }
     },
     {
         "uid": "a1X0V000003HAuzUAG",
@@ -3471,7 +4832,12 @@
         "url": null,
         "contact_email": null,
         "hometown": null,
-        "description": "Viking themed camp with interactive lounge, bar and interactive art projects and games."
+        "description": "Viking themed camp with interactive lounge, bar and interactive art projects and games.",
+        "burnermap_location": {
+            "string": "7:15 & Fire",
+            "gps_longitude": -119.22145392711097,
+            "gps_latitude": 40.785113070438236
+        }
     },
     {
         "uid": "a1X0V000003HAwgUAG",
@@ -3480,7 +4846,12 @@
         "url": "http://thebikegods.com",
         "contact_email": "info@thebikegods.com",
         "hometown": "Reno, Boulder, Paris",
-        "description": "Bike trouble got ya down? Come visit the Bike Gods, where we practice holistic bike medicine; we treat both the bike and the owner. During our full service repair hours you will never stand in line. Simply take a number, grab a refreshment, chillax, socialize in our lounge, and let our attentive staff wait on you. We'll also have an interactive mural, photo booth, and crazy games to entertain you. When our Gods are off duty or if you can handle simple repairs, our DIY Bike Portals are stocked and available 24x7. Out on the Playa, look for our Lanterne Rouge art car. After midnight, look for our bike-drawn Shangri-Lounge martini bar \"somewhere\" out in deep playa. If you can find it, we offer classy, table-side cocktails in lounge comfort while listening to the sounds of Frank Sinatra and other great analog waves of goodness."
+        "description": "Bike trouble got ya down? Come visit the Bike Gods, where we practice holistic bike medicine; we treat both the bike and the owner. During our full service repair hours you will never stand in line. Simply take a number, grab a refreshment, chillax, socialize in our lounge, and let our attentive staff wait on you. We'll also have an interactive mural, photo booth, and crazy games to entertain you. When our Gods are off duty or if you can handle simple repairs, our DIY Bike Portals are stocked and available 24x7. Out on the Playa, look for our Lanterne Rouge art car. After midnight, look for our bike-drawn Shangri-Lounge martini bar \"somewhere\" out in deep playa. If you can find it, we offer classy, table-side cocktails in lounge comfort while listening to the sounds of Frank Sinatra and other great analog waves of goodness.",
+        "burnermap_location": {
+            "string": "7:45 & Ceremony",
+            "gps_longitude": -119.21887265178056,
+            "gps_latitude": 40.78781815115325
+        }
     },
     {
         "uid": "a1X0V000003HAzpUAG",
@@ -3489,7 +4860,12 @@
         "url": "https://www.facebook.com/thequeendick/",
         "contact_email": null,
         "hometown": "London via SF",
-        "description": "Lost? Tired? Thirsty? Looking for some company? Step out of the desert and into our marvelous time and mind-bending new-age-old-fashioned boozer, the Queen Dick. \nIcy Californian ales, gin and tonics, and tequila shots all day every day. \nEqually delicious DJs providing an oasis of disco, house and techno in a sea of EDM every night. \nWednesday night is Mariah and Friendz - an aerial circus drag show extravaganza straight out of East London. Only loose themed around our diva idol Mariah Carey."
+        "description": "Lost? Tired? Thirsty? Looking for some company? Step out of the desert and into our marvelous time and mind-bending new-age-old-fashioned boozer, the Queen Dick. \nIcy Californian ales, gin and tonics, and tequila shots all day every day. \nEqually delicious DJs providing an oasis of disco, house and techno in a sea of EDM every night. \nWednesday night is Mariah and Friendz - an aerial circus drag show extravaganza straight out of East London. Only loose themed around our diva idol Mariah Carey.",
+        "burnermap_location": {
+            "string": "8:00 & Eulogy",
+            "gps_longitude": -119.2202345069882,
+            "gps_latitude": 40.789365212441034
+        }
     },
     {
         "uid": "a1X0V000003HAz1UAG",
@@ -3498,7 +4874,12 @@
         "url": "http://www.campportaparty.com",
         "contact_email": "info@campportaparty.com",
         "hometown": "Carmel",
-        "description": "The one and only loud remote controlled porta potty on the playa with House music and a wood fired pizza oven serving BRC."
+        "description": "The one and only loud remote controlled porta potty on the playa with House music and a wood fired pizza oven serving BRC.",
+        "burnermap_location": {
+            "string": "8:30 & Awe",
+            "gps_longitude": -119.21581546539866,
+            "gps_latitude": 40.790627833203835
+        }
     },
     {
         "uid": "a1X0V000003HB5nUAG",
@@ -3516,7 +4897,12 @@
         "url": null,
         "contact_email": null,
         "hometown": null,
-        "description": "Lyra Crux art support camp."
+        "description": "Lyra Crux art support camp.",
+        "burnermap_location": {
+            "string": "2:45 & Ceremony",
+            "gps_longitude": -119.19678496654431,
+            "gps_latitude": 40.780890669875745
+        }
     },
     {
         "uid": "a1X0V000003HBE6UAO",
@@ -3525,7 +4911,12 @@
         "url": "http://www.zendoproject.org",
         "contact_email": "zendo@maps.org",
         "hometown": "Santa Cruz",
-        "description": "Feeling out of sorts and looking for a place to recoup? Zendo volunteers are available 24/7 to offer psychological support and education for drug-related concerns. Come by our open-air yurts near 5:30 Rampart/ESD/RHQ stations."
+        "description": "Feeling out of sorts and looking for a place to recoup? Zendo volunteers are available 24/7 to offer psychological support and education for drug-related concerns. Come by our open-air yurts near 5:30 Rampart/ESD/RHQ stations.",
+        "burnermap_location": {
+            "string": "5:15 & Awe",
+            "gps_longitude": -119.21066806995286,
+            "gps_latitude": 40.77915578462821
+        }
     },
     {
         "uid": "a1X0V000003HBEuUAO",
@@ -3534,7 +4925,12 @@
         "url": "http://www.glamcocks.com",
         "contact_email": "muffy@glamcocks.com",
         "hometown": "Seattle",
-        "description": "GlamCocks is a global family that was started at Burning Man and is dedicated to gifting experiences that bring people together to find inspiration, explore their creativity, and express their fabulous, authentic selves. We believe that creativity, authenticity, and love for yourself and others are critical to having meaningful connections that make life fulfilling, with a spirit of GLAM!"
+        "description": "GlamCocks is a global family that was started at Burning Man and is dedicated to gifting experiences that bring people together to find inspiration, explore their creativity, and express their fabulous, authentic selves. We believe that creativity, authenticity, and love for yourself and others are critical to having meaningful connections that make life fulfilling, with a spirit of GLAM!",
+        "burnermap_location": {
+            "string": "7:30 & Dance",
+            "gps_longitude": -119.21984628362463,
+            "gps_latitude": 40.78659924265929
+        }
     },
     {
         "uid": "a1X0V000003HBH5UAO",
@@ -3543,7 +4939,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "Monks of Funk"
+        "description": "Monks of Funk",
+        "burnermap_location": {
+            "string": "7:30 & Awe",
+            "gps_longitude": -119.21724045736653,
+            "gps_latitude": 40.786599511320865
+        }
     },
     {
         "uid": "a1X0V000003HBRoUAO",
@@ -3552,7 +4953,12 @@
         "url": "http://www.hushville.org",
         "contact_email": null,
         "hometown": null,
-        "description": "Hushville is an aural oasis in the magnificent madness that is Black Rock City. We welcome individuals, small groups, and theme camps so long as you abide by our 3 rules - No amplified sound, no generators, and leave no trace."
+        "description": "Hushville is an aural oasis in the magnificent madness that is Black Rock City. We welcome individuals, small groups, and theme camps so long as you abide by our 3 rules - No amplified sound, no generators, and leave no trace.",
+        "burnermap_location": {
+            "string": "5:15 & Eulogy",
+            "gps_longitude": -119.21199640651966,
+            "gps_latitude": 40.776725043858264
+        }
     },
     {
         "uid": "a1X0V000003HBZxUAO",
@@ -3561,7 +4967,12 @@
         "url": null,
         "contact_email": "starfist.brc@gmail.com",
         "hometown": "Black Rock City",
-        "description": "StarFist presents:\r\n\r\nThe Fabulous International Tea Service! (this year open on Saturday!)\r\nMonday-Saturday 2-5pm \u2013 serving a delightful selection of hot and cold infusions from around the world, served by the Stars themselves.\r\n\r\n\r\nAnd of course, home to the infamous \r\nGO POSTAL! \t- independent message delivery service \r\n(at your service!). Now in it's 11th year on the playa!\r\nOur streetfront booth is open for you to send a message across the playa to the recipient of your choice. Our international fleet of mystery is at your service!"
+        "description": "StarFist presents:\r\n\r\nThe Fabulous International Tea Service! (this year open on Saturday!)\r\nMonday-Saturday 2-5pm – serving a delightful selection of hot and cold infusions from around the world, served by the Stars themselves.\r\n\r\n\r\nAnd of course, home to the infamous \r\nGO POSTAL! \t- independent message delivery service \r\n(at your service!). Now in it's 11th year on the playa!\r\nOur streetfront booth is open for you to send a message across the playa to the recipient of your choice. Our international fleet of mystery is at your service!",
+        "burnermap_location": {
+            "string": "4:45 & Genuflect",
+            "gps_longitude": -119.20866874489691,
+            "gps_latitude": 40.774700272567486
+        }
     },
     {
         "uid": "a1X0V000003HBuHUAW",
@@ -3570,7 +4981,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Montreal",
-        "description": "Bonsoir nos amis! Come and sample Qu\u00e9bec's favourite late night snack at Midnight Poutine. Learn the awesome power of french fries, cheese curds and hot gravy. Embrace the joie de vivre of our bilingual Canadian camp. L\u00e2che pas la patate!"
+        "description": "Bonsoir nos amis! Come and sample Québec's favourite late night snack at Midnight Poutine. Learn the awesome power of french fries, cheese curds and hot gravy. Embrace the joie de vivre of our bilingual Canadian camp. Lâche pas la patate!",
+        "burnermap_location": {
+            "string": "6:00 & Genuflect",
+            "gps_longitude": -119.21780770219705,
+            "gps_latitude": 40.77811248566889
+        }
     },
     {
         "uid": "a1X0V000003HBveUAG",
@@ -3587,7 +5003,7 @@
         "name": "Fabulous Disaster",
         "url": null,
         "contact_email": null,
-        "hometown": "San Francisco, Los Angeles, Pittsburgh, Wellington, Malm\u00f6, etc.  We're spread all over.",
+        "hometown": "San Francisco, Los Angeles, Pittsburgh, Wellington, Malmö, etc.  We're spread all over.",
         "description": "Fabulous Disaster"
     },
     {
@@ -3597,7 +5013,12 @@
         "url": null,
         "contact_email": "campaerialscrew@yahoo.com",
         "hometown": "San Francisco",
-        "description": "Come embrace ritual duality and the madness of Dionysus at Camp Arial Screw! Visit our reverent alter and relax at our tea ceremonies, or come taste home-brewed beer, drink wine, and party with us like a Greek God!"
+        "description": "Come embrace ritual duality and the madness of Dionysus at Camp Arial Screw! Visit our reverent alter and relax at our tea ceremonies, or come taste home-brewed beer, drink wine, and party with us like a Greek God!",
+        "burnermap_location": {
+            "string": "7:15 & Eulogy",
+            "gps_longitude": -119.22059283731787,
+            "gps_latitude": 40.78519926850957
+        }
     },
     {
         "uid": "a1X0V000003HBHFUA4",
@@ -3606,7 +5027,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Denver,CO and  Redwood City,CA",
-        "description": "Calico brings Burners together for good times with food, drinks, entertainment and wonderful people."
+        "description": "Calico brings Burners together for good times with food, drinks, entertainment and wonderful people.",
+        "burnermap_location": {
+            "string": "8:45 & Breath",
+            "gps_longitude": -119.21573503334785,
+            "gps_latitude": 40.79190076254333
+        }
     },
     {
         "uid": "a1X0V000003HBvtUAG",
@@ -3615,7 +5041,12 @@
         "url": "https://www.facebook.com/campegotrip",
         "contact_email": null,
         "hometown": "San Diego",
-        "description": "At Ego Trip we want you looking and feeling your best! Get pampered at our beauty bar, capture that stunning playa outfit at our photo booth, dance to our sexy beats and get drunk on your own vanity (and our delicious drinks) until everyone looks as good as you!"
+        "description": "At Ego Trip we want you looking and feeling your best! Get pampered at our beauty bar, capture that stunning playa outfit at our photo booth, dance to our sexy beats and get drunk on your own vanity (and our delicious drinks) until everyone looks as good as you!",
+        "burnermap_location": {
+            "string": "9:00 & Esplanade",
+            "gps_longitude": -119.21299837454737,
+            "gps_latitude": 40.791443985474636
+        }
     },
     {
         "uid": "a1X0V000003HBHjUAO",
@@ -3624,7 +5055,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Mostly Seattle",
-        "description": "Iron Monkeys Art Support Camp for Flight Of Illumination"
+        "description": "Iron Monkeys Art Support Camp for Flight Of Illumination",
+        "burnermap_location": {
+            "string": "5:15 & Dance",
+            "gps_longitude": -119.21166432296884,
+            "gps_latitude": 40.77733272796947
+        }
     },
     {
         "uid": "a1X0V000003HCCkUAO",
@@ -3633,7 +5069,12 @@
         "url": "http://www.campwhiskerbiscuit.com",
         "contact_email": "info@campwhiskerbiscuit.com",
         "hometown": "Denver",
-        "description": "Swing on by Whisker Biscuit for some aerial fun and entertainment!  Love 1/2 naked circus freaks spinning around and flipping upside down?  Feeling rambunctious and want to take a whirl on the tire swing?  Or just thirsty and in need of shade and entertainment?  We've got it all.  Stop by Mon-Fri from 3pm-5pm for the happiest of happy hours to check out all the action the Whisker Biscuit has to offer.  Can't make happy hour? No problem.  Stop by Tues night for our Gratitude party, a communal thank you to all the builders and organizers of BRC.  Or simply stop by anytime, there's sure to be someone awesome here.  You might get snark...you might get a hot dot...the sky's the limit.  But we'd love to see you all!!!"
+        "description": "Swing on by Whisker Biscuit for some aerial fun and entertainment!  Love 1/2 naked circus freaks spinning around and flipping upside down?  Feeling rambunctious and want to take a whirl on the tire swing?  Or just thirsty and in need of shade and entertainment?  We've got it all.  Stop by Mon-Fri from 3pm-5pm for the happiest of happy hours to check out all the action the Whisker Biscuit has to offer.  Can't make happy hour? No problem.  Stop by Tues night for our Gratitude party, a communal thank you to all the builders and organizers of BRC.  Or simply stop by anytime, there's sure to be someone awesome here.  You might get snark...you might get a hot dot...the sky's the limit.  But we'd love to see you all!!!",
+        "burnermap_location": {
+            "string": "3:30 & Dance",
+            "gps_longitude": -119.1999777242319,
+            "gps_latitude": 40.77791409959976
+        }
     },
     {
         "uid": "a1X0V000003HBk2UAG",
@@ -3642,7 +5083,12 @@
         "url": null,
         "contact_email": "firmacamp@schardt.org",
         "hometown": "Oakland",
-        "description": "The people who run Firmament."
+        "description": "The people who run Firmament.",
+        "burnermap_location": {
+            "string": "7:45 & Dance",
+            "gps_longitude": -119.21973390021368,
+            "gps_latitude": 40.787903636408664
+        }
     },
     {
         "uid": "a1X0V000003HBzqUAG",
@@ -3651,7 +5097,12 @@
         "url": "https://www.facebook.com/OoliganAlley/",
         "contact_email": null,
         "hometown": null,
-        "description": "With obscure shenanigans and a taste of the unexpected, the English Ooligans welcome the eccentric with open arms. Our passion is for incredible and diverse dance music - so we're flying over from the UK with one of the best sound systems ever assembled for electronic music and we're building an eye-popping production to match."
+        "description": "With obscure shenanigans and a taste of the unexpected, the English Ooligans welcome the eccentric with open arms. Our passion is for incredible and diverse dance music - so we're flying over from the UK with one of the best sound systems ever assembled for electronic music and we're building an eye-popping production to match.",
+        "burnermap_location": {
+            "string": "2:00 & Breath",
+            "gps_longitude": -119.19548347332233,
+            "gps_latitude": 40.78434410068529
+        }
     },
     {
         "uid": "a1X0V000003HBNwUAO",
@@ -3660,7 +5111,12 @@
         "url": null,
         "contact_email": null,
         "hometown": null,
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "6:15 & Eulogy",
+            "gps_longitude": -119.21779254212619,
+            "gps_latitude": 40.780089383585235
+        }
     },
     {
         "uid": "a1X0V000003HC0yUAG",
@@ -3669,7 +5125,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Irvine",
-        "description": "Come play with our interactive Barbie & Ken boxes.  Surprise and delight your friends  with the surprise that awaits you in our camp.  Play in the boxes, or sit and chill Dress up like Barbie, play in the boxes, sit and chill  -  Come play with us!"
+        "description": "Come play with our interactive Barbie & Ken boxes.  Surprise and delight your friends  with the surprise that awaits you in our camp.  Play in the boxes, or sit and chill Dress up like Barbie, play in the boxes, sit and chill  -  Come play with us!",
+        "burnermap_location": {
+            "string": "6:00 & Eulogy",
+            "gps_longitude": -119.21657960060574,
+            "gps_latitude": 40.77904267712541
+        }
     },
     {
         "uid": "a1X0V000003HBlPUAW",
@@ -3678,7 +5139,12 @@
         "url": null,
         "contact_email": null,
         "hometown": null,
-        "description": "When owls gather, the group is called a \"parliament\" as they have long been considered to be of a wise disposition. We are the caretakers of M\u00daCARO (2017 Black Rock City Art Honoraria), the magnificent giant owl that surveys the playa with a 360\u00ba view...< slow blink>...don't miss when it burns."
+        "description": "When owls gather, the group is called a \"parliament\" as they have long been considered to be of a wise disposition. We are the caretakers of MÚCARO (2017 Black Rock City Art Honoraria), the magnificent giant owl that surveys the playa with a 360º view...< slow blink>...don't miss when it burns.",
+        "burnermap_location": {
+            "string": "8:15 & Breath",
+            "gps_longitude": -119.21723564168582,
+            "gps_latitude": 40.78993011693281
+        }
     },
     {
         "uid": "a1X0V000003HCE7UAO",
@@ -3687,7 +5153,12 @@
         "url": "http://thewandererscamp.com/",
         "contact_email": "bodie992000@yahoo.com",
         "hometown": "Reno",
-        "description": "Our Camp is an oasis on the playa for the Wandering Burner who happens upon our camp and finds HUGS, ice cold Gin/Tonic's, and Hot Dogs,  Come by every afternoon from 4 to 6 for a hot dog or veggie dog, a gin/tonic and enjoy the shade, great company and music."
+        "description": "Our Camp is an oasis on the playa for the Wandering Burner who happens upon our camp and finds HUGS, ice cold Gin/Tonic's, and Hot Dogs,  Come by every afternoon from 4 to 6 for a hot dog or veggie dog, a gin/tonic and enjoy the shade, great company and music.",
+        "burnermap_location": {
+            "string": "3:45 & Ceremony",
+            "gps_longitude": -119.20186776097587,
+            "gps_latitude": 40.77794041280151
+        }
     },
     {
         "uid": "a1X0V000003HBJ6UAO",
@@ -3696,7 +5167,12 @@
         "url": "https://www.facebook.com/HomojitoVille-146746548673607/",
         "contact_email": "adamtsweet@gmail.com",
         "hometown": "Santa Monica",
-        "description": "Amidst the dust, and in from the blind, a caravan begins to arrive. Their color is FULL, and their energy BRIGHT! Thank heavens it's the Homos coming into sight! They bring with them drink, the most refreshing to be found; a Homojito they call it, better than ANY around! Its succulent tartness with freshly pulled mint, you're sure to enjoy each and every sip. Come with us and clown! We'll be all around town! You'll see the fur coming while sweet music abounds!    \r\nAside from outside, come into our lair, where homos and heteros combine with flare! We laugh and we chat, and befriend without flak; we're homos of course and have NOTHING but tact!\r\nSo hurry, come quick, Homojitoville's ready! We'll greet you and sweet you, take hold and be steady. Oh just you wait, it's like nothing you'll find.  An experience like no other, so come stimulate your mind!"
+        "description": "Amidst the dust, and in from the blind, a caravan begins to arrive. Their color is FULL, and their energy BRIGHT! Thank heavens it's the Homos coming into sight! They bring with them drink, the most refreshing to be found; a Homojito they call it, better than ANY around! Its succulent tartness with freshly pulled mint, you're sure to enjoy each and every sip. Come with us and clown! We'll be all around town! You'll see the fur coming while sweet music abounds!    \r\nAside from outside, come into our lair, where homos and heteros combine with flare! We laugh and we chat, and befriend without flak; we're homos of course and have NOTHING but tact!\r\nSo hurry, come quick, Homojitoville's ready! We'll greet you and sweet you, take hold and be steady. Oh just you wait, it's like nothing you'll find.  An experience like no other, so come stimulate your mind!",
+        "burnermap_location": {
+            "string": "8:15 & Dance",
+            "gps_longitude": -119.21884106386673,
+            "gps_latitude": 40.79043278933819
+        }
     },
     {
         "uid": "a1X0V000003HC2uUAG",
@@ -3705,7 +5181,12 @@
         "url": null,
         "contact_email": "thedonnerpartycamp@gmail.com",
         "hometown": "Doner Summit",
-        "description": "Would be nice to meat you at one of our barbecues."
+        "description": "Would be nice to meat you at one of our barbecues.",
+        "burnermap_location": {
+            "string": "8:45 & Breath",
+            "gps_longitude": -119.21573503334785,
+            "gps_latitude": 40.79190076254333
+        }
     },
     {
         "uid": "a1X0V000003HC5FUAW",
@@ -3714,7 +5195,12 @@
         "url": "http://www.dustytaint.com",
         "contact_email": "thedustytaint@gmail.com",
         "hometown": "Fort Lauderdale",
-        "description": "The Dusty Taint Camp is born in the style of a 1940's \"Negro Juke Joint\" featuring music, games and drinking and a welcoming social atmosphere. A nexus where people passing by and coming to the area can join us for a \"Sunset Toast\", as the day ends.. and the sun kisses the mountains to the west,. Socialize, drink and get to know your fellow burners in a multi-cultural and sensual adult space following an amazing day on the playa."
+        "description": "The Dusty Taint Camp is born in the style of a 1940's \"Negro Juke Joint\" featuring music, games and drinking and a welcoming social atmosphere. A nexus where people passing by and coming to the area can join us for a \"Sunset Toast\", as the day ends.. and the sun kisses the mountains to the west,. Socialize, drink and get to know your fellow burners in a multi-cultural and sensual adult space following an amazing day on the playa.",
+        "burnermap_location": {
+            "string": "3:30 & Eulogy",
+            "gps_longitude": -119.1995435371465,
+            "gps_latitude": 40.77734451913604
+        }
     },
     {
         "uid": "a1X0V000003HCEbUAO",
@@ -3723,7 +5209,12 @@
         "url": null,
         "contact_email": "ajinnoho@gmail.com",
         "hometown": "Los Angeles",
-        "description": "Come for the hoop class. Leave with new shades. We'll be giving hoop lessons (and hoops until they're gone). New for 2017 - come get some cool sunglasses!"
+        "description": "Come for the hoop class. Leave with new shades. We'll be giving hoop lessons (and hoops until they're gone). New for 2017 - come get some cool sunglasses!",
+        "burnermap_location": {
+            "string": "4:45 & Genuflect",
+            "gps_longitude": -119.20866874489691,
+            "gps_latitude": 40.774700272567486
+        }
     },
     {
         "uid": "a1X0V000003HBloUAG",
@@ -3732,7 +5223,12 @@
         "url": "https://www.facebook.com/apollo.oneBM/",
         "contact_email": "greg.moonlight@gmail.com",
         "hometown": "Bozeman",
-        "description": "Apollo One has crash landed and we've set up home base. Bringing the Bass Heavier vibes to the 2:00 side of town for some rockin' day parties"
+        "description": "Apollo One has crash landed and we've set up home base. Bringing the Bass Heavier vibes to the 2:00 side of town for some rockin' day parties",
+        "burnermap_location": {
+            "string": "2:00 & Ceremony",
+            "gps_longitude": -119.19464452082848,
+            "gps_latitude": 40.78417380084104
+        }
     },
     {
         "uid": "a1X0V000003HBrSUAW",
@@ -3750,7 +5246,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Cool",
-        "description": "Come find out what fate has in store for you at the playa's kinkiest and drinkiest version of plinko. Climb the steps to our 10' board and drop 3 chips and try your best to come out with a winning combination. Will it be the guantanamo, the whiplash, the naughty baby... Will it hurt, will it sting, or will it go down smooth like a swift slap chased with cayenne infused rum?"
+        "description": "Come find out what fate has in store for you at the playa's kinkiest and drinkiest version of plinko. Climb the steps to our 10' board and drop 3 chips and try your best to come out with a winning combination. Will it be the guantanamo, the whiplash, the naughty baby... Will it hurt, will it sting, or will it go down smooth like a swift slap chased with cayenne infused rum?",
+        "burnermap_location": {
+            "string": "2:30 & Breath",
+            "gps_longitude": -119.19663351022156,
+            "gps_latitude": 40.78224253887308
+        }
     },
     {
         "uid": "a1X0V000003HC2VUAW",
@@ -3759,7 +5260,12 @@
         "url": "http://www.campcyberia.org",
         "contact_email": "campcyberia@gmail.com",
         "hometown": "Los Angeles",
-        "description": "There's a cool breeze blowing on the playa - Cyberia! We are a community of veteran burners bound by caring and sharing, both on and off the playa. Join us each day for meditation, yoga, belly dancing, and tantra classes. Or just hang out in our chillax dome and enjoy an ice-cold Korean coffee."
+        "description": "There's a cool breeze blowing on the playa - Cyberia! We are a community of veteran burners bound by caring and sharing, both on and off the playa. Join us each day for meditation, yoga, belly dancing, and tantra classes. Or just hang out in our chillax dome and enjoy an ice-cold Korean coffee.",
+        "burnermap_location": {
+            "string": "8:45 & Hallowed",
+            "gps_longitude": -119.21986697775772,
+            "gps_latitude": 40.794306194330275
+        }
     },
     {
         "uid": "a1X0V000003HC4HUAW",
@@ -3768,7 +5274,12 @@
         "url": null,
         "contact_email": "thisoldcamp@gmail.com",
         "hometown": "Nevada City",
-        "description": "We are veteran Burners with over 120 years of experience in creating a drama free experience for ourselves and the Burning Man community thru creative problem solving and outreach.  If you are having a problem with your infrastructure or looking for ideas for improvements, come by and let us help."
+        "description": "We are veteran Burners with over 120 years of experience in creating a drama free experience for ourselves and the Burning Man community thru creative problem solving and outreach.  If you are having a problem with your infrastructure or looking for ideas for improvements, come by and let us help.",
+        "burnermap_location": {
+            "string": "5:00 & Ceremony",
+            "gps_longitude": -119.20980314141018,
+            "gps_latitude": 40.777547559648596
+        }
     },
     {
         "uid": "a1X0V000003HCH1UAO",
@@ -3786,7 +5297,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "South Lake Tahoe",
-        "description": "Join us at SoulTea Sanctuary for a cup of tea, authentic connection and creative self-expression. Take solace in our shaded lounge and be nourished from the inside out."
+        "description": "Join us at SoulTea Sanctuary for a cup of tea, authentic connection and creative self-expression. Take solace in our shaded lounge and be nourished from the inside out.",
+        "burnermap_location": {
+            "string": "2:45 & Dance",
+            "gps_longitude": -119.19609621098215,
+            "gps_latitude": 40.7804900260168
+        }
     },
     {
         "uid": "a1X0V000003HCG3UAO",
@@ -3795,7 +5311,12 @@
         "url": "http://www.facebook.com/FriendziedSerenity",
         "contact_email": "friendziedserenity@gmail.com",
         "hometown": "Vancouver/Louisville",
-        "description": "A Chill Lounge in the Suburbs\r\nCome relax in the shade and try one of the special \"Kiwi\" drinks away from the hustle & bustle of the Esplanade"
+        "description": "A Chill Lounge in the Suburbs\r\nCome relax in the shade and try one of the special \"Kiwi\" drinks away from the hustle & bustle of the Esplanade",
+        "burnermap_location": {
+            "string": "7:15 & Hallowed",
+            "gps_longitude": -119.22317725804663,
+            "gps_latitude": 40.78494634491609
+        }
     },
     {
         "uid": "a1X0V000003HC6XUAW",
@@ -3813,7 +5334,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "FORESTVILLE",
-        "description": "SPACE MONKEYS SPANK N SPRAY"
+        "description": "SPACE MONKEYS SPANK N SPRAY",
+        "burnermap_location": {
+            "string": "7:00 & Fire",
+            "gps_longitude": -119.22107231083757,
+            "gps_latitude": 40.783662864854
+        }
     },
     {
         "uid": "a1X0V000003HCNiUAO",
@@ -3831,7 +5357,12 @@
         "url": "https://www.facebook.com/DaDirtyHands",
         "contact_email": null,
         "hometown": "Santa Rosa",
-        "description": "Da Dirty Hands is the hub for Deaf/Hoh/Signers of all levels. Come to us for any info about Accessibility for Deaf/Hoh!"
+        "description": "Da Dirty Hands is the hub for Deaf/Hoh/Signers of all levels. Come to us for any info about Accessibility for Deaf/Hoh!",
+        "burnermap_location": {
+            "string": "5:00 & Esplanade",
+            "gps_longitude": -119.20894156348113,
+            "gps_latitude": 40.77998272774902
+        }
     },
     {
         "uid": "a1X0V000003HBsLUAW",
@@ -3840,7 +5371,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Mexico City",
-        "description": "Maxa Camp is centered on the promotion of unity and recognition of past cultures and ancestral heritage. Our camp will be a representation of the deeply rooted, ancient beliefs of the Mexican and Huichol communities combined with the contemporary views of a community of our own."
+        "description": "Maxa Camp is centered on the promotion of unity and recognition of past cultures and ancestral heritage. Our camp will be a representation of the deeply rooted, ancient beliefs of the Mexican and Huichol communities combined with the contemporary views of a community of our own.",
+        "burnermap_location": {
+            "string": "8:45 & Kundalini",
+            "gps_longitude": -119.22193483607842,
+            "gps_latitude": 40.7955070228151
+        }
     },
     {
         "uid": "a1X0V000003HBSwUAO",
@@ -3849,7 +5385,12 @@
         "url": "https://www.facebook.com/BlackRockBoutique/",
         "contact_email": "esteindler@gmail.com",
         "hometown": "Portland",
-        "description": "We provide funky,and fabulous fashions to the citizens of Black Rock City."
+        "description": "We provide funky,and fabulous fashions to the citizens of Black Rock City.",
+        "burnermap_location": {
+            "string": "4:00 & Center Camp Plaza",
+            "gps_longitude": -119.21383300610515,
+            "gps_latitude": 40.78038461264828
+        }
     },
     {
         "uid": "a1X0V000003HC7BUAW",
@@ -3858,7 +5399,12 @@
         "url": null,
         "contact_email": "hammerscamp@gmail.com",
         "hometown": "SF Bay Area",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "9:45 & Dance",
+            "gps_longitude": -119.21167388272448,
+            "gps_latitude": 40.795864495461
+        }
     },
     {
         "uid": "a1X0V000003HCGcUAO",
@@ -3867,7 +5413,12 @@
         "url": "https://www.facebook.com/Plunderground-903610226369319/",
         "contact_email": "playaplunder@gmail.com",
         "hometown": "Southern Oregon and Eastern California",
-        "description": "We are Burning Man theme camp offering a home to interact with fire, found objects and friends at Black Rock City."
+        "description": "We are Burning Man theme camp offering a home to interact with fire, found objects and friends at Black Rock City.",
+        "burnermap_location": {
+            "string": "4:30 & Portal",
+            "gps_longitude": -119.19913558797893,
+            "gps_latitude": 40.78116562379517
+        }
     },
     {
         "uid": "a1X0V000003HC7VUAW",
@@ -3876,7 +5427,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Winnemucca",
-        "description": "BLM Interpretive Camp containing informational displays about the Black Rock National Conservation Area and surrounding area.  Activities will focus on appreciation of natural environment and conservation principles."
+        "description": "BLM Interpretive Camp containing informational displays about the Black Rock National Conservation Area and surrounding area.  Activities will focus on appreciation of natural environment and conservation principles.",
+        "burnermap_location": {
+            "string": "5:15 & Esplanade",
+            "gps_longitude": -119.21005924691984,
+            "gps_latitude": 40.78026987800261
+        }
     },
     {
         "uid": "a1X0V000003HBuCUAW",
@@ -3903,7 +5459,12 @@
         "url": "https://www.facebook.com/groups/1474167569276927/",
         "contact_email": "mandyzmail@gmail.com",
         "hometown": "Reno",
-        "description": "RISA is a resort planet, renowned for its breezes, clothing optional beaches and friendly atmosphere. In the afternoon you can enjoy one of our Snow Cones and lounge in an enclosed cooled area. In the evening come take a ride on one of our Mutant vehicles."
+        "description": "RISA is a resort planet, renowned for its breezes, clothing optional beaches and friendly atmosphere. In the afternoon you can enjoy one of our Snow Cones and lounge in an enclosed cooled area. In the evening come take a ride on one of our Mutant vehicles.",
+        "burnermap_location": {
+            "string": "2:45 & Inspirit",
+            "gps_longitude": -119.19264715162441,
+            "gps_latitude": 40.77849184441712
+        }
     },
     {
         "uid": "a1X0V000003HCOHUA4",
@@ -3912,7 +5473,12 @@
         "url": "https://www.facebook.com/groups/Astrocats.2014/",
         "contact_email": "astrocatscamp@gmail.com",
         "hometown": "San Francisco",
-        "description": "We invite all burners to chill at the Astro Lounge with special drinks during the day, and hot or cold sake at the Dragon Lounge at night. You can enjoy acrobatic performance and workshops at scheduled times, and a place to practice and spin fire with us. If you want to join our kitties for morning yoga, bring your mat to stretch and pose with us. You can chill on our chairs and watch people pass by while sipping our special drinks. Or you can challenge yourself to manipulate the LED Matrix, walk the plank, or play the game of Simon Says while enjoying your sake."
+        "description": "We invite all burners to chill at the Astro Lounge with special drinks during the day, and hot or cold sake at the Dragon Lounge at night. You can enjoy acrobatic performance and workshops at scheduled times, and a place to practice and spin fire with us. If you want to join our kitties for morning yoga, bring your mat to stretch and pose with us. You can chill on our chairs and watch people pass by while sipping our special drinks. Or you can challenge yourself to manipulate the LED Matrix, walk the plank, or play the game of Simon Says while enjoying your sake.",
+        "burnermap_location": {
+            "string": "7:45 & Eulogy",
+            "gps_longitude": -119.22059514992095,
+            "gps_latitude": 40.787989121790545
+        }
     },
     {
         "uid": "a1X0V000003HC8dUAG",
@@ -3930,7 +5496,12 @@
         "url": "http://www.burnanon.org",
         "contact_email": "avtrustedservants@googlegroups.com",
         "hometown": "Boulder Creek",
-        "description": "Anonymous Village is a safe place to camp for clean and sober participants. We have various 12-step meetings all day long, starting pre-event.  Please visit burnanon.org for details and registration."
+        "description": "Anonymous Village is a safe place to camp for clean and sober participants. We have various 12-step meetings all day long, starting pre-event.  Please visit burnanon.org for details and registration.",
+        "burnermap_location": {
+            "string": "5:45 & Genuflect",
+            "gps_longitude": -119.21624876970895,
+            "gps_latitude": 40.77707746108055
+        }
     },
     {
         "uid": "a1X0V000003HCRaUAO",
@@ -3939,7 +5510,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Los Angeles",
-        "description": "Orphan Asylum Camp\nThe Great Experiment Continues.\nOver 50 Orphan Burners from all over BRC and the World gather together to prove again the Radical Inclusion works."
+        "description": "Orphan Asylum Camp\nThe Great Experiment Continues.\nOver 50 Orphan Burners from all over BRC and the World gather together to prove again the Radical Inclusion works.",
+        "burnermap_location": {
+            "string": "6:45 & Genuflect",
+            "gps_longitude": -119.22124442703583,
+            "gps_latitude": 40.78200595809783
+        }
     },
     {
         "uid": "a1X0V000003HCR1UAO",
@@ -3948,7 +5524,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Diaspora.",
-        "description": "Ego tripped up and dusty? Pass by Flattery Camp for your daily dose of self-worth, and let our fully-trained id-mechanics straighten out your psyche, put a swing in your step, and a swagger in your soul... you beautiful creature, you!"
+        "description": "Ego tripped up and dusty? Pass by Flattery Camp for your daily dose of self-worth, and let our fully-trained id-mechanics straighten out your psyche, put a swing in your step, and a swagger in your soul... you beautiful creature, you!",
+        "burnermap_location": {
+            "string": "3:15 & Awe",
+            "gps_longitude": -119.20012723962701,
+            "gps_latitude": 40.78020596235774
+        }
     },
     {
         "uid": "a1X0V000003HCRQUA4",
@@ -3966,7 +5547,12 @@
         "url": "http://www.hexcollective.org",
         "contact_email": "hex6collective@gmail.com",
         "hometown": "Planet Earth",
-        "description": "HEXcollective is a community comprised of creative and talented global entrepreneurs, leaders, authors, artists, consciousness engineers and life hackers. We are a global camp. We are a tribe. A family - impacting humanity together."
+        "description": "HEXcollective is a community comprised of creative and talented global entrepreneurs, leaders, authors, artists, consciousness engineers and life hackers. We are a global camp. We are a tribe. A family - impacting humanity together.",
+        "burnermap_location": {
+            "string": "3:15 & Genuflect",
+            "gps_longitude": -119.19695123029106,
+            "gps_latitude": 40.77707746108055
+        }
     },
     {
         "uid": "a1X0V000003HCRkUAO",
@@ -3975,7 +5561,12 @@
         "url": null,
         "contact_email": "goodsell@renovasolar.com",
         "hometown": "Palm Springs",
-        "description": "Create a talisman for your own ritual at Talisman at the Oasis Tuesday, Wednesday or Thursday from 2-5. Metal, leather, wood, beads and more with tools and adornments as well as a celebratory cocktail all provided"
+        "description": "Create a talisman for your own ritual at Talisman at the Oasis Tuesday, Wednesday or Thursday from 2-5. Metal, leather, wood, beads and more with tools and adornments as well as a celebratory cocktail all provided",
+        "burnermap_location": {
+            "string": "8:15 & Genuflect",
+            "gps_longitude": -119.22124645290613,
+            "gps_latitude": 40.7911921903411
+        }
     },
     {
         "uid": "a1X0V000003HCUtUAO",
@@ -3984,7 +5575,12 @@
         "url": "http://goldiesponies.com/",
         "contact_email": "goldie@goldiesponies.com",
         "hometown": "Reno",
-        "description": "Taxi Camp: Connecting Pedicab and Taxi drivers with alternatively-abled members of our community"
+        "description": "Taxi Camp: Connecting Pedicab and Taxi drivers with alternatively-abled members of our community",
+        "burnermap_location": {
+            "string": "9:15 & Breath",
+            "gps_longitude": -119.21361127583118,
+            "gps_latitude": 40.79351052505032
+        }
     },
     {
         "uid": "a1X0V000003HCV8UAO",
@@ -3993,7 +5589,12 @@
         "url": "http://burntown.ajpn.com/",
         "contact_email": "rojoboy@hotmail.com",
         "hometown": "Auburn",
-        "description": "Burntown Snuff Guild offers fine nasal snuffs and a trip across our Rope Bridge of Death.... We have a Corner Store that is not to be missed!  All day, some late nights...come find out what tobacco and other non-tobacco snuff can do for your burn!"
+        "description": "Burntown Snuff Guild offers fine nasal snuffs and a trip across our Rope Bridge of Death.... We have a Corner Store that is not to be missed!  All day, some late nights...come find out what tobacco and other non-tobacco snuff can do for your burn!",
+        "burnermap_location": {
+            "string": "7:30 & Eulogy",
+            "gps_longitude": -119.22071489237238,
+            "gps_latitude": 40.786599140079424
+        }
     },
     {
         "uid": "a1X0V000003HCWVUA4",
@@ -4002,7 +5603,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Oakland",
-        "description": "There's aLittle something for everyone!"
+        "description": "There's aLittle something for everyone!",
+        "burnermap_location": {
+            "string": "8:15 & Eulogy",
+            "gps_longitude": -119.21964377911931,
+            "gps_latitude": 40.79068412684408
+        }
     },
     {
         "uid": "a1X0V000003HCetUAG",
@@ -4011,7 +5617,12 @@
         "url": "https://www.facebook.com/letsgetslushie/",
         "contact_email": "kj.glynn@gmail.com",
         "hometown": "San Francisco",
-        "description": "Cool refreshing boozy slushies, shaded dance floor and lounge, DJ's from across the globe and confessional.  Let it all out at Slushious!\r\n\r\nhttps://www.facebook.com/letsgetslushie/"
+        "description": "Cool refreshing boozy slushies, shaded dance floor and lounge, DJ's from across the globe and confessional.  Let it all out at Slushious!\r\n\r\nhttps://www.facebook.com/letsgetslushie/",
+        "burnermap_location": {
+            "string": "9:15 & Awe",
+            "gps_longitude": -119.21308211281135,
+            "gps_latitude": 40.792988966008515
+        }
     },
     {
         "uid": "a1X0V000003HCcJUAW",
@@ -4029,7 +5640,12 @@
         "url": null,
         "contact_email": "toddasid@aol.com",
         "hometown": "Reno",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "4:45 & Hallowed",
+            "gps_longitude": -119.20878207936424,
+            "gps_latitude": 40.77404823164073
+        }
     },
     {
         "uid": "a1X0V000003HCg6UAG",
@@ -4038,7 +5654,12 @@
         "url": null,
         "contact_email": "andrew@artechreno.org",
         "hometown": "Reno Nevada",
-        "description": "Artech is an Art Support Camp for art projects, artist, project crews, and art cars affiliated with and/or created at Artech of Reno; We, however, welcome and will gladly provide assistance and support to non-affiliated projects and crews. Just ask we may be able to help or we may know someone that can."
+        "description": "Artech is an Art Support Camp for art projects, artist, project crews, and art cars affiliated with and/or created at Artech of Reno; We, however, welcome and will gladly provide assistance and support to non-affiliated projects and crews. Just ask we may be able to help or we may know someone that can.",
+        "burnermap_location": {
+            "string": "6:45 & Breath",
+            "gps_longitude": -119.21723010428832,
+            "gps_latitude": 40.783260736953125
+        }
     },
     {
         "uid": "a1X0V000003HChJUAW",
@@ -4047,7 +5668,12 @@
         "url": "http://www.facebook.com/votedbestcamp",
         "contact_email": "votedbestcamp@gmail.com",
         "hometown": "Reno",
-        "description": "If one were to avoid the unfortunate label of \"Fucking Idiot\", one would be wise to call upon the Voted Best Camp. Shuffle your pathetic rump up to the bar and allow one of our oftentimes friendly barkeeps to satisfy your deepest of alcoholic urges. Or perhaps one wishes to try one's luck on our breath-taking halfpipe. If spectating is more your style, we want you to feel at liberty to marvel slack-jawed at the increasingly ageing musicians playing increasingly ageing ACTUAL INSTRUMENTS. Or just get drunk and spray paint a dick on the wall. Hooray, you're an artist. Now get the fuck out."
+        "description": "If one were to avoid the unfortunate label of \"Fucking Idiot\", one would be wise to call upon the Voted Best Camp. Shuffle your pathetic rump up to the bar and allow one of our oftentimes friendly barkeeps to satisfy your deepest of alcoholic urges. Or perhaps one wishes to try one's luck on our breath-taking halfpipe. If spectating is more your style, we want you to feel at liberty to marvel slack-jawed at the increasingly ageing musicians playing increasingly ageing ACTUAL INSTRUMENTS. Or just get drunk and spray paint a dick on the wall. Hooray, you're an artist. Now get the fuck out.",
+        "burnermap_location": {
+            "string": "2:00 & Lustrate",
+            "gps_longitude": -119.18709414200984,
+            "gps_latitude": 40.782640828841856
+        }
     },
     {
         "uid": "a1X0V000003HChTUAW",
@@ -4056,7 +5682,12 @@
         "url": "http://www.debocceri.com",
         "contact_email": "michael.cibula@gmail.com",
         "hometown": "San Francisco, Los Angeles, Vancouver",
-        "description": "We are Planned Playahood! We offer pregnancy testing, fornication counseling, bicycle repair, LED Art and other \"second aid\" services to UN-FUCK YOUR BURN. Let's face it, sometimes your Burn gets fucked and we are here to un-fuck it for you."
+        "description": "We are Planned Playahood! We offer pregnancy testing, fornication counseling, bicycle repair, LED Art and other \"second aid\" services to UN-FUCK YOUR BURN. Let's face it, sometimes your Burn gets fucked and we are here to un-fuck it for you.",
+        "burnermap_location": {
+            "string": "7:00 & Awe",
+            "gps_longitude": -119.21687756988142,
+            "gps_latitude": 40.78451439445373
+        }
     },
     {
         "uid": "a1X0V000003HCj5UAG",
@@ -4065,7 +5696,12 @@
         "url": null,
         "contact_email": null,
         "hometown": null,
-        "description": "Ranger Outpost Berlin"
+        "description": "Ranger Outpost Berlin",
+        "burnermap_location": {
+            "string": "3:00 & Ceremony",
+            "gps_longitude": -119.19784853538061,
+            "gps_latitude": 40.77997285556234
+        }
     },
     {
         "uid": "a1X0V000003HCiRUAW",
@@ -4074,7 +5710,12 @@
         "url": "http://kampsuckiefuckaye.com",
         "contact_email": null,
         "hometown": "Portland",
-        "description": "kampsuckiefuckaye.com"
+        "description": "kampsuckiefuckaye.com",
+        "burnermap_location": {
+            "string": "4:30 & Portal",
+            "gps_longitude": -119.19913558797893,
+            "gps_latitude": 40.78116562379517
+        }
     },
     {
         "uid": "a1X0V000003HCk3UAG",
@@ -4083,7 +5724,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "Yes: adv - Used to express affirmation, agreement, positive affirmation, or consent. Please: adv - Give pleasure to or to be pleasing to; give satisfaction. Yes Please is the answer to every question. Come chill in our calm and revitalizing sanctuary, dance with new friends and experience our inclusive oasis of sex-positivity, queer empowerment and love. Learn to focus on whatever is positive in your life and your surroundings. Be sure to visit our infamous Non-Monogamy Advice Booth, and experience the Apparent Horizon art installation."
+        "description": "Yes: adv - Used to express affirmation, agreement, positive affirmation, or consent. Please: adv - Give pleasure to or to be pleasing to; give satisfaction. Yes Please is the answer to every question. Come chill in our calm and revitalizing sanctuary, dance with new friends and experience our inclusive oasis of sex-positivity, queer empowerment and love. Learn to focus on whatever is positive in your life and your surroundings. Be sure to visit our infamous Non-Monogamy Advice Booth, and experience the Apparent Horizon art installation.",
+        "burnermap_location": {
+            "string": "8:00 & Eulogy",
+            "gps_longitude": -119.2202345069882,
+            "gps_latitude": 40.789365212441034
+        }
     },
     {
         "uid": "a1X0V000003HCkDUAW",
@@ -4092,7 +5738,12 @@
         "url": null,
         "contact_email": "retrorider2992-nosefish@yahoo.com",
         "hometown": "Silicon Valley",
-        "description": "Come to Caff\u00e8 Ritualistico for a delicious cup of freshly brewed coffee and participate in the changing daily morning rituals.  Afternoons we feature Bicycle and Electronic (EL Wire and LED) Repair with hands-on teaching.  Evenings enjoy the MEZ interactive video screen and dance the night away."
+        "description": "Come to Caffè Ritualistico for a delicious cup of freshly brewed coffee and participate in the changing daily morning rituals.  Afternoons we feature Bicycle and Electronic (EL Wire and LED) Repair with hands-on teaching.  Evenings enjoy the MEZ interactive video screen and dance the night away.",
+        "burnermap_location": {
+            "string": "6:15 & Dance",
+            "gps_longitude": -119.21710378901787,
+            "gps_latitude": 40.78049002601679
+        }
     },
     {
         "uid": "a1X0V000003HClGUAW",
@@ -4101,7 +5752,7 @@
         "url": "https://www.inappropirates.com",
         "contact_email": "info@inappropirates.com",
         "hometown": "Santa Cruz",
-        "description": "The inappropirates are\u2026 1) Inappropriate. 2) Pirates.\n\nOh. And we serve coffee every morning and would love to have you visit!"
+        "description": "The inappropirates are… 1) Inappropriate. 2) Pirates.\n\nOh. And we serve coffee every morning and would love to have you visit!"
     },
     {
         "uid": "a1X0V000003HCkNUAW",
@@ -4110,7 +5761,12 @@
         "url": "http://rangers.burningman.org",
         "contact_email": null,
         "hometown": "Black Rock City",
-        "description": "Ranger Outpost Tokyo"
+        "description": "Ranger Outpost Tokyo",
+        "burnermap_location": {
+            "string": "9:00 & Ceremony",
+            "gps_longitude": -119.21535321136896,
+            "gps_latitude": 40.7932264831638
+        }
     },
     {
         "uid": "a1X0V000003HClLUAW",
@@ -4119,7 +5775,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Sacramento, CA",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "8:15 & Eulogy",
+            "gps_longitude": -119.21964377911931,
+            "gps_latitude": 40.79068412684408
+        }
     },
     {
         "uid": "a1X0V000003HClaUAG",
@@ -4128,7 +5789,12 @@
         "url": "https://pussyavalanche.net",
         "contact_email": null,
         "hometown": "Houston",
-        "description": "We bring you together, but not here - this is a big damn place, get out there and explore it.   We've scattered game hotspots and anonymous dance opportunities - leave your comfort zone and then visit us at camp for loot and hints. https://pussyavalanche.net/"
+        "description": "We bring you together, but not here - this is a big damn place, get out there and explore it.   We've scattered game hotspots and anonymous dance opportunities - leave your comfort zone and then visit us at camp for loot and hints. https://pussyavalanche.net/",
+        "burnermap_location": {
+            "string": "4:45 & Eulogy",
+            "gps_longitude": -119.20844038603765,
+            "gps_latitude": 40.77600421451153
+        }
     },
     {
         "uid": "a1X0V000003HClQUAW",
@@ -4137,7 +5803,12 @@
         "url": null,
         "contact_email": "burningmanstudios@gmail.com",
         "hometown": "LA/San Fran/Florida/South Africa",
-        "description": "Burning Man Studios is a diverse group of crazies from across the country and beyond that love movies, self expression, and poking fun at ourselves. Come by for a drink, some shade, or just to tell us a story."
+        "description": "Burning Man Studios is a diverse group of crazies from across the country and beyond that love movies, self expression, and poking fun at ourselves. Come by for a drink, some shade, or just to tell us a story.",
+        "burnermap_location": {
+            "string": "2:45 & Fire",
+            "gps_longitude": -119.19471870721922,
+            "gps_latitude": 40.779688742580994
+        }
     },
     {
         "uid": "a1X0V000003HCmJUAW",
@@ -4146,7 +5817,12 @@
         "url": "https://www.facebook.com/CampLTC/",
         "contact_email": "camp.licensetochill@gmail.com",
         "hometown": "Seattle",
-        "description": "Center for people who can't chill good and want to chill better."
+        "description": "Center for people who can't chill good and want to chill better.",
+        "burnermap_location": {
+            "string": "5:00 & Ceremony",
+            "gps_longitude": -119.20980314141018,
+            "gps_latitude": 40.777547559648596
+        }
     },
     {
         "uid": "a1X0V000003HClfUAG",
@@ -4155,7 +5831,10 @@
         "url": "http://rangers.burningman.org",
         "contact_email": null,
         "hometown": "Black Rock City",
-        "description": "Ranger Headquarters"
+        "description": "Ranger Headquarters",
+        "burnermap_location": {
+            "string": "5:45 & Esplanade"
+        }
     },
     {
         "uid": "a1X0V000003HCmOUAW",
@@ -4173,7 +5852,12 @@
         "url": "http://www.jankytown.org",
         "contact_email": "info@jankytown.org",
         "hometown": "Reno",
-        "description": "Live music and circus arts, Jankytown and it's member camps Cirque du Clich\u00e9, Fou Fou Ha, and Ministry of Flow create mind-melting performance art, whether at home in the dome or on the flaming 35' mobile stage: the Jankasaurus."
+        "description": "Live music and circus arts, Jankytown and it's member camps Cirque du Cliché, Fou Fou Ha, and Ministry of Flow create mind-melting performance art, whether at home in the dome or on the flaming 35' mobile stage: the Jankasaurus.",
+        "burnermap_location": {
+            "string": "6:15 & Eulogy",
+            "gps_longitude": -119.21779254212619,
+            "gps_latitude": 40.780089383585235
+        }
     },
     {
         "uid": "a1X0V000003HCrTUAW",
@@ -4182,7 +5866,12 @@
         "url": null,
         "contact_email": "info@campcharlie.org",
         "hometown": "Los Angeles",
-        "description": "The Sunset Trip is a mashup of 4  Los Angeles based camps with a concurrent theme of getting together and throwing epic parties. We are all vastly different in what we provide to the world, yet share the same values and deep rooted awesomeness that bring us together year after year. We bring the Dirty, Sparkle and Bad with No Pants!"
+        "description": "The Sunset Trip is a mashup of 4  Los Angeles based camps with a concurrent theme of getting together and throwing epic parties. We are all vastly different in what we provide to the world, yet share the same values and deep rooted awesomeness that bring us together year after year. We bring the Dirty, Sparkle and Bad with No Pants!",
+        "burnermap_location": {
+            "string": "8:30 & Eulogy",
+            "gps_longitude": -119.21882483908391,
+            "gps_latitude": 40.791942885258905
+        }
     },
     {
         "uid": "a1X0V000003HCriUAG",
@@ -4191,7 +5880,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco, CA",
-        "description": "Labracadabratory (formerly Geisha House) brings you the Dusty Gaijin Ramen for the third year!"
+        "description": "Labracadabratory (formerly Geisha House) brings you the Dusty Gaijin Ramen for the third year!",
+        "burnermap_location": {
+            "string": "9:15 & Eulogy",
+            "gps_longitude": -119.21519877481357,
+            "gps_latitude": 40.795075211956
+        }
     },
     {
         "uid": "a1X0V000003HCqLUAW",
@@ -4200,7 +5894,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Las Vegas",
-        "description": "The International Business Cafe is an extremely serious place to handle your pressing international business over a continental breakfast taco and glass of iced coffee from 1-3pm Tuesday through Friday - don't forget your briefcase and any important documents. Please enjoy our photobooth and look out for Angry Dani's Taxi Service cruising the Esplanade."
+        "description": "The International Business Cafe is an extremely serious place to handle your pressing international business over a continental breakfast taco and glass of iced coffee from 1-3pm Tuesday through Friday - don't forget your briefcase and any important documents. Please enjoy our photobooth and look out for Angry Dani's Taxi Service cruising the Esplanade.",
+        "burnermap_location": {
+            "string": "4:15 & Dance",
+            "gps_longitude": -119.20487286839162,
+            "gps_latitude": 40.7766562622959
+        }
     },
     {
         "uid": "a1X0V000003HCrEUAW",
@@ -4209,7 +5908,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Washington",
-        "description": "Born from confusion and tempered by mild incompetence. Home of the world famous \"Now we dance! Now we fight!\" Dance/Fight party. Absolutely no eggs. All hail String."
+        "description": "Born from confusion and tempered by mild incompetence. Home of the world famous \"Now we dance! Now we fight!\" Dance/Fight party. Absolutely no eggs. All hail String.",
+        "burnermap_location": {
+            "string": "9:45 & Eulogy",
+            "gps_longitude": -119.21200660038281,
+            "gps_latitude": 40.79647201073141
+        }
     },
     {
         "uid": "a1X0V000003HCsRUAW",
@@ -4218,7 +5922,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Minneapolis and Seattle",
-        "description": "Hippocampus serves you hot and fresh, sexy and helpful.  We invite you to play with us at our moving caf\u00e9, which appears by magic along with the sun, and at our mid-day communion through dance at Hippocampus Dance Church."
+        "description": "Hippocampus serves you hot and fresh, sexy and helpful.  We invite you to play with us at our moving café, which appears by magic along with the sun, and at our mid-day communion through dance at Hippocampus Dance Church.",
+        "burnermap_location": {
+            "string": "5:00 & Dance",
+            "gps_longitude": -119.21002789048147,
+            "gps_latitude": 40.776912297351224
+        }
     },
     {
         "uid": "a1X0V000003HCrnUAG",
@@ -4236,7 +5945,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Atlanta",
-        "description": "Chomp and Stomp - a team of makers and shakers. Find us in camp for decadent leisure, merry making and bloody marys."
+        "description": "Chomp and Stomp - a team of makers and shakers. Find us in camp for decadent leisure, merry making and bloody marys.",
+        "burnermap_location": {
+            "string": "4:45 & Ceremony",
+            "gps_longitude": -119.2082138771665,
+            "gps_latitude": 40.77730831015283
+        }
     },
     {
         "uid": "a1X0V000003HCsgUAG",
@@ -4245,7 +5959,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "Friendgasm is a camp devoted to friendship. Come get fwedded (friend wedded) to that new best friend you met on that art car and enjoy a Friendgasm in our bar!"
+        "description": "Friendgasm is a camp devoted to friendship. Come get fwedded (friend wedded) to that new best friend you met on that art car and enjoy a Friendgasm in our bar!",
+        "burnermap_location": {
+            "string": "5:45 & Inspirit",
+            "gps_longitude": -119.21730600093711,
+            "gps_latitude": 40.77603384631638
+        }
     },
     {
         "uid": "a1X0V000003HCvaUAG",
@@ -4254,7 +5973,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Denver",
-        "description": "Come on down to the Swig N Swing for swig and not the swap."
+        "description": "Come on down to the Swig N Swing for swig and not the swap.",
+        "burnermap_location": {
+            "string": "9:30 & Ceremony",
+            "gps_longitude": -119.21278959396655,
+            "gps_latitude": 40.79471599092689
+        }
     },
     {
         "uid": "a1X0V000003HCvBUAW",
@@ -4263,7 +5987,12 @@
         "url": null,
         "contact_email": "camp@noregretzkys.org",
         "hometown": "San Francisco",
-        "description": "Come \"check\" us out!! No ReGretzky's is a Canadian-American camp hosting hockey themed activities! Come play with our balls and sticks\u2026 we will even teach you how to use them! Not into slipping one past our goalie? Get in the penalty box photo booth or enjoy our shaded area with our sexy referees! Drop your gloves and come and get it!"
+        "description": "Come \"check\" us out!! No ReGretzky's is a Canadian-American camp hosting hockey themed activities! Come play with our balls and sticks… we will even teach you how to use them! Not into slipping one past our goalie? Get in the penalty box photo booth or enjoy our shaded area with our sexy referees! Drop your gloves and come and get it!",
+        "burnermap_location": {
+            "string": "9:15 & Eulogy",
+            "gps_longitude": -119.21519877481357,
+            "gps_latitude": 40.795075211956
+        }
     },
     {
         "uid": "a1X0V000003HCvVUAW",
@@ -4272,7 +6001,12 @@
         "url": "https://www.patsyshangout.org",
         "contact_email": "patsyshangout@gmail.com",
         "hometown": "Sacramento",
-        "description": "Patsy's Hangout is a fabulous lounge in the gayborhood to connect with old friends and make new ones while enjoying a refreshing Playa Bolli cocktail. Enjoy high-energy tunes, good company and a comfortable space. Join us at the bar, dance, chill or just hang out. Participate in our featured events and be sure to show off your best playa couture."
+        "description": "Patsy's Hangout is a fabulous lounge in the gayborhood to connect with old friends and make new ones while enjoying a refreshing Playa Bolli cocktail. Enjoy high-energy tunes, good company and a comfortable space. Join us at the bar, dance, chill or just hang out. Participate in our featured events and be sure to show off your best playa couture.",
+        "burnermap_location": {
+            "string": "7:45 & Fire",
+            "gps_longitude": -119.22145640090253,
+            "gps_latitude": 40.78807460729891
+        }
     },
     {
         "uid": "a1X0V000003HDIUUA4",
@@ -4281,7 +6015,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Denver",
-        "description": "Greetings dirty desert dwellers! We are Astral Headwash and we are back for our 20th anniversary on the playa! We will wash your beautiful dust filled head for you again this year. That's right, clean, fresh water warmed in the desert sun with wonderful smelling shampoo and a bit of leave-in condition to send you on your way! Bring your happy selves to us for first come - first served amazing pampering; Monday \u2013 Friday noon until 4 pm! Participation is required!"
+        "description": "Greetings dirty desert dwellers! We are Astral Headwash and we are back for our 20th anniversary on the playa! We will wash your beautiful dust filled head for you again this year. That's right, clean, fresh water warmed in the desert sun with wonderful smelling shampoo and a bit of leave-in condition to send you on your way! Bring your happy selves to us for first come - first served amazing pampering; Monday – Friday noon until 4 pm! Participation is required!",
+        "burnermap_location": {
+            "string": "4:45 & Eulogy",
+            "gps_longitude": -119.20844038603765,
+            "gps_latitude": 40.77600421451153
+        }
     },
     {
         "uid": "a1X0V000003HDb7UAG",
@@ -4290,7 +6029,12 @@
         "url": "https://www.facebook.com/White-Trash-Superstars-174384205941598/",
         "contact_email": "white_trash_superstars@yahoo.com",
         "hometown": "Reno for most the core people, Hawaii, New York, California, Australia",
-        "description": "We are your BRC Neighborhood Dive Bar. Join us for drinks, bring your own cup, we have the supplies to pimp it out if you want!  You might even get some of our awesome White Trash Swag, or make your own with a 12\"x14\" item.  We have shade, drinks, games, music and a whole lot more.  Besides drinks, we serve anything from love to snarky attitude, so you never know what you are going to get!"
+        "description": "We are your BRC Neighborhood Dive Bar. Join us for drinks, bring your own cup, we have the supplies to pimp it out if you want!  You might even get some of our awesome White Trash Swag, or make your own with a 12\"x14\" item.  We have shade, drinks, games, music and a whole lot more.  Besides drinks, we serve anything from love to snarky attitude, so you never know what you are going to get!",
+        "burnermap_location": {
+            "string": "2:30 & Breath",
+            "gps_longitude": -119.19663351022156,
+            "gps_latitude": 40.78224253887308
+        }
     },
     {
         "uid": "a1X0V000003HDEIUA4",
@@ -4299,7 +6043,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Truckee",
-        "description": "Come experience Burning Man on many levels at Camp Touch This by climbing onto our 3- Story Cuddle Puddle and Lounge.  If you are afraid of heights, come dance it out with us at one of our afternoon frozen drink parties."
+        "description": "Come experience Burning Man on many levels at Camp Touch This by climbing onto our 3- Story Cuddle Puddle and Lounge.  If you are afraid of heights, come dance it out with us at one of our afternoon frozen drink parties.",
+        "burnermap_location": {
+            "string": "9:45 & Dance",
+            "gps_longitude": -119.21167388272448,
+            "gps_latitude": 40.795864495461
+        }
     },
     {
         "uid": "a1X0V000003HCxlUAG",
@@ -4308,7 +6057,12 @@
         "url": null,
         "contact_email": "semper_paratus@rocketmail.com",
         "hometown": "Sacramento",
-        "description": "RealDilla. A fun loving group of burners from Sacramento geared up to serve you Quesadillas and libations and dance, party and play with you!"
+        "description": "RealDilla. A fun loving group of burners from Sacramento geared up to serve you Quesadillas and libations and dance, party and play with you!",
+        "burnermap_location": {
+            "string": "8:00 & Breath",
+            "gps_longitude": -119.21771728177454,
+            "gps_latitude": 40.78885483247069
+        }
     },
     {
         "uid": "a1X0V000003HCz3UAG",
@@ -4335,7 +6089,12 @@
         "url": null,
         "contact_email": "lazybeargroup@msn.com",
         "hometown": "Genoa",
-        "description": "Drop by our dusty living room for camaraderie and to send art postcards home from the edge. We can't wait to meet you."
+        "description": "Drop by our dusty living room for camaraderie and to send art postcards home from the edge. We can't wait to meet you.",
+        "burnermap_location": {
+            "string": "2:45 & Juju",
+            "gps_longitude": -119.19195821033782,
+            "gps_latitude": 40.778091398132474
+        }
     },
     {
         "uid": "a1X0V000003HDJmUAO",
@@ -4353,7 +6112,12 @@
         "url": "https://www.facebook.com/BlackRockCenterforUnlearning",
         "contact_email": "whatsunspoken@gmail.com",
         "hometown": "Reno",
-        "description": "A neighborhood favorite, BRCU is 3,000 square foot, shaded, 24-hour bar, serving a different craft cocktail each day. Come relax in the shade with a refreshing drink, snuggle up for a nap in one of our cuddle puddles, enjoy music you actually know the words to, jump on our trampoline, or just hang out with us at the bar - we're terribly charming conversationalists."
+        "description": "A neighborhood favorite, BRCU is 3,000 square foot, shaded, 24-hour bar, serving a different craft cocktail each day. Come relax in the shade with a refreshing drink, snuggle up for a nap in one of our cuddle puddles, enjoy music you actually know the words to, jump on our trampoline, or just hang out with us at the bar - we're terribly charming conversationalists.",
+        "burnermap_location": {
+            "string": "5:00 & Ceremony",
+            "gps_longitude": -119.20980314141018,
+            "gps_latitude": 40.777547559648596
+        }
     },
     {
         "uid": "a1X0V000003HDKkUAO",
@@ -4362,7 +6126,12 @@
         "url": "http://www.degantiszmogus.lt/",
         "contact_email": "lithuania@burningman.org",
         "hometown": "Vilnius",
-        "description": "Lituanica Birds is the camp whose members fly over the ocean every year to burn the Man since 2011."
+        "description": "Lituanica Birds is the camp whose members fly over the ocean every year to burn the Man since 2011.",
+        "burnermap_location": {
+            "string": "4:45 & Hallowed",
+            "gps_longitude": -119.20878207936424,
+            "gps_latitude": 40.77404823164073
+        }
     },
     {
         "uid": "a1X0V000003HDJNUA4",
@@ -4371,7 +6140,12 @@
         "url": "https://www.facebook.com/LEDDinosaur",
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "LED Dinosaur is Burning Man's best preparty destination.  Come by at sunset to grab some LEDs & drinks while you dance in our giant dinosaur."
+        "description": "LED Dinosaur is Burning Man's best preparty destination.  Come by at sunset to grab some LEDs & drinks while you dance in our giant dinosaur.",
+        "burnermap_location": {
+            "string": "9:00 & Juju",
+            "gps_longitude": -119.21965367445075,
+            "gps_latitude": 40.796481355410734
+        }
     },
     {
         "uid": "a1X0V000003HDcUUAW",
@@ -4380,7 +6154,12 @@
         "url": null,
         "contact_email": "renohousewives@gmail.com",
         "hometown": "Reno",
-        "description": "Helping costume BRC since 1998. Do you need bridesmaids for your playa wedding, or are looking for the perfect outfit for that party? ASK US -- From frumpy to fabulous, we have you covered. Home of the world-famous Sillisculpt Museum."
+        "description": "Helping costume BRC since 1998. Do you need bridesmaids for your playa wedding, or are looking for the perfect outfit for that party? ASK US -- From frumpy to fabulous, we have you covered. Home of the world-famous Sillisculpt Museum.",
+        "burnermap_location": {
+            "string": "7:15 & Genuflect",
+            "gps_longitude": -119.22231612211759,
+            "gps_latitude": 40.78503230749086
+        }
     },
     {
         "uid": "a1X0V000003HCy5UAG",
@@ -4389,7 +6168,12 @@
         "url": "http://www.facebook.com/shotsforshocks/",
         "contact_email": "shotsforshocks@gmail.com",
         "hometown": "Seattle",
-        "description": "An electrical tasting bar: We zap you with a shock, you get a shot!"
+        "description": "An electrical tasting bar: We zap you with a shock, you get a shot!",
+        "burnermap_location": {
+            "string": "7:00 & Breath",
+            "gps_longitude": -119.21771652667768,
+            "gps_latitude": 40.78434410068529
+        }
     },
     {
         "uid": "a1X0V000003HDK1UAO",
@@ -4398,7 +6182,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Victoria, British Columbia; with team members staged in Calgary, Alberta; Grand Junction, Colorado; Austin, Texas; North of San Francisco, California",
-        "description": "The Hibernaculum is a bat and cave-themed workshop space and a set of fun, interactive installations. The Hibernaculum provides physical activity and outdoor-themed workshops; a photo booth; and other fun cave-themed experiences."
+        "description": "The Hibernaculum is a bat and cave-themed workshop space and a set of fun, interactive installations. The Hibernaculum provides physical activity and outdoor-themed workshops; a photo booth; and other fun cave-themed experiences.",
+        "burnermap_location": {
+            "string": "6:30 & Eulogy",
+            "gps_longitude": -119.21882287193033,
+            "gps_latitude": 40.78125582486021
+        }
     },
     {
         "uid": "a1X0V000003HDbMUAW",
@@ -4407,7 +6196,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Northern California. Ukiah, Healdsburg, Santa Rosa, Novato, Sebastopol and Petaluma.",
-        "description": "An eyedyllic retreat for soothing astonished eyes and dust weary feet.  We will provide a sanctuary to relax in, while your peepers and your creepers are being attended to by \"doctors\" without orders."
+        "description": "An eyedyllic retreat for soothing astonished eyes and dust weary feet.  We will provide a sanctuary to relax in, while your peepers and your creepers are being attended to by \"doctors\" without orders.",
+        "burnermap_location": {
+            "string": "8:45 & Awe",
+            "gps_longitude": -119.21504557987254,
+            "gps_latitude": 40.79150069513052
+        }
     },
     {
         "uid": "a1X0V000003HD8UUAW",
@@ -4416,7 +6210,12 @@
         "url": "http://furryburners.com",
         "contact_email": null,
         "hometown": "Oakland",
-        "description": "FUR is a theme camp of furries from all over, who come together to collaborate in the shared theme of Anthropomorphic Art, Costuming, and Culture."
+        "description": "FUR is a theme camp of furries from all over, who come together to collaborate in the shared theme of Anthropomorphic Art, Costuming, and Culture.",
+        "burnermap_location": {
+            "string": "7:45 & Awe",
+            "gps_longitude": -119.21715015873647,
+            "gps_latitude": 40.7876471810218
+        }
     },
     {
         "uid": "a1X0V000003HDMRUA4",
@@ -4425,7 +6224,12 @@
         "url": null,
         "contact_email": "bm@sdventures.com",
         "hometown": "Moscow",
-        "description": "Our Art Installation will be called \"ALIENS YES!\" and will be placed on playa. The Installation concept was done by Andrey Bartenev, well-known Russian contemporary artist and sculptor."
+        "description": "Our Art Installation will be called \"ALIENS YES!\" and will be placed on playa. The Installation concept was done by Andrey Bartenev, well-known Russian contemporary artist and sculptor.",
+        "burnermap_location": {
+            "string": "4:45 & Center Camp Plaza",
+            "gps_longitude": -119.21414266421307,
+            "gps_latitude": 40.78036925788836
+        }
     },
     {
         "uid": "a1X0V000003HDcKUAW",
@@ -4443,7 +6247,12 @@
         "url": "http://www.mystopia.camp",
         "contact_email": "mystopia@gmail.com",
         "hometown": "San Francisco",
-        "description": "We're a desert experiment. A French Toast Mecca. A home for mysterious misters. A Burner family that tastes the rainbow: a truly informal family of adventurous friends, partners, parents, children, gays, straights and everything in between. Come play with us!"
+        "description": "We're a desert experiment. A French Toast Mecca. A home for mysterious misters. A Burner family that tastes the rainbow: a truly informal family of adventurous friends, partners, parents, children, gays, straights and everything in between. Come play with us!",
+        "burnermap_location": {
+            "string": "7:00 & Genuflect",
+            "gps_longitude": -119.2219112461207,
+            "gps_latitude": 40.78349254070713
+        }
     },
     {
         "uid": "a1X0V000003HDNyUAO",
@@ -4452,7 +6261,12 @@
         "url": "http://www.hornycamp.com/",
         "contact_email": null,
         "hometown": "San Francisco, Los Angeles, New York",
-        "description": "Horny People, release your inner devil, daemon, or unicorn and come make horns with us! We supply the clay, instructions, and gas fired oven. You supply your inner creativity and vision. Lounge in our shade structure while your masterpiece bakes (15 min) and when it's done, we'll help you fit them to your head, chest, nipples, or whatever body part you choose to adorn.\r\nREMEMBER: Classes only run from MON.-THU; Noon to 4pm. so come while supplies last!"
+        "description": "Horny People, release your inner devil, daemon, or unicorn and come make horns with us! We supply the clay, instructions, and gas fired oven. You supply your inner creativity and vision. Lounge in our shade structure while your masterpiece bakes (15 min) and when it's done, we'll help you fit them to your head, chest, nipples, or whatever body part you choose to adorn.\r\nREMEMBER: Classes only run from MON.-THU; Noon to 4pm. so come while supplies last!",
+        "burnermap_location": {
+            "string": "9:30 & Fire",
+            "gps_longitude": -119.21409285920798,
+            "gps_latitude": 40.7964245784482
+        }
     },
     {
         "uid": "a1X0V000003HDFpUAO",
@@ -4461,7 +6275,12 @@
         "url": null,
         "contact_email": "rebecca@fatbug.com",
         "hometown": "Reno",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "4:15 & Genuflect",
+            "gps_longitude": -119.20453125510309,
+            "gps_latitude": 40.774700272567486
+        }
     },
     {
         "uid": "a1X0V000003HDGxUAO",
@@ -4470,7 +6289,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Sparks",
-        "description": "Bring your iPad, iPod, cell phone, or any small i-device with your electrical adapter to Plug n Play Camp for a recharge utilizing our camp's solar-powered 120-volt inverter. We encourage you to not leave your device unattended, so stick around, have a drink on us, play some games, or sample some of our chill and deep house electronic dance music."
+        "description": "Bring your iPad, iPod, cell phone, or any small i-device with your electrical adapter to Plug n Play Camp for a recharge utilizing our camp's solar-powered 120-volt inverter. We encourage you to not leave your device unattended, so stick around, have a drink on us, play some games, or sample some of our chill and deep house electronic dance music.",
+        "burnermap_location": {
+            "string": "9:15 & Juju",
+            "gps_longitude": -119.21783835609293,
+            "gps_latitude": 40.7976868747659
+        }
     },
     {
         "uid": "a1X0V000003HDNjUAO",
@@ -4479,7 +6303,12 @@
         "url": "http://mikimaumusic.com",
         "contact_email": "mikibeachcamp@gmail.com",
         "hometown": "Miami",
-        "description": "Miki Beach has a simple mission - to create a community that inspires collaboration between house music lovers, DJs and local artists while celebrating the principles of Burning Man."
+        "description": "Miki Beach has a simple mission - to create a community that inspires collaboration between house music lovers, DJs and local artists while celebrating the principles of Burning Man.",
+        "burnermap_location": {
+            "string": "2:00 & Hallowed",
+            "gps_longitude": -119.1904498228991,
+            "gps_latitude": 40.78332221048476
+        }
     },
     {
         "uid": "a1X0V000003HD4XUAW",
@@ -4497,7 +6326,12 @@
         "url": null,
         "contact_email": "mihart87@gmail.com",
         "hometown": "Los Angeles",
-        "description": "gNarnia is a small camp that offers cold brew coffee and iced matcha green tea to the people of the Playa Monday through Friday from 9:30am- 2:30pm. Enter through the wardrobe, stay and be enchanted!"
+        "description": "gNarnia is a small camp that offers cold brew coffee and iced matcha green tea to the people of the Playa Monday through Friday from 9:30am- 2:30pm. Enter through the wardrobe, stay and be enchanted!",
+        "burnermap_location": {
+            "string": "9:45 & Genuflect",
+            "gps_longitude": -119.2126673530477,
+            "gps_latitude": 40.797688604580976
+        }
     },
     {
         "uid": "a1X0V000003HD9DUAW",
@@ -4524,7 +6358,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Seattle",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "8:45 & Breath",
+            "gps_longitude": -119.21573503334785,
+            "gps_latitude": 40.79190076254333
+        }
     },
     {
         "uid": "a1X0V000003HDHMUA4",
@@ -4533,7 +6372,12 @@
         "url": "https://www.facebook.com/theyardvillage",
         "contact_email": null,
         "hometown": "Vancouver, Seattle & Los Angeles",
-        "description": "Come find out what brings all the burners to The Yard! Whether it's Falafel's eats; Lootbaggers treats; Best Butt booty; a titillating climb on the scramble of scandal or the promise of the perfect pube postiche, we've got it all in a quaint and inviting setting sure to please."
+        "description": "Come find out what brings all the burners to The Yard! Whether it's Falafel's eats; Lootbaggers treats; Best Butt booty; a titillating climb on the scramble of scandal or the promise of the perfect pube postiche, we've got it all in a quaint and inviting setting sure to please.",
+        "burnermap_location": {
+            "string": "8:45 & Eulogy",
+            "gps_longitude": -119.21780341042755,
+            "gps_latitude": 40.793100974445345
+        }
     },
     {
         "uid": "a1X0V000003HDHqUAO",
@@ -4551,7 +6395,12 @@
         "url": "https://www.instagram.com/camp.walter/?hl=en",
         "contact_email": null,
         "hometown": "Phoenix",
-        "description": "As immense as Walter is, he represents something even bigger. The power of imagination, the joy of discovery, and the spirit of service in which we undertake every project. Walter's story has a message for us all: there are second chances in life, your past doesn't determine your future, you are capable of more than you might think, and we can all do so much more together than we ever could on our own."
+        "description": "As immense as Walter is, he represents something even bigger. The power of imagination, the joy of discovery, and the spirit of service in which we undertake every project. Walter's story has a message for us all: there are second chances in life, your past doesn't determine your future, you are capable of more than you might think, and we can all do so much more together than we ever could on our own.",
+        "burnermap_location": {
+            "string": "10:00 & Esplanade",
+            "gps_longitude": -119.2089420301711,
+            "gps_latitude": 40.7932172249106
+        }
     },
     {
         "uid": "a1X0V000003HDC7UAO",
@@ -4560,7 +6409,12 @@
         "url": "http://www.facebook.com/picklejoint",
         "contact_email": "gamesandtheory@yahoo.com",
         "hometown": "Los Angeles",
-        "description": "Pickles and pickle martinis. Our noble studs and naughty wenches are here to serve you. Do drop in."
+        "description": "Pickles and pickle martinis. Our noble studs and naughty wenches are here to serve you. Do drop in.",
+        "burnermap_location": {
+            "string": "10:00 & Center Camp Plaza",
+            "gps_longitude": -119.21424512556924,
+            "gps_latitude": 40.78154924140873
+        }
     },
     {
         "uid": "a1X0V000003HDDZUA4",
@@ -4587,7 +6441,12 @@
         "url": "https://www.facebook.com/RogueNationVilliage/",
         "contact_email": "bpcmhf@msn.com",
         "hometown": "Seattle",
-        "description": "Rogue Nation Village is home to a group of camps from the Pacific Northwest: Kreme Burners, Moon Base, SeaWEED, and The Dust Sucker art car.\r\nSeattle's diverse village for large playa art, an incredible art car, amazing French dessert Cr\u00e8me Brul\u00e9e twice during the burn, a hookah lounge and a big chill space known as \"Comfort\"."
+        "description": "Rogue Nation Village is home to a group of camps from the Pacific Northwest: Kreme Burners, Moon Base, SeaWEED, and The Dust Sucker art car.\r\nSeattle's diverse village for large playa art, an incredible art car, amazing French dessert Crème Brulée twice during the burn, a hookah lounge and a big chill space known as \"Comfort\".",
+        "burnermap_location": {
+            "string": "6:15 & Hallowed",
+            "gps_longitude": -119.21986389878278,
+            "gps_latitude": 40.77889228660458
+        }
     },
     {
         "uid": "a1X0V000003HDWlUAO",
@@ -4596,7 +6455,12 @@
         "url": "http://www.downtherabbithole.x10.mx",
         "contact_email": null,
         "hometown": "Zurich",
-        "description": "Follow us down the rabbit hole to Mad Hatter's Tea Party for a cup of tea with a twist."
+        "description": "Follow us down the rabbit hole to Mad Hatter's Tea Party for a cup of tea with a twist.",
+        "burnermap_location": {
+            "string": "9:15 & Eulogy",
+            "gps_longitude": -119.21519877481357,
+            "gps_latitude": 40.795075211956
+        }
     },
     {
         "uid": "a1X0V000003HDIKUA4",
@@ -4605,7 +6469,12 @@
         "url": "https://www.facebook.com/PalinkaLounge/",
         "contact_email": "palinkalounge@gmail.com",
         "hometown": "SF Bay Area",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "8:15 & Genuflect",
+            "gps_longitude": -119.22124645290613,
+            "gps_latitude": 40.7911921903411
+        }
     },
     {
         "uid": "a1X0V000003HDfsUAG",
@@ -4614,7 +6483,12 @@
         "url": "https://www.facebook.com/GiveEpicAChance/",
         "contact_email": "shpagat69@hotmail.com",
         "hometown": "Los Angeles",
-        "description": "keep an open mind, participate, and party hard.  Come by to eat and help feed the masses. Then, jump on the art car."
+        "description": "keep an open mind, participate, and party hard.  Come by to eat and help feed the masses. Then, jump on the art car.",
+        "burnermap_location": {
+            "string": "2:30 & Fire",
+            "gps_longitude": -119.19362501558332,
+            "gps_latitude": 40.780926910423005
+        }
     },
     {
         "uid": "a1X0V000003HDW7UAO",
@@ -4623,7 +6497,12 @@
         "url": "http://www.blackrockyearbook.com",
         "contact_email": "info@blackrockyearbook.com",
         "hometown": "Los Angeles",
-        "description": "Put on your best outfit and come by the Black Rock Yearbook for your official (unofficial) playa photo!  We are open daily with our photo team ready to take your photo which is released in an annual online yearbook!"
+        "description": "Put on your best outfit and come by the Black Rock Yearbook for your official (unofficial) playa photo!  We are open daily with our photo team ready to take your photo which is released in an annual online yearbook!",
+        "burnermap_location": {
+            "string": "6:00 & Dance",
+            "gps_longitude": -119.21596553691205,
+            "gps_latitude": 40.779507767971374
+        }
     },
     {
         "uid": "a1X0V000003HDgRUAW",
@@ -4632,7 +6511,12 @@
         "url": "http://timecolony.org",
         "contact_email": "timecolony@rehber.gr",
         "hometown": "We're mutts and mongrels from all over spacetime (mostly Minneapolis, Seattle, & Dublin)",
-        "description": "The Time Colony offers an array of services and support to hungry time-travelers and the time-traveler-curious."
+        "description": "The Time Colony offers an array of services and support to hungry time-travelers and the time-traveler-curious.",
+        "burnermap_location": {
+            "string": "2:15 & Breath",
+            "gps_longitude": -119.19596989571168,
+            "gps_latitude": 40.783260736953125
+        }
     },
     {
         "uid": "a1X0V000003HDWbUAO",
@@ -4650,7 +6534,12 @@
         "url": "http://www.facebook.com/soulshakersburningman",
         "contact_email": null,
         "hometown": "Koh Phangan, Thailand",
-        "description": "Soul Shakers is a global community of nomads from a secluded beach on Koh Phangan island in Thailand where yoga, meditation & conscious living are the norm. This tropical paradise has brought together like-minded souls from around the globe & we are coming to Burning Man to bring some of the practices, interests and ceremonies that are the DNA of our island life to the playa. We hope to inspire others to live more courageously, compassionately, consciously, and less conventionally, and aim to shake some souls with our music, dance, yoga, and conscious workshop offerings."
+        "description": "Soul Shakers is a global community of nomads from a secluded beach on Koh Phangan island in Thailand where yoga, meditation & conscious living are the norm. This tropical paradise has brought together like-minded souls from around the globe & we are coming to Burning Man to bring some of the practices, interests and ceremonies that are the DNA of our island life to the playa. We hope to inspire others to live more courageously, compassionately, consciously, and less conventionally, and aim to shake some souls with our music, dance, yoga, and conscious workshop offerings.",
+        "burnermap_location": {
+            "string": "2:45 & Awe",
+            "gps_longitude": -119.19816248503069,
+            "gps_latitude": 40.78169196187608
+        }
     },
     {
         "uid": "a1X0V000003HDgqUAG",
@@ -4659,7 +6548,12 @@
         "url": "https://www.facebook.com/galacticlabyrinth",
         "contact_email": null,
         "hometown": "Worldwide",
-        "description": "A sacred space where one can journey to the center of their deepest self and back out on to the playa with a profound understanding of who they are. The labyrinth is a model and reminder that we are all on a path and exactly where we need to be."
+        "description": "A sacred space where one can journey to the center of their deepest self and back out on to the playa with a profound understanding of who they are. The labyrinth is a model and reminder that we are all on a path and exactly where we need to be.",
+        "burnermap_location": {
+            "string": "2:45 & Eulogy",
+            "gps_longitude": -119.19540745787381,
+            "gps_latitude": 40.78008938358524
+        }
     },
     {
         "uid": "a1X0V000003HDi3UAG",
@@ -4668,7 +6562,12 @@
         "url": null,
         "contact_email": "spoonfuloffriends@gmail.com",
         "hometown": "San Francisco / Paris",
-        "description": "Our art is cooking and hosting diner parties ! \n\nCome around 7pm to enjoy a diner with 40 strangers every-night. \n\nGreat food and amazing evening guaranteed !"
+        "description": "Our art is cooking and hosting diner parties ! \n\nCome around 7pm to enjoy a diner with 40 strangers every-night. \n\nGreat food and amazing evening guaranteed !",
+        "burnermap_location": {
+            "string": "2:15 & Eulogy",
+            "gps_longitude": -119.19356313857256,
+            "gps_latitude": 40.78250469590598
+        }
     },
     {
         "uid": "a1X0V000003HDi8UAG",
@@ -4677,7 +6576,12 @@
         "url": "http://www.disorient.com",
         "contact_email": "info@disorient.info",
         "hometown": "New York",
-        "description": "Disorient is an open creative platform powered by love."
+        "description": "Disorient is an open creative platform powered by love.",
+        "burnermap_location": {
+            "string": "2:30 & Esplanade",
+            "gps_longitude": -119.19876459936648,
+            "gps_latitude": 40.783174395085275
+        }
     },
     {
         "uid": "a1X0V000003HDiNUAW",
@@ -4686,7 +6590,12 @@
         "url": "http://campquestionmark.com",
         "contact_email": null,
         "hometown": "Bae",
-        "description": "\"A questioning mind does not always find satisfaction in what is effortlessly presented in mass... it seeks out what is needed for true fulfillment\"  ~?\r\n \r\nInstead of trying to bring a club out to Burning Man we are here to summon a desert experience. Filled with the collective creative energy of the burn. Music & atmosphere born from & inspired by the dust.  )?( \r\n+++Unique Music from Tues till BurnNight+++\r\n\r\nCome (((feel))) the difference & Seek the answer\r\n\r\n)?("
+        "description": "\"A questioning mind does not always find satisfaction in what is effortlessly presented in mass... it seeks out what is needed for true fulfillment\"  ~?\r\n \r\nInstead of trying to bring a club out to Burning Man we are here to summon a desert experience. Filled with the collective creative energy of the burn. Music & atmosphere born from & inspired by the dust.  )?( \r\n+++Unique Music from Tues till BurnNight+++\r\n\r\nCome (((feel))) the difference & Seek the answer\r\n\r\n)?(",
+        "burnermap_location": {
+            "string": "2:00 & Esplanade",
+            "gps_longitude": -119.19786052875241,
+            "gps_latitude": 40.784826583915375
+        }
     },
     {
         "uid": "a1X0V000003HDkdUAG",
@@ -4695,7 +6604,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "LA, SF, Denver, Austin and every curve of this ball we call Earth.",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "8:00 & Ceremony",
+            "gps_longitude": -119.2185563525463,
+            "gps_latitude": 40.78902496520518
+        }
     },
     {
         "uid": "a1X0V000003HDIeUAO",
@@ -4704,7 +6618,12 @@
         "url": "http://www.brchardware.org",
         "contact_email": "marc17phone@gmail.com",
         "hometown": "Seattle",
-        "description": "The name says it all. Black Rock City Hardware Shoppe will be on-site with a variety of tools and supplies to help build or repair just about anything on the playa. We are proud to have spent over 15 years serving Black Rock City in this capacity.\r\nWe have hand tools, power tools, nails, nuts, bolts, tape, string, wire, paint, bike tools, automotive tools, glue, rivets, and whatever else we can manage to fit on the truck. We enjoy helping people work on art projects and helping camps who have suffered structural difficulties, but we also help with minor automotive problems, generator issues, and fix an inordinate amount of bikes. Whatever people bring us, we'll try and fix if we can. We do not have lots of raw building materials, like 2x4s, PVP pipes, or plywood, but do have a need/want bulletin board to connect gifts with needs. The Playa often provides!"
+        "description": "The name says it all. Black Rock City Hardware Shoppe will be on-site with a variety of tools and supplies to help build or repair just about anything on the playa. We are proud to have spent over 15 years serving Black Rock City in this capacity.\r\nWe have hand tools, power tools, nails, nuts, bolts, tape, string, wire, paint, bike tools, automotive tools, glue, rivets, and whatever else we can manage to fit on the truck. We enjoy helping people work on art projects and helping camps who have suffered structural difficulties, but we also help with minor automotive problems, generator issues, and fix an inordinate amount of bikes. Whatever people bring us, we'll try and fix if we can. We do not have lots of raw building materials, like 2x4s, PVP pipes, or plywood, but do have a need/want bulletin board to connect gifts with needs. The Playa often provides!",
+        "burnermap_location": {
+            "string": "9:30 & Center Camp Plaza",
+            "gps_longitude": -119.21443726004803,
+            "gps_latitude": 40.781488912624546
+        }
     },
     {
         "uid": "a1X0V000003HDlMUAW",
@@ -4722,7 +6641,12 @@
         "url": "http://campmystic.org/",
         "contact_email": "registration@campmystic.org",
         "hometown": "San Francisco",
-        "description": "Camp Mystic has a 15+ year history at burning man. \r\n\r\nBY DAY... we host a Visionary Speaker Series themed 'The New Story of Humanity's Evolution'\r\n\r\nBY NIGHT... we host some of the most talented artists, musicians, performers, fire spinners, aerialists, and singers during our Wednesday, Friday, & Saturday night events themed 'A Transmission of Truth & Beauty'... truly magical."
+        "description": "Camp Mystic has a 15+ year history at burning man. \r\n\r\nBY DAY... we host a Visionary Speaker Series themed 'The New Story of Humanity's Evolution'\r\n\r\nBY NIGHT... we host some of the most talented artists, musicians, performers, fire spinners, aerialists, and singers during our Wednesday, Friday, & Saturday night events themed 'A Transmission of Truth & Beauty'... truly magical.",
+        "burnermap_location": {
+            "string": "2:00 & Genuflect",
+            "gps_longitude": -119.19128875387932,
+            "gps_latitude": 40.78349254070713
+        }
     },
     {
         "uid": "a1X0V000003HDlHUAW",
@@ -4731,7 +6655,12 @@
         "url": null,
         "contact_email": null,
         "hometown": null,
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "2:45 & Ceremony",
+            "gps_longitude": -119.19678496654431,
+            "gps_latitude": 40.780890669875745
+        }
     },
     {
         "uid": "a1X0V000003HDlRUAW",
@@ -4740,7 +6669,12 @@
         "url": "https://www.facebook.com/Champagnelounge/",
         "contact_email": "champagneloungebrc@gmail.com",
         "hometown": "Reno",
-        "description": "Come by the Champagne Lounge for your daily dose of bubbly fun! The Champagne Lounge will be quenching your midday thirst with happy hours featuring ice-cold champagne. Not in the mood for bubbles?  Grab some friends and take a shotski! Bring your own cup, and be ready for booze, music, and fun! Also check out Champagne Lounge Audio Programing, or the C.L.A.P, on your radio at 99.9 fm!"
+        "description": "Come by the Champagne Lounge for your daily dose of bubbly fun! The Champagne Lounge will be quenching your midday thirst with happy hours featuring ice-cold champagne. Not in the mood for bubbles?  Grab some friends and take a shotski! Bring your own cup, and be ready for booze, music, and fun! Also check out Champagne Lounge Audio Programing, or the C.L.A.P, on your radio at 99.9 fm!",
+        "burnermap_location": {
+            "string": "7:00 & Rods Road",
+            "gps_longitude": -119.21666011003548,
+            "gps_latitude": 40.78043393773682
+        }
     },
     {
         "uid": "a1X0V000003HDoGUAW",
@@ -4749,7 +6683,12 @@
         "url": null,
         "contact_email": null,
         "hometown": null,
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "5:45 & Juju",
+            "gps_longitude": -119.21783460409515,
+            "gps_latitude": 40.775512035316275
+        }
     },
     {
         "uid": "a1X0V000003HDnXUAW",
@@ -4758,7 +6697,12 @@
         "url": null,
         "contact_email": "doug@thesingularityfilm.com",
         "hometown": "San Francisco",
-        "description": "We're still here.  and hopefully not ever leaving!  Tune in to our 24-hour coverage of Brass Tax shenanigans on Radio Malibu (or stop by the on-playa studio): music, sing-a-longs, live interviews, morning calisthenics, and intraplaya sunrise traffic cone sports reportage. Winners every day - you could be next!"
+        "description": "We're still here.  and hopefully not ever leaving!  Tune in to our 24-hour coverage of Brass Tax shenanigans on Radio Malibu (or stop by the on-playa studio): music, sing-a-longs, live interviews, morning calisthenics, and intraplaya sunrise traffic cone sports reportage. Winners every day - you could be next!",
+        "burnermap_location": {
+            "string": "9:45 & Genuflect",
+            "gps_longitude": -119.2126673530477,
+            "gps_latitude": 40.797688604580976
+        }
     },
     {
         "uid": "a1X0V000003HDqqUAG",
@@ -4767,7 +6711,12 @@
         "url": "https://www.facebook.com/DodgeballAddiction/",
         "contact_email": null,
         "hometown": "San Diego",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "9:30 & Genuflect",
+            "gps_longitude": -119.21452729586275,
+            "gps_latitude": 40.796994104363456
+        }
     },
     {
         "uid": "a1X0V000003HDqMUAW",
@@ -4776,7 +6725,10 @@
         "url": "http://www.bmir.org",
         "contact_email": "bmir@burningman.org",
         "hometown": "OAKLAND",
-        "description": "Burning Man Information. 94.5 FM - The Voice of The Man"
+        "description": "Burning Man Information. 94.5 FM - The Voice of The Man",
+        "burnermap_location": {
+            "string": "5:50 & Esplanade"
+        }
     },
     {
         "uid": "a1X0V000003HDrUUAW",
@@ -4785,7 +6737,12 @@
         "url": "http://www.badasstronauts.org",
         "contact_email": null,
         "hometown": "Denver",
-        "description": "A space-themed camp from Denver, Colorado. Come blast off with us!"
+        "description": "A space-themed camp from Denver, Colorado. Come blast off with us!",
+        "burnermap_location": {
+            "string": "9:00 & Hallowed",
+            "gps_longitude": -119.21842492768457,
+            "gps_latitude": 40.79555140820315
+        }
     },
     {
         "uid": "a1X0V000003HDp4UAG",
@@ -4794,7 +6751,12 @@
         "url": "http://www.facebook.com/pretentiousfox",
         "contact_email": "info@pretentiousfox.com",
         "hometown": "San Francisco, Chicago, LA, NYC",
-        "description": "A very international and inter-state gathering of pretentious foxes and other eclectic and venerable animals! We provide an essential neighborhood BAR with good MUSIC, a giant SWINGSET, and several EVENTS including Bloody Mary Brunch!"
+        "description": "A very international and inter-state gathering of pretentious foxes and other eclectic and venerable animals! We provide an essential neighborhood BAR with good MUSIC, a giant SWINGSET, and several EVENTS including Bloody Mary Brunch!",
+        "burnermap_location": {
+            "string": "7:15 & Eulogy",
+            "gps_longitude": -119.22059283731787,
+            "gps_latitude": 40.78519926850957
+        }
     },
     {
         "uid": "a1X0V000003HDs3UAG",
@@ -4803,7 +6765,12 @@
         "url": "https://octothorpe.club",
         "contact_email": "hashtag@octothorpe.club",
         "hometown": "Seattle",
-        "description": "Come # with us!"
+        "description": "Come # with us!",
+        "burnermap_location": {
+            "string": "7:15 & Genuflect",
+            "gps_longitude": -119.22231612211759,
+            "gps_latitude": 40.78503230749086
+        }
     },
     {
         "uid": "a1X0V000003HDroUAG",
@@ -4821,7 +6788,12 @@
         "url": "http://ideate.org",
         "contact_email": "info@ideate.org",
         "hometown": "San Francisco",
-        "description": "1.  Ideas to Reality & Burning Man to The World\r\n2.  IDEATE.org"
+        "description": "1.  Ideas to Reality & Burning Man to The World\r\n2.  IDEATE.org",
+        "burnermap_location": {
+            "string": "6:15 & Genuflect",
+            "gps_longitude": -119.21917494088358,
+            "gps_latitude": 40.77929272469477
+        }
     },
     {
         "uid": "a1X0V000003HDswUAG",
@@ -4839,7 +6811,12 @@
         "url": "https://burningsky.org",
         "contact_email": "info@burningsky.org",
         "hometown": "San Francisco Bay Area",
-        "description": "Burning Sky: Skydivers over Burning Man. Come see Black Rock City from 9,000 feet in the air. Watch the skydivers exit the plane while you stay safely inside, and get an exciting ride back to the earth. Gifting rides Wednesday & Thursday 11a-5p. https://burningsky.org"
+        "description": "Burning Sky: Skydivers over Burning Man. Come see Black Rock City from 9,000 feet in the air. Watch the skydivers exit the plane while you stay safely inside, and get an exciting ride back to the earth. Gifting rides Wednesday & Thursday 11a-5p. https://burningsky.org",
+        "burnermap_location": {
+            "string": "5:00 & Genuflect",
+            "gps_longitude": -119.210702111906,
+            "gps_latitude": 40.7750065078431
+        }
     },
     {
         "uid": "a1X0V000003HDc0UAG",
@@ -4848,7 +6825,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Oakland",
-        "description": "Come join the Pickle Alliance. We'll teach you how to Dill with It."
+        "description": "Come join the Pickle Alliance. We'll teach you how to Dill with It.",
+        "burnermap_location": {
+            "string": "7:30 & Kundalini",
+            "gps_longitude": -119.22592654479467,
+            "gps_latitude": 40.78659838782702
+        }
     },
     {
         "uid": "a1X0V000003HDzJUAW",
@@ -4857,7 +6839,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "New York City",
-        "description": "Watch out for Wookiees and Meteor Showers"
+        "description": "Watch out for Wookiees and Meteor Showers",
+        "burnermap_location": {
+            "string": "9:15 & Genuflect",
+            "gps_longitude": -119.21625153709941,
+            "gps_latitude": 40.79612173502019
+        }
     },
     {
         "uid": "a1X0V000003HE0MUAW",
@@ -4866,7 +6853,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Portland",
-        "description": "The Sparkle Pop Kittens will be riding in on the Cosmic Space Worm this year.  Keep your eyes peeled for a galactic group of giggling Kittens squirming around all over the playa.  Meow! Meow!!"
+        "description": "The Sparkle Pop Kittens will be riding in on the Cosmic Space Worm this year.  Keep your eyes peeled for a galactic group of giggling Kittens squirming around all over the playa.  Meow! Meow!!",
+        "burnermap_location": {
+            "string": "8:30 & Rods Road",
+            "gps_longitude": -119.2163901828559,
+            "gps_latitude": 40.781993514822936
+        }
     },
     {
         "uid": "a1X0V000003HDvlUAG",
@@ -4875,7 +6867,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Jose",
-        "description": "Be You, Do You: Embracing the unique qualities of who you are and expressing yourself in your most authentic form."
+        "description": "Be You, Do You: Embracing the unique qualities of who you are and expressing yourself in your most authentic form.",
+        "burnermap_location": {
+            "string": "3:15 & Eulogy",
+            "gps_longitude": -119.19801373155731,
+            "gps_latitude": 40.77811815910593
+        }
     },
     {
         "uid": "a1X0V000003HE0bUAG",
@@ -4884,7 +6881,12 @@
         "url": "http://wrongtown.xyz",
         "contact_email": "info@wrongtown.xyz",
         "hometown": "Oakland, Los Angeles, Tokyo, Melbourne, Perth, Berlin.",
-        "description": "Wrongtown is an international reunion. Our primary landmark is a 40' tower that supports an LED beacon and sail shade structure, which serves as our living area and daytime public chill space."
+        "description": "Wrongtown is an international reunion. Our primary landmark is a 40' tower that supports an LED beacon and sail shade structure, which serves as our living area and daytime public chill space.",
+        "burnermap_location": {
+            "string": "2:15 & Dance",
+            "gps_longitude": -119.19436538853539,
+            "gps_latitude": 40.78275670882914
+        }
     },
     {
         "uid": "a1X0V000003HE0WUAW",
@@ -4893,7 +6895,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Redding",
-        "description": "Got questions about your two-stroke engine?  Maybe you just like to rev up your engine and make a lot of noise?  Come on down to Two-Stroke Transit to talk to us.  While here, you can find out how to prevent playa damage from dripping oil while improving your engine's performance."
+        "description": "Got questions about your two-stroke engine?  Maybe you just like to rev up your engine and make a lot of noise?  Come on down to Two-Stroke Transit to talk to us.  While here, you can find out how to prevent playa damage from dripping oil while improving your engine's performance.",
+        "burnermap_location": {
+            "string": "2:45 & Inspirit",
+            "gps_longitude": -119.19264715162441,
+            "gps_latitude": 40.77849184441712
+        }
     },
     {
         "uid": "a1X0V000003HE1eUAG",
@@ -4902,7 +6909,7 @@
         "url": "https://activenaturists.net/gymnasium-camp/",
         "contact_email": null,
         "hometown": null,
-        "description": "We want to recreate the atmosphere of the gymnasium in its original, Ancient Greek meaning, as a facility for training and competition in public games, as well as a place for socializing and engaging in intellectual pursuits. The term originates from the word [gymn\u00f3s] meaning \"naked\", because historically in Ancient Greece one exercised naked, and we would like to revive this aspect too, as we think that by doing athletic and fun activities naked, participants will experience bonding aspect of such events stronger."
+        "description": "We want to recreate the atmosphere of the gymnasium in its original, Ancient Greek meaning, as a facility for training and competition in public games, as well as a place for socializing and engaging in intellectual pursuits. The term originates from the word [gymnós] meaning \"naked\", because historically in Ancient Greece one exercised naked, and we would like to revive this aspect too, as we think that by doing athletic and fun activities naked, participants will experience bonding aspect of such events stronger."
     },
     {
         "uid": "a1X0V000003HDzsUAG",
@@ -4911,7 +6918,12 @@
         "url": "https://www.facebook.com/fundobar",
         "contact_email": null,
         "hometown": "Truckee and San Diego!",
-        "description": "Come join us for FUN at the FUN-DO BAR! Fun and fondue. Who can say no to hot melted cheese? Or chocolate?"
+        "description": "Come join us for FUN at the FUN-DO BAR! Fun and fondue. Who can say no to hot melted cheese? Or chocolate?",
+        "burnermap_location": {
+            "string": "8:15 & Ceremony",
+            "gps_longitude": -119.21803835138897,
+            "gps_latitude": 40.79018145270112
+        }
     },
     {
         "uid": "a1X0V000003HE2XUAW",
@@ -4929,7 +6941,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "AstroPups - Fun, Frisky, n Fabulous! Exploring the PupVerse one lick at a time!"
+        "description": "AstroPups - Fun, Frisky, n Fabulous! Exploring the PupVerse one lick at a time!",
+        "burnermap_location": {
+            "string": "4:30 & Juju",
+            "gps_longitude": -119.20660000000001,
+            "gps_latitude": 40.77262461312828
+        }
     },
     {
         "uid": "a1X0V000003HE1oUAG",
@@ -4938,7 +6955,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Seattle",
-        "description": "Arrakis Spice Market: We will gift culinary spices and spice-infused cocktails from 1-4 pm Monday through Friday. Come enjoy some tasty beverages under the shade of our Dune Shaihalud sandworm."
+        "description": "Arrakis Spice Market: We will gift culinary spices and spice-infused cocktails from 1-4 pm Monday through Friday. Come enjoy some tasty beverages under the shade of our Dune Shaihalud sandworm.",
+        "burnermap_location": {
+            "string": "3:45 & Dance",
+            "gps_longitude": -119.20153567703115,
+            "gps_latitude": 40.77733272796948
+        }
     },
     {
         "uid": "a1X0V000003HE2wUAG",
@@ -4947,7 +6969,12 @@
         "url": "https://www.facebook.com/TheDustyBeavers/",
         "contact_email": "contact@dustybeavers.org",
         "hometown": "Montreal",
-        "description": "Directly from the Great White North, land of the maple leaf, comes the sugar shack of your dreams. Yes, a sugar shack on the Playa! Maple taffy on snow. Yes, snow on the Playa, in August. We will make it happen. Join us after dark for a taste of sweetly delicious \"tire d'\u00e9rable sur neige.\" The Dusty Beavers are an international group: Canadians, French and Americans."
+        "description": "Directly from the Great White North, land of the maple leaf, comes the sugar shack of your dreams. Yes, a sugar shack on the Playa! Maple taffy on snow. Yes, snow on the Playa, in August. We will make it happen. Join us after dark for a taste of sweetly delicious \"tire d'érable sur neige.\" The Dusty Beavers are an international group: Canadians, French and Americans.",
+        "burnermap_location": {
+            "string": "6:00 & Genuflect",
+            "gps_longitude": -119.21780770219705,
+            "gps_latitude": 40.77811248566889
+        }
     },
     {
         "uid": "a1X0V000003HE2rUAG",
@@ -4956,7 +6983,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Salt Lake City, San Diego, Arizona, New Mexico, Pittsburgh, Philadelphia, Washington DC, North Carolina, Germany, Los Angeles, San Francisco, Portland, Toronto",
-        "description": "Gonzo Village includes Bat Country, MiscreANTs, and Fort Yeah. The seemingly least helpful but knowingly most fun camps found each other and combined. Hail Krondor."
+        "description": "Gonzo Village includes Bat Country, MiscreANTs, and Fort Yeah. The seemingly least helpful but knowingly most fun camps found each other and combined. Hail Krondor.",
+        "burnermap_location": {
+            "string": "2:00 & Dance",
+            "gps_longitude": -119.19380557263713,
+            "gps_latitude": 40.78400349492102
+        }
     },
     {
         "uid": "a1X0V000003HE3uUAG",
@@ -4974,7 +7006,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Santa Barbara",
-        "description": "Come dance in a mind-blowing sea of light and shadow on our big screen!"
+        "description": "Come dance in a mind-blowing sea of light and shadow on our big screen!",
+        "burnermap_location": {
+            "string": "7:15 & Awe",
+            "gps_longitude": -119.21714846900358,
+            "gps_latitude": 40.78554406171004
+        }
     },
     {
         "uid": "a1X0V000003HEBtUAO",
@@ -4983,7 +7020,12 @@
         "url": "http://www.artsdiaspora.com/",
         "contact_email": "avantyardcamp@gmail.com",
         "hometown": "New York City",
-        "description": "The Avant Yard has been a theme camp since 2008 but our founders first tasted dust in 2006. We are affiliated with the Arts Diaspora, an international network of artists, healers and do-gooders who meet once a year at Burning Man to produce art, connect with new Gnomies (members of our community) and find new ways to empower each other to do wonderful things."
+        "description": "The Avant Yard has been a theme camp since 2008 but our founders first tasted dust in 2006. We are affiliated with the Arts Diaspora, an international network of artists, healers and do-gooders who meet once a year at Burning Man to produce art, connect with new Gnomies (members of our community) and find new ways to empower each other to do wonderful things.",
+        "burnermap_location": {
+            "string": "6:00 & Inspirit",
+            "gps_longitude": -119.21903576939496,
+            "gps_latitude": 40.77718228119359
+        }
     },
     {
         "uid": "a1X0V000003HEB0UAO",
@@ -4992,7 +7034,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Reno/Sparks",
-        "description": "Camp El Tesoro:  where lost souls find 'The Treasure' on the playa.  Serving tequila poppers to our parched friends."
+        "description": "Camp El Tesoro:  where lost souls find 'The Treasure' on the playa.  Serving tequila poppers to our parched friends.",
+        "burnermap_location": {
+            "string": "7:30 & Kundalini",
+            "gps_longitude": -119.22592654479467,
+            "gps_latitude": 40.78659838782702
+        }
     },
     {
         "uid": "a1X0V000003HEIfUAO",
@@ -5001,7 +7048,12 @@
         "url": null,
         "contact_email": "dg.duscl@gmail.com",
         "hometown": "Denver",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "9:45 & Breath",
+            "gps_longitude": -119.21100844889875,
+            "gps_latitude": 40.794649467642486
+        }
     },
     {
         "uid": "a1X0V000003HE9dUAG",
@@ -5010,7 +7062,12 @@
         "url": "https://www.facebook.com/Love-Cow-1499174600135467/",
         "contact_email": null,
         "hometown": "New York City & Toronto",
-        "description": "Love Cow is a Healing Arts & Sound Experience camp that will relax you with yoga, reiki, meditation and massage, and then elevate you with world class DJs and Instrumentalists."
+        "description": "Love Cow is a Healing Arts & Sound Experience camp that will relax you with yoga, reiki, meditation and massage, and then elevate you with world class DJs and Instrumentalists.",
+        "burnermap_location": {
+            "string": "9:30 & Esplanade",
+            "gps_longitude": -119.2111244082182,
+            "gps_latitude": 40.792532774424075
+        }
     },
     {
         "uid": "a1X0V000003HEIpUAO",
@@ -5019,7 +7076,12 @@
         "url": "http://suspendedanimationcrew.com/",
         "contact_email": "into@suspendedanimationcrew.com",
         "hometown": "Seattle",
-        "description": "Experience full-suspension erotic rope bondage: part kinetic art, part thrill ride, part endorphin rush. Our crew of expert riggers offers bondage and BDSM rides to all (Yes! You too can fly!), workshops for all levels, breathtaking performances, and night time play parties. We also rove the playa and build impromptu bondage sculpture!"
+        "description": "Experience full-suspension erotic rope bondage: part kinetic art, part thrill ride, part endorphin rush. Our crew of expert riggers offers bondage and BDSM rides to all (Yes! You too can fly!), workshops for all levels, breathtaking performances, and night time play parties. We also rove the playa and build impromptu bondage sculpture!",
+        "burnermap_location": {
+            "string": "7:00 & Breath",
+            "gps_longitude": -119.21771652667768,
+            "gps_latitude": 40.78434410068529
+        }
     },
     {
         "uid": "a1X0V000003HEL5UAO",
@@ -5028,7 +7090,12 @@
         "url": null,
         "contact_email": null,
         "hometown": null,
-        "description": "A gathering of post-apocalyptic tribes and restless souls. We who wander this Wasteland, in search of our better selves."
+        "description": "A gathering of post-apocalyptic tribes and restless souls. We who wander this Wasteland, in search of our better selves.",
+        "burnermap_location": {
+            "string": "4:00 & Breath",
+            "gps_longitude": -119.20362161195962,
+            "gps_latitude": 40.77818282150993
+        }
     },
     {
         "uid": "a1X0V000003HERcUAO",
@@ -5037,7 +7104,12 @@
         "url": "https://www.facebook.com/ParasolMafia/",
         "contact_email": "parasolmafia.inc@gmail.com",
         "hometown": "Portland",
-        "description": "Parasol Mafia is dedicated to helping you energize and sustain your body, heart, and mind. Enjoy our 24-hour Self Care Pharmacy with essentials like sunscreen, earplugs, water, first aid items, and other sustenance; groove with us at our reggae/ska happy hours; decorate and keep a parasol; revitalize yourself in our covered domes with guided workshops and comfortable seating; get funky at our night time dance parties; Love yourself, it's an offer you can't refuse."
+        "description": "Parasol Mafia is dedicated to helping you energize and sustain your body, heart, and mind. Enjoy our 24-hour Self Care Pharmacy with essentials like sunscreen, earplugs, water, first aid items, and other sustenance; groove with us at our reggae/ska happy hours; decorate and keep a parasol; revitalize yourself in our covered domes with guided workshops and comfortable seating; get funky at our night time dance parties; Love yourself, it's an offer you can't refuse.",
+        "burnermap_location": {
+            "string": "4:00 & Genuflect",
+            "gps_longitude": -119.20249788809402,
+            "gps_latitude": 40.7750065078431
+        }
     },
     {
         "uid": "a1X0V000003HES1UAO",
@@ -5046,7 +7118,12 @@
         "url": "https://www.facebook.com/CampDelicioso/",
         "contact_email": null,
         "hometown": "Long Beach",
-        "description": "Serving delicious crepes!  Come on down for some tasty tunes and groovy crepes at Camp Delicioso."
+        "description": "Serving delicious crepes!  Come on down for some tasty tunes and groovy crepes at Camp Delicioso.",
+        "burnermap_location": {
+            "string": "2:15 & Ceremony",
+            "gps_longitude": -119.19516764091506,
+            "gps_latitude": 40.78300872251151
+        }
     },
     {
         "uid": "a1X0V000003HEXfUAO",
@@ -5055,7 +7132,12 @@
         "url": "http://www.starstarroadhouse.com/",
         "contact_email": "starstarroadhouse@gmail.com",
         "hometown": "Placerville",
-        "description": "We bring a risque mix of dance, theater and live rock and roll to the playa. Sexy, physical, thematic. Daytime movement, yoga, and twerkshops throughout burn week in our shaded venue. Night time shows to loosen you up!"
+        "description": "We bring a risque mix of dance, theater and live rock and roll to the playa. Sexy, physical, thematic. Daytime movement, yoga, and twerkshops throughout burn week in our shaded venue. Night time shows to loosen you up!",
+        "burnermap_location": {
+            "string": "8:00 & Awe",
+            "gps_longitude": -119.21687821530239,
+            "gps_latitude": 40.788684693658595
+        }
     },
     {
         "uid": "a1X0V000003HEMhUAO",
@@ -5064,7 +7146,12 @@
         "url": "http://www.macgyversunion.com",
         "contact_email": "contact@macgyversunion.com",
         "hometown": "Oakland",
-        "description": "Every camp has a MacGyver -- now the MacGyvers have a union. We provide all MacGyvers with recognition, thanks, tools, training, entertainment, emotional and moral support, chill space away from their home camp, and an official ID card."
+        "description": "Every camp has a MacGyver -- now the MacGyvers have a union. We provide all MacGyvers with recognition, thanks, tools, training, entertainment, emotional and moral support, chill space away from their home camp, and an official ID card.",
+        "burnermap_location": {
+            "string": "7:15 & Breath",
+            "gps_longitude": -119.21800956245362,
+            "gps_latitude": 40.78545786327263
+        }
     },
     {
         "uid": "a1X0V000003HEUqUAO",
@@ -5073,7 +7160,12 @@
         "url": "https://sites.google.com/site/campkzz/",
         "contact_email": null,
         "hometown": "New York",
-        "description": "Camp Kin-Dza-Dza!, bringing space-junk dystopia and tea to the Playa since 2006!"
+        "description": "Camp Kin-Dza-Dza!, bringing space-junk dystopia and tea to the Playa since 2006!",
+        "burnermap_location": {
+            "string": "6:45 & Ceremony",
+            "gps_longitude": -119.21803235908496,
+            "gps_latitude": 40.783008722511504
+        }
     },
     {
         "uid": "a1X0V000003HEjRUAW",
@@ -5082,7 +7174,12 @@
         "url": null,
         "contact_email": "ladysizzle@gmail.com",
         "hometown": "Redding",
-        "description": "Celebrate 11:11--11:11 is a catalyst to unite people. It's a totally vertical moment in time. Make a wish at 11:11. Have a shot, give a kiss, or smoke a smoke at 11:11. Flame on at 11:11. Orgasm at precisely 11:11. Does anyone know what time is it? Its 11:11. Come help us discover 11:11 at Camp 11:11"
+        "description": "Celebrate 11:11--11:11 is a catalyst to unite people. It's a totally vertical moment in time. Make a wish at 11:11. Have a shot, give a kiss, or smoke a smoke at 11:11. Flame on at 11:11. Orgasm at precisely 11:11. Does anyone know what time is it? Its 11:11. Come help us discover 11:11 at Camp 11:11",
+        "burnermap_location": {
+            "string": "2:45 & Juju",
+            "gps_longitude": -119.19195821033782,
+            "gps_latitude": 40.778091398132474
+        }
     },
     {
         "uid": "a1X0V000003HEOsUAO",
@@ -5091,7 +7188,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Sunnyvale",
-        "description": "Camp Woo Woo - delivering happiness and spankings since 2012!"
+        "description": "Camp Woo Woo - delivering happiness and spankings since 2012!",
+        "burnermap_location": {
+            "string": "2:15 & Breath",
+            "gps_longitude": -119.19596989571168,
+            "gps_latitude": 40.783260736953125
+        }
     },
     {
         "uid": "a1X0V000003HERNUA4",
@@ -5100,7 +7202,12 @@
         "url": null,
         "contact_email": null,
         "hometown": null,
-        "description": "Come find your refuge from the elements of the playa - Paper Cranes offer replenishment in the form of pickle backs, salves, and tasty treats if you're lucky.  Make a paper crane with your best wishes and we'll deliver it safely to temple before she burns."
+        "description": "Come find your refuge from the elements of the playa - Paper Cranes offer replenishment in the form of pickle backs, salves, and tasty treats if you're lucky.  Make a paper crane with your best wishes and we'll deliver it safely to temple before she burns.",
+        "burnermap_location": {
+            "string": "8:45 & Genuflect",
+            "gps_longitude": -119.21917770827395,
+            "gps_latitude": 40.793905909965694
+        }
     },
     {
         "uid": "a1X0V000003HEZMUA4",
@@ -5109,7 +7216,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Oakland, CA and New York, NY",
-        "description": "Come spin, juggle, and shake all the things! We have a shaded space with plenty of practice props for you to play with, and we teach daytime workshops in poi, staff, hoop, rope dart, fans, yoga, twerking, and more!"
+        "description": "Come spin, juggle, and shake all the things! We have a shaded space with plenty of practice props for you to play with, and we teach daytime workshops in poi, staff, hoop, rope dart, fans, yoga, twerking, and more!",
+        "burnermap_location": {
+            "string": "6:00 & Eulogy",
+            "gps_longitude": -119.21657960060574,
+            "gps_latitude": 40.77904267712541
+        }
     },
     {
         "uid": "a1X0V000003HESaUAO",
@@ -5118,7 +7230,12 @@
         "url": "http://www.darumaproject.org",
         "contact_email": "angie@darumaproject.org",
         "hometown": "Primarily Los Angeles & San Francisco, with a few campmates from DC, AZ, CO, IL",
-        "description": "Dusty Daruma Dojo, formerly known as the Royal Gypsy Tribe, serves as the support camp for the Daruma art installation. Come visit us to learn about the Daruma and set an intention!"
+        "description": "Dusty Daruma Dojo, formerly known as the Royal Gypsy Tribe, serves as the support camp for the Daruma art installation. Come visit us to learn about the Daruma and set an intention!",
+        "burnermap_location": {
+            "string": "7:45 & Breath",
+            "gps_longitude": -119.21801140462152,
+            "gps_latitude": 40.787732666024304
+        }
     },
     {
         "uid": "a1X0V000003HEjMUAW",
@@ -5127,7 +7244,12 @@
         "url": "https://www.facebook.com/SpiritDreamEncounters/",
         "contact_email": null,
         "hometown": "N/A",
-        "description": "Chords of light coming down and woven into the tapestry of the land.  Living waters spring forth and bring refreshment, healing, and freedom.  Come and rest in the Coffee Dome. Share a cup of espresso brewed with intention. Open your spirit and receive revelation in the Encounter Tent. Truth, comfort, refreshing, cleansing, transformation, peace and love flow into you with no limits. Fill your cup and then return for more. It's all here for you. Join us for our 14th year of loving people and the land. Welcome home."
+        "description": "Chords of light coming down and woven into the tapestry of the land.  Living waters spring forth and bring refreshment, healing, and freedom.  Come and rest in the Coffee Dome. Share a cup of espresso brewed with intention. Open your spirit and receive revelation in the Encounter Tent. Truth, comfort, refreshing, cleansing, transformation, peace and love flow into you with no limits. Fill your cup and then return for more. It's all here for you. Join us for our 14th year of loving people and the land. Welcome home.",
+        "burnermap_location": {
+            "string": "4:15 & Breath",
+            "gps_longitude": -119.20509937728798,
+            "gps_latitude": 40.77796035808232
+        }
     },
     {
         "uid": "a1X0V000003HEktUAG",
@@ -5145,7 +7267,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Berlin - LA - SF",
-        "description": "NeverSleepAgain - Music.Magic.Moments."
+        "description": "NeverSleepAgain - Music.Magic.Moments.",
+        "burnermap_location": {
+            "string": "8:30 & Eulogy",
+            "gps_longitude": -119.21882483908391,
+            "gps_latitude": 40.791942885258905
+        }
     },
     {
         "uid": "a1X0V000003HEPbUAO",
@@ -5154,7 +7281,12 @@
         "url": "http://www.genderblenders.org",
         "contact_email": "info@genderblenders.org",
         "hometown": "SF Bay Area",
-        "description": "Boy? Girl? Ze? Unidentified? You decide. Gender Blender is a safe haven for those bending and blending gender norms. We create safer spaces for Trans, genderqueers, & gender non-conformers. We provide a welcoming place for those curious about gender play, mixing up one's gender for the first time, and general discussions on how gender impacts our lives. We are a gender conscious open loving community that loves sparkles, theatrics, drag, running anti-oppression workshops, and making queer smoothies on playa.\r\nCheck us out at www.genderblenders.org"
+        "description": "Boy? Girl? Ze? Unidentified? You decide. Gender Blender is a safe haven for those bending and blending gender norms. We create safer spaces for Trans, genderqueers, & gender non-conformers. We provide a welcoming place for those curious about gender play, mixing up one's gender for the first time, and general discussions on how gender impacts our lives. We are a gender conscious open loving community that loves sparkles, theatrics, drag, running anti-oppression workshops, and making queer smoothies on playa.\r\nCheck us out at www.genderblenders.org",
+        "burnermap_location": {
+            "string": "7:45 & Eulogy",
+            "gps_longitude": -119.22059514992095,
+            "gps_latitude": 40.787989121790545
+        }
     },
     {
         "uid": "a1X0V000003HEP7UAO",
@@ -5172,7 +7304,12 @@
         "url": "https://www.facebook.com/profile.php?id=100012029221863",
         "contact_email": "mattdvs@gmail.com",
         "hometown": "Reno, NV",
-        "description": "Silver City an old west themed camp that will be providing live music, open mic, swing dancing, line dancing, interactive games such as lassoing, Tin Cup, corn hole (bean bag toss), a bar providing beer, non alcoholic beverages, and slushies (great for when it is hot). Come by and ride our life size rocking horses, take your picture on the gallows, or just come by and say howdy and cool off in our covered bar."
+        "description": "Silver City an old west themed camp that will be providing live music, open mic, swing dancing, line dancing, interactive games such as lassoing, Tin Cup, corn hole (bean bag toss), a bar providing beer, non alcoholic beverages, and slushies (great for when it is hot). Come by and ride our life size rocking horses, take your picture on the gallows, or just come by and say howdy and cool off in our covered bar.",
+        "burnermap_location": {
+            "string": "7:15 & Hallowed",
+            "gps_longitude": -119.22317725804663,
+            "gps_latitude": 40.78494634491609
+        }
     },
     {
         "uid": "a1X0V000003HETsUAO",
@@ -5181,7 +7318,12 @@
         "url": "http://www.campproper.org",
         "contact_email": "info@campproper.org",
         "hometown": "Bay Area",
-        "description": "Do you think of yourself as a Proper Burner? Have you always wanted to become a Proper Burner? Stop by CampProper to take your Proper Burner exam and earn your Burner License while enjoying some ProperTea! Think you can pass the exam? Stop by and find out! Oh\u2026and we have some proper beats throughout the week at our ProperTea Dance parties. \n\nCampProper espouses the virtues of being a proper burner. We are an LGBTQ+ welcoming space for all citizens of Black Rock City who might want to become a little more proper."
+        "description": "Do you think of yourself as a Proper Burner? Have you always wanted to become a Proper Burner? Stop by CampProper to take your Proper Burner exam and earn your Burner License while enjoying some ProperTea! Think you can pass the exam? Stop by and find out! Oh…and we have some proper beats throughout the week at our ProperTea Dance parties. \n\nCampProper espouses the virtues of being a proper burner. We are an LGBTQ+ welcoming space for all citizens of Black Rock City who might want to become a little more proper.",
+        "burnermap_location": {
+            "string": "7:45 & Fire",
+            "gps_longitude": -119.22145640090253,
+            "gps_latitude": 40.78807460729891
+        }
     },
     {
         "uid": "a1X0V000003HEZgUAO",
@@ -5190,7 +7332,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco, Los Angeles",
-        "description": "Camp Fingerbang is dedicated to raising the level of inappropriateness on the playa - Cheer team and All! We are a delightfully ridiculous group. We do not take ourselves seriously at all and neither will you when you come to visit."
+        "description": "Camp Fingerbang is dedicated to raising the level of inappropriateness on the playa - Cheer team and All! We are a delightfully ridiculous group. We do not take ourselves seriously at all and neither will you when you come to visit.",
+        "burnermap_location": {
+            "string": "5:50 & Eulogy",
+            "gps_longitude": -119.21566655159575,
+            "gps_latitude": 40.778409716841665
+        }
     },
     {
         "uid": "a1X0V000003HEPqUAO",
@@ -5199,7 +7346,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Reno",
-        "description": "The WetSpot Bar & Faceplant Lounge: Welcome to the best place on the playa to enjoy a craft brew or SNG while relaxing in our unique lounge. WetSpot is about making new friends in an open to all setting while engaging in musings around one of our favorite pastimes: consuming libations. Our crew includes homebrewers and non-homebrewers alike and provides an inviting atmosphere to sample one of our concoctions as well as just having fun."
+        "description": "The WetSpot Bar & Faceplant Lounge: Welcome to the best place on the playa to enjoy a craft brew or SNG while relaxing in our unique lounge. WetSpot is about making new friends in an open to all setting while engaging in musings around one of our favorite pastimes: consuming libations. Our crew includes homebrewers and non-homebrewers alike and provides an inviting atmosphere to sample one of our concoctions as well as just having fun.",
+        "burnermap_location": {
+            "string": "4:00 & Fire",
+            "gps_longitude": -119.20272262427082,
+            "gps_latitude": 40.77564177144846
+        }
     },
     {
         "uid": "a1X0V000003HEkjUAG",
@@ -5208,7 +7360,12 @@
         "url": "https://legit.camp",
         "contact_email": "folks@legit.camp",
         "hometown": "Brooklyn",
-        "description": "Totally Legit Camp is a camp based in Brooklyn, NY. We brew 15 gallons of New Orleans style cold brew coffee each day on the playa and serve it with love."
+        "description": "Totally Legit Camp is a camp based in Brooklyn, NY. We brew 15 gallons of New Orleans style cold brew coffee each day on the playa and serve it with love.",
+        "burnermap_location": {
+            "string": "9:30 & Eulogy",
+            "gps_longitude": -119.21365843000717,
+            "gps_latitude": 40.795855050903654
+        }
     },
     {
         "uid": "a1X0V000003HEm1UAG",
@@ -5217,7 +7374,12 @@
         "url": "https://www.facebook.com/groups/111107568995459/",
         "contact_email": null,
         "hometown": "San Francisco, Los Angeles, Reno, Albuquerque, Seattle, Denver, New York City, Arlington, Baltimore, Washington DC, Sydney",
-        "description": "Vietnamese Iced Coffee Experience is an all inclusive Burning Man Theme Camp offering a cool icy beverage during the heat of the day as well as several other activities for our fellow participants. We encourage diversity, participation, and acceptance and welcome new members from all locales and walks of life.  We can be contacted through the facebook group:  VICE - Vietnamese Iced Coffee Experience:\n\nhttps://www.facebook.com/groups/111107568995459/"
+        "description": "Vietnamese Iced Coffee Experience is an all inclusive Burning Man Theme Camp offering a cool icy beverage during the heat of the day as well as several other activities for our fellow participants. We encourage diversity, participation, and acceptance and welcome new members from all locales and walks of life.  We can be contacted through the facebook group:  VICE - Vietnamese Iced Coffee Experience:\n\nhttps://www.facebook.com/groups/111107568995459/",
+        "burnermap_location": {
+            "string": "6:45 & Genuflect",
+            "gps_longitude": -119.22124442703583,
+            "gps_latitude": 40.78200595809783
+        }
     },
     {
         "uid": "a1X0V000003HETxUAO",
@@ -5226,7 +7388,12 @@
         "url": "http://www.dustygoats.com",
         "contact_email": null,
         "hometown": "Vail",
-        "description": "Dusty Goats - Come and get f***ked up like a goat with dancing in our dome and showing us your goat golfing skills. Stick around and recover with our yoga sessions, massage and rest your hooves under our huge shade structure. Come by and have a goat-tastic time!"
+        "description": "Dusty Goats - Come and get f***ked up like a goat with dancing in our dome and showing us your goat golfing skills. Stick around and recover with our yoga sessions, massage and rest your hooves under our huge shade structure. Come by and have a goat-tastic time!",
+        "burnermap_location": {
+            "string": "9:45 & Ceremony",
+            "gps_longitude": -119.21134116556314,
+            "gps_latitude": 40.79525698109805
+        }
     },
     {
         "uid": "a1X0V000003HEl3UAG",
@@ -5235,7 +7402,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Floriston, CA and our sister cities, Toronto, Canada, Reno, NV and Portland, OR",
-        "description": "Floristonia provides a welcoming, nurturing environment with a place to relax, rehydrate and recharge while enjoying an ice cold margarita and visiting with new friends."
+        "description": "Floristonia provides a welcoming, nurturing environment with a place to relax, rehydrate and recharge while enjoying an ice cold margarita and visiting with new friends.",
+        "burnermap_location": {
+            "string": "2:45 & Fire",
+            "gps_longitude": -119.19471870721922,
+            "gps_latitude": 40.779688742580994
+        }
     },
     {
         "uid": "a1X0V000003HEaoUAG",
@@ -5244,7 +7416,12 @@
         "url": "https://www.facebook.com/BorntoRoamBurningman/",
         "contact_email": "borntoroambm2013@gmail.com",
         "hometown": "Los Angeles",
-        "description": "Born To Roam. A crowd sourced, communal photo experiment."
+        "description": "Born To Roam. A crowd sourced, communal photo experiment.",
+        "burnermap_location": {
+            "string": "3:15 & Kundalini",
+            "gps_longitude": -119.19483680105056,
+            "gps_latitude": 40.77499022190424
+        }
     },
     {
         "uid": "a1X0V000003HEb3UAG",
@@ -5262,7 +7439,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Boston",
-        "description": "A buzzing mass of madness from the East descends upon the desert, full of burning light and energy. Is the Hive full of honey, or stings? Bathe in our glow, and discover!"
+        "description": "A buzzing mass of madness from the East descends upon the desert, full of burning light and energy. Is the Hive full of honey, or stings? Bathe in our glow, and discover!",
+        "burnermap_location": {
+            "string": "6:30 & Eulogy",
+            "gps_longitude": -119.21882287193033,
+            "gps_latitude": 40.78125582486021
+        }
     },
     {
         "uid": "a1X0V000003HEQFUA4",
@@ -5280,7 +7462,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Reno",
-        "description": "We are an art installation and department volunteer support camp.  We volunteer with ARTery and EMS, and are participants in Black Rock City Supper Club, and Bloom, among lots of other fun things."
+        "description": "We are an art installation and department volunteer support camp.  We volunteer with ARTery and EMS, and are participants in Black Rock City Supper Club, and Bloom, among lots of other fun things.",
+        "burnermap_location": {
+            "string": "6:15 & Eulogy",
+            "gps_longitude": -119.21779254212619,
+            "gps_latitude": 40.780089383585235
+        }
     },
     {
         "uid": "a1X0V000003HEmaUAG",
@@ -5298,7 +7485,12 @@
         "url": "http://www.facebook.com/elephantbirdcamp",
         "contact_email": "spirit_tamer@chakras.horse",
         "hometown": "Bay Area",
-        "description": "Colorful eyebrows? CHECK! Dunking Contest? CHECK! Juice Smoothies? CHECK! Yatch rock? Jock rock? Not rock? Check, check, and check! Trying to get a handle on what we do here at Irrelephant Bird Camp? Don't even try it. Just come by and get a little silly with us, touch base with reality, or take a nap overseas."
+        "description": "Colorful eyebrows? CHECK! Dunking Contest? CHECK! Juice Smoothies? CHECK! Yatch rock? Jock rock? Not rock? Check, check, and check! Trying to get a handle on what we do here at Irrelephant Bird Camp? Don't even try it. Just come by and get a little silly with us, touch base with reality, or take a nap overseas.",
+        "burnermap_location": {
+            "string": "6:30 & Breath",
+            "gps_longitude": -119.21656648977844,
+            "gps_latitude": 40.78224253887308
+        }
     },
     {
         "uid": "a1X0V000003HEUMUA4",
@@ -5307,7 +7499,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "The Orphanage is being jointly planned out of Orlando Florida and Boston Massachusetts",
-        "description": "The Orphanage - come join us for a few minutes or a few hours and let us be your \"home away from home\""
+        "description": "The Orphanage - come join us for a few minutes or a few hours and let us be your \"home away from home\"",
+        "burnermap_location": {
+            "string": "2:00 & Genuflect",
+            "gps_longitude": -119.19128875387932,
+            "gps_latitude": 40.78349254070713
+        }
     },
     {
         "uid": "a1X0V000003HEdsUAG",
@@ -5316,7 +7513,12 @@
         "url": "http://www.burnerswithoutborders.org",
         "contact_email": "bwb@burningman.org",
         "hometown": "San Francisco / Chicago",
-        "description": "Burners Without Borders (BWB) Camp returns to BRC-2017 celebrating the work of our community around the world and taking a look at the world refugee crisis and how burners, and burner prototypes are shaping the field.\r\n\r\nCome and join us for music, making, speakers, art and service offerings designed to leave you refreshed & inspired.\r\n\r\n(http://www.burnerswithoutborders.org/)"
+        "description": "Burners Without Borders (BWB) Camp returns to BRC-2017 celebrating the work of our community around the world and taking a look at the world refugee crisis and how burners, and burner prototypes are shaping the field.\r\n\r\nCome and join us for music, making, speakers, art and service offerings designed to leave you refreshed & inspired.\r\n\r\n(http://www.burnerswithoutborders.org/)",
+        "burnermap_location": {
+            "string": "2:45 & Esplanade",
+            "gps_longitude": -119.19942521893364,
+            "gps_latitude": 40.78242648455942
+        }
     },
     {
         "uid": "a1X0V000003HEQjUAO",
@@ -5334,7 +7536,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "SF Bay area/Sacremanto/ San Luis Obispo/ Humboldt County",
-        "description": "Jovial jesting. Impeccability incarnate. Magic made manifest. Ravishing Raver Seals. Star kissed sunflowers. Balls deep in bliss. Experience the meaning of Bonjoya in the sharky waters of Enchante. 100% Whole grain and positively No Fun."
+        "description": "Jovial jesting. Impeccability incarnate. Magic made manifest. Ravishing Raver Seals. Star kissed sunflowers. Balls deep in bliss. Experience the meaning of Bonjoya in the sharky waters of Enchante. 100% Whole grain and positively No Fun.",
+        "burnermap_location": {
+            "string": "9:15 & Eulogy",
+            "gps_longitude": -119.21519877481357,
+            "gps_latitude": 40.795075211956
+        }
     },
     {
         "uid": "a1X0V000003HER3UAO",
@@ -5343,7 +7550,12 @@
         "url": "http://mystikalmisfits.com",
         "contact_email": "contact@mystikalmisfits.com",
         "hometown": "Los Angeles",
-        "description": "The Mystikal Misfits present THE SHCOOL HOUSE (yes, it's spelled that way), where you've got a second chance to do high school the right way. Make out under the bleachers, enjoy your punishment in detention, leave notes in the lockers, and earn extra credit by dancing your face off while the sub loses his mind. mystikalmisfits.com"
+        "description": "The Mystikal Misfits present THE SHCOOL HOUSE (yes, it's spelled that way), where you've got a second chance to do high school the right way. Make out under the bleachers, enjoy your punishment in detention, leave notes in the lockers, and earn extra credit by dancing your face off while the sub loses his mind. mystikalmisfits.com",
+        "burnermap_location": {
+            "string": "4:30 & Ceremony",
+            "gps_longitude": -119.20660000000001,
+            "gps_latitude": 40.777228269980135
+        }
     },
     {
         "uid": "a1X0V000003HEmpUAG",
@@ -5352,7 +7564,12 @@
         "url": "https://www.facebook.com/campud",
         "contact_email": "playapuppy@gmail.com",
         "hometown": "Corralitos / Chico",
-        "description": "Rising Up out of the Chaos of the Default World comes your Beacon of Hope:  Camp Upsie Dasium!  Featuring a 45 foot high climbable Tower, Silhouette Theater, over 1500 sq ft of Shade, Live Music and Tastings. Come Climb the Tower and Enjoy the View of BRC. We are open to Burners who want to use our camp for small events."
+        "description": "Rising Up out of the Chaos of the Default World comes your Beacon of Hope:  Camp Upsie Dasium!  Featuring a 45 foot high climbable Tower, Silhouette Theater, over 1500 sq ft of Shade, Live Music and Tastings. Come Climb the Tower and Enjoy the View of BRC. We are open to Burners who want to use our camp for small events.",
+        "burnermap_location": {
+            "string": "7:30 & Breath",
+            "gps_longitude": -119.21810906612154,
+            "gps_latitude": 40.78659942828001
+        }
     },
     {
         "uid": "a1X0V000003HEgcUAG",
@@ -5361,7 +7578,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Anchorage",
-        "description": "Come one come all for our kinky and raunchy socks at our Erotic Sock Puppet Theater. Or do you dare challenge us to a game of Flunky Ball?"
+        "description": "Come one come all for our kinky and raunchy socks at our Erotic Sock Puppet Theater. Or do you dare challenge us to a game of Flunky Ball?",
+        "burnermap_location": {
+            "string": "4:15 & Genuflect",
+            "gps_longitude": -119.20453125510309,
+            "gps_latitude": 40.774700272567486
+        }
     },
     {
         "uid": "a1X0V000003HEhpUAG",
@@ -5370,7 +7592,12 @@
         "url": "https://www.facebook.com/CafeDiemBRC",
         "contact_email": null,
         "hometown": "North Lake Tahoe",
-        "description": "We can make you almost any coffee or tea drink imaginable and we strive to make it the best you've ever had. We serve turkish coffee, matcha, masala chai, yerba mate, espresso, pour-over, and a wide array of teas from around the world."
+        "description": "We can make you almost any coffee or tea drink imaginable and we strive to make it the best you've ever had. We serve turkish coffee, matcha, masala chai, yerba mate, espresso, pour-over, and a wide array of teas from around the world.",
+        "burnermap_location": {
+            "string": "4:15 & Dance",
+            "gps_longitude": -119.20487286839162,
+            "gps_latitude": 40.7766562622959
+        }
     },
     {
         "uid": "a1X0V000003HEj7UAG",
@@ -5379,7 +7606,12 @@
         "url": "http://www.cornstars.club",
         "contact_email": null,
         "hometown": "Washington, DC",
-        "description": "Are you corny all the time?  Guess what?  So are we!  Come to Cornstars.  Have a drink at the Silo Bar.  Stuff your cornhole.  Make your own \"corn shoot\" or \"corn film.\"  Show us your cob, your silk, or whatever kernels you have hiding in your husks!  We're looking for the next Cornstar, and we're set up to feed your corn addiction!  Get corny with us!"
+        "description": "Are you corny all the time?  Guess what?  So are we!  Come to Cornstars.  Have a drink at the Silo Bar.  Stuff your cornhole.  Make your own \"corn shoot\" or \"corn film.\"  Show us your cob, your silk, or whatever kernels you have hiding in your husks!  We're looking for the next Cornstar, and we're set up to feed your corn addiction!  Get corny with us!",
+        "burnermap_location": {
+            "string": "9:15 & Eulogy",
+            "gps_longitude": -119.21519877481357,
+            "gps_latitude": 40.795075211956
+        }
     },
     {
         "uid": "a1X0V000003HEniUAG",
@@ -5388,7 +7620,12 @@
         "url": "http://www.rootpile.comj",
         "contact_email": "fixxer@rootpile.com",
         "hometown": "Boone, NC",
-        "description": "Rootpile is a camp composed of burners from all over the world, but particularly from North Carolina, whose mission is to continue bringing, with our fifth year on playa, live Bluegrass music, hillbilly culture and hillbilly food and drink to the Playa. We have live nightly Bluegrass music concerts by professional level bluegrass musicians at which we prepare food for at least 250 people and we have daily instrument lessons on banjo, mandolin, guitar, fiddle and upright bass and we also have our Hillbilly Olympix area with lots of redneck games, yall come bank now, ya hear?"
+        "description": "Rootpile is a camp composed of burners from all over the world, but particularly from North Carolina, whose mission is to continue bringing, with our fifth year on playa, live Bluegrass music, hillbilly culture and hillbilly food and drink to the Playa. We have live nightly Bluegrass music concerts by professional level bluegrass musicians at which we prepare food for at least 250 people and we have daily instrument lessons on banjo, mandolin, guitar, fiddle and upright bass and we also have our Hillbilly Olympix area with lots of redneck games, yall come bank now, ya hear?",
+        "burnermap_location": {
+            "string": "6:00 & Eulogy",
+            "gps_longitude": -119.21657960060574,
+            "gps_latitude": 40.77904267712541
+        }
     },
     {
         "uid": "a1X0V000003HEhzUAG",
@@ -5397,7 +7634,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Reno, NV",
-        "description": "Accept no substitutions. Daily Ass Stampings by Burners for Burners. Share and share alike. (This is a rubber stamp not a sex camp)"
+        "description": "Accept no substitutions. Daily Ass Stampings by Burners for Burners. Share and share alike. (This is a rubber stamp not a sex camp)",
+        "burnermap_location": {
+            "string": "8:45 & Ceremony",
+            "gps_longitude": -119.21642448959871,
+            "gps_latitude": 40.79230083156668
+        }
     },
     {
         "uid": "a1X0V000003HEogUAG",
@@ -5406,7 +7648,12 @@
         "url": "https://www.facebook.com/Camp-Armageddon-51276852446/",
         "contact_email": "spenserheaps@gmail.com",
         "hometown": "Chico",
-        "description": "Armageddon - it's not the end of the world, it's the Safe Word! Come to Armageddon for bike repair, yoga, music or just to 'set a spell' in our community dome! We offer professional bike repair daily, serving the 3:00 sector for 10 years. Morning yoga classes in our dome are the best way to start your playa day! And our dome is a great place to hang out and watch the world go by, at any time. Come for a visit!"
+        "description": "Armageddon - it's not the end of the world, it's the Safe Word! Come to Armageddon for bike repair, yoga, music or just to 'set a spell' in our community dome! We offer professional bike repair daily, serving the 3:00 sector for 10 years. Morning yoga classes in our dome are the best way to start your playa day! And our dome is a great place to hang out and watch the world go by, at any time. Come for a visit!",
+        "burnermap_location": {
+            "string": "3:00 & Juju",
+            "gps_longitude": -119.19355020990311,
+            "gps_latitude": 40.77671717407414
+        }
     },
     {
         "uid": "a1X0V000003HEpyUAG",
@@ -5424,7 +7671,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Park City",
-        "description": "Pink Spot, burning pink hot since Psyche 2005, home of the Pink Love Bunny mutant vehicle and bunnies from Utah, California, Arizona, Carolina, Australia, and all over the world.  Hop on by for great tunes from our DJs, the finest(?) whiskey and a whole lotta hugs, cause you know everyBunny loves you!"
+        "description": "Pink Spot, burning pink hot since Psyche 2005, home of the Pink Love Bunny mutant vehicle and bunnies from Utah, California, Arizona, Carolina, Australia, and all over the world.  Hop on by for great tunes from our DJs, the finest(?) whiskey and a whole lotta hugs, cause you know everyBunny loves you!",
+        "burnermap_location": {
+            "string": "4:45 & Fire",
+            "gps_longitude": -119.20855364045433,
+            "gps_latitude": 40.77535216679971
+        }
     },
     {
         "uid": "a1X0V000003HEpoUAG",
@@ -5433,7 +7685,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Portland, OR",
-        "description": "Stop by Hooville at Sunset for all you can eat hummus.  Drive by on your bike for a quick bite, or hop off and join our dance party.  Come inside and relax with some Hookah!"
+        "description": "Stop by Hooville at Sunset for all you can eat hummus.  Drive by on your bike for a quick bite, or hop off and join our dance party.  Come inside and relax with some Hookah!",
+        "burnermap_location": {
+            "string": "7:15 & Fire",
+            "gps_longitude": -119.22145392711097,
+            "gps_latitude": 40.785113070438236
+        }
     },
     {
         "uid": "a1X0V000003HErfUAG",
@@ -5442,7 +7699,12 @@
         "url": "https://facebook.com/campyeahman/",
         "contact_email": "campyeahman@gmail.com",
         "hometown": "Los Angeles",
-        "description": "Have you ever exclaimed \"Yeah Man!\"? Come share your story or experience a new one at Camp Yeah Man! Grab a drink and enjoy an eclectic music selection."
+        "description": "Have you ever exclaimed \"Yeah Man!\"? Come share your story or experience a new one at Camp Yeah Man! Grab a drink and enjoy an eclectic music selection.",
+        "burnermap_location": {
+            "string": "4:45 & Fire",
+            "gps_longitude": -119.20855364045433,
+            "gps_latitude": 40.77535216679971
+        }
     },
     {
         "uid": "a1X0V000003HErzUAG",
@@ -5451,7 +7713,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Chicago & Los Angeles",
-        "description": "Kamp Keto is dedicated to the life-changing lifestyle of ketosis; cutting out sugar and carbs, and training your body to burn stored fat as fuel. We'll get you on the path to achieve your health and fitness goals, and also provide some very tasty Keto cocktails."
+        "description": "Kamp Keto is dedicated to the life-changing lifestyle of ketosis; cutting out sugar and carbs, and training your body to burn stored fat as fuel. We'll get you on the path to achieve your health and fitness goals, and also provide some very tasty Keto cocktails.",
+        "burnermap_location": {
+            "string": "6:45 & Ceremony",
+            "gps_longitude": -119.21803235908496,
+            "gps_latitude": 40.783008722511504
+        }
     },
     {
         "uid": "a1X0V000003HEsEUAW",
@@ -5460,7 +7727,12 @@
         "url": null,
         "contact_email": "tony.lanni@blackline.com",
         "hometown": "Los Angeles",
-        "description": "Pinkee's Truck Stop (Camp YNot) is Black Rock Cities premier rest  stop featuring everyone's favorite giant pink unicorn, Pinkee. Come take a break from your playa travels, enjoy fun games, visit our gift shop, and find out why everyone is saying, \"I < 3 Pinkee's!\""
+        "description": "Pinkee's Truck Stop (Camp YNot) is Black Rock Cities premier rest  stop featuring everyone's favorite giant pink unicorn, Pinkee. Come take a break from your playa travels, enjoy fun games, visit our gift shop, and find out why everyone is saying, \"I < 3 Pinkee's!\"",
+        "burnermap_location": {
+            "string": "9:30 & Breath",
+            "gps_longitude": -119.21235518712622,
+            "gps_latitude": 40.794146458494794
+        }
     },
     {
         "uid": "a1X0V000003HEsYUAW",
@@ -5469,7 +7741,7 @@
         "url": null,
         "contact_email": null,
         "hometown": "Berkeley",
-        "description": "Come to Cranky and Sons for assistance, education and advice for those \"Oh shit!\" cycling needs, from a flat tire to exploded derailleur \u2014 we'll help you get back out onto the playa. If you've got some free time and can lend a hand, grab a beer and a wrench and help us help those in need!  Mechanics on duty 10am to 2pm \u2013 DIY tools and supplies available any time."
+        "description": "Come to Cranky and Sons for assistance, education and advice for those \"Oh shit!\" cycling needs, from a flat tire to exploded derailleur — we'll help you get back out onto the playa. If you've got some free time and can lend a hand, grab a beer and a wrench and help us help those in need!  Mechanics on duty 10am to 2pm – DIY tools and supplies available any time."
     },
     {
         "uid": "a1X0V000003HEq8UAG",
@@ -5478,7 +7750,12 @@
         "url": null,
         "contact_email": "cool.intentions.camp@gmail.com",
         "hometown": "San Francisco",
-        "description": "Cool Intentions will be a sacred space for all citizens of BRC to take time for themselves to set the wheels in motion for personal growth and new experiences. We exist to support the integration of the Burning Man principles and one's experience into year round transformation."
+        "description": "Cool Intentions will be a sacred space for all citizens of BRC to take time for themselves to set the wheels in motion for personal growth and new experiences. We exist to support the integration of the Burning Man principles and one's experience into year round transformation.",
+        "burnermap_location": {
+            "string": "4:30 & Lustrate",
+            "gps_longitude": -119.20660000000001,
+            "gps_latitude": 40.77130928259917
+        }
     },
     {
         "uid": "a1X0V000003HEt7UAG",
@@ -5487,7 +7764,12 @@
         "url": "http://www.dustybootyranch.com",
         "contact_email": null,
         "hometown": "Seattle",
-        "description": "An outpost where misfits fit."
+        "description": "An outpost where misfits fit.",
+        "burnermap_location": {
+            "string": "9:30 & Breath",
+            "gps_longitude": -119.21235518712622,
+            "gps_latitude": 40.794146458494794
+        }
     },
     {
         "uid": "a1X0V000003HEsJUAW",
@@ -5505,7 +7787,12 @@
         "url": null,
         "contact_email": null,
         "hometown": null,
-        "description": "Finding your inspiration sometime means being in the right place at the right time, Inspiration Oasis will be this place all week long."
+        "description": "Finding your inspiration sometime means being in the right place at the right time, Inspiration Oasis will be this place all week long.",
+        "burnermap_location": {
+            "string": "2:15 & Dance",
+            "gps_longitude": -119.19436538853539,
+            "gps_latitude": 40.78275670882914
+        }
     },
     {
         "uid": "a1X0V000003HEraUAG",
@@ -5514,7 +7801,12 @@
         "url": "https://www.facebook.com/groups/FlatulenceAmplificationResearchTeam/",
         "contact_email": "odgreen@gmail.com",
         "hometown": "Sacramento",
-        "description": "Flatulence Amplification Research Team (F.A.R.T.) Kamp provides interactive lectures and workshops for wig making, pendant making, and T-shirt slashing, and Freddy's Photography booth. J's Theatre will show films/movies/short subjects most nights. Fart into a megaphone if the timing is right, or stop by and learn to tie a shemagh, and listen for the flame thrower nachos!"
+        "description": "Flatulence Amplification Research Team (F.A.R.T.) Kamp provides interactive lectures and workshops for wig making, pendant making, and T-shirt slashing, and Freddy's Photography booth. J's Theatre will show films/movies/short subjects most nights. Fart into a megaphone if the timing is right, or stop by and learn to tie a shemagh, and listen for the flame thrower nachos!",
+        "burnermap_location": {
+            "string": "6:45 & Ceremony",
+            "gps_longitude": -119.21803235908496,
+            "gps_latitude": 40.783008722511504
+        }
     },
     {
         "uid": "a1X0V000003HEvXUAW",
@@ -5523,7 +7815,12 @@
         "url": "http://brulee.co",
         "contact_email": "daniel@brulee.co",
         "hometown": "Denver",
-        "description": "Cult of Brulee.  A traveling circus inviting you to join us in exploring the Beauty of Bacon, Reason and Ritual. Underlying Unification Lusty Laughter, Esoteric Eroticism\nand the Exaltation of the Erotic"
+        "description": "Cult of Brulee.  A traveling circus inviting you to join us in exploring the Beauty of Bacon, Reason and Ritual. Underlying Unification Lusty Laughter, Esoteric Eroticism\nand the Exaltation of the Erotic",
+        "burnermap_location": {
+            "string": "7:30 & Esplanade",
+            "gps_longitude": -119.21564800797701,
+            "gps_latitude": 40.7865996466467
+        }
     },
     {
         "uid": "a1X0V000003HEueUAG",
@@ -5532,7 +7829,12 @@
         "url": null,
         "contact_email": null,
         "hometown": null,
-        "description": "Come relax, refresh and enjoy our booster exotic Rum Cocktails in our tropical oasis in the midst of Black Rock City! Life is a Beach, long live Rum and Burning Man!"
+        "description": "Come relax, refresh and enjoy our booster exotic Rum Cocktails in our tropical oasis in the midst of Black Rock City! Life is a Beach, long live Rum and Burning Man!",
+        "burnermap_location": {
+            "string": "7:45 & Fire",
+            "gps_longitude": -119.22145640090253,
+            "gps_latitude": 40.78807460729891
+        }
     },
     {
         "uid": "a1X0V000003HEw1UAG",
@@ -5541,7 +7843,12 @@
         "url": "http://www.betherenow.us",
         "contact_email": "hellobob@bobdow.me",
         "hometown": "Oakland",
-        "description": "Be There Now\n\nCome sit in Temporary Enlightenment, a temporal sound and video cube."
+        "description": "Be There Now\n\nCome sit in Temporary Enlightenment, a temporal sound and video cube.",
+        "burnermap_location": {
+            "string": "4:45 & Genuflect",
+            "gps_longitude": -119.20866874489691,
+            "gps_latitude": 40.774700272567486
+        }
     },
     {
         "uid": "a1X0V000003HEvmUAG",
@@ -5550,7 +7857,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Washington, DC",
-        "description": "3SP (Third Space Place) celebrates \"third spaces\" \u2014 social, relaxing hubs that offer a real sense of place beyond home (\"first space\") and work (\"second space\"). As a true \"third space\" of radical inclusion, 3SP's comfy retreat from the sun and dust will offer a place for authentic conversation and interactive events that 3SP knows from experience will encourage you to stop by, have a chat, express yourself, and participate!"
+        "description": "3SP (Third Space Place) celebrates \"third spaces\" — social, relaxing hubs that offer a real sense of place beyond home (\"first space\") and work (\"second space\"). As a true \"third space\" of radical inclusion, 3SP's comfy retreat from the sun and dust will offer a place for authentic conversation and interactive events that 3SP knows from experience will encourage you to stop by, have a chat, express yourself, and participate!",
+        "burnermap_location": {
+            "string": "4:15 & Fire",
+            "gps_longitude": -119.20464635954566,
+            "gps_latitude": 40.77535216679971
+        }
     },
     {
         "uid": "a1X0V000003HEwGUAW",
@@ -5559,7 +7871,12 @@
         "url": "http://prettypicklecamp.p1r8.net",
         "contact_email": null,
         "hometown": "Denver",
-        "description": "Pretty Pickle Camp: A relaxed outpost on the road to nowhere featuring cold pickle service to passersby in the afternoon."
+        "description": "Pretty Pickle Camp: A relaxed outpost on the road to nowhere featuring cold pickle service to passersby in the afternoon.",
+        "burnermap_location": {
+            "string": "8:45 & Ceremony",
+            "gps_longitude": -119.21642448959871,
+            "gps_latitude": 40.79230083156668
+        }
     },
     {
         "uid": "a1X0V000003HER8UAO",
@@ -5568,7 +7885,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "Boots & Cats - your one stop shop for boot repairs, drinks, sunset parties, and people who don't like cats."
+        "description": "Boots & Cats - your one stop shop for boot repairs, drinks, sunset parties, and people who don't like cats.",
+        "burnermap_location": {
+            "string": "7:30 & Kundalini",
+            "gps_longitude": -119.22592654479467,
+            "gps_latitude": 40.78659838782702
+        }
     },
     {
         "uid": "a1X0V000003HEwQUAW",
@@ -5577,7 +7899,12 @@
         "url": "http://mathcamp.us",
         "contact_email": "info@mathcamp.us",
         "hometown": "Bay Area",
-        "description": "Math Camp @ Group W is A Safe Place for Mathematics:  A small, social camp, offering a place to Drink and DErive!  Daily lectures and long-winded impromptu chats on all things Math related.  We are proud Purveyors of Crunchy Snacks, Servers of Pie at 3:14, plus we have The Best Friday Morning Sunrise Cocktail Party on the playa (not to mention home of the fabulous Electric Cupcakes)."
+        "description": "Math Camp @ Group W is A Safe Place for Mathematics:  A small, social camp, offering a place to Drink and DErive!  Daily lectures and long-winded impromptu chats on all things Math related.  We are proud Purveyors of Crunchy Snacks, Servers of Pie at 3:14, plus we have The Best Friday Morning Sunrise Cocktail Party on the playa (not to mention home of the fabulous Electric Cupcakes).",
+        "burnermap_location": {
+            "string": "3:15 & Genuflect",
+            "gps_longitude": -119.19695123029106,
+            "gps_latitude": 40.77707746108055
+        }
     },
     {
         "uid": "a1X0V000003HExJUAW",
@@ -5586,7 +7913,12 @@
         "url": "http://www.campalterego.com",
         "contact_email": "sarahbluesky@aol.com",
         "hometown": "Reno and Los Angeles",
-        "description": "Alter Ego\r\ncreating an experience through art that challenges and expands one's sense of self.\r\nWe are a group of Architects, Artists and Musicians."
+        "description": "Alter Ego\r\ncreating an experience through art that challenges and expands one's sense of self.\r\nWe are a group of Architects, Artists and Musicians.",
+        "burnermap_location": {
+            "string": "4:15 & Fire",
+            "gps_longitude": -119.20464635954566,
+            "gps_latitude": 40.77535216679971
+        }
     },
     {
         "uid": "a1X0V000003HEwpUAG",
@@ -5595,7 +7927,12 @@
         "url": null,
         "contact_email": "rex_with_no_t@yahoo.com",
         "hometown": "Sacramento",
-        "description": "Stop by Camp Cleopatra any day between 11 am and 2 pm (or any other time you see someone around) and enjoy a Cleopatra with friends. In case you didn't know, a Cleopatra is a health drink with rum \u2026"
+        "description": "Stop by Camp Cleopatra any day between 11 am and 2 pm (or any other time you see someone around) and enjoy a Cleopatra with friends. In case you didn't know, a Cleopatra is a health drink with rum …",
+        "burnermap_location": {
+            "string": "3:15 & Inspirit",
+            "gps_longitude": -119.19589399906289,
+            "gps_latitude": 40.77603384631638
+        }
     },
     {
         "uid": "a1X0V000003HEwuUAG",
@@ -5604,7 +7941,12 @@
         "url": "https://chaoscamp.wordpress.com/",
         "contact_email": "captvic4@gmail.com",
         "hometown": "Portland",
-        "description": "Chaos, joy, good conversation, parades and motherly advice.  Gold parade Wednesday, assemble at 5:30, parade at 6:00 pm, cocktails after the parade.  Illuminated Specters Monday, assemble at 8:30, parade at 9:00 pm.  Also, meet the Jewish mother you never had - mothering in your choice of English, Yiddish, or Hebrew.  Come to our bar to be initiated into the cult of Maximon of Chaos."
+        "description": "Chaos, joy, good conversation, parades and motherly advice.  Gold parade Wednesday, assemble at 5:30, parade at 6:00 pm, cocktails after the parade.  Illuminated Specters Monday, assemble at 8:30, parade at 9:00 pm.  Also, meet the Jewish mother you never had - mothering in your choice of English, Yiddish, or Hebrew.  Come to our bar to be initiated into the cult of Maximon of Chaos.",
+        "burnermap_location": {
+            "string": "7:00 & Center Camp Plaza",
+            "gps_longitude": -119.21480775921577,
+            "gps_latitude": 40.78081061305033
+        }
     },
     {
         "uid": "a1X0V000003HExsUAG",
@@ -5613,7 +7955,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Phoenix",
-        "description": "What trace do you want to leave behind? Our camp seeks clarity:  internal and external. We don't know, you don't know, but together we can find out. Come participate in table topic discussions, rent a friend, lounge in our library, book a counselor guide for a session, vent about current events, make your own electrolyte beverage, play some silly music, journal quietly or loudly, and read some tarot."
+        "description": "What trace do you want to leave behind? Our camp seeks clarity:  internal and external. We don't know, you don't know, but together we can find out. Come participate in table topic discussions, rent a friend, lounge in our library, book a counselor guide for a session, vent about current events, make your own electrolyte beverage, play some silly music, journal quietly or loudly, and read some tarot.",
+        "burnermap_location": {
+            "string": "3:45 & Ceremony",
+            "gps_longitude": -119.20186776097587,
+            "gps_latitude": 40.77794041280151
+        }
     },
     {
         "uid": "a1X0V000003HEyCUAW",
@@ -5622,7 +7969,12 @@
         "url": null,
         "contact_email": null,
         "hometown": null,
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "9:15 & Hallowed",
+            "gps_longitude": -119.2167804684502,
+            "gps_latitude": 40.79664345068404
+        }
     },
     {
         "uid": "a1X0V000003HEybUAG",
@@ -5631,7 +7983,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "5:00 & Breath",
+            "gps_longitude": -119.2095783880404,
+            "gps_latitude": 40.77818282150993
+        }
     },
     {
         "uid": "a1X0V000003HEylUAG",
@@ -5649,7 +8006,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Bay Area",
-        "description": "A neighborhood bar, playground and lounge open every afternoon that serves the most refreshing punch on the playa, to enjoy before or after playing foursquare or swinging on the swings. Ask nicely and we might give you a Love Puddle or whip out Dildo Jousting. We make sure passerby are assaulted with friendly invitations to join in the fun whenever we are open. Check out our events in the What Where When or just come by and look at our calendar to see when we're having Strip Rock Paper Scissors, sing alongs, and other ridiculous fun!"
+        "description": "A neighborhood bar, playground and lounge open every afternoon that serves the most refreshing punch on the playa, to enjoy before or after playing foursquare or swinging on the swings. Ask nicely and we might give you a Love Puddle or whip out Dildo Jousting. We make sure passerby are assaulted with friendly invitations to join in the fun whenever we are open. Check out our events in the What Where When or just come by and look at our calendar to see when we're having Strip Rock Paper Scissors, sing alongs, and other ridiculous fun!",
+        "burnermap_location": {
+            "string": "6:45 & Eulogy",
+            "gps_longitude": -119.21963686142745,
+            "gps_latitude": 40.78250469590597
+        }
     },
     {
         "uid": "a1X0V000003HEz0UAG",
@@ -5658,7 +8020,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Camarillo",
-        "description": "Stellar Dusty Moon is an out of this world experience that blends artistic expression, live music, performances, and a wide variety of interactive workshops, all with the accompaniment of delicious craft cocktails from our Full Moon Saloon! Our mission is to provide a comfortable environment to get silly, get sexy, and get fun with our galactic visitors, so come get cheeky with us!!"
+        "description": "Stellar Dusty Moon is an out of this world experience that blends artistic expression, live music, performances, and a wide variety of interactive workshops, all with the accompaniment of delicious craft cocktails from our Full Moon Saloon! Our mission is to provide a comfortable environment to get silly, get sexy, and get fun with our galactic visitors, so come get cheeky with us!!",
+        "burnermap_location": {
+            "string": "5:30 & Awe",
+            "gps_longitude": -119.21191966983687,
+            "gps_latitude": 40.77962283122676
+        }
     },
     {
         "uid": "a1X0V000003HF0mUAG",
@@ -5667,7 +8034,12 @@
         "url": "http://www.earthguardians.net",
         "contact_email": "earthguardians@burningman.org",
         "hometown": "Nevada City",
-        "description": "We inspire, inform and encourage our fellow Black Rock City citizens to apply the Green & Leave No Trace principles and practices to life in our temporary desert home and to leave positive traces in our desert home. Come, volunteer and participate in our daily talks about Black Rock and Leave No Trace or just grab a MOOP bag!"
+        "description": "We inspire, inform and encourage our fellow Black Rock City citizens to apply the Green & Leave No Trace principles and practices to life in our temporary desert home and to leave positive traces in our desert home. Come, volunteer and participate in our daily talks about Black Rock and Leave No Trace or just grab a MOOP bag!",
+        "burnermap_location": {
+            "string": "5:30 & Esplanade",
+            "gps_longitude": -119.21112359988747,
+            "gps_latitude": 40.78066704889926
+        }
     },
     {
         "uid": "a1X0V000003HF2sUAG",
@@ -5676,7 +8048,12 @@
         "url": null,
         "contact_email": "familyofgiraffes@gmail.com",
         "hometown": "San Francisco",
-        "description": "On an island unbeknownst to the world of man.....GIRAFFIC PARK. lounge 15ft in the air suspended in the midst of our Giraffic Gym, or swing and frolic in the shade. Who knows what lurks behind the next bend, but assuage your fears while sipping a craft beer. Warm yourself at our fire and keep the shadows at bay giiiiiraaaaafffiiiic paaaaaaark!!!! (21 and up at the bar)"
+        "description": "On an island unbeknownst to the world of man.....GIRAFFIC PARK. lounge 15ft in the air suspended in the midst of our Giraffic Gym, or swing and frolic in the shade. Who knows what lurks behind the next bend, but assuage your fears while sipping a craft beer. Warm yourself at our fire and keep the shadows at bay giiiiiraaaaafffiiiic paaaaaaark!!!! (21 and up at the bar)",
+        "burnermap_location": {
+            "string": "7:15 & Awe",
+            "gps_longitude": -119.21714846900358,
+            "gps_latitude": 40.78554406171004
+        }
     },
     {
         "uid": "a1X0V000003HF0cUAG",
@@ -5685,7 +8062,12 @@
         "url": "https://www.facebook.com/camp.oh.no.you.didnt",
         "contact_email": null,
         "hometown": "Santa Rosa",
-        "description": "Be our guest and get it off you chest at our playa confessional lounge, featuring libelous libations and scornful judgment by our panel of experts.  Commiserate with the best as we help keep your shame in perspective."
+        "description": "Be our guest and get it off you chest at our playa confessional lounge, featuring libelous libations and scornful judgment by our panel of experts.  Commiserate with the best as we help keep your shame in perspective.",
+        "burnermap_location": {
+            "string": "8:45 & Breath",
+            "gps_longitude": -119.21573503334785,
+            "gps_latitude": 40.79190076254333
+        }
     },
     {
         "uid": "a1X0V000003HF2iUAG",
@@ -5712,7 +8094,12 @@
         "url": "http://www.instagram.com/center4rnd",
         "contact_email": "center4rnd@gmail.com",
         "hometown": "Los Angeles",
-        "description": "We observe the peculiarities of humanity in the most fascinating environment: Black Rock City, the petri dish in the desert. Experiments are typically performed through the ancient scientific methods of light, sound, and libations."
+        "description": "We observe the peculiarities of humanity in the most fascinating environment: Black Rock City, the petri dish in the desert. Experiments are typically performed through the ancient scientific methods of light, sound, and libations.",
+        "burnermap_location": {
+            "string": "4:45 & Hallowed",
+            "gps_longitude": -119.20878207936424,
+            "gps_latitude": 40.77404823164073
+        }
     },
     {
         "uid": "a1X0V000003HF3HUAW",
@@ -5721,7 +8108,12 @@
         "url": null,
         "contact_email": "inflatablewildlifeconservatory@gmail.com",
         "hometown": "New York City",
-        "description": "Join the elite group of Inflatable Wildlife Balloominati for Safari Tours, Inflating Air Summoning Ceremonies, a Plush Lagoon, and Open Bars! Mingle, Lounge, Dance - The Inflatable Wildlife Balloominati brings the Jungle to you!"
+        "description": "Join the elite group of Inflatable Wildlife Balloominati for Safari Tours, Inflating Air Summoning Ceremonies, a Plush Lagoon, and Open Bars! Mingle, Lounge, Dance - The Inflatable Wildlife Balloominati brings the Jungle to you!",
+        "burnermap_location": {
+            "string": "7:45 & Genuflect",
+            "gps_longitude": -119.22231686363757,
+            "gps_latitude": 40.78816556022795
+        }
     },
     {
         "uid": "a1X0V000003HF3RUAW",
@@ -5730,7 +8122,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Austin",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "5:30 & Awe",
+            "gps_longitude": -119.21191966983687,
+            "gps_latitude": 40.77962283122676
+        }
     },
     {
         "uid": "a1X0V000003HF3MUAW",
@@ -5739,7 +8136,12 @@
         "url": "http://www.yellowstoneburners.org",
         "contact_email": "april@yellowstoneburners.org",
         "hometown": "Cody",
-        "description": "The Yellowstone Burners come from Northwest Wyoming and specifically Park County which is home to 90% of Yellowstone National Park. Our base is in Cody, Wyoming where we gather to build the Saddle Up! art car. Stop by our camp, when we're not out prowling the playa on our giant saddle, and join us at our campfire for s'mores, drinks, and stories."
+        "description": "The Yellowstone Burners come from Northwest Wyoming and specifically Park County which is home to 90% of Yellowstone National Park. Our base is in Cody, Wyoming where we gather to build the Saddle Up! art car. Stop by our camp, when we're not out prowling the playa on our giant saddle, and join us at our campfire for s'mores, drinks, and stories.",
+        "burnermap_location": {
+            "string": "2:15 & Ceremony",
+            "gps_longitude": -119.19516764091506,
+            "gps_latitude": 40.78300872251151
+        }
     },
     {
         "uid": "a1X0V000003HF3bUAG",
@@ -5748,7 +8150,12 @@
         "url": "https://www.facebook.com/friendlandia/",
         "contact_email": "friendlandiacamp@gmail.com",
         "hometown": "San Francisco",
-        "description": "We have many customs and traditions for celebrating and recognizing romantic relationships. However, friendships are often longer lasting and as strong as many marriages, and yet we often don't spend the time to celebrate and honor those relationships.\r\n\r\nWhat if Friends could get \"Friendgaged\"? What if they could commit to each other in ceremony? Wouldn't it be a better world if Friends more often expressed their dedication and love to one another?\r\n\r\nFriendlandia is a place to celebrate new and long-time Friendships in ceremony by sharing vows, exchanging Friendship Bracelets, and expressing love for the friends in your life. Come have a ceremony at our Temple of Friendgagement, exchange vows and Friendship Bracelets, and become BFFs--Burner Friends Forever."
+        "description": "We have many customs and traditions for celebrating and recognizing romantic relationships. However, friendships are often longer lasting and as strong as many marriages, and yet we often don't spend the time to celebrate and honor those relationships.\r\n\r\nWhat if Friends could get \"Friendgaged\"? What if they could commit to each other in ceremony? Wouldn't it be a better world if Friends more often expressed their dedication and love to one another?\r\n\r\nFriendlandia is a place to celebrate new and long-time Friendships in ceremony by sharing vows, exchanging Friendship Bracelets, and expressing love for the friends in your life. Come have a ceremony at our Temple of Friendgagement, exchange vows and Friendship Bracelets, and become BFFs--Burner Friends Forever.",
+        "burnermap_location": {
+            "string": "8:15 & Dance",
+            "gps_longitude": -119.21884106386673,
+            "gps_latitude": 40.79043278933819
+        }
     },
     {
         "uid": "a1X0V000003HF3gUAG",
@@ -5766,7 +8173,12 @@
         "url": null,
         "contact_email": "taylor@wearenychi.com",
         "hometown": "New York City",
-        "description": "New York Energy Baby!"
+        "description": "New York Energy Baby!",
+        "burnermap_location": {
+            "string": "6:45 & Breath",
+            "gps_longitude": -119.21723010428832,
+            "gps_latitude": 40.783260736953125
+        }
     },
     {
         "uid": "a1X0V000003HF0SUAW",
@@ -5775,7 +8187,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Sydney",
-        "description": "Tetrix VIllage welcomes you to Camp Meow, Rubber Armstrong and the Stargazer Artcar. Rubber Armstrong's iconic feature, the illuminated Skull, Tent space for performances, bar, workshops, talks, games and events throughout the week. We'll be throwing a space party on the first Monday night at 8pm! come party with us, and then take a maiden midnight journey on the Stargazer onto the playa"
+        "description": "Tetrix VIllage welcomes you to Camp Meow, Rubber Armstrong and the Stargazer Artcar. Rubber Armstrong's iconic feature, the illuminated Skull, Tent space for performances, bar, workshops, talks, games and events throughout the week. We'll be throwing a space party on the first Monday night at 8pm! come party with us, and then take a maiden midnight journey on the Stargazer onto the playa",
+        "burnermap_location": {
+            "string": "8:45 & Dance",
+            "gps_longitude": -119.21711394862523,
+            "gps_latitude": 40.79270090220066
+        }
     },
     {
         "uid": "a1X0V000003HF3lUAG",
@@ -5784,7 +8201,12 @@
         "url": "http://www.liminallabs.com/2017/",
         "contact_email": "zorca@zorca.com",
         "hometown": "San Francisco, Ca",
-        "description": "Liminal Labs Lustration Station invites you to stop by Pharmakon, our daily hangover recovery station. At night come behold the glory of the Consecration Cinema, where our 50' movie screen plays a broad choice of films to delight and dement all comers. www.liminallabs/2017/"
+        "description": "Liminal Labs Lustration Station invites you to stop by Pharmakon, our daily hangover recovery station. At night come behold the glory of the Consecration Cinema, where our 50' movie screen plays a broad choice of films to delight and dement all comers. www.liminallabs/2017/",
+        "burnermap_location": {
+            "string": "7:15 & Rods Road",
+            "gps_longitude": -119.21672957710014,
+            "gps_latitude": 40.780697596275836
+        }
     },
     {
         "uid": "a1X0V000003HFH9UAO",
@@ -5793,7 +8215,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Los Angeles",
-        "description": "The Blissfits \"Retirement\" Village is a motley crew of seasoned playa vets and offers a more mellow, \"Snarkle Pony\", lighthearted fun, to the event. We host 24/7, Shuffle Board zone and hold tournaments daily as well as our friendly bar & quesadilla stand where we aim to please and will take great care of replenishing you along your journey! Namaste..and f ur day."
+        "description": "The Blissfits \"Retirement\" Village is a motley crew of seasoned playa vets and offers a more mellow, \"Snarkle Pony\", lighthearted fun, to the event. We host 24/7, Shuffle Board zone and hold tournaments daily as well as our friendly bar & quesadilla stand where we aim to please and will take great care of replenishing you along your journey! Namaste..and f ur day.",
+        "burnermap_location": {
+            "string": "9:30 & Genuflect",
+            "gps_longitude": -119.21452729586275,
+            "gps_latitude": 40.796994104363456
+        }
     },
     {
         "uid": "a1X0V000003HFCxUAO",
@@ -5811,7 +8238,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Durango",
-        "description": "A place where lawn games and Rock & Roll take over as far as the eye can see, where Snow Job flows like a river down the Rockies, where the bartenders are so sexy that you'll think you just met Bigfoot.  Time for some bad decisions, this is Mountain Mayhem."
+        "description": "A place where lawn games and Rock & Roll take over as far as the eye can see, where Snow Job flows like a river down the Rockies, where the bartenders are so sexy that you'll think you just met Bigfoot.  Time for some bad decisions, this is Mountain Mayhem.",
+        "burnermap_location": {
+            "string": "8:00 & Awe",
+            "gps_longitude": -119.21687821530239,
+            "gps_latitude": 40.788684693658595
+        }
     },
     {
         "uid": "a1X0V000003HFHsUAO",
@@ -5820,7 +8252,12 @@
         "url": "https://www.facebook.com/DawnPatrolProject/",
         "contact_email": null,
         "hometown": "Reno",
-        "description": "Pretty legit at fun."
+        "description": "Pretty legit at fun.",
+        "burnermap_location": {
+            "string": "8:30 & Hallowed",
+            "gps_longitude": -119.22108194757666,
+            "gps_latitude": 40.792929122992696
+        }
     },
     {
         "uid": "a1X0V000003HF4ZUAW",
@@ -5829,7 +8266,12 @@
         "url": "https://www.facebook.com/groups/198208360209399/?ref=bookmarks",
         "contact_email": "gerflash@socal.rr.com",
         "hometown": "Fountain Valley, Orange County",
-        "description": "If you're an accomplished or aspiring artist, cartoonist, singer, comic, improv maven, writer, or game enthusiast, on-stage model, dancer, or dramatic reader, Pepperland has much for you plus some radical rituals on-Playa. Want a massage or a snack?Our campers can serve you, plus with Laughter Yoga and Longevity Stick exercises to get your Xi flowing like the Playa wind blows. It's our 10th year at BRC, the spirit of the Fab Four still inspires us. 3-D art is yours; we've got the glasses for it, and the views to go with 'em. Our week includes 200-plus hours of interactive, inventive entertainment.  Need a home at home?  We are it."
+        "description": "If you're an accomplished or aspiring artist, cartoonist, singer, comic, improv maven, writer, or game enthusiast, on-stage model, dancer, or dramatic reader, Pepperland has much for you plus some radical rituals on-Playa. Want a massage or a snack?Our campers can serve you, plus with Laughter Yoga and Longevity Stick exercises to get your Xi flowing like the Playa wind blows. It's our 10th year at BRC, the spirit of the Fab Four still inspires us. 3-D art is yours; we've got the glasses for it, and the views to go with 'em. Our week includes 200-plus hours of interactive, inventive entertainment.  Need a home at home?  We are it.",
+        "burnermap_location": {
+            "string": "6:30 & Dance",
+            "gps_longitude": -119.2180707519952,
+            "gps_latitude": 40.78158473441435
+        }
     },
     {
         "uid": "a1X0V000003HFJyUAO",
@@ -5838,7 +8280,12 @@
         "url": "http://www.burningmelon.org",
         "contact_email": "info@burningmelon.org",
         "hometown": "Chicago",
-        "description": "A seriously silly, certainly cephalopodic, ridiculously organized patch for melons of all varietals."
+        "description": "A seriously silly, certainly cephalopodic, ridiculously organized patch for melons of all varietals.",
+        "burnermap_location": {
+            "string": "5:15 & Genuflect",
+            "gps_longitude": -119.21266532717723,
+            "gps_latitude": 40.775511077741335
+        }
     },
     {
         "uid": "a1X0V000003HFCnUAO",
@@ -5847,7 +8294,12 @@
         "url": null,
         "contact_email": "weirdwendy@gmail.com",
         "hometown": "San Francisco",
-        "description": "By day, we provide the fun in our interactive kiosk, The Fun Booth. \r\nBy night, we're Black Rock City's only solar-lit Patrick Swayze Memorial Altar and Life Celebration site."
+        "description": "By day, we provide the fun in our interactive kiosk, The Fun Booth. \r\nBy night, we're Black Rock City's only solar-lit Patrick Swayze Memorial Altar and Life Celebration site.",
+        "burnermap_location": {
+            "string": "7:45 & Fire",
+            "gps_longitude": -119.22145640090253,
+            "gps_latitude": 40.78807460729891
+        }
     },
     {
         "uid": "a1X0V000003HFGkUAO",
@@ -5856,7 +8308,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "Short Stack & Om Skillet bring you a chill park vibe and gourmet grilled cheese in the desert. Join us at 1pm on Tuesday and Thursday for full sandwich service and some groovy tunes. Tuesday afternoon is the Tutu Tuesday dance party!"
+        "description": "Short Stack & Om Skillet bring you a chill park vibe and gourmet grilled cheese in the desert. Join us at 1pm on Tuesday and Thursday for full sandwich service and some groovy tunes. Tuesday afternoon is the Tutu Tuesday dance party!",
+        "burnermap_location": {
+            "string": "4:30 & Breath",
+            "gps_longitude": -119.20660000000001,
+            "gps_latitude": 40.77788593524468
+        }
     },
     {
         "uid": "a1X0V000003HF4KUAW",
@@ -5865,7 +8322,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "New Orleans",
-        "description": "A New Orleans based group of artists, builders, creators, lovers, dancers, revelers, etc, etc, that want to share the spirit of our city, that we so passionately love, with the citizens of BRC."
+        "description": "A New Orleans based group of artists, builders, creators, lovers, dancers, revelers, etc, etc, that want to share the spirit of our city, that we so passionately love, with the citizens of BRC.",
+        "burnermap_location": {
+            "string": "8:45 & Fire",
+            "gps_longitude": -119.21849287500578,
+            "gps_latitude": 40.79350104830081
+        }
     },
     {
         "uid": "a1X0V000003HFHxUAO",
@@ -5874,7 +8336,12 @@
         "url": null,
         "contact_email": null,
         "hometown": null,
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "5:00 & Breath",
+            "gps_longitude": -119.2095783880404,
+            "gps_latitude": 40.77818282150993
+        }
     },
     {
         "uid": "a1X0V000003HFDWUA4",
@@ -5883,7 +8350,12 @@
         "url": "https://www.facebook.com/groups/NYDangerous/",
         "contact_email": null,
         "hometown": "NYC",
-        "description": "New York Dangerous (the camp your mother warned you about!) hosting the playa's best interactive events: Running With Scissors, Talking to Strangers, Playing With Fire, Put Your Eye Out shooting gallery, and of course our 24/7 Strangers with Candy machine."
+        "description": "New York Dangerous (the camp your mother warned you about!) hosting the playa's best interactive events: Running With Scissors, Talking to Strangers, Playing With Fire, Put Your Eye Out shooting gallery, and of course our 24/7 Strangers with Candy machine.",
+        "burnermap_location": {
+            "string": "7:30 & Inspirit",
+            "gps_longitude": -119.22418932733392,
+            "gps_latitude": 40.78659866462986
+        }
     },
     {
         "uid": "a1X0V000003HFIWUA4",
@@ -5892,7 +8364,12 @@
         "url": null,
         "contact_email": "tilt@earthlink.net",
         "hometown": "Santa Cruz",
-        "description": "Mo's has the coolest martinis and the hottest erotica(written by you,you sexy thing!)on the playa. Come crash on some of the pillows in our authentic bedouin space and watch the world go by while sipping that ice cold martini. Open after lunch until late(with a break for dinner)we will become your new favorite people watching palace on the playa."
+        "description": "Mo's has the coolest martinis and the hottest erotica(written by you,you sexy thing!)on the playa. Come crash on some of the pillows in our authentic bedouin space and watch the world go by while sipping that ice cold martini. Open after lunch until late(with a break for dinner)we will become your new favorite people watching palace on the playa.",
+        "burnermap_location": {
+            "string": "9:00 & Portal",
+            "gps_longitude": -119.19959955872721,
+            "gps_latitude": 40.78104068189614
+        }
     },
     {
         "uid": "a1X0V000003HFKcUAO",
@@ -5901,7 +8378,12 @@
         "url": "https://www.facebook.com/groups/CampCorny",
         "contact_email": "iampaulanthony@gmail.com",
         "hometown": "Portland",
-        "description": "Corny's Party Pole Palace - Meet your party pole spirit animal, put em on a stick, discover 2nd level dance parties, get sweaty, bubbles!!! Come to the Party Pole Palace and create the party pole of your dreams, take a pic in our photo-booth and then dance your ass off on the dance floor. We'll even help you make a bike stand so you can ride with your incredible creation off into the sunset and beyond."
+        "description": "Corny's Party Pole Palace - Meet your party pole spirit animal, put em on a stick, discover 2nd level dance parties, get sweaty, bubbles!!! Come to the Party Pole Palace and create the party pole of your dreams, take a pic in our photo-booth and then dance your ass off on the dance floor. We'll even help you make a bike stand so you can ride with your incredible creation off into the sunset and beyond.",
+        "burnermap_location": {
+            "string": "5:00 & Dance",
+            "gps_longitude": -119.21002789048147,
+            "gps_latitude": 40.776912297351224
+        }
     },
     {
         "uid": "a1X0V000003HF4tUAG",
@@ -5910,7 +8392,12 @@
         "url": null,
         "contact_email": "camprascalsf@gmail.com",
         "hometown": "San Francisco",
-        "description": "We will gently and abrasively coerce you into our foxy Rascal den.  Some call it Stockholm Syndrome but we just call it love."
+        "description": "We will gently and abrasively coerce you into our foxy Rascal den.  Some call it Stockholm Syndrome but we just call it love.",
+        "burnermap_location": {
+            "string": "9:45 & Eulogy",
+            "gps_longitude": -119.21200660038281,
+            "gps_latitude": 40.79647201073141
+        }
     },
     {
         "uid": "a1X0V000003HFL1UAO",
@@ -5919,7 +8406,12 @@
         "url": "http://www.xuzaartcar.com/",
         "contact_email": "info@xuzaartcar.com",
         "hometown": "Las Vegas",
-        "description": "#Zerzura Camp\nHome of XUZA Art Car"
+        "description": "#Zerzura Camp\nHome of XUZA Art Car",
+        "burnermap_location": {
+            "string": "9:15 & Hallowed",
+            "gps_longitude": -119.2167804684502,
+            "gps_latitude": 40.79664345068404
+        }
     },
     {
         "uid": "a1X0V000003HFFSUA4",
@@ -5937,7 +8429,12 @@
         "url": "https://www.facebook.com/People-Of-Color-at-Burning-Man-586227634754548/?ref=br_rs",
         "contact_email": "egophobia@hotmail.com",
         "hometown": "New York City",
-        "description": "People of Color is a gathering space of the Diaspora. We welcome those blessed with melanin, recent immigrants and 'invisible\" people."
+        "description": "People of Color is a gathering space of the Diaspora. We welcome those blessed with melanin, recent immigrants and 'invisible\" people.",
+        "burnermap_location": {
+            "string": "3:45 & Rods Road",
+            "gps_longitude": -119.21300116551349,
+            "gps_latitude": 40.77906792461358
+        }
     },
     {
         "uid": "a1X0V000003HFKmUAO",
@@ -5946,7 +8443,12 @@
         "url": "http://www.psychedelicpuppy.com",
         "contact_email": "info@psychedelicpuppy.com",
         "hometown": "Boulder",
-        "description": "Psychedelic Puppy welcomes all for a daily caffeine fix of cold-brew coffee starting at 10am and going until we run out.  Come by at night and enjoy the transfixing LED visuals of our puppy dome while chilling out with new friends and great vibes.\n\nhttp://www.psychedelicpuppy.com"
+        "description": "Psychedelic Puppy welcomes all for a daily caffeine fix of cold-brew coffee starting at 10am and going until we run out.  Come by at night and enjoy the transfixing LED visuals of our puppy dome while chilling out with new friends and great vibes.\n\nhttp://www.psychedelicpuppy.com",
+        "burnermap_location": {
+            "string": "3:30 & Fire",
+            "gps_longitude": -119.19910935750652,
+            "gps_latitude": 40.77677493704503
+        }
     },
     {
         "uid": "a1X0V000003HFFwUAO",
@@ -5955,7 +8457,12 @@
         "url": "http://www.beecharge.com",
         "contact_email": "klausthepd@gmail.com",
         "hometown": "San Francisco",
-        "description": "The bEES are cHARGING!!!  We wear the bLACK and yELLOW.  In all kinds of awesome ways.  We bUZZZZZZZZ.   We sWARM!  Once again we will sWARM the mAN! Wednesday at sixish. Before that, at 2, YOU bEE up and come to our camp for lABEETOS:  Honey kISSED Mojitos.  yES and wE lOVE newbEES!!!!  Think aHEAD:  bLACK and yELLOW...  Come bEE with us, find a new way of bEEING:  bEEUTIFUL bEEING!!!! bUZZZZZZZZZZZZZ!!!!!"
+        "description": "The bEES are cHARGING!!!  We wear the bLACK and yELLOW.  In all kinds of awesome ways.  We bUZZZZZZZZ.   We sWARM!  Once again we will sWARM the mAN! Wednesday at sixish. Before that, at 2, YOU bEE up and come to our camp for lABEETOS:  Honey kISSED Mojitos.  yES and wE lOVE newbEES!!!!  Think aHEAD:  bLACK and yELLOW...  Come bEE with us, find a new way of bEEING:  bEEUTIFUL bEEING!!!! bUZZZZZZZZZZZZZ!!!!!",
+        "burnermap_location": {
+            "string": "7:15 & Dance",
+            "gps_longitude": -119.21973174661066,
+            "gps_latitude": 40.78528546667241
+        }
     },
     {
         "uid": "a1X0V000003HFJFUA4",
@@ -5964,7 +8471,12 @@
         "url": "http://www.chameleoncamp.com",
         "contact_email": null,
         "hometown": "Corvallis",
-        "description": "Chameleon Camp is your home for amazing company and food! Swing by when we are open for some delicious, multicolored, chameleon-shaped pancakes. Feel free to come by anytime to relax in our Ham-Dome, visit the Inflatable Chameleon, or just chill in the shade with some amazing people. Come visit!"
+        "description": "Chameleon Camp is your home for amazing company and food! Swing by when we are open for some delicious, multicolored, chameleon-shaped pancakes. Feel free to come by anytime to relax in our Ham-Dome, visit the Inflatable Chameleon, or just chill in the shade with some amazing people. Come visit!",
+        "burnermap_location": {
+            "string": "7:45 & Eulogy",
+            "gps_longitude": -119.22059514992095,
+            "gps_latitude": 40.787989121790545
+        }
     },
     {
         "uid": "a1X0V000003HFM4UAO",
@@ -5973,7 +8485,12 @@
         "url": "https://www.facebook.com/Camp-Samovar-224458257645409/?hc_ref=SEARCH&fref=nf",
         "contact_email": "eleeser@gmail.com",
         "hometown": "Oakland",
-        "description": "Come by Camp Samovar during Sunset for Persian tea and dates. \nIn addition, we will have a magic mandap ceremony site, where couples can get married."
+        "description": "Come by Camp Samovar during Sunset for Persian tea and dates. \nIn addition, we will have a magic mandap ceremony site, where couples can get married.",
+        "burnermap_location": {
+            "string": "9:15 & Ceremony",
+            "gps_longitude": -119.21414044050479,
+            "gps_latitude": 40.79403208572212
+        }
     },
     {
         "uid": "a1X0V000003HFJAUA4",
@@ -5991,7 +8508,12 @@
         "url": "https://thefuture.camp/",
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "An assembly of tinkerers, artists and fun weirdos who are designing the future through new and strange experiences. Come visit us, and you too can climb into the skies and watch the world from above, or stay down on earth for some great celebrations!"
+        "description": "An assembly of tinkerers, artists and fun weirdos who are designing the future through new and strange experiences. Come visit us, and you too can climb into the skies and watch the world from above, or stay down on earth for some great celebrations!",
+        "burnermap_location": {
+            "string": "4:15 & Dance",
+            "gps_longitude": -119.20487286839162,
+            "gps_latitude": 40.7766562622959
+        }
     },
     {
         "uid": "a1X0V000003HFFIUA4",
@@ -6000,7 +8522,12 @@
         "url": "http://www.playajoy.org",
         "contact_email": "touch@playajoy.org",
         "hometown": "San Francisco",
-        "description": "Restore your body and lift your spirits at Comfort & Joy, a gay\r\ncommunity oasis offering a fully functioning Gym, colorful art\r\ninstallations and daily events including yoga classes,  inspiring performances, & quite queer nightlife. Check us out at: http://www.playajoy.org"
+        "description": "Restore your body and lift your spirits at Comfort & Joy, a gay\r\ncommunity oasis offering a fully functioning Gym, colorful art\r\ninstallations and daily events including yoga classes,  inspiring performances, & quite queer nightlife. Check us out at: http://www.playajoy.org",
+        "burnermap_location": {
+            "string": "8:00 & Dance",
+            "gps_longitude": -119.21939542761756,
+            "gps_latitude": 40.789195091861984
+        }
     },
     {
         "uid": "a1X0V000003HF5hUAG",
@@ -6009,7 +8536,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Tallinn",
-        "description": "Craving some good headbanging and want to meet exotic misfits from random places all over the world?  Our bar Sk\u00d8llushery and art car \"Castle Glowskull\" will be hosting mischief, ultra-violence, and METAL (and other forms of rock) daily!"
+        "description": "Craving some good headbanging and want to meet exotic misfits from random places all over the world?  Our bar SkØllushery and art car \"Castle Glowskull\" will be hosting mischief, ultra-violence, and METAL (and other forms of rock) daily!",
+        "burnermap_location": {
+            "string": "3:45 & Genuflect",
+            "gps_longitude": -119.20053467282277,
+            "gps_latitude": 40.775511077741335
+        }
     },
     {
         "uid": "a1X0V000003HFL6UAO",
@@ -6018,7 +8550,12 @@
         "url": null,
         "contact_email": "campdarksparkle@gmail.com",
         "hometown": "Davis",
-        "description": "Dark Sparkle is the potent mix of the mysterious and the dangerous that makes something irresistibly attractive.  It's what causes people to push their limits to the point of insanity, what spurs exploration of territories both physical and metaphysical,, that unexplainable quality which arouses curiosity in the dark side. Some days, Dark Sparkle is your alter-ego; other days it is your most natural feeling form. Dark Sparkle is Mona Lisa's smile, tarot cards at prom, mother's milk, the apocalypse. Dark Sparkle is an adventurous way of life--audacious and bold as BRC itself."
+        "description": "Dark Sparkle is the potent mix of the mysterious and the dangerous that makes something irresistibly attractive.  It's what causes people to push their limits to the point of insanity, what spurs exploration of territories both physical and metaphysical,, that unexplainable quality which arouses curiosity in the dark side. Some days, Dark Sparkle is your alter-ego; other days it is your most natural feeling form. Dark Sparkle is Mona Lisa's smile, tarot cards at prom, mother's milk, the apocalypse. Dark Sparkle is an adventurous way of life--audacious and bold as BRC itself.",
+        "burnermap_location": {
+            "string": "8:45 & Breath",
+            "gps_longitude": -119.21573503334785,
+            "gps_latitude": 40.79190076254333
+        }
     },
     {
         "uid": "a1X0V000003HFGBUA4",
@@ -6027,7 +8564,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "Come ride the Bucking Pickle at PickleBack Mountain!\nTry our homemade pickled chasers, said to be life-affirming!"
+        "description": "Come ride the Bucking Pickle at PickleBack Mountain!\nTry our homemade pickled chasers, said to be life-affirming!",
+        "burnermap_location": {
+            "string": "8:45 & Breath",
+            "gps_longitude": -119.21573503334785,
+            "gps_latitude": 40.79190076254333
+        }
     },
     {
         "uid": "a1X0V000003HFGQUA4",
@@ -6036,7 +8578,12 @@
         "url": null,
         "contact_email": "burner_forever@yahoo.com",
         "hometown": "Redding",
-        "description": "A Family style house to come hang out, eat, drink,play games be family and encounter one of our interactive rooms. You may come as a stranger but you will leave as family!!"
+        "description": "A Family style house to come hang out, eat, drink,play games be family and encounter one of our interactive rooms. You may come as a stranger but you will leave as family!!",
+        "burnermap_location": {
+            "string": "5:15 & Genuflect",
+            "gps_longitude": -119.21266532717723,
+            "gps_latitude": 40.775511077741335
+        }
     },
     {
         "uid": "a1X0V000003HFM9UAO",
@@ -6045,7 +8592,12 @@
         "url": null,
         "contact_email": "info@mentl.studio",
         "hometown": "Los Angeles",
-        "description": "mentl_ - a global art movement challenging the stigma that surrounds mental disorder."
+        "description": "mentl_ - a global art movement challenging the stigma that surrounds mental disorder.",
+        "burnermap_location": {
+            "string": "3:00 & Dance",
+            "gps_longitude": -119.19723446308797,
+            "gps_latitude": 40.779507767971374
+        }
     },
     {
         "uid": "a1X0V000003HFJKUA4",
@@ -6054,7 +8606,12 @@
         "url": "http://anahasanavillage.org",
         "contact_email": "dance@campcontact.org",
         "hometown": "Earth",
-        "description": "Anahasana Village brings awareness to a fully embodied knowing of the power and the wisdom of our own hearts.  We are a collection of camps offering gatherings in tantra, yoga, meditation, contact improvisation dance, nutritious eating, ecstatic dance, authentic relating and acro yoga.  We believe in the power of the divine feminine, of embodied awareness, and in ontological spaces."
+        "description": "Anahasana Village brings awareness to a fully embodied knowing of the power and the wisdom of our own hearts.  We are a collection of camps offering gatherings in tantra, yoga, meditation, contact improvisation dance, nutritious eating, ecstatic dance, authentic relating and acro yoga.  We believe in the power of the divine feminine, of embodied awareness, and in ontological spaces.",
+        "burnermap_location": {
+            "string": "7:00 & Eulogy",
+            "gps_longitude": -119.22023337125158,
+            "gps_latitude": 40.78383318292532
+        }
     },
     {
         "uid": "a1X0V000003HF5IUAW",
@@ -6063,7 +8620,12 @@
         "url": null,
         "contact_email": "campocalypseburningman@gmail.com",
         "hometown": "Seattle",
-        "description": "Camp Conduit reinvents itself as Campocalypse - gifting bondage rope, suspension bondage rides, instruction in knot-tying and safety techniques, and Tarot card readings to the masses."
+        "description": "Camp Conduit reinvents itself as Campocalypse - gifting bondage rope, suspension bondage rides, instruction in knot-tying and safety techniques, and Tarot card readings to the masses.",
+        "burnermap_location": {
+            "string": "3:30 & Eulogy",
+            "gps_longitude": -119.1995435371465,
+            "gps_latitude": 40.77734451913604
+        }
     },
     {
         "uid": "a1X0V000003HFJ5UAO",
@@ -6072,7 +8634,12 @@
         "url": null,
         "contact_email": "josh.wilson@gmail.com",
         "hometown": "San Francisco",
-        "description": "Bao Chicka Wow Wow! Come get freshly served hot steamy Pork and Red bean Chinese Bao. Come by for late night or brunchtime for Bao !"
+        "description": "Bao Chicka Wow Wow! Come get freshly served hot steamy Pork and Red bean Chinese Bao. Come by for late night or brunchtime for Bao !",
+        "burnermap_location": {
+            "string": "3:15 & Awe",
+            "gps_longitude": -119.20012723962701,
+            "gps_latitude": 40.78020596235774
+        }
     },
     {
         "uid": "a1X0V000003HFGLUA4",
@@ -6081,7 +8648,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "los angeles",
-        "description": "pose with our rainbow galaxy wings! join our cult. engage in a radical witchual at our altar! take or leave something on our gifting tree! join our cult. get anointed with glitter! what's your name again? join our cult. come warm up by our fire! stare into the flames. swallow the stars before they go out; the endless night is coming. join our cult."
+        "description": "pose with our rainbow galaxy wings! join our cult. engage in a radical witchual at our altar! take or leave something on our gifting tree! join our cult. get anointed with glitter! what's your name again? join our cult. come warm up by our fire! stare into the flames. swallow the stars before they go out; the endless night is coming. join our cult.",
+        "burnermap_location": {
+            "string": "6:45 & Awe",
+            "gps_longitude": -119.2164278470746,
+            "gps_latitude": 40.78351275215403
+        }
     },
     {
         "uid": "a1X0V000003HFMOUA4",
@@ -6090,7 +8662,12 @@
         "url": "https://www.facebook.com/campbebothered/",
         "contact_email": null,
         "hometown": "Los Angeles",
-        "description": "We Camp Be Bothered to fill this out."
+        "description": "We Camp Be Bothered to fill this out.",
+        "burnermap_location": {
+            "string": "7:15 & Eulogy",
+            "gps_longitude": -119.22059283731787,
+            "gps_latitude": 40.78519926850957
+        }
     },
     {
         "uid": "a1X0V000003HFJPUA4",
@@ -6099,7 +8676,12 @@
         "url": null,
         "contact_email": null,
         "hometown": null,
-        "description": "Visit Hygge for a hyggelig time. This is a retreat for those who need to \"slapp av litt\" or take it easy - have fun, without exhausting yourself in the process. Hygge is best described as a mental state of well being, where everyone has fun, is relaxed and comfortable-all at the same time in a carefully calibrated equilibrium. You can engage in hyggelige activities like board games or just relax in a hammock while having a philosophical conversation with a fellow burner. So join us for some \"kos\"!"
+        "description": "Visit Hygge for a hyggelig time. This is a retreat for those who need to \"slapp av litt\" or take it easy - have fun, without exhausting yourself in the process. Hygge is best described as a mental state of well being, where everyone has fun, is relaxed and comfortable-all at the same time in a carefully calibrated equilibrium. You can engage in hyggelige activities like board games or just relax in a hammock while having a philosophical conversation with a fellow burner. So join us for some \"kos\"!",
+        "burnermap_location": {
+            "string": "7:45 & Fire",
+            "gps_longitude": -119.22145640090253,
+            "gps_latitude": 40.78807460729891
+        }
     },
     {
         "uid": "a1X0V000003HFN2UAO",
@@ -6108,7 +8690,12 @@
         "url": null,
         "contact_email": "sparkleloveoasis@gmail.com",
         "hometown": "Ashland, Los Angeles, Sebastopol, Boise, Eugene and more...",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "7:15 & Dance",
+            "gps_longitude": -119.21973174661066,
+            "gps_latitude": 40.78528546667241
+        }
     },
     {
         "uid": "a1X0V000003HFJZUA4",
@@ -6117,7 +8704,12 @@
         "url": "http://fps.interchanges.io",
         "contact_email": "nicole@misfit-media.com",
         "hometown": "NYC & SF",
-        "description": "EAT OUR MEAT! Fastest Pizza Stand and BAR-B-Q-ARELLA return to serve you sunset smoked meat daily and late night pies from our brand new brick oven pizza altar on Sunday, Tuesday and Thursday late nights."
+        "description": "EAT OUR MEAT! Fastest Pizza Stand and BAR-B-Q-ARELLA return to serve you sunset smoked meat daily and late night pies from our brand new brick oven pizza altar on Sunday, Tuesday and Thursday late nights.",
+        "burnermap_location": {
+            "string": "9:30 & Awe",
+            "gps_longitude": -119.21192078773886,
+            "gps_latitude": 40.79357692443366
+        }
     },
     {
         "uid": "a1X0V000003HFMsUAO",
@@ -6126,7 +8718,12 @@
         "url": null,
         "contact_email": "medieval.gogo@gmail.com",
         "hometown": "Crested Butte",
-        "description": "DANG'er Zone - Bikes, Trikes, and an apostrophe away from danger."
+        "description": "DANG'er Zone - Bikes, Trikes, and an apostrophe away from danger.",
+        "burnermap_location": {
+            "string": "4:45 & Inspirit",
+            "gps_longitude": -119.20889541160703,
+            "gps_latitude": 40.77339619060309
+        }
     },
     {
         "uid": "a1X0V000003HFK3UAO",
@@ -6135,7 +8732,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Reno/Chicago",
-        "description": "A lively bar with different themes everyday and tasty libations to match!"
+        "description": "A lively bar with different themes everyday and tasty libations to match!",
+        "burnermap_location": {
+            "string": "6:15 & Eulogy",
+            "gps_longitude": -119.21779254212619,
+            "gps_latitude": 40.780089383585235
+        }
     },
     {
         "uid": "a1X0V000003HFJeUAO",
@@ -6144,7 +8746,12 @@
         "url": "http://thelovers.org/",
         "contact_email": "info@thelovers.org",
         "hometown": "Tacoma",
-        "description": "Our 'Shady Lovers Lounge' is a lush and cushy retreat for all you dusty lovers out there! For all you young and young at heart we invite you to browse through our Sparkle Boutique open daily until the goods run out! Come mend those broken soles at BRC Shoe Repair or treat yourself to a kiss during our Happy Hour Kissing Booth! Some of our in-house DJ's will be spinning sweet D&B periodically though out the week so stop on by, try our Lazy Morning Yoga and meet a fellow Tacoman or just snag a little love, we've got plenty to go around."
+        "description": "Our 'Shady Lovers Lounge' is a lush and cushy retreat for all you dusty lovers out there! For all you young and young at heart we invite you to browse through our Sparkle Boutique open daily until the goods run out! Come mend those broken soles at BRC Shoe Repair or treat yourself to a kiss during our Happy Hour Kissing Booth! Some of our in-house DJ's will be spinning sweet D&B periodically though out the week so stop on by, try our Lazy Morning Yoga and meet a fellow Tacoman or just snag a little love, we've got plenty to go around.",
+        "burnermap_location": {
+            "string": "3:00 & Inspirit",
+            "gps_longitude": -119.19416423060504,
+            "gps_latitude": 40.77718228119359
+        }
     },
     {
         "uid": "a1X0V000003HFNRUA4",
@@ -6153,7 +8760,12 @@
         "url": "http://www.campsoftlanding.com",
         "contact_email": "info@campsoftlanding.com",
         "hometown": "San Francisco",
-        "description": "Camp Soft Landing offers a comfortable space to drink tea, hydrate, rest, tell stories and participate in workshops. Soft Landing sponsors and staffs the Full Circle Tea House which is planning to return to the playa for the 7th year to offer fine pu'erh tea and herbal infusions in the Chinese Gung Fu tradition. Servers provide tea and empathy and comfortable spaces for rest, hydration and quiet conversation 24 hours a day. Soft Landing also presents the Palenque Norte speaker series featuring 40 visionary talks and stories spanning concepts such as technology, medicine, art, science, design and entheobotany. These events take place in the Palenque Norte circus tent which also hosts small musical performances and yoga."
+        "description": "Camp Soft Landing offers a comfortable space to drink tea, hydrate, rest, tell stories and participate in workshops. Soft Landing sponsors and staffs the Full Circle Tea House which is planning to return to the playa for the 7th year to offer fine pu'erh tea and herbal infusions in the Chinese Gung Fu tradition. Servers provide tea and empathy and comfortable spaces for rest, hydration and quiet conversation 24 hours a day. Soft Landing also presents the Palenque Norte speaker series featuring 40 visionary talks and stories spanning concepts such as technology, medicine, art, science, design and entheobotany. These events take place in the Palenque Norte circus tent which also hosts small musical performances and yoga.",
+        "burnermap_location": {
+            "string": "9:30 & Genuflect",
+            "gps_longitude": -119.21452729586275,
+            "gps_latitude": 40.796994104363456
+        }
     },
     {
         "uid": "a1X0V000003HFMiUAO",
@@ -6162,7 +8774,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Oakland",
-        "description": "Pig Nest. Comfort for the pig in each of us."
+        "description": "Pig Nest. Comfort for the pig in each of us.",
+        "burnermap_location": {
+            "string": "4:45 & Fire",
+            "gps_longitude": -119.20855364045433,
+            "gps_latitude": 40.77535216679971
+        }
     },
     {
         "uid": "a1X0V000003HFN7UAO",
@@ -6180,7 +8797,12 @@
         "url": "http://campimaginenation.com/",
         "contact_email": "campimaginenation@gmail.com",
         "hometown": "New York City  & LA",
-        "description": "IMAGINEnation \na life coaching camp dedicated to the power of dreaming and radical honesty. \nhttp://campimaginenation.com/"
+        "description": "IMAGINEnation \na life coaching camp dedicated to the power of dreaming and radical honesty. \nhttp://campimaginenation.com/",
+        "burnermap_location": {
+            "string": "6:30 & Genuflect",
+            "gps_longitude": -119.22032708945433,
+            "gps_latitude": 40.780597991102866
+        }
     },
     {
         "uid": "a1X0V000003HFNWUA4",
@@ -6189,7 +8811,12 @@
         "url": null,
         "contact_email": null,
         "hometown": null,
-        "description": "\u00a1Bienvenidos! Come join us for a traditional Mexican game of Loteria, while sipping tequila and munching on refreshing jicamas, or join us for a meditative experience with a morning Tai Chi class."
+        "description": "¡Bienvenidos! Come join us for a traditional Mexican game of Loteria, while sipping tequila and munching on refreshing jicamas, or join us for a meditative experience with a morning Tai Chi class.",
+        "burnermap_location": {
+            "string": "3:30 & Eulogy",
+            "gps_longitude": -119.1995435371465,
+            "gps_latitude": 40.77734451913604
+        }
     },
     {
         "uid": "a1X0V000003HFOUUA4",
@@ -6198,7 +8825,12 @@
         "url": "http://vwbuscamp.com",
         "contact_email": "campinfo@vwbuscamp.com",
         "hometown": "Tucson",
-        "description": "Come visit and celebrate with us our 20th Burn on the Playa for Radical Ritual and experience a taste of Burning Man from the1990's, a happy continuum, one which still feels fresh and fun. The Leopard Lounge and Day Spa is returning better than ever, along with our Grateful Dye and Hoop Jam parties, Mothers' High Tea, many games, Sparkles, lectures, live music, and lots of beautiful VW Buses!"
+        "description": "Come visit and celebrate with us our 20th Burn on the Playa for Radical Ritual and experience a taste of Burning Man from the1990's, a happy continuum, one which still feels fresh and fun. The Leopard Lounge and Day Spa is returning better than ever, along with our Grateful Dye and Hoop Jam parties, Mothers' High Tea, many games, Sparkles, lectures, live music, and lots of beautiful VW Buses!",
+        "burnermap_location": {
+            "string": "3:15 & Juju",
+            "gps_longitude": -119.19536539590487,
+            "gps_latitude": 40.775512035316275
+        }
     },
     {
         "uid": "a1X0V000003HFOeUAO",
@@ -6207,7 +8839,12 @@
         "url": null,
         "contact_email": null,
         "hometown": null,
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "7:15 & Fire",
+            "gps_longitude": -119.22145392711097,
+            "gps_latitude": 40.785113070438236
+        }
     },
     {
         "uid": "a1X0V000003HFPcUAO",
@@ -6216,7 +8853,12 @@
         "url": null,
         "contact_email": "tangenjeff@gmail.com",
         "hometown": "Port Townsend",
-        "description": "Art support camp bringing art to the playa for more than half a decade."
+        "description": "Art support camp bringing art to the playa for more than half a decade.",
+        "burnermap_location": {
+            "string": "5:45 & Hallowed",
+            "gps_longitude": -119.21677738947514,
+            "gps_latitude": 40.7765556549045
+        }
     },
     {
         "uid": "a1X0V000003HF4eUAG",
@@ -6234,7 +8876,12 @@
         "url": "http://kidsville.org",
         "contact_email": "queenkidsville@gmail.com",
         "hometown": "Bay Area",
-        "description": "Kidsville is THE place for children of all ages! We host a group of diverse families creating a unique space for play and other activities including the Black Rock Scouts program. Families with children 0-17 years of age are welcome to camp with us if they are pre-registered. Registration begins in April and ends when full. Note: Kidsville is NOT a baby-sitting service. All children must be supervised by an adult."
+        "description": "Kidsville is THE place for children of all ages! We host a group of diverse families creating a unique space for play and other activities including the Black Rock Scouts program. Families with children 0-17 years of age are welcome to camp with us if they are pre-registered. Registration begins in April and ends when full. Note: Kidsville is NOT a baby-sitting service. All children must be supervised by an adult.",
+        "burnermap_location": {
+            "string": "5:00 & Eulogy",
+            "gps_longitude": -119.21025263525442,
+            "gps_latitude": 40.77627703461784
+        }
     },
     {
         "uid": "a1X0V000003HFPmUAO",
@@ -6243,7 +8890,12 @@
         "url": null,
         "contact_email": "rmcgowan33@gmail.com",
         "hometown": "San Diego",
-        "description": "Like the Legend of the Phoenix, Draft Punk Returns again to supply ice-cold beer to the denizens Black Rock City.\r\nBring us your hot, your tired, and your thirsty.  \r\nGrab a cold one on the go, or hang out for the day.\r\nGet there early for Baby Huey's famous cocktails.\r\nCome out for Giant Twister!\r\nMention this ad and get 50% off!"
+        "description": "Like the Legend of the Phoenix, Draft Punk Returns again to supply ice-cold beer to the denizens Black Rock City.\r\nBring us your hot, your tired, and your thirsty.  \r\nGrab a cold one on the go, or hang out for the day.\r\nGet there early for Baby Huey's famous cocktails.\r\nCome out for Giant Twister!\r\nMention this ad and get 50% off!",
+        "burnermap_location": {
+            "string": "8:45 & Awe",
+            "gps_longitude": -119.21504557987254,
+            "gps_latitude": 40.79150069513052
+        }
     },
     {
         "uid": "a1X0V000003HFQQUA4",
@@ -6261,7 +8913,12 @@
         "url": "https://www.facebook.com/groups/135396679814248/",
         "contact_email": "disco.knights.ug.sf@gmail.com",
         "hometown": "San Francisco",
-        "description": "Disco Knights seventh and final year at Black Rock City.  Come have a dance and a hug with us to celebrate an amazing run!"
+        "description": "Disco Knights seventh and final year at Black Rock City.  Come have a dance and a hug with us to celebrate an amazing run!",
+        "burnermap_location": {
+            "string": "2:00 & Inspirit",
+            "gps_longitude": -119.18961089622194,
+            "gps_latitude": 40.783151874187
+        }
     },
     {
         "uid": "a1X0V000003HFQfUAO",
@@ -6270,7 +8927,12 @@
         "url": "https://blackrockpubliclibrary.org",
         "contact_email": "blackrockpubliclibrary@gmail.com",
         "hometown": "San Francisco",
-        "description": "Come grab a book with a one-year checkout period at the dustiest library in the world, the Black Rock Public Library! Add yourself to the Human Card Catalog to share what you know best, or look up someone who can teach you about a subject anywhere on the playa."
+        "description": "Come grab a book with a one-year checkout period at the dustiest library in the world, the Black Rock Public Library! Add yourself to the Human Card Catalog to share what you know best, or look up someone who can teach you about a subject anywhere on the playa.",
+        "burnermap_location": {
+            "string": "5:15 & Genuflect",
+            "gps_longitude": -119.21266532717723,
+            "gps_latitude": 40.775511077741335
+        }
     },
     {
         "uid": "a1X0V000003HFS7UAO",
@@ -6279,7 +8941,12 @@
         "url": "https://www.facebook.com/QuestionableBehavior/",
         "contact_email": null,
         "hometown": "Austin",
-        "description": "Questionable Behavior? returns again from Austin, Texas, with our soon to be famous Questionable Drive-in Theater.  Come kick back in one of our rides, take a load off, check out an amazing double feature, then swing by later to get your wild thing on at our first annual Wild Rumpus where the wildest of all the wild things will take home the crown..."
+        "description": "Questionable Behavior? returns again from Austin, Texas, with our soon to be famous Questionable Drive-in Theater.  Come kick back in one of our rides, take a load off, check out an amazing double feature, then swing by later to get your wild thing on at our first annual Wild Rumpus where the wildest of all the wild things will take home the crown...",
+        "burnermap_location": {
+            "string": "9:30 & Eulogy",
+            "gps_longitude": -119.21365843000717,
+            "gps_latitude": 40.795855050903654
+        }
     },
     {
         "uid": "a1X0V000003HFRYUA4",
@@ -6288,7 +8955,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "7:15 & Breath",
+            "gps_longitude": -119.21800956245362,
+            "gps_latitude": 40.78545786327263
+        }
     },
     {
         "uid": "a1X0V000003HFT5UAO",
@@ -6306,7 +8978,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Los Angeles",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "3:00 & Dance",
+            "gps_longitude": -119.19723446308797,
+            "gps_latitude": 40.779507767971374
+        }
     },
     {
         "uid": "a1X0V000003HFT0UAO",
@@ -6315,7 +8992,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "What Would You Do For a Pickle?"
+        "description": "What Would You Do For a Pickle?",
+        "burnermap_location": {
+            "string": "4:45 & Genuflect",
+            "gps_longitude": -119.20866874489691,
+            "gps_latitude": 40.774700272567486
+        }
     },
     {
         "uid": "a1X0V000003HFQBUA4",
@@ -6324,7 +9006,12 @@
         "url": "http://burningman50k.com",
         "contact_email": null,
         "hometown": "brookyn",
-        "description": "Pink Lightning is a camp for runners and those who love them! We are the home of the Burning Man Ultramarathon, Black Rock City Beer Mile, 5k, Naked Mile, alleycat bike race, yoga classes, kids' running races, alien cat art and other rad art, hammocks to chill, and sweaty hugs to give out. We love all things pink and lightning bolt, and especially love Pink Lightning Bolts."
+        "description": "Pink Lightning is a camp for runners and those who love them! We are the home of the Burning Man Ultramarathon, Black Rock City Beer Mile, 5k, Naked Mile, alleycat bike race, yoga classes, kids' running races, alien cat art and other rad art, hammocks to chill, and sweaty hugs to give out. We love all things pink and lightning bolt, and especially love Pink Lightning Bolts.",
+        "burnermap_location": {
+            "string": "6:45 & Ceremony",
+            "gps_longitude": -119.21803235908496,
+            "gps_latitude": 40.783008722511504
+        }
     },
     {
         "uid": "a1X0V000003HFTUUA4",
@@ -6351,7 +9038,12 @@
         "url": "https://www.facebook.com/toxicdiscoclam/",
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "In the default world, the Toxic Disco Clam is a real aquatic creature - it uses a sparkling lighted exterior to attract other fish... and then it immobilizes them with acidic snot. We're pretty much the same: we draw you in with dazzling lights and entertaining activities, we ply you with our intoxicating beverages, and we hope you never leave (we promise less snot)."
+        "description": "In the default world, the Toxic Disco Clam is a real aquatic creature - it uses a sparkling lighted exterior to attract other fish... and then it immobilizes them with acidic snot. We're pretty much the same: we draw you in with dazzling lights and entertaining activities, we ply you with our intoxicating beverages, and we hope you never leave (we promise less snot).",
+        "burnermap_location": {
+            "string": "4:15 & Breath",
+            "gps_longitude": -119.20509937728798,
+            "gps_latitude": 40.77796035808232
+        }
     },
     {
         "uid": "a1X0V000003HFTjUAO",
@@ -6369,7 +9061,12 @@
         "url": null,
         "contact_email": "beccacamp@gmail.com",
         "hometown": "San Francisco",
-        "description": "House of Maslow: because everyone has needs\n\nStop by HoM for one of our daily events, or take refuge anytime in our well-appointed lounge."
+        "description": "House of Maslow: because everyone has needs\n\nStop by HoM for one of our daily events, or take refuge anytime in our well-appointed lounge.",
+        "burnermap_location": {
+            "string": "5:00 & Fire",
+            "gps_longitude": -119.2104773757292,
+            "gps_latitude": 40.77564177144846
+        }
     },
     {
         "uid": "a1X0V000003HFTtUAO",
@@ -6378,7 +9075,12 @@
         "url": "https://www.facebook.com/Major-Toms-Flying-Circus-300231336994941/?ref=aymt_homepage_panel",
         "contact_email": "majortomsflyingcircus@gmail.com",
         "hometown": "Aspen",
-        "description": "Join Major Tom's Flying Circus to experience Black Rock City from the air in one of our micro-light aircraft. Flying daily early mornings and late afternoons weather permitting. Meet us at the Ground Control Departure Lounge at BRC Airport."
+        "description": "Join Major Tom's Flying Circus to experience Black Rock City from the air in one of our micro-light aircraft. Flying daily early mornings and late afternoons weather permitting. Meet us at the Ground Control Departure Lounge at BRC Airport.",
+        "burnermap_location": {
+            "string": "4:30 & Inspirit",
+            "gps_longitude": -119.20660000000001,
+            "gps_latitude": 40.77328227839283
+        }
     },
     {
         "uid": "a1X0V000003HFUOUA4",
@@ -6387,7 +9089,12 @@
         "url": "http://www.milkandhoney.camp/",
         "contact_email": "hello@milkandhoney.camp",
         "hometown": "Oakland",
-        "description": "Milk + Honey is excited to offer our tenth Playa Shabbat service and dinner which draw on secular and spiritual traditions for the creative expression and collective healing of individuals and communities. We nourish the hearts, spirits, and bodies of all who find themselves wandering in the desert! We are most excited for Burning Man's 2017 Radical Ritual theme; we've been unknowingly waiting for this theme for 10 years!"
+        "description": "Milk + Honey is excited to offer our tenth Playa Shabbat service and dinner which draw on secular and spiritual traditions for the creative expression and collective healing of individuals and communities. We nourish the hearts, spirits, and bodies of all who find themselves wandering in the desert! We are most excited for Burning Man's 2017 Radical Ritual theme; we've been unknowingly waiting for this theme for 10 years!",
+        "burnermap_location": {
+            "string": "6:45 & Ceremony",
+            "gps_longitude": -119.21803235908496,
+            "gps_latitude": 40.783008722511504
+        }
     },
     {
         "uid": "a1X0V000003HFUDUA4",
@@ -6396,7 +9103,12 @@
         "url": null,
         "contact_email": null,
         "hometown": null,
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "6:00 & Dance",
+            "gps_longitude": -119.21596553691205,
+            "gps_latitude": 40.779507767971374
+        }
     },
     {
         "uid": "a1X0V000003HFUXUA4",
@@ -6414,7 +9126,12 @@
         "url": "http://www.aquazonewaterbar.com/",
         "contact_email": "faciliti@aquazonewaterbar.com",
         "hometown": "Berkeley",
-        "description": "Come join us in the revitalizing Ritual of Drinking Love-Infused Water. Replenish your soul and your water bottle at our 24-Hour Self-Serve Water Buffet. Recharge your body through the healing powers of our Reiki Masters -- as well as recharge your cell phone/device at our Solar-Powered Cell Phone Addiction Retox Station. Reinvigorate old and new friendships at our \"Do Your Friend\" Nail Polish Stations. The Life-Changing Power of Positive Ritual happens when YOU show up."
+        "description": "Come join us in the revitalizing Ritual of Drinking Love-Infused Water. Replenish your soul and your water bottle at our 24-Hour Self-Serve Water Buffet. Recharge your body through the healing powers of our Reiki Masters -- as well as recharge your cell phone/device at our Solar-Powered Cell Phone Addiction Retox Station. Reinvigorate old and new friendships at our \"Do Your Friend\" Nail Polish Stations. The Life-Changing Power of Positive Ritual happens when YOU show up.",
+        "burnermap_location": {
+            "string": "3:00 & Eulogy",
+            "gps_longitude": -119.19662039939428,
+            "gps_latitude": 40.77904267712541
+        }
     },
     {
         "uid": "a1X0V000003HFUcUAO",
@@ -6423,7 +9140,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "RENO",
-        "description": "If you have the itch to get down right filthy we have the camp for YOU!!! Come join us at Black Rock City Bass & Brews for ground rattling beats and the tastiest home-brew and cocktails in the BRC. We will make sure you dance the day away with the most eargazmic beats while you mingle with the friendliest burners around."
+        "description": "If you have the itch to get down right filthy we have the camp for YOU!!! Come join us at Black Rock City Bass & Brews for ground rattling beats and the tastiest home-brew and cocktails in the BRC. We will make sure you dance the day away with the most eargazmic beats while you mingle with the friendliest burners around.",
+        "burnermap_location": {
+            "string": "2:45 & Dance",
+            "gps_longitude": -119.19609621098215,
+            "gps_latitude": 40.7804900260168
+        }
     },
     {
         "uid": "a1X0V000003HFUmUAO",
@@ -6432,7 +9154,12 @@
         "url": null,
         "contact_email": "kiri@campspf.org",
         "hometown": "Great Lakes",
-        "description": "Lakes on the Playa - the best of the Great Lakes bringing Midwest love to the Playa with Camp SPF, Syncytium and SGC!"
+        "description": "Lakes on the Playa - the best of the Great Lakes bringing Midwest love to the Playa with Camp SPF, Syncytium and SGC!",
+        "burnermap_location": {
+            "string": "3:00 & Hallowed",
+            "gps_longitude": -119.19477825990491,
+            "gps_latitude": 40.777647385058536
+        }
     },
     {
         "uid": "a1X0V000003HFVLUA4",
@@ -6477,7 +9204,12 @@
         "url": "http://missioncountryclub.com",
         "contact_email": "birdsandblokes@missioncountryclub.com",
         "hometown": "San Francisco",
-        "description": "We bring a taste of San Francisco's Mission District to Black Rock City! Mission Country Club is an organically-grown camp, consisting of friends and family from San Francisco, Reno, Los Angeles, Washington DC, Boston, New York, Ireland, Germany, Belgium and beyond. 2017 will be our 14th year on the playa as an organized camp. Over the years we've been home to Flannagan's Pub, Flannagan's Tacos + Whiskey, the Magic Kurry Cart, the Sangria Soundclash, the BRC Hip-Hop Playa Ball, the Brian Brunch and Bugaboo the art car. Don't forget to check the book for our 2017 shenanigans!"
+        "description": "We bring a taste of San Francisco's Mission District to Black Rock City! Mission Country Club is an organically-grown camp, consisting of friends and family from San Francisco, Reno, Los Angeles, Washington DC, Boston, New York, Ireland, Germany, Belgium and beyond. 2017 will be our 14th year on the playa as an organized camp. Over the years we've been home to Flannagan's Pub, Flannagan's Tacos + Whiskey, the Magic Kurry Cart, the Sangria Soundclash, the BRC Hip-Hop Playa Ball, the Brian Brunch and Bugaboo the art car. Don't forget to check the book for our 2017 shenanigans!",
+        "burnermap_location": {
+            "string": "7:00 & Dance",
+            "gps_longitude": -119.21939442736287,
+            "gps_latitude": 40.78400349492102
+        }
     },
     {
         "uid": "a1X0V000003HFVuUAO",
@@ -6491,11 +9223,16 @@
     {
         "uid": "a1X0V000003HFVfUAO",
         "year": 2017,
-        "name": "\u00a1Playasos!",
+        "name": "¡Playasos!",
         "url": "http://www.playasos.com",
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "Welcome to \u00a1Playasos!, a light-hearted and inclusive community with a love for play, spontaneity, and exploration. Come experience Se\u00f1or Snail von Slidesmouth, the Tunnel of Snailscendence, Chez 'Cargot, and EMTeePee. Fun for all ages."
+        "description": "Welcome to ¡Playasos!, a light-hearted and inclusive community with a love for play, spontaneity, and exploration. Come experience Señor Snail von Slidesmouth, the Tunnel of Snailscendence, Chez 'Cargot, and EMTeePee. Fun for all ages.",
+        "burnermap_location": {
+            "string": "9:00 & Portal",
+            "gps_longitude": -119.19959955872721,
+            "gps_latitude": 40.78104068189614
+        }
     },
     {
         "uid": "a1X0V000003HFWEUA4",
@@ -6504,7 +9241,12 @@
         "url": null,
         "contact_email": "palmdesertmermaid@yahoo.com",
         "hometown": "Los Angelos area, NorCal, and Portland, OR.",
-        "description": "Black Hole Literary Society, a theme camp for all ages, features a black light interactive art gallery with 3D glasses available to participants upon entry at night, a 24 hour coloring book and chill zone for all ages, and a life-size Brite Light interactive art installation. Come play with us! Enjoy the shade, some cold H20, great conversation, and make new friends!! Can't wait to see you at home )'("
+        "description": "Black Hole Literary Society, a theme camp for all ages, features a black light interactive art gallery with 3D glasses available to participants upon entry at night, a 24 hour coloring book and chill zone for all ages, and a life-size Brite Light interactive art installation. Come play with us! Enjoy the shade, some cold H20, great conversation, and make new friends!! Can't wait to see you at home )'(",
+        "burnermap_location": {
+            "string": "2:30 & Eulogy",
+            "gps_longitude": -119.19437712806969,
+            "gps_latitude": 40.78125582486021
+        }
     },
     {
         "uid": "a1X0V000003HFW9UAO",
@@ -6513,7 +9255,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Boonville, CA",
-        "description": "Boonville Cabaret. Your destination for spontaneous theatrical performance. A small venue for you to realize your fabulous talents. Come visit daytime and/or Thursday eve at sunset. Intimate stage and appreciative audience provided."
+        "description": "Boonville Cabaret. Your destination for spontaneous theatrical performance. A small venue for you to realize your fabulous talents. Come visit daytime and/or Thursday eve at sunset. Intimate stage and appreciative audience provided.",
+        "burnermap_location": {
+            "string": "7:45 & Hallowed",
+            "gps_longitude": -119.22317808305544,
+            "gps_latitude": 40.788251282726016
+        }
     },
     {
         "uid": "a1X0V000003HFWOUA4",
@@ -6522,7 +9269,12 @@
         "url": "https://www.facebook.com/alibarbarbrc/",
         "contact_email": "alibarbarbrc@gmail.com",
         "hometown": "Palo Alto",
-        "description": "ALI BAR-BAR is a theme camp that provides shelter day and night, drinks, and edgy entertainment for the citizens of Black Rock City with the mission to have fun in a welcoming and comfortable environment to chill, relax, drink, and dance."
+        "description": "ALI BAR-BAR is a theme camp that provides shelter day and night, drinks, and edgy entertainment for the citizens of Black Rock City with the mission to have fun in a welcoming and comfortable environment to chill, relax, drink, and dance.",
+        "burnermap_location": {
+            "string": "9:00 & Portal",
+            "gps_longitude": -119.19959955872721,
+            "gps_latitude": 40.78104068189614
+        }
     },
     {
         "uid": "a1X0V000003HFXqUAO",
@@ -6531,7 +9283,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "Come escape the heat and climb around the thin net separating the clouds below from the stars above."
+        "description": "Come escape the heat and climb around the thin net separating the clouds below from the stars above.",
+        "burnermap_location": {
+            "string": "8:45 & Dance",
+            "gps_longitude": -119.21711394862523,
+            "gps_latitude": 40.79270090220066
+        }
     },
     {
         "uid": "a1X0V000003HFZmUAO",
@@ -6540,7 +9297,12 @@
         "url": "https://www.facebook.com/HavanaNightsParty",
         "contact_email": null,
         "hometown": "Miami",
-        "description": "Hosting a perpetual Cuban-themed sultry Havana Nights party, with a laid-back Miami feel.  Palm trees will surround the perimeter of a large shaded, dance floor; comfortable, elevated chill pads available for guest to relax. Rhythmic Cuban and energetic Latin beats will play in the background. Bottomless, hand-muddled frozen mojitos served by camp attendants wearing guayabera shirts. Dance lessons hosted twice per day."
+        "description": "Hosting a perpetual Cuban-themed sultry Havana Nights party, with a laid-back Miami feel.  Palm trees will surround the perimeter of a large shaded, dance floor; comfortable, elevated chill pads available for guest to relax. Rhythmic Cuban and energetic Latin beats will play in the background. Bottomless, hand-muddled frozen mojitos served by camp attendants wearing guayabera shirts. Dance lessons hosted twice per day.",
+        "burnermap_location": {
+            "string": "9:00 & Juju",
+            "gps_longitude": -119.21965367445075,
+            "gps_latitude": 40.796481355410734
+        }
     },
     {
         "uid": "a1X0V000003HFZSUA4",
@@ -6549,7 +9311,12 @@
         "url": "http://www.facebook.com/tectonicBMcamp",
         "contact_email": "info@shift-festival.com",
         "hometown": "Portland",
-        "description": "Come bask in the shade of our fire-poofing volcano, and boogie to our ground-shaking beats while we serve you a refreshing iced libation. Don't forget to bring us your playa virgins to sacrifice to the volcano god and to search for the poofer trigger!"
+        "description": "Come bask in the shade of our fire-poofing volcano, and boogie to our ground-shaking beats while we serve you a refreshing iced libation. Don't forget to bring us your playa virgins to sacrifice to the volcano god and to search for the poofer trigger!",
+        "burnermap_location": {
+            "string": "7:30 & Esplanade",
+            "gps_longitude": -119.21564800797701,
+            "gps_latitude": 40.7865996466467
+        }
     },
     {
         "uid": "a1X0V000003HFnZUAW",
@@ -6558,7 +9325,12 @@
         "url": "http://bringapheromone.com/",
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "5:30 & Genuflect",
+            "gps_longitude": -119.21452481468833,
+            "gps_latitude": 40.77620535332683
+        }
     },
     {
         "uid": "a1X0V000003HFr7UAG",
@@ -6567,7 +9339,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Outer Scotia",
-        "description": "The Community Improvement Association is dedicated to making Black Rock City a better place to live. We are the home of Community Improvement Radio (frequency tba), which will broadcast an occasionally confusing mix of music, talk shows, weather, traffic, and public service announcements. Stop by to consult with our advisors, visit our Transdimensional Audio Workstation, be a guest on one of our interview shows, or even host a show of your own."
+        "description": "The Community Improvement Association is dedicated to making Black Rock City a better place to live. We are the home of Community Improvement Radio (frequency tba), which will broadcast an occasionally confusing mix of music, talk shows, weather, traffic, and public service announcements. Stop by to consult with our advisors, visit our Transdimensional Audio Workstation, be a guest on one of our interview shows, or even host a show of your own.",
+        "burnermap_location": {
+            "string": "2:45 & Dance",
+            "gps_longitude": -119.19609621098215,
+            "gps_latitude": 40.7804900260168
+        }
     },
     {
         "uid": "a1X0V000003HFfkUAG",
@@ -6576,7 +9353,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Los Angeles, CA",
-        "description": "Enchanted Booty Forest is a Burning Man Legacy Camp that has evolved out of the fires of a decade of burns to represent a potent breeding ground of DEEP -- BOOTY -- INFORMED prestige party dust tradition. We are a dedicated troop of misaligned and adequately distorted tail gunner visionaries that host workshops, parties, and art projects, in concert with our sister camp YES, and cleave to the principal that all booty is good booty for booty's sake."
+        "description": "Enchanted Booty Forest is a Burning Man Legacy Camp that has evolved out of the fires of a decade of burns to represent a potent breeding ground of DEEP -- BOOTY -- INFORMED prestige party dust tradition. We are a dedicated troop of misaligned and adequately distorted tail gunner visionaries that host workshops, parties, and art projects, in concert with our sister camp YES, and cleave to the principal that all booty is good booty for booty's sake.",
+        "burnermap_location": {
+            "string": "9:45 & Genuflect",
+            "gps_longitude": -119.2126673530477,
+            "gps_latitude": 40.797688604580976
+        }
     },
     {
         "uid": "a1X0V000003HFXRUA4",
@@ -6585,7 +9367,12 @@
         "url": null,
         "contact_email": "campheadspace@gmail.com",
         "hometown": "Vancouver",
-        "description": "Come on by Head Space for our 4th annual Case-of Ideas Night so we can feed your mouth and your mind! Serving quesadillas and hot tasty pizza from our wood-fired oven - clear your Head Space and fill your belly! Swap your sunnies, masks or hats at our Head Stuff Exchange! Space out in our shade and Star Plate hammocks, or take part in our 2nd Annual Rainbow Dildo Run / Art Tour!"
+        "description": "Come on by Head Space for our 4th annual Case-of Ideas Night so we can feed your mouth and your mind! Serving quesadillas and hot tasty pizza from our wood-fired oven - clear your Head Space and fill your belly! Swap your sunnies, masks or hats at our Head Stuff Exchange! Space out in our shade and Star Plate hammocks, or take part in our 2nd Annual Rainbow Dildo Run / Art Tour!",
+        "burnermap_location": {
+            "string": "3:00 & Fire",
+            "gps_longitude": -119.19600634429932,
+            "gps_latitude": 40.77857758302455
+        }
     },
     {
         "uid": "a1X0V000003HFXvUAO",
@@ -6594,7 +9381,12 @@
         "url": "http://trifucta.com",
         "contact_email": "camptrifucta@gmail.com",
         "hometown": "Las Vegas",
-        "description": "Trifucta was born after three people in separate RV's decided to create community space by parking them in the shape of a triangle. From that small act, a community comprised of artists, builders, fashion designers, and welders joined together to create connectivity through a common space that engages the playful creativity and expression inside each participant."
+        "description": "Trifucta was born after three people in separate RV's decided to create community space by parking them in the shape of a triangle. From that small act, a community comprised of artists, builders, fashion designers, and welders joined together to create connectivity through a common space that engages the playful creativity and expression inside each participant.",
+        "burnermap_location": {
+            "string": "8:00 & Esplanade",
+            "gps_longitude": -119.21533993793754,
+            "gps_latitude": 40.78837275671839
+        }
     },
     {
         "uid": "a1X0V000003HFneUAG",
@@ -6612,7 +9404,12 @@
         "url": null,
         "contact_email": "dawsonjoe@live.com",
         "hometown": "seattle",
-        "description": "Camp Do Nothing ..widely known as the greatest camp for yards in any direction. with the world famous 360 swing and foam Dome that is open 24 hours a day...so drop in......as see in Spark"
+        "description": "Camp Do Nothing ..widely known as the greatest camp for yards in any direction. with the world famous 360 swing and foam Dome that is open 24 hours a day...so drop in......as see in Spark",
+        "burnermap_location": {
+            "string": "4:30 & Dance",
+            "gps_longitude": -119.20660000000001,
+            "gps_latitude": 40.77657060471558
+        }
     },
     {
         "uid": "a1X0V000003HFdKUAW",
@@ -6630,7 +9427,12 @@
         "url": "http://www.camphope.rocks",
         "contact_email": null,
         "hometown": "Brooklyn, San Francisco, Boulder, Sydney, Paris, Tel Aviv, Hamburg, Berlin, Moscow",
-        "description": "Camp Hope offers coffee, cocktails, cookies, and chill space. Join our Self-Commitment Ceremony on Thursday at dusk and commit to treating yourself with loving kindness."
+        "description": "Camp Hope offers coffee, cocktails, cookies, and chill space. Join our Self-Commitment Ceremony on Thursday at dusk and commit to treating yourself with loving kindness.",
+        "burnermap_location": {
+            "string": "8:15 & Genuflect",
+            "gps_longitude": -119.22124645290613,
+            "gps_latitude": 40.7911921903411
+        }
     },
     {
         "uid": "a1X0V000003HFoDUAW",
@@ -6639,7 +9441,12 @@
         "url": null,
         "contact_email": "playgroundbrc@gmail.com",
         "hometown": "Bay Area, Miami, Melbourne and beyond",
-        "description": "Come find an oasis in the desert. Playground will be offering the sights and sounds of a Moroccan experience. A place to recharge and connect, Playground will offer some of the most delicious tunes heard on the playa."
+        "description": "Come find an oasis in the desert. Playground will be offering the sights and sounds of a Moroccan experience. A place to recharge and connect, Playground will offer some of the most delicious tunes heard on the playa.",
+        "burnermap_location": {
+            "string": "2:00 & Dance",
+            "gps_longitude": -119.19380557263713,
+            "gps_latitude": 40.78400349492102
+        }
     },
     {
         "uid": "a1X0V000003HFjhUAG",
@@ -6657,7 +9464,12 @@
         "url": "http://www.mbatter.com/",
         "contact_email": "madbattercamp@gmail.com",
         "hometown": "San Francisco",
-        "description": "Join us to become a boss of that dough, by imagining and bringing cookie concoctions to life.  Whether you're a no bake, half-baked or a full-baked kind of person, we'll supply all types of cookie assortments for you to select and decorate."
+        "description": "Join us to become a boss of that dough, by imagining and bringing cookie concoctions to life.  Whether you're a no bake, half-baked or a full-baked kind of person, we'll supply all types of cookie assortments for you to select and decorate.",
+        "burnermap_location": {
+            "string": "3:45 & Eulogy",
+            "gps_longitude": -119.20120359348034,
+            "gps_latitude": 40.77672504385827
+        }
     },
     {
         "uid": "a1X0V000003HFowUAG",
@@ -6666,7 +9478,10 @@
         "url": "http://blackrocktravelagency.squarespace.com/",
         "contact_email": "brta-leaders@groups.google.com",
         "hometown": "Planet Earth - We are from everywhere!",
-        "description": "The Black Rock Travel Agency's Theme Camp ( established 1999) is the heart and soul of the Airport, offering events such as the Thursday morning pancake breakfast and the Saturday Afternoon Airport Cocktail Party.\r\nWe are united in our desire to serve you - not drag you!"
+        "description": "The Black Rock Travel Agency's Theme Camp ( established 1999) is the heart and soul of the Airport, offering events such as the Thursday morning pancake breakfast and the Saturday Afternoon Airport Cocktail Party.\r\nWe are united in our desire to serve you - not drag you!",
+        "burnermap_location": {
+            "string": "5:00 & Landing Strip"
+        }
     },
     {
         "uid": "a1X0V000003HFY0UAO",
@@ -6684,7 +9499,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Santa Barbara",
-        "description": "The Enclave consists of a bubbly band of brothers, sisters and lovers united by a passion for art, design, engineering, entertainment and a whole lot of miscellanies fodder. The Enclave brings a self-made Playastani charm to the inner ring of Black Rock by celebrating the civically minded gifts we have to offer in a format that intends to suspend and expand our visitor's expectations"
+        "description": "The Enclave consists of a bubbly band of brothers, sisters and lovers united by a passion for art, design, engineering, entertainment and a whole lot of miscellanies fodder. The Enclave brings a self-made Playastani charm to the inner ring of Black Rock by celebrating the civically minded gifts we have to offer in a format that intends to suspend and expand our visitor's expectations",
+        "burnermap_location": {
+            "string": "9:00 & Portal",
+            "gps_longitude": -119.19959955872721,
+            "gps_latitude": 40.78104068189614
+        }
     },
     {
         "uid": "a1X0V000003HFrbUAG",
@@ -6693,7 +9513,12 @@
         "url": null,
         "contact_email": "flowertower@rearedinsteel.com",
         "hometown": "Petaluma",
-        "description": "The Flower Tower Art Support Camp"
+        "description": "The Flower Tower Art Support Camp",
+        "burnermap_location": {
+            "string": "9:30 & Dance",
+            "gps_longitude": -119.21322400826011,
+            "gps_latitude": 40.79528552172986
+        }
     },
     {
         "uid": "a1X0V000003HFYoUAO",
@@ -6702,7 +9527,12 @@
         "url": "https://www.facebook.com/renonation14/",
         "contact_email": "reno.nation.14@gmail.com",
         "hometown": "Reno/Sparks",
-        "description": "We are a young group of Reno locals, desert rats, beer enthusiasts, veteran burners and virgins alike.  We come from all corners of the wild west working to bring our favorite parts of The Biggest Little City to the Playa and then help to bring the burner spirit back to Reno."
+        "description": "We are a young group of Reno locals, desert rats, beer enthusiasts, veteran burners and virgins alike.  We come from all corners of the wild west working to bring our favorite parts of The Biggest Little City to the Playa and then help to bring the burner spirit back to Reno.",
+        "burnermap_location": {
+            "string": "2:00 & Breath",
+            "gps_longitude": -119.19548347332233,
+            "gps_latitude": 40.78434410068529
+        }
     },
     {
         "uid": "a1X0V000003HFpGUAW",
@@ -6711,7 +9541,12 @@
         "url": "http://pamsparlor.dance",
         "contact_email": null,
         "hometown": "Los Angeles",
-        "description": "Welcome one and all to Pam's Parlor, where you can find shade and get shiny with our custom flash tattoos designed specifically for this year's Burn, or enjoy other scheduled events such as yoga, meditation, body painting, and more! Please feel free to climb up onto the back of Pam the Albino Mastodon to get a great view of the neighborhood at any time of day or night--we look forward to seeing you there!"
+        "description": "Welcome one and all to Pam's Parlor, where you can find shade and get shiny with our custom flash tattoos designed specifically for this year's Burn, or enjoy other scheduled events such as yoga, meditation, body painting, and more! Please feel free to climb up onto the back of Pam the Albino Mastodon to get a great view of the neighborhood at any time of day or night--we look forward to seeing you there!",
+        "burnermap_location": {
+            "string": "7:00 & Ceremony",
+            "gps_longitude": -119.21855547917153,
+            "gps_latitude": 40.78417380084104
+        }
     },
     {
         "uid": "a1X0V000003HFsPUAW",
@@ -6720,7 +9555,12 @@
         "url": "https://www.facebook.com/Reverbia",
         "contact_email": "reverbia.bman@gmail.com",
         "hometown": "Eugene, OR and Vancouver, BC",
-        "description": "Reverbia- Known as the \"Portal of Live Music\" or \"Oasis of Live Music at Burning Man\", offers Live Music programming 18 hours a day/night including: Live Music Yoga in the Morning, Live Dance Workshops, Sing Alongs, Song, Dust, Sing (Black Rock City's popular singer/songwriter showcase and open mic), our Concert in the Shade Series, Sunset Classical Concerts (BYO Wine, Food Baskets, and Blanket), Reverbia Live Nights (featuring International, national, and regional festival bands), and After hours Jam and Tea in our expandedTeahouse."
+        "description": "Reverbia- Known as the \"Portal of Live Music\" or \"Oasis of Live Music at Burning Man\", offers Live Music programming 18 hours a day/night including: Live Music Yoga in the Morning, Live Dance Workshops, Sing Alongs, Song, Dust, Sing (Black Rock City's popular singer/songwriter showcase and open mic), our Concert in the Shade Series, Sunset Classical Concerts (BYO Wine, Food Baskets, and Blanket), Reverbia Live Nights (featuring International, national, and regional festival bands), and After hours Jam and Tea in our expandedTeahouse.",
+        "burnermap_location": {
+            "string": "3:45 & Esplanade",
+            "gps_longitude": -119.20314075308015,
+            "gps_latitude": 40.78026987800262
+        }
     },
     {
         "uid": "a1X0V000003HFs0UAG",
@@ -6729,7 +9569,12 @@
         "url": "https://www.facebook.com/groups/1624030311180020/",
         "contact_email": "david.faeder@gmail.com",
         "hometown": "Oakland",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "6:15 & Genuflect",
+            "gps_longitude": -119.21917494088358,
+            "gps_latitude": 40.77929272469477
+        }
     },
     {
         "uid": "a1X0V000003HFkLUAW",
@@ -6738,7 +9583,12 @@
         "url": "http://www.bubblesandbass.com/",
         "contact_email": "bubblesandbass@gmail.com",
         "hometown": "New York",
-        "description": "Welcome to Bubbles and Bass where we rock you out from first light til midday with bubbly bass-tastic house music.  Dance the AM hours away, enjoy an interesting conversation with a new friend, and drink some bubbly while you watch the sun rise over the Playa!"
+        "description": "Welcome to Bubbles and Bass where we rock you out from first light til midday with bubbly bass-tastic house music.  Dance the AM hours away, enjoy an interesting conversation with a new friend, and drink some bubbly while you watch the sun rise over the Playa!",
+        "burnermap_location": {
+            "string": "8:30 & Esplanade",
+            "gps_longitude": -119.21443620896422,
+            "gps_latitude": 40.790025074884774
+        }
     },
     {
         "uid": "a1X0V000003HFYyUAO",
@@ -6747,7 +9597,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "Need to update your playa look?  Sparkle Camels Costume Bazaar has you covered with costumes and a photo studio for lasting memories."
+        "description": "Need to update your playa look?  Sparkle Camels Costume Bazaar has you covered with costumes and a photo studio for lasting memories.",
+        "burnermap_location": {
+            "string": "8:30 & Eulogy",
+            "gps_longitude": -119.21882483908391,
+            "gps_latitude": 40.791942885258905
+        }
     },
     {
         "uid": "a1X0V000003HFZ3UAO",
@@ -6756,7 +9611,12 @@
         "url": "http://www.rickmetz.com/Site/Gallavant.html",
         "contact_email": "ricksax1@aol.com",
         "hometown": "Reno",
-        "description": "Ahoy from the Pirates of the Playa (infamous creators of the Mutant Vehicle, USS Nevada)...look for us \"Gallavanting\" around the playa spreading fun and adventure! Visit us, enjoy all the interactivity & hospitality we offer and hop a ride on a Mutant Vehicle!"
+        "description": "Ahoy from the Pirates of the Playa (infamous creators of the Mutant Vehicle, USS Nevada)...look for us \"Gallavanting\" around the playa spreading fun and adventure! Visit us, enjoy all the interactivity & hospitality we offer and hop a ride on a Mutant Vehicle!",
+        "burnermap_location": {
+            "string": "2:45 & Inspirit",
+            "gps_longitude": -119.19264715162441,
+            "gps_latitude": 40.77849184441712
+        }
     },
     {
         "uid": "a1X0V000003HFU8UAO",
@@ -6765,7 +9625,12 @@
         "url": null,
         "contact_email": "dirk611@gmail.com",
         "hometown": "Las Vegas",
-        "description": "Come visit the Kosmik FlameXchange, where we pedal our wares and bring fire to the playa!  Play in our interactive art sideshows, select that clothing item you can't live without in the Burban Outfitters, or attend a fire spinning class with Illuminalia!"
+        "description": "Come visit the Kosmik FlameXchange, where we pedal our wares and bring fire to the playa!  Play in our interactive art sideshows, select that clothing item you can't live without in the Burban Outfitters, or attend a fire spinning class with Illuminalia!",
+        "burnermap_location": {
+            "string": "7:00 & Breath",
+            "gps_longitude": -119.21771652667768,
+            "gps_latitude": 40.78434410068529
+        }
     },
     {
         "uid": "a1X0V000003HFpkUAG",
@@ -6774,7 +9639,12 @@
         "url": "http://www.dustyfrogz.fr",
         "contact_email": "contact@dustyfrogz.fr",
         "hometown": "Montpellier France",
-        "description": "\"Tu tires ou tu pointes\" - Shooting or Pointing! Come along and play a Petanque game with French burners. As a French camp, drinking is never too far, so come to discover and enjoy French Liquors!"
+        "description": "\"Tu tires ou tu pointes\" - Shooting or Pointing! Come along and play a Petanque game with French burners. As a French camp, drinking is never too far, so come to discover and enjoy French Liquors!",
+        "burnermap_location": {
+            "string": "4:30 & Juju",
+            "gps_longitude": -119.20660000000001,
+            "gps_latitude": 40.77262461312828
+        }
     },
     {
         "uid": "a1X0V000003HFsjUAG",
@@ -6783,7 +9653,12 @@
         "url": "http://fb.me/streetlifecamp",
         "contact_email": "streetlifecamp@gmail.com",
         "hometown": "New York, NY",
-        "description": "Street Life - Hip Hop Comes to the Playa"
+        "description": "Street Life - Hip Hop Comes to the Playa",
+        "burnermap_location": {
+            "string": "9:30 & Eulogy",
+            "gps_longitude": -119.21365843000717,
+            "gps_latitude": 40.795855050903654
+        }
     },
     {
         "uid": "a1X0V000003HFlxUAG",
@@ -6801,7 +9676,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Oakland",
-        "description": "Our ultimate goal is to create a space where people can come together to build new friendships, learn about the world, and discuss the philosophy of Burning Man in order to better assimilate the principles into both their own lives and back into the default world."
+        "description": "Our ultimate goal is to create a space where people can come together to build new friendships, learn about the world, and discuss the philosophy of Burning Man in order to better assimilate the principles into both their own lives and back into the default world.",
+        "burnermap_location": {
+            "string": "9:00 & Dance",
+            "gps_longitude": -119.21596753742148,
+            "gps_latitude": 40.79369147468789
+        }
     },
     {
         "uid": "a1X0V000003HFlTUAW",
@@ -6810,7 +9690,12 @@
         "url": "http://www.slutgarden.net/",
         "contact_email": "tammy@slutgarden.net",
         "hometown": "Portland",
-        "description": "Cum suck down our Slut juice, wrap your body in our love and pound your hips to the rhythms of the playa."
+        "description": "Cum suck down our Slut juice, wrap your body in our love and pound your hips to the rhythms of the playa.",
+        "burnermap_location": {
+            "string": "9:15 & Esplanade",
+            "gps_longitude": -119.2121119849032,
+            "gps_latitude": 40.79203277866507
+        }
     },
     {
         "uid": "a1X0V000003HFviUAG",
@@ -6819,7 +9704,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Los Angeles",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "2:45 & Eulogy",
+            "gps_longitude": -119.19540745787381,
+            "gps_latitude": 40.78008938358524
+        }
     },
     {
         "uid": "a1X0V000003HFZ8UAO",
@@ -6828,7 +9718,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Amsterdam",
-        "description": "Listen. Where we invite fellow participants to experience to be listened to or to listen. We believe to listen is to love and that this exercise of radical intimacy creates beautiful connections. We as camp members hold the space for everybody who wants to share this experience with us. We also organize workshops which are meant to inspire more active listening."
+        "description": "Listen. Where we invite fellow participants to experience to be listened to or to listen. We believe to listen is to love and that this exercise of radical intimacy creates beautiful connections. We as camp members hold the space for everybody who wants to share this experience with us. We also organize workshops which are meant to inspire more active listening.",
+        "burnermap_location": {
+            "string": "3:15 & Hallowed",
+            "gps_longitude": -119.19642261052486,
+            "gps_latitude": 40.7765556549045
+        }
     },
     {
         "uid": "a1X0V000003HFtcUAG",
@@ -6837,7 +9732,12 @@
         "url": null,
         "contact_email": "gt350jack@yahoo.com",
         "hometown": "Oakland",
-        "description": "The Black Rock Power CO-OP Village is a group of camps that share one common need, electricity. We are a group of 10 unique camps and there is something for everyone."
+        "description": "The Black Rock Power CO-OP Village is a group of camps that share one common need, electricity. We are a group of 10 unique camps and there is something for everyone.",
+        "burnermap_location": {
+            "string": "4:30 & Eulogy",
+            "gps_longitude": -119.20660000000001,
+            "gps_latitude": 40.77591293945103
+        }
     },
     {
         "uid": "a1X0V000003HFpaUAG",
@@ -6846,7 +9746,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Reno",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "8:30 & Esplanade",
+            "gps_longitude": -119.21443620896422,
+            "gps_latitude": 40.790025074884774
+        }
     },
     {
         "uid": "a1X0V000003HFaBUAW",
@@ -6855,7 +9760,12 @@
         "url": "http://www.playabook.org",
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "Playa Book of Records is Black Rock City's foremost authority on collecting, confirming and accrediting records set and broken on the playa. Record setting is both an individual/group accomplishment and an audience participatory event- all are welcome to visit and make playa history!"
+        "description": "Playa Book of Records is Black Rock City's foremost authority on collecting, confirming and accrediting records set and broken on the playa. Record setting is both an individual/group accomplishment and an audience participatory event- all are welcome to visit and make playa history!",
+        "burnermap_location": {
+            "string": "2:30 & Ceremony",
+            "gps_longitude": -119.19588137538875,
+            "gps_latitude": 40.781913639085346
+        }
     },
     {
         "uid": "a1X0V000003HFq4UAG",
@@ -6882,7 +9792,12 @@
         "url": "https://www.facebook.com/groups/stardustalumni/",
         "contact_email": "stardust@gettorussia.com",
         "hometown": "San Francisco",
-        "description": "Stardust Lounge is an eclectic pit stop for dusty travelers on their inter-playatary journeys. The three sections of the camp--the Casino, Spa, and Wedding Chapel--offer visitors a fun blend of rituals, games, and opportunities for self-care."
+        "description": "Stardust Lounge is an eclectic pit stop for dusty travelers on their inter-playatary journeys. The three sections of the camp--the Casino, Spa, and Wedding Chapel--offer visitors a fun blend of rituals, games, and opportunities for self-care.",
+        "burnermap_location": {
+            "string": "8:30 & Eulogy",
+            "gps_longitude": -119.21882483908391,
+            "gps_latitude": 40.791942885258905
+        }
     },
     {
         "uid": "a1X0V000003HFuaUAG",
@@ -6891,7 +9806,12 @@
         "url": "http://camphalfass.com/",
         "contact_email": null,
         "hometown": "Palo Alto",
-        "description": "Camp Half-Ass is a group of fun loving individuals that has been bringing Peace, Love, and Laughter to the Playa since 2006. Come enjoy our GIANT MOANING SEE-SAW, infamous Bike Bar, Art Installations, and Beer Garden Parties."
+        "description": "Camp Half-Ass is a group of fun loving individuals that has been bringing Peace, Love, and Laughter to the Playa since 2006. Come enjoy our GIANT MOANING SEE-SAW, infamous Bike Bar, Art Installations, and Beer Garden Parties.",
+        "burnermap_location": {
+            "string": "8:15 & Ceremony",
+            "gps_longitude": -119.21803835138897,
+            "gps_latitude": 40.79018145270112
+        }
     },
     {
         "uid": "a1X0V000003HFpzUAG",
@@ -6900,7 +9820,12 @@
         "url": "http://www.templeguardians.burningman.org",
         "contact_email": null,
         "hometown": "none",
-        "description": "Our camp hosts Temple Guardian orientation/trainings for new volunteers and returning Guardians.  Temple Guardians offer volunteer opportunities 24/7. Sign up for a shift or three!"
+        "description": "Our camp hosts Temple Guardian orientation/trainings for new volunteers and returning Guardians.  Temple Guardians offer volunteer opportunities 24/7. Sign up for a shift or three!",
+        "burnermap_location": {
+            "string": "5:30 & Esplanade",
+            "gps_longitude": -119.21112359988747,
+            "gps_latitude": 40.78066704889926
+        }
     },
     {
         "uid": "a1X0V000003HFw2UAG",
@@ -6909,7 +9834,12 @@
         "url": null,
         "contact_email": "wickedland.playa@gmail.com",
         "hometown": "Los Angeles",
-        "description": "WICKEDLAND has been turning the world of fairytales upside down from its inception in 2014. We believe each and every Playa Dweller has a fairytale hidden inside of them, and our camp helps these stories (especially the most wicked ones) emerge and see the light of day\u2026 or night!\r\n\r\nDo you think you need to speak to tell your story? Do you think you need words to understand somebody you just met? The Wicked Mash Machine will free you of these perceptions. It's part-game, part-performance, part-experience and YOU are at the very centre of it. Use the cube in the centre of the dome to create patterns of lights and sounds, collaborate with others and see what wickedness emerges!"
+        "description": "WICKEDLAND has been turning the world of fairytales upside down from its inception in 2014. We believe each and every Playa Dweller has a fairytale hidden inside of them, and our camp helps these stories (especially the most wicked ones) emerge and see the light of day… or night!\r\n\r\nDo you think you need to speak to tell your story? Do you think you need words to understand somebody you just met? The Wicked Mash Machine will free you of these perceptions. It's part-game, part-performance, part-experience and YOU are at the very centre of it. Use the cube in the centre of the dome to create patterns of lights and sounds, collaborate with others and see what wickedness emerges!",
+        "burnermap_location": {
+            "string": "9:15 & Eulogy",
+            "gps_longitude": -119.21519877481357,
+            "gps_latitude": 40.795075211956
+        }
     },
     {
         "uid": "a1X0V000003HFnPUAW",
@@ -6918,7 +9848,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Daly City",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "5:45 & Genuflect",
+            "gps_longitude": -119.21624876970895,
+            "gps_latitude": 40.77707746108055
+        }
     },
     {
         "uid": "a1X0V000003HFxeUAG",
@@ -6936,7 +9871,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "SF Bay Area, LA, Seattle, Vancouver B.C., NY, Miami",
-        "description": "Playfully-mindful camp uniting burners through laughter, curiosity, and consciousness.  Daily experiments in vulnerability, intimacy, self-discovery, storytelling, workshops and home of The Yum Cart...people leave with a smile and often come back for seconds."
+        "description": "Playfully-mindful camp uniting burners through laughter, curiosity, and consciousness.  Daily experiments in vulnerability, intimacy, self-discovery, storytelling, workshops and home of The Yum Cart...people leave with a smile and often come back for seconds.",
+        "burnermap_location": {
+            "string": "3:15 & Breath",
+            "gps_longitude": -119.19959886047135,
+            "gps_latitude": 40.779684009432565
+        }
     },
     {
         "uid": "a1X0V000003HFm2UAG",
@@ -6945,7 +9885,12 @@
         "url": "https://www.soberstella.com/",
         "contact_email": "campstellabm@gmail.com",
         "hometown": "San Francisco",
-        "description": "Camp Stella is a Burning Man theme camp of diverse queer and queer-friendly folks who have agreed to experience Burning Man clean and sober. Camp Stella hosts 6 open AA meetings during the week."
+        "description": "Camp Stella is a Burning Man theme camp of diverse queer and queer-friendly folks who have agreed to experience Burning Man clean and sober. Camp Stella hosts 6 open AA meetings during the week.",
+        "burnermap_location": {
+            "string": "7:45 & Fire",
+            "gps_longitude": -119.22145640090253,
+            "gps_latitude": 40.78807460729891
+        }
     },
     {
         "uid": "a1X0V000003HFxyUAG",
@@ -6954,7 +9899,12 @@
         "url": null,
         "contact_email": "dragonclanbrc@gmail.com",
         "hometown": "Redwood City",
-        "description": "Dragon Clan is a camp themed on fire and flight.  Join us to practice and perform fire arts in our performance space, learn about the joy and experience of ultralite flight, or just seek shelter beneath the wings of our dragon, climb up into our nest or just hang with us in our lizard lounge."
+        "description": "Dragon Clan is a camp themed on fire and flight.  Join us to practice and perform fire arts in our performance space, learn about the joy and experience of ultralite flight, or just seek shelter beneath the wings of our dragon, climb up into our nest or just hang with us in our lizard lounge.",
+        "burnermap_location": {
+            "string": "5:00 & Genuflect",
+            "gps_longitude": -119.210702111906,
+            "gps_latitude": 40.7750065078431
+        }
     },
     {
         "uid": "a1X0V000003HFy8UAG",
@@ -6963,7 +9913,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Reno",
-        "description": "Black Rock Fun Jet - \"We take you on exotic vacations to exotic destinations without leaving HOME.\""
+        "description": "Black Rock Fun Jet - \"We take you on exotic vacations to exotic destinations without leaving HOME.\"",
+        "burnermap_location": {
+            "string": "8:15 & Dance",
+            "gps_longitude": -119.21884106386673,
+            "gps_latitude": 40.79043278933819
+        }
     },
     {
         "uid": "a1X0V000003HFycUAG",
@@ -6981,7 +9936,12 @@
         "url": null,
         "contact_email": "yesnplease@gmail.com",
         "hometown": "Reno",
-        "description": "We believe in the power of saying YES.  Doing it NOW. And PLEASE is just being nice while doing it!  Is it a bar, is it a game?  It's a GameBar!!  Come by for happy hour nuttiness and climb all over the GameBar with your friends and go away with new ones!"
+        "description": "We believe in the power of saying YES.  Doing it NOW. And PLEASE is just being nice while doing it!  Is it a bar, is it a game?  It's a GameBar!!  Come by for happy hour nuttiness and climb all over the GameBar with your friends and go away with new ones!",
+        "burnermap_location": {
+            "string": "2:15 & Ceremony",
+            "gps_longitude": -119.19516764091506,
+            "gps_latitude": 40.78300872251151
+        }
     },
     {
         "uid": "a1X0V000003HFyhUAG",
@@ -6990,7 +9950,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Oakland",
-        "description": "Frozen Oasis Lounge\nShelter from the storm and relax under the misters with a frozen yummy slushy drink and a live classical music performance by the Playa Pops Symphony"
+        "description": "Frozen Oasis Lounge\nShelter from the storm and relax under the misters with a frozen yummy slushy drink and a live classical music performance by the Playa Pops Symphony",
+        "burnermap_location": {
+            "string": "8:15 & Ceremony",
+            "gps_longitude": -119.21803835138897,
+            "gps_latitude": 40.79018145270112
+        }
     },
     {
         "uid": "a1X0V000003HFzVUAW",
@@ -6999,7 +9964,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "In 2017, Camp EAT ME is excited to bring the awfulest waffle experience the playa has ever seen."
+        "description": "In 2017, Camp EAT ME is excited to bring the awfulest waffle experience the playa has ever seen.",
+        "burnermap_location": {
+            "string": "3:45 & Ceremony",
+            "gps_longitude": -119.20186776097587,
+            "gps_latitude": 40.77794041280151
+        }
     },
     {
         "uid": "a1X0V000003HFj3UAG",
@@ -7008,7 +9978,12 @@
         "url": null,
         "contact_email": "brcmiles@yahoo.com",
         "hometown": "San Jose",
-        "description": "Do-It-Yourself Burning Man T-Shirt Factory open 24/7. We provide the paint and stencils, and you provide the clothing and creativity. Quick, easy, and fun."
+        "description": "Do-It-Yourself Burning Man T-Shirt Factory open 24/7. We provide the paint and stencils, and you provide the clothing and creativity. Quick, easy, and fun.",
+        "burnermap_location": {
+            "string": "7:15 & Dance",
+            "gps_longitude": -119.21973174661066,
+            "gps_latitude": 40.78528546667241
+        }
     },
     {
         "uid": "a1X0V000003HG09UAG",
@@ -7026,7 +10001,12 @@
         "url": "https://www.facebook.com/groups/267817396884607/?fref=ts",
         "contact_email": null,
         "hometown": "Sparks",
-        "description": "The Society for Temporal Preservation consists of time travelers tasked with preserving the fabric of space-time. The society welcomes travelers from any era or dimension and specializes in assisting the temporally locked in altering their place within the framework of time and space."
+        "description": "The Society for Temporal Preservation consists of time travelers tasked with preserving the fabric of space-time. The society welcomes travelers from any era or dimension and specializes in assisting the temporally locked in altering their place within the framework of time and space.",
+        "burnermap_location": {
+            "string": "6:00 & Eulogy",
+            "gps_longitude": -119.21657960060574,
+            "gps_latitude": 40.77904267712541
+        }
     },
     {
         "uid": "a1X0V000003HFzfUAG",
@@ -7035,7 +10015,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "New York City & Montreal",
-        "description": "What could be nicer than sparkling seltzer water on a hot day in Black Rock?  Hint: Nothing.\r\n\r\nBut guys, I hate bringing cans and bottles of seltzer water to Burning Man because of all of the garbage and potential moop.  Don't fret boo, Burning Velvet got you covered at their \"VIP\" Bubble Lounge located at 6:00 and E (TBC in 2017).\r\n\r\nEvery afternoon Monday-Saturday thirsty citizens can walk our Red Carpet, grab your very own Burning Man VIP bracelet and sidle up to the Carbonation Bar.  Step under our pimped out silver disco shade structure, chill on our couches under our cooooool water misters, listen to chill house and disco as our Carbonation Experts serve you. Legend tells it even works to turn boxed white wine into 'champagne'.  Sit back and enjoy a simple luxury on playa!"
+        "description": "What could be nicer than sparkling seltzer water on a hot day in Black Rock?  Hint: Nothing.\r\n\r\nBut guys, I hate bringing cans and bottles of seltzer water to Burning Man because of all of the garbage and potential moop.  Don't fret boo, Burning Velvet got you covered at their \"VIP\" Bubble Lounge located at 6:00 and E (TBC in 2017).\r\n\r\nEvery afternoon Monday-Saturday thirsty citizens can walk our Red Carpet, grab your very own Burning Man VIP bracelet and sidle up to the Carbonation Bar.  Step under our pimped out silver disco shade structure, chill on our couches under our cooooool water misters, listen to chill house and disco as our Carbonation Experts serve you. Legend tells it even works to turn boxed white wine into 'champagne'.  Sit back and enjoy a simple luxury on playa!",
+        "burnermap_location": {
+            "string": "6:00 & Genuflect",
+            "gps_longitude": -119.21780770219705,
+            "gps_latitude": 40.77811248566889
+        }
     },
     {
         "uid": "a1X0V000003HG0TUAW",
@@ -7044,7 +10029,12 @@
         "url": "http://www.genitalportraitstudio.org",
         "contact_email": "gimmethoseshoes@yahoo.com",
         "hometown": "San Francisco",
-        "description": "Genital Portrait Studio, the playa's premier genital photography studio since 2000, celebrates genitalia as glorious and beautiful. Welcoming to all genders, we invite you to capture your most intimate side in a keepsake laminated ID badge."
+        "description": "Genital Portrait Studio, the playa's premier genital photography studio since 2000, celebrates genitalia as glorious and beautiful. Welcoming to all genders, we invite you to capture your most intimate side in a keepsake laminated ID badge.",
+        "burnermap_location": {
+            "string": "7:30 & Eulogy",
+            "gps_longitude": -119.22071489237238,
+            "gps_latitude": 40.786599140079424
+        }
     },
     {
         "uid": "a1X0V000003HG0YUAW",
@@ -7071,7 +10061,12 @@
         "url": null,
         "contact_email": "sebastiansteinbachsf@gmail.com",
         "hometown": "San Francisco",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "8:45 & Dance",
+            "gps_longitude": -119.21711394862523,
+            "gps_latitude": 40.79270090220066
+        }
     },
     {
         "uid": "a1X0V000003HG0dUAG",
@@ -7080,7 +10075,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Davis, CA",
-        "description": "Kome sing, listen and laugh with us! Sunday thru Friday evenings 7-9:30 live band back-up or standard songs, our friendly Kamp hosts will help you release your inner rock star."
+        "description": "Kome sing, listen and laugh with us! Sunday thru Friday evenings 7-9:30 live band back-up or standard songs, our friendly Kamp hosts will help you release your inner rock star.",
+        "burnermap_location": {
+            "string": "2:30 & Dance",
+            "gps_longitude": -119.19512924800482,
+            "gps_latitude": 40.78158473441435
+        }
     },
     {
         "uid": "a1X0V000003HG1WUAW",
@@ -7089,7 +10089,12 @@
         "url": null,
         "contact_email": "eric@freestyleclothing.com",
         "hometown": "Rocklin",
-        "description": "Nakked Zebra Bazaar is a boutique that provides any and all burners (especially the virgins) the opportunity and access to outfits and items that help guide them to freely express themselves."
+        "description": "Nakked Zebra Bazaar is a boutique that provides any and all burners (especially the virgins) the opportunity and access to outfits and items that help guide them to freely express themselves.",
+        "burnermap_location": {
+            "string": "3:00 & Kundalini",
+            "gps_longitude": -119.19293619779894,
+            "gps_latitude": 40.776252063700284
+        }
     },
     {
         "uid": "a1X0V000003HG0nUAG",
@@ -7098,7 +10103,12 @@
         "url": "https://www.facebook.com/HangingGardensBRC",
         "contact_email": "hanginggardensbrc@gmail.com",
         "hometown": "San Diego",
-        "description": "Hanging Gardens of BRC is an all-inclusive space - male, female, gay and straight - that celebrates the beauty of our interconnectedness, serendipity and of their intersection.  Visiting The Hanging Gardens means opening yourself up to the possibilities of chance meetings and unexpected adventures."
+        "description": "Hanging Gardens of BRC is an all-inclusive space - male, female, gay and straight - that celebrates the beauty of our interconnectedness, serendipity and of their intersection.  Visiting The Hanging Gardens means opening yourself up to the possibilities of chance meetings and unexpected adventures.",
+        "burnermap_location": {
+            "string": "7:45 & Genuflect",
+            "gps_longitude": -119.22231686363757,
+            "gps_latitude": 40.78816556022795
+        }
     },
     {
         "uid": "a1X0V000003HG25UAG",
@@ -7107,7 +10117,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Chicago",
-        "description": "At Perihelion, you will reach the point in your journey closest to the sun. Enjoy a bright morning at our Intergalactic Pancake Massacres, and find yourself drawn into the orbit of the Star Bar for a stellar frozen cocktail!"
+        "description": "At Perihelion, you will reach the point in your journey closest to the sun. Enjoy a bright morning at our Intergalactic Pancake Massacres, and find yourself drawn into the orbit of the Star Bar for a stellar frozen cocktail!",
+        "burnermap_location": {
+            "string": "4:15 & Fire",
+            "gps_longitude": -119.20464635954566,
+            "gps_latitude": 40.77535216679971
+        }
     },
     {
         "uid": "a1X0V000002rk25UAA",
@@ -7116,7 +10131,12 @@
         "url": "http://www.heebeegeebeehealers.org/",
         "contact_email": null,
         "hometown": "Boston, Boulder, New York, San Francisco",
-        "description": "HeeBeeGeeBee Healers is an oasis for nurturing, grounding and healing. Stop by to hang out and chill, take a class, or to receive bodywork and healing of all sorts."
+        "description": "HeeBeeGeeBee Healers is an oasis for nurturing, grounding and healing. Stop by to hang out and chill, take a class, or to receive bodywork and healing of all sorts.",
+        "burnermap_location": {
+            "string": "8:15 & Eulogy",
+            "gps_longitude": -119.21964377911931,
+            "gps_latitude": 40.79068412684408
+        }
     },
     {
         "uid": "a1X0V000003HG20UAG",
@@ -7125,7 +10145,12 @@
         "url": null,
         "contact_email": null,
         "hometown": null,
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "9:45 & Dance",
+            "gps_longitude": -119.21167388272448,
+            "gps_latitude": 40.795864495461
+        }
     },
     {
         "uid": "a1X0V000003HG2FUAW",
@@ -7134,7 +10159,12 @@
         "url": "https://www.facebook.com/LazySkoolDaze/",
         "contact_email": "lazyskooldaze@gmail.com",
         "hometown": "New York",
-        "description": "Lazy Skool Daze brings back your school days-- with an adult twist. Come join us for Drunk 90s Singalong, Recess, and Show N Tell!"
+        "description": "Lazy Skool Daze brings back your school days-- with an adult twist. Come join us for Drunk 90s Singalong, Recess, and Show N Tell!",
+        "burnermap_location": {
+            "string": "8:00 & Fire",
+            "gps_longitude": -119.22107359065816,
+            "gps_latitude": 40.789535326942264
+        }
     },
     {
         "uid": "a1X0V000002rk2AUAQ",
@@ -7152,7 +10182,12 @@
         "url": null,
         "contact_email": "grouchomags@gmail.com",
         "hometown": "San Francisco",
-        "description": "Lunacy with a Pinch of Disco. Follow the sound, follow the moon.\r\nFor all intergalactic Burners on the dark side of the moon: Daily Sunset Discos - gyrate while you howl at the setting sun! Disco Mac(& Cheese) Tues/Sun! Zero Gravity. Disco Nap. Time, Space & Heart Exploration. Teleport your body & mind with Art, Dance & Music. & Get your moon all shined up with a moon massage!"
+        "description": "Lunacy with a Pinch of Disco. Follow the sound, follow the moon.\r\nFor all intergalactic Burners on the dark side of the moon: Daily Sunset Discos - gyrate while you howl at the setting sun! Disco Mac(& Cheese) Tues/Sun! Zero Gravity. Disco Nap. Time, Space & Heart Exploration. Teleport your body & mind with Art, Dance & Music. & Get your moon all shined up with a moon massage!",
+        "burnermap_location": {
+            "string": "9:30 & Ceremony",
+            "gps_longitude": -119.21278959396655,
+            "gps_latitude": 40.79471599092689
+        }
     },
     {
         "uid": "a1X0V000003HG2UUAW",
@@ -7161,7 +10196,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Chicago",
-        "description": "Love Drippins is a fresh and playful take on the \"alternative lifestyle\" scene. Our play space is small and intimate and inclusive of all genders and sexual orientations provided all participants are consenting adults."
+        "description": "Love Drippins is a fresh and playful take on the \"alternative lifestyle\" scene. Our play space is small and intimate and inclusive of all genders and sexual orientations provided all participants are consenting adults.",
+        "burnermap_location": {
+            "string": "3:45 & Eulogy",
+            "gps_longitude": -119.20120359348034,
+            "gps_latitude": 40.77672504385827
+        }
     },
     {
         "uid": "a1X0V000003HG2PUAW",
@@ -7170,7 +10210,10 @@
         "url": null,
         "contact_email": "dmv@burningman.org",
         "hometown": "San Francisco",
-        "description": "This is the official Burning Man DMV. All mutant vehicles and disabled persons with vehicles must come to the DMV for licensing."
+        "description": "This is the official Burning Man DMV. All mutant vehicles and disabled persons with vehicles must come to the DMV for licensing.",
+        "burnermap_location": {
+            "string": "5:45 & Esplanade"
+        }
     },
     {
         "uid": "a1X0V000003HG2ZUAW",
@@ -7179,7 +10222,12 @@
         "url": null,
         "contact_email": "p3oasis@gmail.com",
         "hometown": "Arcata",
-        "description": "The drinks are on us, the jokes are on you."
+        "description": "The drinks are on us, the jokes are on you.",
+        "burnermap_location": {
+            "string": "7:15 & Genuflect",
+            "gps_longitude": -119.22231612211759,
+            "gps_latitude": 40.78503230749086
+        }
     },
     {
         "uid": "a1X0V000003HG2jUAG",
@@ -7188,7 +10236,12 @@
         "url": "http://www.salonsoleil.org/",
         "contact_email": "salonsoleil@gmail.com",
         "hometown": "San Francisco",
-        "description": "Salon Soleil is a welcoming space for personal exploration, self-expression, and interaction with other organic beings. We invite the Black Rock City community to visit our friendly, comfy quadruple Do-Me Domes any time, shake your bootie at our funk dance party, learn at our East Asian calligraphy workshop, or our Healing Faire with massage, readings, and personal and relationship counseling.  Also, come feed your power hungry devices and fill depleted batteries at our solar charging station!"
+        "description": "Salon Soleil is a welcoming space for personal exploration, self-expression, and interaction with other organic beings. We invite the Black Rock City community to visit our friendly, comfy quadruple Do-Me Domes any time, shake your bootie at our funk dance party, learn at our East Asian calligraphy workshop, or our Healing Faire with massage, readings, and personal and relationship counseling.  Also, come feed your power hungry devices and fill depleted batteries at our solar charging station!",
+        "burnermap_location": {
+            "string": "5:40 & Genuflect",
+            "gps_longitude": -119.21568531724557,
+            "gps_latitude": 40.776764959530425
+        }
     },
     {
         "uid": "a1X0V000003HG2yUAG",
@@ -7197,7 +10250,12 @@
         "url": null,
         "contact_email": "gentle@burningman.org",
         "hometown": "Icelandia",
-        "description": "Arctica Ice Sales is your center-of-town resource for ice.  Bags of crushed and block ice are available for $4/bag.  During the event, ice sales hours are Mon-Sat 9am-6pm, Sun Noon-6pm and Mon (Labor Day) 10am-Noon.\n\nPre-event ice sales are Thurs-Sun noon-6pm."
+        "description": "Arctica Ice Sales is your center-of-town resource for ice.  Bags of crushed and block ice are available for $4/bag.  During the event, ice sales hours are Mon-Sat 9am-6pm, Sun Noon-6pm and Mon (Labor Day) 10am-Noon.\n\nPre-event ice sales are Thurs-Sun noon-6pm.",
+        "burnermap_location": {
+            "string": "8:45 & Center Camp Plaza",
+            "gps_longitude": -119.21467077036148,
+            "gps_latitude": 40.78133367975097
+        }
     },
     {
         "uid": "a1X0V000003HG33UAG",
@@ -7215,7 +10273,12 @@
         "url": null,
         "contact_email": "antonviditzward@gmail.com",
         "hometown": "Telluride",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "5:15 & Breath",
+            "gps_longitude": -119.21100015468546,
+            "gps_latitude": 40.77854809835441
+        }
     },
     {
         "uid": "a1X0V000003HG2oUAG",
@@ -7224,7 +10287,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "2:45 & Genuflect",
+            "gps_longitude": -119.19402505911644,
+            "gps_latitude": 40.77929272469477
+        }
     },
     {
         "uid": "a1X0V000003HG38UAG",
@@ -7233,7 +10301,12 @@
         "url": "http://www.baaahs.org",
         "contact_email": "info@baaahs.org",
         "hometown": "San Francisco",
-        "description": "BAAAHS Station is the central depot and homo-licious home on the range to BAAAHS, the Big-Ass Amazingly Awesome Homosexual Sheep - part mutant vehicle, part penetrable sculpture and part rolling disco. Weary travelers come sit for a spell, kick up your hooves and dance, or begin a new journey as you slide through a pulsing pink sphincter into the luscious cocoon of his polyphonic peritoneum. The village itself also offers a \"petting zoo\", public lounge spaces, art installations, and more."
+        "description": "BAAAHS Station is the central depot and homo-licious home on the range to BAAAHS, the Big-Ass Amazingly Awesome Homosexual Sheep - part mutant vehicle, part penetrable sculpture and part rolling disco. Weary travelers come sit for a spell, kick up your hooves and dance, or begin a new journey as you slide through a pulsing pink sphincter into the luscious cocoon of his polyphonic peritoneum. The village itself also offers a \"petting zoo\", public lounge spaces, art installations, and more.",
+        "burnermap_location": {
+            "string": "8:00 & Genuflect",
+            "gps_longitude": -119.22191267862733,
+            "gps_latitude": 40.789705435365605
+        }
     },
     {
         "uid": "a1X0V000003HG0xUAG",
@@ -7242,7 +10315,12 @@
         "url": "http://nevernevercampbrc.com",
         "contact_email": "josiahq@gmail.com",
         "hometown": "San Francisco",
-        "description": "Remember the place between sleep and awake, that place where you still remember dreaming? That's where we'll Never Never Camp."
+        "description": "Remember the place between sleep and awake, that place where you still remember dreaming? That's where we'll Never Never Camp.",
+        "burnermap_location": {
+            "string": "3:45 & Eulogy",
+            "gps_longitude": -119.20120359348034,
+            "gps_latitude": 40.77672504385827
+        }
     },
     {
         "uid": "a1X0V000003HG3IUAW",
@@ -7260,7 +10338,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "Sake II Mi: Not the original. But what we lack in history we make up for in sumo! Disagree? Come wrestle it out!"
+        "description": "Sake II Mi: Not the original. But what we lack in history we make up for in sumo! Disagree? Come wrestle it out!",
+        "burnermap_location": {
+            "string": "7:30 & Breath",
+            "gps_longitude": -119.21810906612154,
+            "gps_latitude": 40.78659942828001
+        }
     },
     {
         "uid": "a1X0V000003HG3hUAG",
@@ -7269,7 +10352,12 @@
         "url": "http://www.fandangobrc.com",
         "contact_email": "info@fandangobrc.com",
         "hometown": "San Luis Obispo",
-        "description": "FANDANGO! is a village that centers around the Slow Burn Lounge (bar) and hosts smaller subcamps which provide their own style of interactivity and programming, many of which take place in the Slow Burn Lounge. Several of our members also serve the city as Temple Guardians, Rangers, and Mail Delivery."
+        "description": "FANDANGO! is a village that centers around the Slow Burn Lounge (bar) and hosts smaller subcamps which provide their own style of interactivity and programming, many of which take place in the Slow Burn Lounge. Several of our members also serve the city as Temple Guardians, Rangers, and Mail Delivery.",
+        "burnermap_location": {
+            "string": "8:30 & Awe",
+            "gps_longitude": -119.21581546539866,
+            "gps_latitude": 40.790627833203835
+        }
     },
     {
         "uid": "a1X0V000003HG3XUAW",
@@ -7278,7 +10366,12 @@
         "url": "http://www.bioluminati.org",
         "contact_email": "contact@bioluminati.org",
         "hometown": "Berkeley",
-        "description": "Bioluminati has been illuminating BRC for over two decades with art, quests and the BIKE MUTATION STATION (formerly Pimp Yr Bike), the mutation/decoration station where Black Rock Citizens can mutate/decorate their rides with that extra get-up-and-glow. Open daily. Donors of non-moopy craft materials get VIP access!"
+        "description": "Bioluminati has been illuminating BRC for over two decades with art, quests and the BIKE MUTATION STATION (formerly Pimp Yr Bike), the mutation/decoration station where Black Rock Citizens can mutate/decorate their rides with that extra get-up-and-glow. Open daily. Donors of non-moopy craft materials get VIP access!",
+        "burnermap_location": {
+            "string": "9:45 & Rods Road",
+            "gps_longitude": -119.21507848854253,
+            "gps_latitude": 40.782865414435925
+        }
     },
     {
         "uid": "a1X0V000003HG3rUAG",
@@ -7287,7 +10380,12 @@
         "url": "http://www.vineswithoutborders.com",
         "contact_email": "cmframe@gmail.com",
         "hometown": "Menlo Park",
-        "description": "Vines offers an international wine bar experience to the playa. People and wines from around the world every night starting at 6:00pm and going until we run out of energy."
+        "description": "Vines offers an international wine bar experience to the playa. People and wines from around the world every night starting at 6:00pm and going until we run out of energy.",
+        "burnermap_location": {
+            "string": "4:45 & Breath",
+            "gps_longitude": -119.20810062271201,
+            "gps_latitude": 40.77796035808232
+        }
     },
     {
         "uid": "a1X0V000003HG3cUAG",
@@ -7296,7 +10394,12 @@
         "url": "http://www.campbeaverton.org",
         "contact_email": "campbeaverton@gmail.com",
         "hometown": "Oakland",
-        "description": "Camp Beaverton is an intentional, experimental, and experiential Burning Man community theme camp. We are a group of queer women/trans/genderqueer/lesbian/bisexual/heterosexual/etc... or folks who are simply as wayward as the playa is dusty. We celebrate sexuality, self exploration, and respect for one's journey on through this life. Our goal is to provide a safe space for queer women and trans folks on and off-Playa. We encourage education, participation, inquiry, conversation, and self-reflection. We extend our goals to the greater Black Rock community by hosting workshops and social events."
+        "description": "Camp Beaverton is an intentional, experimental, and experiential Burning Man community theme camp. We are a group of queer women/trans/genderqueer/lesbian/bisexual/heterosexual/etc... or folks who are simply as wayward as the playa is dusty. We celebrate sexuality, self exploration, and respect for one's journey on through this life. Our goal is to provide a safe space for queer women and trans folks on and off-Playa. We encourage education, participation, inquiry, conversation, and self-reflection. We extend our goals to the greater Black Rock community by hosting workshops and social events.",
+        "burnermap_location": {
+            "string": "7:45 & Eulogy",
+            "gps_longitude": -119.22059514992095,
+            "gps_latitude": 40.787989121790545
+        }
     },
     {
         "uid": "a1X0V000003HG3wUAG",
@@ -7314,7 +10417,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Reno",
-        "description": "Kegel Kommandos - we're doing it now!\r\nFeaturing the annual Friday (and now Thursday!) Grilled Cheese and Bacon party and the 2nd Annual Black Rock City, Ding Dong Sing Song Beer Bong Ping Pong World Championship.  Table Tennis, beer and junk food \u2013 now that's something to sing about!"
+        "description": "Kegel Kommandos - we're doing it now!\r\nFeaturing the annual Friday (and now Thursday!) Grilled Cheese and Bacon party and the 2nd Annual Black Rock City, Ding Dong Sing Song Beer Bong Ping Pong World Championship.  Table Tennis, beer and junk food – now that's something to sing about!",
+        "burnermap_location": {
+            "string": "3:45 & Awe",
+            "gps_longitude": -119.20253193004713,
+            "gps_latitude": 40.779155784628216
+        }
     },
     {
         "uid": "a1X0V000003HG6bUAG",
@@ -7323,7 +10431,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "Dusty Disco Saloon - Western saloon by day, disco by nightfall. A place to come escape the hustle and bustle of Black Rock City."
+        "description": "Dusty Disco Saloon - Western saloon by day, disco by nightfall. A place to come escape the hustle and bustle of Black Rock City.",
+        "burnermap_location": {
+            "string": "2:45 & Dance",
+            "gps_longitude": -119.19609621098215,
+            "gps_latitude": 40.7804900260168
+        }
     },
     {
         "uid": "a1X0V000002rk4pUAA",
@@ -7332,7 +10445,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Seattle",
-        "description": "We are a eclectic group of like minded wayward souls drawn by fate into the nexus of Black Rock City. By counting on each other we magnify the love, healing, compassion and assholery that exists at Burning Man."
+        "description": "We are a eclectic group of like minded wayward souls drawn by fate into the nexus of Black Rock City. By counting on each other we magnify the love, healing, compassion and assholery that exists at Burning Man.",
+        "burnermap_location": {
+            "string": "9:15 & Dance",
+            "gps_longitude": -119.21466960683222,
+            "gps_latitude": 40.794553648023985
+        }
     },
     {
         "uid": "a1X0V000003HG6gUAG",
@@ -7341,7 +10459,12 @@
         "url": "https://www.facebook.com/octopusgardenforever/",
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "Come by the Octopus Garden to enjoy a salty treat and some Pussy Punch while we airbrush your body to some smooth grooves... Though we love Pussy, we are not an orgy camp... yet"
+        "description": "Come by the Octopus Garden to enjoy a salty treat and some Pussy Punch while we airbrush your body to some smooth grooves... Though we love Pussy, we are not an orgy camp... yet",
+        "burnermap_location": {
+            "string": "9:45 & Awe",
+            "gps_longitude": -119.21067573273129,
+            "gps_latitude": 40.79404195509428
+        }
     },
     {
         "uid": "a1X0V000002rk8hUAA",
@@ -7359,7 +10482,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Boston",
-        "description": "A Transformation Station ...\r\n\r\nAn art school, A cultural exchange hub, A place of learning and shaing ... & Gifting Galore"
+        "description": "A Transformation Station ...\r\n\r\nAn art school, A cultural exchange hub, A place of learning and shaing ... & Gifting Galore",
+        "burnermap_location": {
+            "string": "6:15 & Genuflect",
+            "gps_longitude": -119.21917494088358,
+            "gps_latitude": 40.77929272469477
+        }
     },
     {
         "uid": "a1X0V000003HG41UAG",
@@ -7368,7 +10496,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Denver and NYC",
-        "description": "If you're a Bunny, you'll be safe here  )*("
+        "description": "If you're a Bunny, you'll be safe here  )*(",
+        "burnermap_location": {
+            "string": "9:15 & Fire",
+            "gps_longitude": -119.2157279444489,
+            "gps_latitude": 40.79559677751822
+        }
     },
     {
         "uid": "a1X0V000002rk5xUAA",
@@ -7377,7 +10510,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Leader in NYC, Key members in Reno",
-        "description": "We are home to Joe's Playa Pizza and Paulas Full Fat Ice Cream and Drugs pop ups, along with Misssus Paula, the cycloptic alien mutant vehicle with the gleaming eye and full lips.\r\nStop by anytime, if your timing is off for the Pizza or Ice Cream Cafes, we usually have the slushy machine going filled with Painkillers. They're frozen, alcoholic, strong and delicious, just like you."
+        "description": "We are home to Joe's Playa Pizza and Paulas Full Fat Ice Cream and Drugs pop ups, along with Misssus Paula, the cycloptic alien mutant vehicle with the gleaming eye and full lips.\r\nStop by anytime, if your timing is off for the Pizza or Ice Cream Cafes, we usually have the slushy machine going filled with Painkillers. They're frozen, alcoholic, strong and delicious, just like you.",
+        "burnermap_location": {
+            "string": "6:45 & Genuflect",
+            "gps_longitude": -119.22124442703583,
+            "gps_latitude": 40.78200595809783
+        }
     },
     {
         "uid": "a1X0V000002rk9LUAQ",
@@ -7386,7 +10524,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Las Vegas",
-        "description": "Fer Sherbert! \r\n\r\nWe bring positive reinforcement and frosty vegan superfood treats to artist, volunteers, and citizens... its like 'For Sure', rather FER SHERBERT!"
+        "description": "Fer Sherbert! \r\n\r\nWe bring positive reinforcement and frosty vegan superfood treats to artist, volunteers, and citizens... its like 'For Sure', rather FER SHERBERT!",
+        "burnermap_location": {
+            "string": "2:45 & Juju",
+            "gps_longitude": -119.19195821033782,
+            "gps_latitude": 40.778091398132474
+        }
     },
     {
         "uid": "a1X0V000003HG4aUAG",
@@ -7395,7 +10538,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Lake Tahoe",
-        "description": "The home of spontaneous Awesome!(ness), providing and inviting all for music, art, performances, and good times.  From arts and crafts events to daily parties, come join the fun with us - the home of the Tahoe Block Party on Thursday!"
+        "description": "The home of spontaneous Awesome!(ness), providing and inviting all for music, art, performances, and good times.  From arts and crafts events to daily parties, come join the fun with us - the home of the Tahoe Block Party on Thursday!",
+        "burnermap_location": {
+            "string": "9:15 & Breath",
+            "gps_longitude": -119.21361127583118,
+            "gps_latitude": 40.79351052505032
+        }
     },
     {
         "uid": "a1X0V000003HG6lUAG",
@@ -7404,7 +10552,12 @@
         "url": "https://www.facebook.com/PumpsRaiders/",
         "contact_email": "lcs150@gmail.com",
         "hometown": "Boulder",
-        "description": "Captain Pump's Raiders is Black Rock City's finest giant-robot driving mercenary company, and we roll a mean D20.  Come visit us for RaiderCon IV, the Playa's premier (and possibly only) roleplaying-game convention!"
+        "description": "Captain Pump's Raiders is Black Rock City's finest giant-robot driving mercenary company, and we roll a mean D20.  Come visit us for RaiderCon IV, the Playa's premier (and possibly only) roleplaying-game convention!",
+        "burnermap_location": {
+            "string": "5:45 & Genuflect",
+            "gps_longitude": -119.21624876970895,
+            "gps_latitude": 40.77707746108055
+        }
     },
     {
         "uid": "a1X0V000002rk4zUAA",
@@ -7422,7 +10575,12 @@
         "url": "http://cosmicgiggle.org/",
         "contact_email": null,
         "hometown": "SFO and PDX",
-        "description": "Like fire?  Like muscles and sweat?  For a good time, call 1-800-Cosmic-Giggle."
+        "description": "Like fire?  Like muscles and sweat?  For a good time, call 1-800-Cosmic-Giggle.",
+        "burnermap_location": {
+            "string": "4:30 & Breath",
+            "gps_longitude": -119.20660000000001,
+            "gps_latitude": 40.77788593524468
+        }
     },
     {
         "uid": "a1X0V000003HG6qUAG",
@@ -7431,7 +10589,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Missoula",
-        "description": "A great spot to have a laugh and give those legs a rest. Come take a ride on the living legend, Missoula's intergalactic Ghetto Gypsy bus."
+        "description": "A great spot to have a laugh and give those legs a rest. Come take a ride on the living legend, Missoula's intergalactic Ghetto Gypsy bus.",
+        "burnermap_location": {
+            "string": "8:00 & Genuflect",
+            "gps_longitude": -119.22191267862733,
+            "gps_latitude": 40.789705435365605
+        }
     },
     {
         "uid": "a1X0V000002rk9QUAQ",
@@ -7449,7 +10612,12 @@
         "url": null,
         "contact_email": "steelebrennan0@gmail.com",
         "hometown": "New Orleans",
-        "description": "The Yurtnited Nations - art support camp collective for The Dung Bug honoraria project. We're from New Orleans, so come talk shop, and meet our awesome team. https://www.behance.net/gallery/46978831/Dung-Bug-BRC-Honoraria-2017"
+        "description": "The Yurtnited Nations - art support camp collective for The Dung Bug honoraria project. We're from New Orleans, so come talk shop, and meet our awesome team. https://www.behance.net/gallery/46978831/Dung-Bug-BRC-Honoraria-2017",
+        "burnermap_location": {
+            "string": "8:45 & Dance",
+            "gps_longitude": -119.21711394862523,
+            "gps_latitude": 40.79270090220066
+        }
     },
     {
         "uid": "a1X0V000003HG5nUAG",
@@ -7467,7 +10635,12 @@
         "url": "http://barechestedbaristas.com",
         "contact_email": null,
         "hometown": "Santa Barbara, Ca",
-        "description": "EZ Tiger is a cozy bar in a jungle on an island in the deepest reaches of the orange seventh dimension. The rhythm of sprawling life pulsates and neon leaves rustle. You\u2019re here to be an animal. All species welcome"
+        "description": "EZ Tiger is a cozy bar in a jungle on an island in the deepest reaches of the orange seventh dimension. The rhythm of sprawling life pulsates and neon leaves rustle. You’re here to be an animal. All species welcome",
+        "burnermap_location": {
+            "string": "5:30 & Hallowed",
+            "gps_longitude": -119.21495897943825,
+            "gps_latitude": 40.77563576798148
+        }
     },
     {
         "uid": "a1X0V000002rk6HUAQ",
@@ -7476,7 +10649,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "Join Planetarium Aquarium as we once again celebrate Suzanne the Swan and her magical band of misfits in our amazing one-of-a-kind SWAMP!"
+        "description": "Join Planetarium Aquarium as we once again celebrate Suzanne the Swan and her magical band of misfits in our amazing one-of-a-kind SWAMP!",
+        "burnermap_location": {
+            "string": "4:15 & Eulogy",
+            "gps_longitude": -119.20475961396234,
+            "gps_latitude": 40.77600421451153
+        }
     },
     {
         "uid": "a1X0V000002rk9VUAQ",
@@ -7485,7 +10663,12 @@
         "url": "https://deoxidized.org/",
         "contact_email": null,
         "hometown": "Reno",
-        "description": "dEOxidized Camp is dedicated to recharging the batteries of all hard-working Burners. Our camp is comprised of members of an Entrepreneurs Organization along with guests from around the world. Together, we will co-create an unforgettable experience with our community of friends old and new. Come join us every day in the dEOxidized Oasis, our lounge-type chill space featuring a 50' parachute shade structure, an open bar, live DJs and music, and daily happy hours from 3pm to sunset. Come meet our international crew from across the U.S. and more than a half dozen other countries, including Australia, England, Holland, Germany, Mexico, New Zealand, United Arab Emirates, and more. We are a diverse group of Burners with much to share and look forward to meeting you!"
+        "description": "dEOxidized Camp is dedicated to recharging the batteries of all hard-working Burners. Our camp is comprised of members of an Entrepreneurs Organization along with guests from around the world. Together, we will co-create an unforgettable experience with our community of friends old and new. Come join us every day in the dEOxidized Oasis, our lounge-type chill space featuring a 50' parachute shade structure, an open bar, live DJs and music, and daily happy hours from 3pm to sunset. Come meet our international crew from across the U.S. and more than a half dozen other countries, including Australia, England, Holland, Germany, Mexico, New Zealand, United Arab Emirates, and more. We are a diverse group of Burners with much to share and look forward to meeting you!",
+        "burnermap_location": {
+            "string": "3:15 & Kundalini",
+            "gps_longitude": -119.19483680105056,
+            "gps_latitude": 40.77499022190424
+        }
     },
     {
         "uid": "a1X0V000003HG7UUAW",
@@ -7494,7 +10677,12 @@
         "url": "https://www.facebook.com/jurassicporkofficial/",
         "contact_email": "thenewbarbarianscamp@gmail.com",
         "hometown": "San Francisco",
-        "description": "It's the year 2017, the New Barbarians, led by their massive steel ruler, Jurassic Pork, are on a quest to spread their bountiful stock of delicious wieners to the mouths of hungry burners. Come party with us! We're all about Sausage Sizzle BBQ parties serving up sausage meats and tasty beats."
+        "description": "It's the year 2017, the New Barbarians, led by their massive steel ruler, Jurassic Pork, are on a quest to spread their bountiful stock of delicious wieners to the mouths of hungry burners. Come party with us! We're all about Sausage Sizzle BBQ parties serving up sausage meats and tasty beats.",
+        "burnermap_location": {
+            "string": "7:30 & Awe",
+            "gps_longitude": -119.21724045736653,
+            "gps_latitude": 40.786599511320865
+        }
     },
     {
         "uid": "a1X0V000002rk9fUAA",
@@ -7503,7 +10691,12 @@
         "url": null,
         "contact_email": "lindleymease@gmail.com",
         "hometown": "San Francisco",
-        "description": "Across the space/time continuum, through galactic upheaval and hiccups, we have evolved to this chaotic existence. Colliding and reforging, StarBarf weaves workshops, discussions, and movement into our shared vision of community. We strive to connect with beautiful and messy humanity; the humbling scales in which we exist; and the unbounded possibilities that we, as StarBarf, realize... You are StarBarf, too."
+        "description": "Across the space/time continuum, through galactic upheaval and hiccups, we have evolved to this chaotic existence. Colliding and reforging, StarBarf weaves workshops, discussions, and movement into our shared vision of community. We strive to connect with beautiful and messy humanity; the humbling scales in which we exist; and the unbounded possibilities that we, as StarBarf, realize... You are StarBarf, too.",
+        "burnermap_location": {
+            "string": "4:30 & Breath",
+            "gps_longitude": -119.20660000000001,
+            "gps_latitude": 40.77788593524468
+        }
     },
     {
         "uid": "a1X0V000003HG7AUAW",
@@ -7512,7 +10705,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Oakland",
-        "description": "The Shitshow Roadshow Gameshow invites YOU to try your hand at our OVERSIZED games! Come play the Mumblewaze, Plinko, and Hungry Hungry Sparkleponies!"
+        "description": "The Shitshow Roadshow Gameshow invites YOU to try your hand at our OVERSIZED games! Come play the Mumblewaze, Plinko, and Hungry Hungry Sparkleponies!",
+        "burnermap_location": {
+            "string": "6:45 & Dance",
+            "gps_longitude": -119.21883461146463,
+            "gps_latitude": 40.78275670882913
+        }
     },
     {
         "uid": "a1X0V000002rk7KUAQ",
@@ -7521,7 +10719,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Los Angeles",
-        "description": "Like a Tsunami, our Radical Rituals will wash over you and remind you that you are Home: Snow Cones, Beer Bongs, Playa Fashion Makeovers, and Fire!"
+        "description": "Like a Tsunami, our Radical Rituals will wash over you and remind you that you are Home: Snow Cones, Beer Bongs, Playa Fashion Makeovers, and Fire!",
+        "burnermap_location": {
+            "string": "5:30 & Eulogy",
+            "gps_longitude": -119.21365646285352,
+            "gps_latitude": 40.77734451913604
+        }
     },
     {
         "uid": "a1X0V000002rk9kUAA",
@@ -7530,7 +10733,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "SF, LA, NYC and London",
-        "description": "Preservation Society: God save little shops, china cups and virginity"
+        "description": "Preservation Society: God save little shops, china cups and virginity",
+        "burnermap_location": {
+            "string": "7:00 & Genuflect",
+            "gps_longitude": -119.2219112461207,
+            "gps_latitude": 40.78349254070713
+        }
     },
     {
         "uid": "a1X0V000003HG5sUAG",
@@ -7539,7 +10747,12 @@
         "url": null,
         "contact_email": "david@8-bitbunny.com",
         "hometown": "San Francisco",
-        "description": "8-bit Bunny is a group of pixilated rabbits. Stop by during the day to experiences our steam sauna or spin the wheel for a drink!"
+        "description": "8-bit Bunny is a group of pixilated rabbits. Stop by during the day to experiences our steam sauna or spin the wheel for a drink!",
+        "burnermap_location": {
+            "string": "7:45 & Eulogy",
+            "gps_longitude": -119.22059514992095,
+            "gps_latitude": 40.787989121790545
+        }
     },
     {
         "uid": "a1X0V000002rk7ZUAQ",
@@ -7548,7 +10761,12 @@
         "url": null,
         "contact_email": "epykentertainment@gmail.com",
         "hometown": "Las Vegas",
-        "description": "Come where love is always in fashion, dancing is a way of life and every person you know is waiting. Grab some beautiful threads, have a drink and dance till there's holes in your shoes. This camp is devoted to turning your energy UP!! We will have Beats Droppin, Booze Flowin and a Boutique to enhance your style on the playa! Our positive and loving vybes will make your stay at our camp epic!"
+        "description": "Come where love is always in fashion, dancing is a way of life and every person you know is waiting. Grab some beautiful threads, have a drink and dance till there's holes in your shoes. This camp is devoted to turning your energy UP!! We will have Beats Droppin, Booze Flowin and a Boutique to enhance your style on the playa! Our positive and loving vybes will make your stay at our camp epic!",
+        "burnermap_location": {
+            "string": "2:00 & Juju",
+            "gps_longitude": -119.18877197384795,
+            "gps_latitude": 40.78298153181388
+        }
     },
     {
         "uid": "a1X0V000003HG6CUAW",
@@ -7557,7 +10775,12 @@
         "url": "https://www.instagram.com/clawmachinecamp/",
         "contact_email": "clawmachinecamp@gmail.com",
         "hometown": "Oakland",
-        "description": "Starting to feel like a tiny cog in one big machine? We might be the machine. Get to the heart of being a human and play in and ride our giant, human powered, claw machine!"
+        "description": "Starting to feel like a tiny cog in one big machine? We might be the machine. Get to the heart of being a human and play in and ride our giant, human powered, claw machine!",
+        "burnermap_location": {
+            "string": "3:00 & Juju",
+            "gps_longitude": -119.19355020990311,
+            "gps_latitude": 40.77671717407414
+        }
     },
     {
         "uid": "a1X0V000003HG7KUAW",
@@ -7575,7 +10798,12 @@
         "url": "http://www.facebook.com/groups/1032848813392970/",
         "contact_email": "electricgypsycoffeeoasis@gmail.com",
         "hometown": "Umpqua",
-        "description": "In the blink of an eye don't let it pass you by come experience the Electric Gypsy Coffee Oasis! An oasis for travelers to come enjoy morning coffee, pastries, games, massage, and energy healing."
+        "description": "In the blink of an eye don't let it pass you by come experience the Electric Gypsy Coffee Oasis! An oasis for travelers to come enjoy morning coffee, pastries, games, massage, and energy healing.",
+        "burnermap_location": {
+            "string": "2:15 & Awe",
+            "gps_longitude": -119.1967721529254,
+            "gps_latitude": 40.78351275215403
+        }
     },
     {
         "uid": "a1X0V000003HG7jUAG",
@@ -7584,7 +10812,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Los Angeles",
-        "description": "You think your dusty-ass feet are worthy of our luscious lawn? Come see, but don't you dare enjoy, our sweet sod, stiff lemonade, and garden games with our naughty gnomes."
+        "description": "You think your dusty-ass feet are worthy of our luscious lawn? Come see, but don't you dare enjoy, our sweet sod, stiff lemonade, and garden games with our naughty gnomes.",
+        "burnermap_location": {
+            "string": "2:15 & Dance",
+            "gps_longitude": -119.19436538853539,
+            "gps_latitude": 40.78275670882914
+        }
     },
     {
         "uid": "a1X0V000002rk7UUAQ",
@@ -7593,7 +10826,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Jose",
-        "description": "17th Edition of Petting Zoo. Best Bar on the Playa several years running.  We welcome newcomers and hope to share the experiences of the playa all while offering an array of creative cocktails, ice-cold draft beer, imbibing beverages, and our classic and exclusive 'pussy juice'. Daytime Bar Only. We open same time as Artica (coincidence, I think not, hint hint), Close at sunset."
+        "description": "17th Edition of Petting Zoo. Best Bar on the Playa several years running.  We welcome newcomers and hope to share the experiences of the playa all while offering an array of creative cocktails, ice-cold draft beer, imbibing beverages, and our classic and exclusive 'pussy juice'. Daytime Bar Only. We open same time as Artica (coincidence, I think not, hint hint), Close at sunset.",
+        "burnermap_location": {
+            "string": "2:30 & Awe",
+            "gps_longitude": -119.19738565250331,
+            "gps_latitude": 40.782571433777456
+        }
     },
     {
         "uid": "a1X0V000002rkAYUAY",
@@ -7602,7 +10840,12 @@
         "url": "http://rt-eng.com/rte/index.php?title=Bm2017",
         "contact_email": "greg@rt-eng.com",
         "hometown": "Springdale, AR",
-        "description": "Skepticons welcomes in anyone interested in making music, from absolute novices to experienced musicians."
+        "description": "Skepticons welcomes in anyone interested in making music, from absolute novices to experienced musicians.",
+        "burnermap_location": {
+            "string": "4:45 & Hallowed",
+            "gps_longitude": -119.20878207936424,
+            "gps_latitude": 40.77404823164073
+        }
     },
     {
         "uid": "a1X0V000003HG5iUAG",
@@ -7611,7 +10854,12 @@
         "url": "https://www.facebook.com/burningcampsafari/",
         "contact_email": "campsafari@formeremployee.com",
         "hometown": "Concord",
-        "description": "Home of the Safari Bar, where a spin of the wheel will determine your beverage fate.  Photo ops, animal hunting, and desert games... it wouldn't be a Safari without 'em."
+        "description": "Home of the Safari Bar, where a spin of the wheel will determine your beverage fate.  Photo ops, animal hunting, and desert games... it wouldn't be a Safari without 'em.",
+        "burnermap_location": {
+            "string": "4:30 & Ceremony",
+            "gps_longitude": -119.20660000000001,
+            "gps_latitude": 40.777228269980135
+        }
     },
     {
         "uid": "a1X0V000002rk9pUAA",
@@ -7620,7 +10868,12 @@
         "url": null,
         "contact_email": "peter@theegg.ca",
         "hometown": "Vancouver",
-        "description": "BC Village is home to many artists, art project, and theme camps from the regional BC Burning Man community. Come visit us for a little Canadian hospitality and get your Canadian passport and say hi to sexy Justin Trudeau. We have events happening all week at the Polar Bar and Bonkers Empire. We also have a fully functional metal and woodshop open daily to the public from noon to 4 pm. Visit the shop if your art car, art project, or camp infrastructure needs repair!"
+        "description": "BC Village is home to many artists, art project, and theme camps from the regional BC Burning Man community. Come visit us for a little Canadian hospitality and get your Canadian passport and say hi to sexy Justin Trudeau. We have events happening all week at the Polar Bar and Bonkers Empire. We also have a fully functional metal and woodshop open daily to the public from noon to 4 pm. Visit the shop if your art car, art project, or camp infrastructure needs repair!",
+        "burnermap_location": {
+            "string": "7:45 & Genuflect",
+            "gps_longitude": -119.22231686363757,
+            "gps_latitude": 40.78816556022795
+        }
     },
     {
         "uid": "a1X0V000003HG5xUAG",
@@ -7629,7 +10882,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Oakland",
-        "description": "We are the art support camp for the Gummy Bear Pyramid. \nCome say hi if you want to meet the gummy bear crew!"
+        "description": "We are the art support camp for the Gummy Bear Pyramid. \nCome say hi if you want to meet the gummy bear crew!",
+        "burnermap_location": {
+            "string": "7:15 & Breath",
+            "gps_longitude": -119.21800956245362,
+            "gps_latitude": 40.78545786327263
+        }
     },
     {
         "uid": "a1X0V000002rk9uUAA",
@@ -7638,7 +10896,12 @@
         "url": "https://www.facebook.com/BMwishmaker/",
         "contact_email": "wishmakercamp@gmail.com",
         "hometown": "Austin",
-        "description": "We invite you to come share your wishes, stories, spirit and style in the comfort of our lounge and crafting area every day, 3-6pm. We share with you the space and materials to create your own burnable tribute for the temple, to add your wishes to our wall, or to have your body adorned with an image of one of the ten principles."
+        "description": "We invite you to come share your wishes, stories, spirit and style in the comfort of our lounge and crafting area every day, 3-6pm. We share with you the space and materials to create your own burnable tribute for the temple, to add your wishes to our wall, or to have your body adorned with an image of one of the ten principles.",
+        "burnermap_location": {
+            "string": "7:45 & Hallowed",
+            "gps_longitude": -119.22317808305544,
+            "gps_latitude": 40.788251282726016
+        }
     },
     {
         "uid": "a1X0V000003HG8DUAW",
@@ -7647,7 +10910,12 @@
         "url": "https://www.youcaring.com/pinata-s-revenge-theme-camp-530050",
         "contact_email": "pinatasrevengecamp@gmail.com",
         "hometown": "Reno",
-        "description": "La Calaca Village is comprised of three sister theme camps: Pi\u00f1atas Revenge (founding camp), Camp La Calaca (2013-present) and our newest addition 'Maqinas de Ideas'.  La Calaca Village offers both theme camps and artist support on the playa.   We pride ourselves on being makers and healers.  -- Come for the healing, stay for the hedonism -- We love our community in the 3:00 sector, and our interactivity is aimed at making new friends each year in our neighborhood and throughout the playa.  Experience the ultimate relaxation of the 'Safety Net' or the extravagant, weightless jumps on the 'Safety Swing'.  Spiritual healers, yogis and massage artists await you in our Healing Plaza.  Come visit out back at 3:00!"
+        "description": "La Calaca Village is comprised of three sister theme camps: Piñatas Revenge (founding camp), Camp La Calaca (2013-present) and our newest addition 'Maqinas de Ideas'.  La Calaca Village offers both theme camps and artist support on the playa.   We pride ourselves on being makers and healers.  -- Come for the healing, stay for the hedonism -- We love our community in the 3:00 sector, and our interactivity is aimed at making new friends each year in our neighborhood and throughout the playa.  Experience the ultimate relaxation of the 'Safety Net' or the extravagant, weightless jumps on the 'Safety Swing'.  Spiritual healers, yogis and massage artists await you in our Healing Plaza.  Come visit out back at 3:00!",
+        "burnermap_location": {
+            "string": "3:00 & Kundalini",
+            "gps_longitude": -119.19293619779894,
+            "gps_latitude": 40.776252063700284
+        }
     },
     {
         "uid": "a1X0V000002rk7eUAA",
@@ -7656,7 +10924,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Boulder and Seattle",
-        "description": "Come get your shine on with us you crazy diamonds."
+        "description": "Come get your shine on with us you crazy diamonds.",
+        "burnermap_location": {
+            "string": "4:45 & Breath",
+            "gps_longitude": -119.20810062271201,
+            "gps_latitude": 40.77796035808232
+        }
     },
     {
         "uid": "a1X0V000002rkAnUAI",
@@ -7665,7 +10938,12 @@
         "url": "http://orphanendorphin.com/",
         "contact_email": "orphanendorphin@gmail.com",
         "hometown": "Denver",
-        "description": "Orphan Endorphin camp will feature the Orphanage Brewery & Bar, Daddy Warbuck's Cigar Lounge, Captain Ron's Fishing Shack & Hoist, Vodka Infusione Booth, the Condom Dispensary, Swinging Dicks, and more craziness we haven't thought of yet!"
+        "description": "Orphan Endorphin camp will feature the Orphanage Brewery & Bar, Daddy Warbuck's Cigar Lounge, Captain Ron's Fishing Shack & Hoist, Vodka Infusione Booth, the Condom Dispensary, Swinging Dicks, and more craziness we haven't thought of yet!",
+        "burnermap_location": {
+            "string": "7:00 & Ceremony",
+            "gps_longitude": -119.21855547917153,
+            "gps_latitude": 40.78417380084104
+        }
     },
     {
         "uid": "a1X0V000003HG6RUAW",
@@ -7674,7 +10952,12 @@
         "url": null,
         "contact_email": "brcpo@yahoo.com",
         "hometown": "Portland",
-        "description": "There's no team in Fuck You! We provide service and delivery of your U.S. and playa mail, on and off the playa. Come trade post cards, stamps, stories and deliver the mail. We provide performance art, socialization, integration, certified documentation and BRC citizenship. Come join the team!"
+        "description": "There's no team in Fuck You! We provide service and delivery of your U.S. and playa mail, on and off the playa. Come trade post cards, stamps, stories and deliver the mail. We provide performance art, socialization, integration, certified documentation and BRC citizenship. Come join the team!",
+        "burnermap_location": {
+            "string": "3:00 & Center Camp Plaza",
+            "gps_longitude": -119.21347622097868,
+            "gps_latitude": 40.78054044307478
+        }
     },
     {
         "uid": "a1X0V000003HG8mUAG",
@@ -7683,7 +10966,12 @@
         "url": "http://www.facebook.com/satanisyourpal",
         "contact_email": "iheartass@hotmail.com",
         "hometown": "Portland",
-        "description": "Exercise your demons by shooting voodoo dolls and shrunken heads to win plastic glow cups emblazoned with our 2017 Voodoo Shooting Gallery logo. Hosted by the best collection of French voodoo priestesses and their zombie slaves for your playing pleasure, impromptu portrait studio in zombie lounge, bewitching fire art barrel to keep visitors warm. BM lasts a week but VSG gifts you a cup to last a lifetime."
+        "description": "Exercise your demons by shooting voodoo dolls and shrunken heads to win plastic glow cups emblazoned with our 2017 Voodoo Shooting Gallery logo. Hosted by the best collection of French voodoo priestesses and their zombie slaves for your playing pleasure, impromptu portrait studio in zombie lounge, bewitching fire art barrel to keep visitors warm. BM lasts a week but VSG gifts you a cup to last a lifetime.",
+        "burnermap_location": {
+            "string": "2:45 & Eulogy",
+            "gps_longitude": -119.19540745787381,
+            "gps_latitude": 40.78008938358524
+        }
     },
     {
         "uid": "a1X0V000002rk7jUAA",
@@ -7692,7 +10980,12 @@
         "url": "http://www.pinkmammoth.org",
         "contact_email": "info@pinkmammoth.org",
         "hometown": "San Francisco",
-        "description": "Pink Mammoth is a house music and creative arts collective based in San Francisco. We create an environment of love and compassion, selflessness and support, health and vitality, that encourages everyone to shine and thrive."
+        "description": "Pink Mammoth is a house music and creative arts collective based in San Francisco. We create an environment of love and compassion, selflessness and support, health and vitality, that encourages everyone to shine and thrive.",
+        "burnermap_location": {
+            "string": "8:30 & Fire",
+            "gps_longitude": -119.21957720113105,
+            "gps_latitude": 40.792271636056775
+        }
     },
     {
         "uid": "a1X0V000002rkB2UAI",
@@ -7701,7 +10994,12 @@
         "url": "https://www.instagram.com/mikelustigart/",
         "contact_email": null,
         "hometown": "Denver",
-        "description": "Meow Now provides mirror-based interactive art installations, and photo-cut-outs featuring concepts involving food, sex, and ass-paddling."
+        "description": "Meow Now provides mirror-based interactive art installations, and photo-cut-outs featuring concepts involving food, sex, and ass-paddling.",
+        "burnermap_location": {
+            "string": "8:45 & Fire",
+            "gps_longitude": -119.21849287500578,
+            "gps_latitude": 40.79350104830081
+        }
     },
     {
         "uid": "a1X0V000002rk88UAA",
@@ -7710,7 +11008,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "404: Village Not Found has members from various towns...predominantly Reno NV, Provo, UT, Northern CA, Salem OR, Seattle WA, Fredericksburg TX",
-        "description": "404: Village Not Found is a beacon of fun on the Playa. Join us for 24/7 interactivity with such amazing theme camps as MASH, Universe University, Dye With Dignity, Unicorner, Death before Decaf, Swish Embassy, Burner Hostel."
+        "description": "404: Village Not Found is a beacon of fun on the Playa. Join us for 24/7 interactivity with such amazing theme camps as MASH, Universe University, Dye With Dignity, Unicorner, Death before Decaf, Swish Embassy, Burner Hostel.",
+        "burnermap_location": {
+            "string": "3:30 & Breath",
+            "gps_longitude": -119.20084612073997,
+            "gps_latitude": 40.77905325564518
+        }
     },
     {
         "uid": "a1X0V000003HG8IUAW",
@@ -7719,7 +11022,12 @@
         "url": null,
         "contact_email": "campdematerial@gmail.com",
         "hometown": "Oakland",
-        "description": "DeMaTerial once again returns to the playa\u2014our international diaspora of American, Australian, South African, Kiwi, and other burners from across the globe welcomes you to our fantastic dome. Featuring a Bloody Mary bar in the morning, hot, savory, sometimes truffled fries at random times, Licensing Bureau during the day, and the homiest Christmas on the playa (enquire within)."
+        "description": "DeMaTerial once again returns to the playa—our international diaspora of American, Australian, South African, Kiwi, and other burners from across the globe welcomes you to our fantastic dome. Featuring a Bloody Mary bar in the morning, hot, savory, sometimes truffled fries at random times, Licensing Bureau during the day, and the homiest Christmas on the playa (enquire within).",
+        "burnermap_location": {
+            "string": "7:30 & Hallowed",
+            "gps_longitude": -119.22332071859827,
+            "gps_latitude": 40.78659879326175
+        }
     },
     {
         "uid": "a1X0V000002rk7oUAA",
@@ -7728,7 +11036,12 @@
         "url": null,
         "contact_email": null,
         "hometown": null,
-        "description": "Hot? Thirsty? 21 or over? Why not seek some Salvation with the Bunker crew? Just be sure to bring a cup and your ID. What is Salvation? Well, it's ice cold, lightly alcoholic, and probably not worth worrying about, but hey, it IS refreshing. Bar service daily, 11 AM to 3 PM."
+        "description": "Hot? Thirsty? 21 or over? Why not seek some Salvation with the Bunker crew? Just be sure to bring a cup and your ID. What is Salvation? Well, it's ice cold, lightly alcoholic, and probably not worth worrying about, but hey, it IS refreshing. Bar service daily, 11 AM to 3 PM.",
+        "burnermap_location": {
+            "string": "8:15 & Breath",
+            "gps_longitude": -119.21723564168582,
+            "gps_latitude": 40.78993011693281
+        }
     },
     {
         "uid": "a1X0V000002rkBCUAY",
@@ -7746,7 +11059,12 @@
         "url": "http://www.things-that-swing.org/",
         "contact_email": "thingsthatswing@gmail.com",
         "hometown": "Brooklyn",
-        "description": "We're a low-key lounge and rest stop for wanderers who want to get off their feet for a while. If you favor a community built on the intimacies of storytelling and sensual touch, if you need a break from bar-crawling and the sonic hypnotics of boots-and-pants bootyshakers, if swinging is in any way your thing, then this could be your place. With adult-oriented events and play space cuz some of us swing that way too; consent means not being too afraid to ask."
+        "description": "We're a low-key lounge and rest stop for wanderers who want to get off their feet for a while. If you favor a community built on the intimacies of storytelling and sensual touch, if you need a break from bar-crawling and the sonic hypnotics of boots-and-pants bootyshakers, if swinging is in any way your thing, then this could be your place. With adult-oriented events and play space cuz some of us swing that way too; consent means not being too afraid to ask.",
+        "burnermap_location": {
+            "string": "2:15 & Breath",
+            "gps_longitude": -119.19596989571168,
+            "gps_latitude": 40.783260736953125
+        }
     },
     {
         "uid": "a1X0V000002rkBHUAY",
@@ -7755,7 +11073,12 @@
         "url": "http://www.johnkane.com/2014-04-26-GaneshCamp/",
         "contact_email": "4jamjones@gmail.com",
         "hometown": "Oakland",
-        "description": "Ganesh Camp is a lush retreat for dusty desert denizens. Noon-5, Tue-Fri, celebrate and beat the heat in the bar in a large, cool desert tent from India or sit by the fire at night!  Or play volleyball or hoops during the day or night with day-glow ball.  Check out the gifting tree. Lecture series: Stoicism: How an Ancient Philosophy Can Turn Us All into Laughing Vulcans (Tuesday noon); MOOP and Danger (Wednesday noon); What's the Riesling For Your Problem? (Thursday noon.)"
+        "description": "Ganesh Camp is a lush retreat for dusty desert denizens. Noon-5, Tue-Fri, celebrate and beat the heat in the bar in a large, cool desert tent from India or sit by the fire at night!  Or play volleyball or hoops during the day or night with day-glow ball.  Check out the gifting tree. Lecture series: Stoicism: How an Ancient Philosophy Can Turn Us All into Laughing Vulcans (Tuesday noon); MOOP and Danger (Wednesday noon); What's the Riesling For Your Problem? (Thursday noon.)",
+        "burnermap_location": {
+            "string": "3:30 & Ceremony",
+            "gps_longitude": -119.20041191876298,
+            "gps_latitude": 40.778483678436174
+        }
     },
     {
         "uid": "a1X0V000002rkBbUAI",
@@ -7773,7 +11096,12 @@
         "url": null,
         "contact_email": "sam.carr86@yahoo.com",
         "hometown": "Bridgewater",
-        "description": "An international group of diverse individuals united to achieve a new homeostasis of desert utopia. Like the giant rodents of their namesake, the Capybara is both distinct and copacetic, if not symbiotic, with others."
+        "description": "An international group of diverse individuals united to achieve a new homeostasis of desert utopia. Like the giant rodents of their namesake, the Capybara is both distinct and copacetic, if not symbiotic, with others.",
+        "burnermap_location": {
+            "string": "4:15 & Genuflect",
+            "gps_longitude": -119.20453125510309,
+            "gps_latitude": 40.774700272567486
+        }
     },
     {
         "uid": "a1X0V000002rkBgUAI",
@@ -7782,7 +11110,12 @@
         "url": "https://www.facebook.com/tickledminkBRC/",
         "contact_email": "wink@tickledmink.com",
         "hometown": "San Francisco",
-        "description": "At Tickled Mink (where everyone is a star!) we are here to help you pretty yourself at our our movie star mirror so you can release your inner diva. If you don't know how, we'll teach you how minks smeyes so once you step into our plush, cerulean fake fur lined photo booth you can strike a glamorous cover page pose when the flashes pop."
+        "description": "At Tickled Mink (where everyone is a star!) we are here to help you pretty yourself at our our movie star mirror so you can release your inner diva. If you don't know how, we'll teach you how minks smeyes so once you step into our plush, cerulean fake fur lined photo booth you can strike a glamorous cover page pose when the flashes pop.",
+        "burnermap_location": {
+            "string": "7:45 & Dance",
+            "gps_longitude": -119.21973390021368,
+            "gps_latitude": 40.787903636408664
+        }
     },
     {
         "uid": "a1X0V000002rkBvUAI",
@@ -7791,7 +11124,12 @@
         "url": "http://www.desertmorning.org",
         "contact_email": "info@desertmorning.org",
         "hometown": "Encinitas",
-        "description": "Lovin' Oven @ Desert Morning: Greet the morning, and let the smell of our freshly baked bread draw you into our oasis, where we will will soothe your soul and nourish your body.  Since 2011 we've been serving hungry, dusty, lovely Burners hot Tuscan Flatbread, organic jams and fresh mint tea and entertainment with funky DJs and fabulous eclectic performances. Our bread is lovingly baked by our campmates in our beautiful wood-fired Lovin' Oven. In the middle of the desert: hot, dry and dusty, we bake bread. Every morning. Just for you! Performers needing a space or anyone wanting to use the oven, please drop by and see us or email us in advance."
+        "description": "Lovin' Oven @ Desert Morning: Greet the morning, and let the smell of our freshly baked bread draw you into our oasis, where we will will soothe your soul and nourish your body.  Since 2011 we've been serving hungry, dusty, lovely Burners hot Tuscan Flatbread, organic jams and fresh mint tea and entertainment with funky DJs and fabulous eclectic performances. Our bread is lovingly baked by our campmates in our beautiful wood-fired Lovin' Oven. In the middle of the desert: hot, dry and dusty, we bake bread. Every morning. Just for you! Performers needing a space or anyone wanting to use the oven, please drop by and see us or email us in advance.",
+        "burnermap_location": {
+            "string": "5:30 & Rods Road",
+            "gps_longitude": -119.21539480539703,
+            "gps_latitude": 40.779186645386226
+        }
     },
     {
         "uid": "a1X0V000002rkAdUAI",
@@ -7827,7 +11165,12 @@
         "url": "http://hammerandcyclery.com",
         "contact_email": null,
         "hometown": "Minneapolis",
-        "description": "HammerAndCyclery.com is a resource for Playa-prep related to the bicycle you should bring, how to keep it moving on the Playa, and what to do with a dusty bike after Burning Man (Give it to us. We'll send it to Africa!). Connect with our camp any time of year, see a list of our on-Playa events, read about out our camp history and mission, or support us by renting a bike."
+        "description": "HammerAndCyclery.com is a resource for Playa-prep related to the bicycle you should bring, how to keep it moving on the Playa, and what to do with a dusty bike after Burning Man (Give it to us. We'll send it to Africa!). Connect with our camp any time of year, see a list of our on-Playa events, read about out our camp history and mission, or support us by renting a bike.",
+        "burnermap_location": {
+            "string": "4:00 & Ceremony",
+            "gps_longitude": -119.20339685858983,
+            "gps_latitude": 40.777547559648596
+        }
     },
     {
         "uid": "a1X0V000002rkCPUAY",
@@ -7836,7 +11179,12 @@
         "url": "http://www.facebook.com/thumpercamp",
         "contact_email": "thumpercamp@gmail.com",
         "hometown": "DC",
-        "description": "www.instagram.com/thumpercamp"
+        "description": "www.instagram.com/thumpercamp",
+        "burnermap_location": {
+            "string": "9:00 & Kundalini",
+            "gps_longitude": -119.22026806074321,
+            "gps_latitude": 40.796946324126644
+        }
     },
     {
         "uid": "a1X0V000002rkCjUAI",
@@ -7845,7 +11193,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Winnemucca",
-        "description": "Journeys is where your spirit and mind come into divine convergence through love.  Stop off the chaotic road and get refreshed with vision, hope and dreams.\nCool off in our tent by day and dance at night with DJ mixes that will heal your spirit.  Come sign up for our creative photography class to capture your spiritual journey through the eyes of a lens.   \n \nSpiritual expression of who you are, true self,\nSpiritual readings to empower your journey, healing into hope\nBring in the light, inner grounding, soul filling, releasing negativity, Emotional Healing sessions with emotion code technique."
+        "description": "Journeys is where your spirit and mind come into divine convergence through love.  Stop off the chaotic road and get refreshed with vision, hope and dreams.\nCool off in our tent by day and dance at night with DJ mixes that will heal your spirit.  Come sign up for our creative photography class to capture your spiritual journey through the eyes of a lens.   \n \nSpiritual expression of who you are, true self,\nSpiritual readings to empower your journey, healing into hope\nBring in the light, inner grounding, soul filling, releasing negativity, Emotional Healing sessions with emotion code technique.",
+        "burnermap_location": {
+            "string": "4:15 & Genuflect",
+            "gps_longitude": -119.20453125510309,
+            "gps_latitude": 40.774700272567486
+        }
     },
     {
         "uid": "a1X0V000002rkCZUAY",
@@ -7854,7 +11207,12 @@
         "url": "https://www.rednosedistrict.com",
         "contact_email": "contact@rednosedistrict.com",
         "hometown": "Los Angeles",
-        "description": "For 19 years The Red NOse District has aimed to provide a place for the citizens of BRC to find the joy of Play without reservation. Giving all a reason & the support of family to get physically engaged, dressed up silly & laugh,  providing a feeling that is hopefully taken away & made part of every day life back in the default world.\r\nFUN = Funny \r\n           Unique\r\n           Nutty!! \r\nStilts, Swings, a DIY Stage, Shade for laid back heckling, Fire Sculptures to snuggle up next to for Intimate nighttime Giggling, High Chair & Low Top Bars with Themed Cocktail Parties, Playground Gear Shenanigans Adult Style, Lessons & Movie Nights...\r\nCome Visit, Learn, Play & Laugh, who knows you might wanna move in with us!  \r\n\r\nhttps://www.rednosedistrict.com"
+        "description": "For 19 years The Red NOse District has aimed to provide a place for the citizens of BRC to find the joy of Play without reservation. Giving all a reason & the support of family to get physically engaged, dressed up silly & laugh,  providing a feeling that is hopefully taken away & made part of every day life back in the default world.\r\nFUN = Funny \r\n           Unique\r\n           Nutty!! \r\nStilts, Swings, a DIY Stage, Shade for laid back heckling, Fire Sculptures to snuggle up next to for Intimate nighttime Giggling, High Chair & Low Top Bars with Themed Cocktail Parties, Playground Gear Shenanigans Adult Style, Lessons & Movie Nights...\r\nCome Visit, Learn, Play & Laugh, who knows you might wanna move in with us!  \r\n\r\nhttps://www.rednosedistrict.com",
+        "burnermap_location": {
+            "string": "4:15 & Esplanade",
+            "gps_longitude": -119.20542026497746,
+            "gps_latitude": 40.779807827609986
+        }
     },
     {
         "uid": "a1X0V000002rkD8UAI",
@@ -7863,7 +11221,12 @@
         "url": null,
         "contact_email": "bm1001nights@gmail.com",
         "hometown": "Dubai",
-        "description": "1001 Nights is a warmly inviting, casually laid-back, heavily oriental-influenced lounge space. Our variety of community Dome offerings are here to please the masses: from nurturing and sharing love through our unique Makateeb experience while having delicate cranial massages, to withdrawing from the playa commotion for an afternoon Tea laying in comfortable Majlis seating, we are confident you will enjoy paying us a visit. Artists from all horizons are welcome to flow into the Dome and jam their tunes along our now world renowned hoopers."
+        "description": "1001 Nights is a warmly inviting, casually laid-back, heavily oriental-influenced lounge space. Our variety of community Dome offerings are here to please the masses: from nurturing and sharing love through our unique Makateeb experience while having delicate cranial massages, to withdrawing from the playa commotion for an afternoon Tea laying in comfortable Majlis seating, we are confident you will enjoy paying us a visit. Artists from all horizons are welcome to flow into the Dome and jam their tunes along our now world renowned hoopers.",
+        "burnermap_location": {
+            "string": "8:45 & Eulogy",
+            "gps_longitude": -119.21780341042755,
+            "gps_latitude": 40.793100974445345
+        }
     },
     {
         "uid": "a1X0V000002rkD3UAI",
@@ -7872,7 +11235,12 @@
         "url": "http://campanitacocktail.com/",
         "contact_email": null,
         "hometown": "NYC, Los Angeles, Colorado, Vancouver, Sydney, Melbourne, Bunbury, San Juan, Auckland, Turkey, Saudi Arabia, Toronto",
-        "description": "Camp Anita Cocktail: Hailing from 16+ countries around the globe, we contain traces of Australians, Kiwis, Chileans, Saudis, Turks, Nuyoricans, LA-LA Landers, New Yorkers, and other nutty products from afar. Serious reactions may occur. Activities abound all week in our chill space, craft cocktail bar, tea house, spiritual center and cuddle puddle tower. Our cups runneth over with welcome. Let's get down and boogie together!"
+        "description": "Camp Anita Cocktail: Hailing from 16+ countries around the globe, we contain traces of Australians, Kiwis, Chileans, Saudis, Turks, Nuyoricans, LA-LA Landers, New Yorkers, and other nutty products from afar. Serious reactions may occur. Activities abound all week in our chill space, craft cocktail bar, tea house, spiritual center and cuddle puddle tower. Our cups runneth over with welcome. Let's get down and boogie together!",
+        "burnermap_location": {
+            "string": "3:30 & Dance",
+            "gps_longitude": -119.1999777242319,
+            "gps_latitude": 40.77791409959976
+        }
     },
     {
         "uid": "a1X0V000002rkEVUAY",
@@ -7881,7 +11249,12 @@
         "url": "https://www.facebook.com/Bike-Course-220060528027398",
         "contact_email": "bman@ackmedia.com",
         "hometown": "Truckee and Reno",
-        "description": "Come test your skills on the Burning Man Bike Course! A bicycle challenge obstacle course for all ages, abilities, genders, and sexual preferences."
+        "description": "Come test your skills on the Burning Man Bike Course! A bicycle challenge obstacle course for all ages, abilities, genders, and sexual preferences.",
+        "burnermap_location": {
+            "string": "4:00 & Esplanade",
+            "gps_longitude": -119.20425843651887,
+            "gps_latitude": 40.77998272774902
+        }
     },
     {
         "uid": "a1X0V000002rkDXUAY",
@@ -7890,7 +11263,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "Come to Presence Camp and delight in the joy of the now."
+        "description": "Come to Presence Camp and delight in the joy of the now.",
+        "burnermap_location": {
+            "string": "5:15 & Hallowed",
+            "gps_longitude": -119.21299761535523,
+            "gps_latitude": 40.77490345638694
+        }
     },
     {
         "uid": "a1X0V000002rkFEUAY",
@@ -7899,7 +11277,12 @@
         "url": "http://burningman.org/event/black-rock-city-guide/infrastructure/recycle-camp/",
         "contact_email": "recyclecamp@burningman.com",
         "hometown": "San Francisco",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "6:00 & Center Camp Plaza",
+            "gps_longitude": -119.21460149153904,
+            "gps_latitude": 40.78054044307478
+        }
     },
     {
         "uid": "a1X0V000002rkFFUAY",
@@ -7908,7 +11291,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Seattle",
-        "description": "Camp of MV Cingulata, and afternoon, ice tea."
+        "description": "Camp of MV Cingulata, and afternoon, ice tea.",
+        "burnermap_location": {
+            "string": "2:45 & Genuflect",
+            "gps_longitude": -119.19402505911644,
+            "gps_latitude": 40.77929272469477
+        }
     },
     {
         "uid": "a1X0V000002rkFYUAY",
@@ -7917,7 +11305,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "Running our light painting wall every night.  Come by, bring lights, and use your lights to paint.  How can one paint using only lights?  It's a secret magic."
+        "description": "Running our light painting wall every night.  Come by, bring lights, and use your lights to paint.  How can one paint using only lights?  It's a secret magic.",
+        "burnermap_location": {
+            "string": "4:00 & Eulogy",
+            "gps_longitude": -119.2029473647456,
+            "gps_latitude": 40.77627703461784
+        }
     },
     {
         "uid": "a1X0V000002rkFiUAI",
@@ -7926,7 +11319,12 @@
         "url": "http://www.kostumekult.com",
         "contact_email": "campleads@kostumekult.com",
         "hometown": "New York City",
-        "description": "Kostume Kult returns with a grand celebration of interactive costuming and creativity, against the backdrop of New York City."
+        "description": "Kostume Kult returns with a grand celebration of interactive costuming and creativity, against the backdrop of New York City.",
+        "burnermap_location": {
+            "string": "5:00 & Esplanade",
+            "gps_longitude": -119.20894156348113,
+            "gps_latitude": 40.77998272774902
+        }
     },
     {
         "uid": "a1X0V000002rkGCUAY",
@@ -7944,7 +11342,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Cayucos",
-        "description": "Witness relocation Camp; We silkscreen the ticket or poster (whichever we find cooler) on your white cotton t-shirt. One print per person. Let others get one too. Tues.-Thurs.10;00 -5:00. Warning, there can be a 3 hour line so bring some patience."
+        "description": "Witness relocation Camp; We silkscreen the ticket or poster (whichever we find cooler) on your white cotton t-shirt. One print per person. Let others get one too. Tues.-Thurs.10;00 -5:00. Warning, there can be a 3 hour line so bring some patience.",
+        "burnermap_location": {
+            "string": "5:45 & Inspirit",
+            "gps_longitude": -119.21730600093711,
+            "gps_latitude": 40.77603384631638
+        }
     },
     {
         "uid": "a1X0V000002rkGRUAY",
@@ -7953,7 +11356,12 @@
         "url": "http://www.dantesinfurno.com",
         "contact_email": "info@dantesinfurno.com",
         "hometown": "Vancouver",
-        "description": "Visit the raunchy side of furries at Dante's InFURno bar and strip club!"
+        "description": "Visit the raunchy side of furries at Dante's InFURno bar and strip club!",
+        "burnermap_location": {
+            "string": "7:30 & Portal",
+            "gps_longitude": -119.1994343069632,
+            "gps_latitude": 40.78095307484269
+        }
     },
     {
         "uid": "a1X0V000002rkGlUAI",
@@ -7962,7 +11370,12 @@
         "url": "https://facebook.com/chillvilleontheesplanade",
         "contact_email": null,
         "hometown": "Santa Cruz",
-        "description": "a rustic fire poofing nighttime bar"
+        "description": "a rustic fire poofing nighttime bar",
+        "burnermap_location": {
+            "string": "4:30 & Esplanade",
+            "gps_longitude": -119.20660000000001,
+            "gps_latitude": 40.77974932016092
+        }
     },
     {
         "uid": "a1X0V000002rkGMUAY",
@@ -7971,7 +11384,12 @@
         "url": "http://www.bottom-up.co.uk",
         "contact_email": "team@bottom-up.co.uk",
         "hometown": "London",
-        "description": "Welcome to the peachiest, most perky camp in Black Rock City. Hands-down, we are 'Bottoms-Up'"
+        "description": "Welcome to the peachiest, most perky camp in Black Rock City. Hands-down, we are 'Bottoms-Up'",
+        "burnermap_location": {
+            "string": "9:15 & Inspirit",
+            "gps_longitude": -119.21730940811462,
+            "gps_latitude": 40.79716516393263
+        }
     },
     {
         "uid": "a1X0V000002rkH0UAI",
@@ -7980,7 +11398,12 @@
         "url": "http://www.heroesandsupervillains.com",
         "contact_email": "info@heroesandsupervillains.com",
         "hometown": "New York City",
-        "description": "Heroes & Super Villains is an exploration of Light & Shadow in individual, group & societal settings. We offer hospitality for those on their Hero's Journey & henchmen for aspiring Super Villains with visions of taking over the world."
+        "description": "Heroes & Super Villains is an exploration of Light & Shadow in individual, group & societal settings. We offer hospitality for those on their Hero's Journey & henchmen for aspiring Super Villains with visions of taking over the world.",
+        "burnermap_location": {
+            "string": "5:45 & Dance",
+            "gps_longitude": -119.21465789356343,
+            "gps_latitude": 40.778640107806716
+        }
     },
     {
         "uid": "a1X0V000002rkHPUAY",
@@ -7989,7 +11412,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "A working staff camp."
+        "description": "A working staff camp.",
+        "burnermap_location": {
+            "string": "5:30 & Eulogy",
+            "gps_longitude": -119.21365646285352,
+            "gps_latitude": 40.77734451913604
+        }
     },
     {
         "uid": "a1X0V000002rkHZUAY",
@@ -8016,7 +11444,12 @@
         "url": null,
         "contact_email": "sundownersbrc@gmail.com",
         "hometown": null,
-        "description": "At Sundowners we celebrate a South African ritual known as Sundowners, a drinks ceremony that celebrates life, art and friendship at sunset each night. This transition from day into night is one of South Africa's key rituals, and is a great way to connect with friends and oil up for a night of adventures."
+        "description": "At Sundowners we celebrate a South African ritual known as Sundowners, a drinks ceremony that celebrates life, art and friendship at sunset each night. This transition from day into night is one of South Africa's key rituals, and is a great way to connect with friends and oil up for a night of adventures.",
+        "burnermap_location": {
+            "string": "7:30 & Lustrate",
+            "gps_longitude": -119.22679515351946,
+            "gps_latitude": 40.786598239656094
+        }
     },
     {
         "uid": "a1X0V000002rkGHUAY",
@@ -8025,7 +11458,12 @@
         "url": "http://thefuturerobots.com",
         "contact_email": "contact@thefuturerobots.com",
         "hometown": null,
-        "description": "Neural networks overfitting? Stuck in a local optima? Clear your cache with the Future Robots and their facilitated space, as they help you optimize your objective function with our ++ coconut bar."
+        "description": "Neural networks overfitting? Stuck in a local optima? Clear your cache with the Future Robots and their facilitated space, as they help you optimize your objective function with our ++ coconut bar.",
+        "burnermap_location": {
+            "string": "4:30 & Lustrate",
+            "gps_longitude": -119.20660000000001,
+            "gps_latitude": 40.77130928259917
+        }
     },
     {
         "uid": "a1X0V000002rkIIUAY",
@@ -8034,7 +11472,12 @@
         "url": "http://mobilesofa.com",
         "contact_email": "info@mobilesofa.com",
         "hometown": "San Francisco",
-        "description": "Furniture Car Rally Camp is a welcoming place for all Furniture Car Enthusiasts and Mobile Sofa Owners and Operators at Burning Man"
+        "description": "Furniture Car Rally Camp is a welcoming place for all Furniture Car Enthusiasts and Mobile Sofa Owners and Operators at Burning Man",
+        "burnermap_location": {
+            "string": "2:45 & Hallowed",
+            "gps_longitude": -119.19333610121724,
+            "gps_latitude": 40.77889228660458
+        }
     },
     {
         "uid": "a1X0V000002rkISUAY",
@@ -8043,7 +11486,12 @@
         "url": "https://www.facebook.com/CampSteep/",
         "contact_email": "campsteep@gmail.com",
         "hometown": "Los Angeles",
-        "description": "Transformational Tea and Conversation. We are a space for rejuvenation, replenishment and self discovery. Join Camp STEEP! for a delicious cup of herbal tea. With more than 50 herbs at our tea bar, we have a custom tea blend to sort you out, lift you up and leave you ready for more dusty adventures. Drink in the Love!"
+        "description": "Transformational Tea and Conversation. We are a space for rejuvenation, replenishment and self discovery. Join Camp STEEP! for a delicious cup of herbal tea. With more than 50 herbs at our tea bar, we have a custom tea blend to sort you out, lift you up and leave you ready for more dusty adventures. Drink in the Love!",
+        "burnermap_location": {
+            "string": "6:45 & Genuflect",
+            "gps_longitude": -119.22124442703583,
+            "gps_latitude": 40.78200595809783
+        }
     },
     {
         "uid": "a1X0V000002rkImUAI",
@@ -8052,7 +11500,12 @@
         "url": "http://www.facebook.com/TheBatCarnival",
         "contact_email": "beckinstein@gmail.com",
         "hometown": "Vallejo",
-        "description": "We are the spine-tingling fright of the funhouse mixed with the thrill of carnival games of chance. We have have bats in our belfry and tricks up our sleeves."
+        "description": "We are the spine-tingling fright of the funhouse mixed with the thrill of carnival games of chance. We have have bats in our belfry and tricks up our sleeves.",
+        "burnermap_location": {
+            "string": "5:45 & Hallowed",
+            "gps_longitude": -119.21677738947514,
+            "gps_latitude": 40.7765556549045
+        }
     },
     {
         "uid": "a1X0V000002rkJQUAY",
@@ -8070,7 +11523,12 @@
         "url": "https://www.facebook.com/SurlyBird-253356284703839/",
         "contact_email": "silvia@burningman.org",
         "hometown": "Reno",
-        "description": "Surly Camp is the home to the SurlyBird double decker art car. She first debuted on the playa in 2003 and has undergone some amazing and imaginative transformations since then."
+        "description": "Surly Camp is the home to the SurlyBird double decker art car. She first debuted on the playa in 2003 and has undergone some amazing and imaginative transformations since then.",
+        "burnermap_location": {
+            "string": "4:45 & Inspirit",
+            "gps_longitude": -119.20889541160703,
+            "gps_latitude": 40.77339619060309
+        }
     },
     {
         "uid": "a1X0V000002rkJLUAY",
@@ -8079,7 +11537,12 @@
         "url": "https://www.playalchemist.com/",
         "contact_email": "krystal@playalchemist.com",
         "hometown": "Vancouver",
-        "description": "EXPERIENCE RADICAL METAMORPHOSIS ON A JOURNEY THROUGH THE SEVEN STAGES OF ALCHEMY, IN SYNERGY WITH THE SEVEN DAYS OF BURNING MAN."
+        "description": "EXPERIENCE RADICAL METAMORPHOSIS ON A JOURNEY THROUGH THE SEVEN STAGES OF ALCHEMY, IN SYNERGY WITH THE SEVEN DAYS OF BURNING MAN.",
+        "burnermap_location": {
+            "string": "9:45 & Esplanade",
+            "gps_longitude": -119.2100657543815,
+            "gps_latitude": 40.79292818444569
+        }
     },
     {
         "uid": "a1X0V000002rkJfUAI",
@@ -8088,7 +11551,12 @@
         "url": "http://www.shangri-lawless.com",
         "contact_email": "info@shangri-lawless.com",
         "hometown": "San Diego",
-        "description": "A forgotten paradise to soothe the wary adventurer, or a lawless land of risk & reward? We are both.\u00a0 A yin and a yang.\u00a0 An amalgamation of two elements, each playing off the other.\u00a0\r\n\r\nCome and enjoy our beautiful bar-lounge replete with delicious concoctions and hookah or meet the love of your life getting nasty on the dance floor.  We are here for you!"
+        "description": "A forgotten paradise to soothe the wary adventurer, or a lawless land of risk & reward? We are both.  A yin and a yang.  An amalgamation of two elements, each playing off the other. \r\n\r\nCome and enjoy our beautiful bar-lounge replete with delicious concoctions and hookah or meet the love of your life getting nasty on the dance floor.  We are here for you!",
+        "burnermap_location": {
+            "string": "9:30 & Awe",
+            "gps_longitude": -119.21192078773886,
+            "gps_latitude": 40.79357692443366
+        }
     },
     {
         "uid": "a1X0V000002rkJVUAY",
@@ -8097,7 +11565,12 @@
         "url": "https://www.facebook.com/DarwinFishTank",
         "contact_email": "darwinfishtank@gmail.com",
         "hometown": "San Francisco/Los Angeles/Denver/Vancouver/London/NYC",
-        "description": "Dive into the Darwin Fish Tank! When you are ready to grow a pair (of legs that is!) climb out of the primordial ooze and beat the heat with our misting system for a genuine adventure in the belly of the beast. Come for the flowing beats, stay and chill within the waves with some liquid joy."
+        "description": "Dive into the Darwin Fish Tank! When you are ready to grow a pair (of legs that is!) climb out of the primordial ooze and beat the heat with our misting system for a genuine adventure in the belly of the beast. Come for the flowing beats, stay and chill within the waves with some liquid joy.",
+        "burnermap_location": {
+            "string": "4:30 & Dance",
+            "gps_longitude": -119.20660000000001,
+            "gps_latitude": 40.77657060471558
+        }
     },
     {
         "uid": "a1X0V000002rkJpUAI",
@@ -8106,7 +11579,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Tahoe/Truckee/Verdi",
-        "description": "Antevasin is the place to leave the bustling city and live at the edge of transcendence. Venture into the unknown through sound healing and guided meditation....arise and awaken to a new world!"
+        "description": "Antevasin is the place to leave the bustling city and live at the edge of transcendence. Venture into the unknown through sound healing and guided meditation....arise and awaken to a new world!",
+        "burnermap_location": {
+            "string": "2:45 & Dance",
+            "gps_longitude": -119.19609621098215,
+            "gps_latitude": 40.7804900260168
+        }
     },
     {
         "uid": "a1X0V000002rkQvUAI",
@@ -8115,7 +11593,12 @@
         "url": "https://www.facebook.com/uforesponseteamBM/",
         "contact_email": null,
         "hometown": null,
-        "description": "UFO - home of Ur a Fabulous Organism spa day!"
+        "description": "UFO - home of Ur a Fabulous Organism spa day!",
+        "burnermap_location": {
+            "string": "3:30 & Esplanade",
+            "gps_longitude": -119.20207640011253,
+            "gps_latitude": 40.78066704889926
+        }
     },
     {
         "uid": "a1X0V000002rkKEUAY",
@@ -8124,7 +11607,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Sacramento / London",
-        "description": "Kaleidoscope means \"the observation of beautiful forms\", but we know you look into a kaleidoscope and see a beautiful mess. That's just what we are. We bring people together through the power of stories and art (and monkey bars). Kaleidoscope Collective.  Share a story, spin a yarn, tell a tale.  We're all ears."
+        "description": "Kaleidoscope means \"the observation of beautiful forms\", but we know you look into a kaleidoscope and see a beautiful mess. That's just what we are. We bring people together through the power of stories and art (and monkey bars). Kaleidoscope Collective.  Share a story, spin a yarn, tell a tale.  We're all ears.",
+        "burnermap_location": {
+            "string": "3:15 & Eulogy",
+            "gps_longitude": -119.19801373155731,
+            "gps_latitude": 40.77811815910593
+        }
     },
     {
         "uid": "a1X0V000002rkLqUAI",
@@ -8133,7 +11621,12 @@
         "url": "https://www.utahbuilderscommunity.com/",
         "contact_email": "utahbuilderscommunity@gmail.com",
         "hometown": "Salt Lake City",
-        "description": "We are proudly building an honorarium temple for Burning Man this year.  Look for our project around 1:00."
+        "description": "We are proudly building an honorarium temple for Burning Man this year.  Look for our project around 1:00.",
+        "burnermap_location": {
+            "string": "3:15 & Fire",
+            "gps_longitude": -119.19748535810336,
+            "gps_latitude": 40.77759621181311
+        }
     },
     {
         "uid": "a1X0V000002rkOLUAY",
@@ -8142,7 +11635,12 @@
         "url": null,
         "contact_email": "campfyeah@gmail.com",
         "hometown": "Lake Tahoe",
-        "description": "We are made of a random conglomeration of weirdos, both veterans and virgins, but what we all have in common is we are absolutely stoked to be at Burning Man. We are committed to spreading this feeling of joy to fellow BRC citizens and do so in many ways. But each of these ways usually results in loud exclamations of our mantra: \"FUCK YEAH!\""
+        "description": "We are made of a random conglomeration of weirdos, both veterans and virgins, but what we all have in common is we are absolutely stoked to be at Burning Man. We are committed to spreading this feeling of joy to fellow BRC citizens and do so in many ways. But each of these ways usually results in loud exclamations of our mantra: \"FUCK YEAH!\"",
+        "burnermap_location": {
+            "string": "8:30 & Breath",
+            "gps_longitude": -119.21656779764457,
+            "gps_latitude": 40.790956603546924
+        }
     },
     {
         "uid": "a1X0V000002rkMFUAY",
@@ -8151,7 +11649,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Santa Cruz",
-        "description": "Smile like a child again! Come learn and make new things  in our BRC-themed pre-school!!!"
+        "description": "Smile like a child again! Come learn and make new things  in our BRC-themed pre-school!!!",
+        "burnermap_location": {
+            "string": "6:15 & Eulogy",
+            "gps_longitude": -119.21779254212619,
+            "gps_latitude": 40.780089383585235
+        }
     },
     {
         "uid": "a1X0V000002rkR0UAI",
@@ -8160,7 +11663,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Encinitas",
-        "description": "Slumberdome Piano Lounge is a calm and quiet escape where the dusty traveler can relax and enjoy the music of our beautiful Wurlitzer piano and assortment of other instruments. Whether to come and play, or come and listen, all are invited within the comfortable and serene environment of the Slumderdome. Featuring calm and subdued lighting and bedecked in beautiful fabrics, we hope to provide a resplendent respite from the elements.  Join us every sunset for a Slumbered Aum session! There will be yoga, live musical performances and flaming slackline routines throughout the week."
+        "description": "Slumberdome Piano Lounge is a calm and quiet escape where the dusty traveler can relax and enjoy the music of our beautiful Wurlitzer piano and assortment of other instruments. Whether to come and play, or come and listen, all are invited within the comfortable and serene environment of the Slumderdome. Featuring calm and subdued lighting and bedecked in beautiful fabrics, we hope to provide a resplendent respite from the elements.  Join us every sunset for a Slumbered Aum session! There will be yoga, live musical performances and flaming slackline routines throughout the week.",
+        "burnermap_location": {
+            "string": "2:15 & Eulogy",
+            "gps_longitude": -119.19356313857256,
+            "gps_latitude": 40.78250469590598
+        }
     },
     {
         "uid": "a1X0V000002rkOVUAY",
@@ -8169,7 +11677,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Sacramento",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "9:00 & Juju",
+            "gps_longitude": -119.21965367445075,
+            "gps_latitude": 40.796481355410734
+        }
     },
     {
         "uid": "a1X0V000002rkKOUAY",
@@ -8178,7 +11691,12 @@
         "url": "http://www.fusionvalley.org",
         "contact_email": "fv-camp@torche.com",
         "hometown": "Gerlach",
-        "description": "Fusion Valley is Burning Man's Misinformation Technology camp built and staffed by a bunch of surly geeks as well as bonafide Burningman Staff types. You are invited to swing by and hang out and play games with us in our public, carpeted shade. Join us for a card or tabletop game, play our arcade games, use our internet-connected wi-fi, or try using our phone, if you dare. Tune into Fusion Valley Radio at 95.7 to hear whatever it is we're playing (Feel free to join us for some radio shows as well!) and learn about whatever events people clue us in on, and at night, feast your eyes on our drive-in theater of cinematic abortions. Take a load off and say hi to some long time BM staff & burners."
+        "description": "Fusion Valley is Burning Man's Misinformation Technology camp built and staffed by a bunch of surly geeks as well as bonafide Burningman Staff types. You are invited to swing by and hang out and play games with us in our public, carpeted shade. Join us for a card or tabletop game, play our arcade games, use our internet-connected wi-fi, or try using our phone, if you dare. Tune into Fusion Valley Radio at 95.7 to hear whatever it is we're playing (Feel free to join us for some radio shows as well!) and learn about whatever events people clue us in on, and at night, feast your eyes on our drive-in theater of cinematic abortions. Take a load off and say hi to some long time BM staff & burners.",
+        "burnermap_location": {
+            "string": "3:15 & Ceremony",
+            "gps_longitude": -119.19907048274123,
+            "gps_latitude": 40.77916205791558
+        }
     },
     {
         "uid": "a1X0V000002rkP4UAI",
@@ -8187,7 +11705,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Brooklyn",
-        "description": "Come find the SECRET PASSAGE INTERACTIVE SPEAKEASY!  Have a drink, play a parlor game, do some time-traveling.  A traditional speakeasy, except sometimes with space cats."
+        "description": "Come find the SECRET PASSAGE INTERACTIVE SPEAKEASY!  Have a drink, play a parlor game, do some time-traveling.  A traditional speakeasy, except sometimes with space cats.",
+        "burnermap_location": {
+            "string": "5:45 & Juju",
+            "gps_longitude": -119.21783460409515,
+            "gps_latitude": 40.775512035316275
+        }
     },
     {
         "uid": "a1X0V000002rkMAUAY",
@@ -8196,7 +11719,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Topanga",
-        "description": "Cirque Gitane is an intergalactic, nomadic traveling circus comprised of dreamers from all over the globe who create for a living and who support the creative arts. Visit our air conditioned 19th century circus tent for a cocktail and live musical performance, or play a song on our giant music box"
+        "description": "Cirque Gitane is an intergalactic, nomadic traveling circus comprised of dreamers from all over the globe who create for a living and who support the creative arts. Visit our air conditioned 19th century circus tent for a cocktail and live musical performance, or play a song on our giant music box",
+        "burnermap_location": {
+            "string": "9:45 & Eulogy",
+            "gps_longitude": -119.21200660038281,
+            "gps_latitude": 40.79647201073141
+        }
     },
     {
         "uid": "a1X0V000002rkLlUAI",
@@ -8205,7 +11733,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Burlington",
-        "description": "MindShark is a community of neuroscientists, engineers, and artists who have pledged their crotches and cerebral cortices to stoke the eternal flame that blazes at the core of every individual, friend, and stranger. We all come to Burning Man to explore our inner selves; let MindShark guide your awakening with gifts of science, fire, and light. Enjoy the coldest beer on the playa at our bar, watch hippies burn on our interactive fire displays, and blow your mind(s) under our amazing neural network light shows."
+        "description": "MindShark is a community of neuroscientists, engineers, and artists who have pledged their crotches and cerebral cortices to stoke the eternal flame that blazes at the core of every individual, friend, and stranger. We all come to Burning Man to explore our inner selves; let MindShark guide your awakening with gifts of science, fire, and light. Enjoy the coldest beer on the playa at our bar, watch hippies burn on our interactive fire displays, and blow your mind(s) under our amazing neural network light shows.",
+        "burnermap_location": {
+            "string": "3:30 & Breath",
+            "gps_longitude": -119.20084612073997,
+            "gps_latitude": 40.77905325564518
+        }
     },
     {
         "uid": "a1X0V000002rkRAUAY",
@@ -8214,7 +11747,12 @@
         "url": "https://www.facebook.com/loveland.brc/",
         "contact_email": "lovelandvillage@gmail.com",
         "hometown": "Los Angeles",
-        "description": "https://www.facebook.com/loveland.brc/"
+        "description": "https://www.facebook.com/loveland.brc/",
+        "burnermap_location": {
+            "string": "5:00 & Awe",
+            "gps_longitude": -119.20935363037192,
+            "gps_latitude": 40.778818082935224
+        }
     },
     {
         "uid": "a1X0V000002rkKJUAY",
@@ -8228,11 +11766,11 @@
     {
         "uid": "a1X0V000002rkMUUAY",
         "year": 2017,
-        "name": "Caf\u00e9 Sua Da",
+        "name": "Café Sua Da",
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "Come enjoy an Vietnamese Iced Coffee at Caf\u00e9 Sua Da, and bask in the summer heat of an afternoon in Saigon. We welcome anyone and everyone to enjoy our space and our coffee."
+        "description": "Come enjoy an Vietnamese Iced Coffee at Café Sua Da, and bask in the summer heat of an afternoon in Saigon. We welcome anyone and everyone to enjoy our space and our coffee."
     },
     {
         "uid": "a1X0V000002rkKTUAY",
@@ -8241,7 +11779,12 @@
         "url": "http://www.thelastresortcamp.com/",
         "contact_email": "info@lastresortcamp.com",
         "hometown": "Toronto",
-        "description": "At the darkest edge of the Outer Ring, The Last Resort Country Club Camp aka LRC is a vision to weary adventurers brave enough to explore Black Rock City's limits and newcomers approaching its distant lights. An oasis of comfort and civilization before the barren wilds open up behind us, The Last Resort is a place you can have a seat in the shade, sip a mai thai, take some tennis lessons and make some friends before you rocket away across the dust."
+        "description": "At the darkest edge of the Outer Ring, The Last Resort Country Club Camp aka LRC is a vision to weary adventurers brave enough to explore Black Rock City's limits and newcomers approaching its distant lights. An oasis of comfort and civilization before the barren wilds open up behind us, The Last Resort is a place you can have a seat in the shade, sip a mai thai, take some tennis lessons and make some friends before you rocket away across the dust.",
+        "burnermap_location": {
+            "string": "10:00 & Kundalini",
+            "gps_longitude": -119.21160314290812,
+            "gps_latitude": 40.80073433494745
+        }
     },
     {
         "uid": "a1X0V000002rkOfUAI",
@@ -8250,7 +11793,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Long Beach",
-        "description": "The salty sweet squad of the Wu Shu"
+        "description": "The salty sweet squad of the Wu Shu",
+        "burnermap_location": {
+            "string": "7:45 & Hallowed",
+            "gps_longitude": -119.22317808305544,
+            "gps_latitude": 40.788251282726016
+        }
     },
     {
         "uid": "a1X0V000002rkPJUAY",
@@ -8259,7 +11807,12 @@
         "url": null,
         "contact_email": null,
         "hometown": null,
-        "description": "Grab your towel and dont panic."
+        "description": "Grab your towel and dont panic.",
+        "burnermap_location": {
+            "string": "2:15 & Dance",
+            "gps_longitude": -119.19436538853539,
+            "gps_latitude": 40.78275670882914
+        }
     },
     {
         "uid": "a1X0V000002rkRFUAY",
@@ -8268,7 +11821,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "Home of the Accountants meet and greet."
+        "description": "Home of the Accountants meet and greet.",
+        "burnermap_location": {
+            "string": "7:30 & Juju",
+            "gps_longitude": -119.22505793606611,
+            "gps_latitude": 40.78659852948494
+        }
     },
     {
         "uid": "a1X0V000002rkRUUAY",
@@ -8295,7 +11853,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Sonoma",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "3:15 & Breath",
+            "gps_longitude": -119.19959886047135,
+            "gps_latitude": 40.779684009432565
+        }
     },
     {
         "uid": "a1X0V000002rkPEUAY",
@@ -8313,7 +11876,12 @@
         "url": "http://gloriouschairmanmeow.weebly.com/",
         "contact_email": "glorious.chairman.meow.bm@gmail.com",
         "hometown": "san francisco",
-        "description": "Glorious Chairman Meow provides customizable LED bicycle flags to the grateful citizens of Black Rock City during our LED bicycle flag creation stations. We seek to end the barbaric practice of bikicide: carelessly abandoning one's innocent bike to wither and die on the playa."
+        "description": "Glorious Chairman Meow provides customizable LED bicycle flags to the grateful citizens of Black Rock City during our LED bicycle flag creation stations. We seek to end the barbaric practice of bikicide: carelessly abandoning one's innocent bike to wither and die on the playa.",
+        "burnermap_location": {
+            "string": "9:45 & Eulogy",
+            "gps_longitude": -119.21200660038281,
+            "gps_latitude": 40.79647201073141
+        }
     },
     {
         "uid": "a1X0V000002rkRKUAY",
@@ -8322,7 +11890,12 @@
         "url": "https://www.facebook.com/BrandURAss",
         "contact_email": "misscyndilou@gmail.com",
         "hometown": "Reno",
-        "description": "Brand-UR-Ass 'N More will stimulate your entire being, from your mind to your ass. Bare your butt at the hitchin post and get a temporary brand. Bathe in gong vibrations, do some cock ropin', enjoy tunes, belly up to the saloon, enjoy the giving tree and hitch a ride on our vehicles. Y'all come N play!"
+        "description": "Brand-UR-Ass 'N More will stimulate your entire being, from your mind to your ass. Bare your butt at the hitchin post and get a temporary brand. Bathe in gong vibrations, do some cock ropin', enjoy tunes, belly up to the saloon, enjoy the giving tree and hitch a ride on our vehicles. Y'all come N play!",
+        "burnermap_location": {
+            "string": "4:30 & Breath",
+            "gps_longitude": -119.20660000000001,
+            "gps_latitude": 40.77788593524468
+        }
     },
     {
         "uid": "a1X0V000002rkRjUAI",
@@ -8331,7 +11904,12 @@
         "url": "https://www.facebook.com/camp.camp.camp.SD/",
         "contact_email": "nickbourbs@gmail.com",
         "hometown": "San Diego",
-        "description": "Camp Camp Camp - Silly people with style, smiles, hospitality, and funky jams.  Welcome to Planet Awesome!"
+        "description": "Camp Camp Camp - Silly people with style, smiles, hospitality, and funky jams.  Welcome to Planet Awesome!",
+        "burnermap_location": {
+            "string": "4:00 & Ceremony",
+            "gps_longitude": -119.20339685858983,
+            "gps_latitude": 40.777547559648596
+        }
     },
     {
         "uid": "a1X0V000002rkPnUAI",
@@ -8340,7 +11918,12 @@
         "url": "http://www.serendipitea.camp/",
         "contact_email": "serendipitea@neverbland.com",
         "hometown": "London",
-        "description": "TO UNEXPECTED ADVENTURES AND TEA, IN OUR DUSTY PARADISE.\r\nWe focus on surprise, and spontaneity with live performance artists mixed in with activities and a range of carefully curated dj's to provide a camp that is filled with mystery, excitement and even some delightfully unexpected snacks and drinks. Let us linger in the beautiful foolishness of things, and revel in our ignorance."
+        "description": "TO UNEXPECTED ADVENTURES AND TEA, IN OUR DUSTY PARADISE.\r\nWe focus on surprise, and spontaneity with live performance artists mixed in with activities and a range of carefully curated dj's to provide a camp that is filled with mystery, excitement and even some delightfully unexpected snacks and drinks. Let us linger in the beautiful foolishness of things, and revel in our ignorance.",
+        "burnermap_location": {
+            "string": "3:15 & Hallowed",
+            "gps_longitude": -119.19642261052486,
+            "gps_latitude": 40.7765556549045
+        }
     },
     {
         "uid": "a1X0V000002rkKdUAI",
@@ -8349,7 +11932,12 @@
         "url": "http://www.lovemegender.camp",
         "contact_email": "welcome@lovemegender.camp",
         "hometown": "Stockholm",
-        "description": "Love Me Gender: you come for the ice shaken espresso and the hula hoops and you stay for our loving environment with weak gender boundaries and no suspicious minds - except those of Elvis the (drag) King!"
+        "description": "Love Me Gender: you come for the ice shaken espresso and the hula hoops and you stay for our loving environment with weak gender boundaries and no suspicious minds - except those of Elvis the (drag) King!",
+        "burnermap_location": {
+            "string": "7:15 & Fire",
+            "gps_longitude": -119.22145392711097,
+            "gps_latitude": 40.785113070438236
+        }
     },
     {
         "uid": "a1X0V000002rkMjUAI",
@@ -8358,7 +11946,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "Every shade of the rainbow is welcome to relax at the Rainbow Oasis"
+        "description": "Every shade of the rainbow is welcome to relax at the Rainbow Oasis",
+        "burnermap_location": {
+            "string": "9:15 & Awe",
+            "gps_longitude": -119.21308211281135,
+            "gps_latitude": 40.792988966008515
+        }
     },
     {
         "uid": "a1X0V000002rkKnUAI",
@@ -8367,7 +11960,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "South Bay Area",
-        "description": "Scoot on over for that extra Sizzle!! Revel in your Dusty Bumm under hundreds of G-strings while taking a snowboardski or 3, immerse yourself in fur in our Hooka Lounge, Play some giant Beer Pong or Jenga, Relax in our Cuddle Puddle oasis, jump on multiple types of trampolines or swing to your hearts content! You'll feel at home while you get to know your some of your fellow South Bay burners while enjoying a beautiful sculture garden! Official kickoff spot of the Busty Bacon Brigade! We're here to cook you up some goodtimes!! )'("
+        "description": "Scoot on over for that extra Sizzle!! Revel in your Dusty Bumm under hundreds of G-strings while taking a snowboardski or 3, immerse yourself in fur in our Hooka Lounge, Play some giant Beer Pong or Jenga, Relax in our Cuddle Puddle oasis, jump on multiple types of trampolines or swing to your hearts content! You'll feel at home while you get to know your some of your fellow South Bay burners while enjoying a beautiful sculture garden! Official kickoff spot of the Busty Bacon Brigade! We're here to cook you up some goodtimes!! )'(",
+        "burnermap_location": {
+            "string": "6:45 & Breath",
+            "gps_longitude": -119.21723010428832,
+            "gps_latitude": 40.783260736953125
+        }
     },
     {
         "uid": "a1X0V000002rkN3UAI",
@@ -8376,7 +11974,12 @@
         "url": "https://www.facebook.com/flaminmerkin",
         "contact_email": "tequila@the-flamin-merkin.org",
         "hometown": "London",
-        "description": "The Flamin' Merkin, Improving the Margarita-to-dust ratio since 2013. Swing by for a day-time party, with Margarita happy hour every day, and for all of your merkin requirements too."
+        "description": "The Flamin' Merkin, Improving the Margarita-to-dust ratio since 2013. Swing by for a day-time party, with Margarita happy hour every day, and for all of your merkin requirements too.",
+        "burnermap_location": {
+            "string": "9:00 & Eulogy",
+            "gps_longitude": -119.21658187207909,
+            "gps_latitude": 40.79415646295399
+        }
     },
     {
         "uid": "a1X0V000002rkRtUAI",
@@ -8385,7 +11988,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Magicalville",
-        "description": "Come by to drink yerba mate in our tea lounge. We listen to dub types of music while burning palo santo, copal, and oud. Ride our bike coarse, play tether ball, or sit down a chill while caffeinating yourself."
+        "description": "Come by to drink yerba mate in our tea lounge. We listen to dub types of music while burning palo santo, copal, and oud. Ride our bike coarse, play tether ball, or sit down a chill while caffeinating yourself.",
+        "burnermap_location": {
+            "string": "8:15 & Eulogy",
+            "gps_longitude": -119.21964377911931,
+            "gps_latitude": 40.79068412684408
+        }
     },
     {
         "uid": "a1X0V000002rkQ2UAI",
@@ -8394,7 +12002,12 @@
         "url": "http://www.kanuckistan.ca/",
         "contact_email": "core@kanuckistan.ca",
         "hometown": "Calgary",
-        "description": "BLASTO fireball shooting range, now with more balls of fire, 100% eyesafe. Old Country Vodka Snorting Bar, 13th annual Xeni Cup street hockey game, knife sharpening workshops, relationship seminars."
+        "description": "BLASTO fireball shooting range, now with more balls of fire, 100% eyesafe. Old Country Vodka Snorting Bar, 13th annual Xeni Cup street hockey game, knife sharpening workshops, relationship seminars.",
+        "burnermap_location": {
+            "string": "6:15 & Eulogy",
+            "gps_longitude": -119.21779254212619,
+            "gps_latitude": 40.780089383585235
+        }
     },
     {
         "uid": "a1X0V000002rkMyUAI",
@@ -8403,7 +12016,12 @@
         "url": null,
         "contact_email": "bill@processfamily.com",
         "hometown": "Loosely knit burners from Reno, Lake Tahoe, Nevada City, Bay Area, Wisconsin",
-        "description": "Twisted G bar- multiple happy hours. Random midnight celebrations of Happy New Day popping champagne to the tune of Auld Lang Syne on our sound system. The happy hour will have DJ Exodus and DJN8tron at the helm with dancing plus more to offer for your pleasure. Twisted G Spot Bar serving up PVD's (Playa Vodka Drinks) w/mostly organic fruit juices and a \"Twist\" of lime or lemon. Otter Pops upon request, served cold and hard!  Human Twister played with kinetic spinner wheel. Complement fairy dropping random compliments. P&J sandwiches offered by Miss Prepared on Thursday and foamy things for your ears always available at the bar.  If you need a horsey fix, come find Margie and check out Horse, camp mascot and resident mutant vehicle. Horse will deliver mail on playa too! Check our mailbox for schedule of planned events.  Our shade 30X40 is your chill spot. Showers open to public. Radical ritual Birthday celebration complete with candle and cake!"
+        "description": "Twisted G bar- multiple happy hours. Random midnight celebrations of Happy New Day popping champagne to the tune of Auld Lang Syne on our sound system. The happy hour will have DJ Exodus and DJN8tron at the helm with dancing plus more to offer for your pleasure. Twisted G Spot Bar serving up PVD's (Playa Vodka Drinks) w/mostly organic fruit juices and a \"Twist\" of lime or lemon. Otter Pops upon request, served cold and hard!  Human Twister played with kinetic spinner wheel. Complement fairy dropping random compliments. P&J sandwiches offered by Miss Prepared on Thursday and foamy things for your ears always available at the bar.  If you need a horsey fix, come find Margie and check out Horse, camp mascot and resident mutant vehicle. Horse will deliver mail on playa too! Check our mailbox for schedule of planned events.  Our shade 30X40 is your chill spot. Showers open to public. Radical ritual Birthday celebration complete with candle and cake!",
+        "burnermap_location": {
+            "string": "4:15 & Dance",
+            "gps_longitude": -119.20487286839162,
+            "gps_latitude": 40.7766562622959
+        }
     },
     {
         "uid": "a1X0V000002rkO1UAI",
@@ -8412,7 +12030,12 @@
         "url": null,
         "contact_email": "kaufman206@gmail.com",
         "hometown": "San Francisco",
-        "description": "Olympus is dedicated to radical self-expression, self-love, and inclusivity. At Olympus, we encourage every burner to foster a connection with their own inner god or goddess."
+        "description": "Olympus is dedicated to radical self-expression, self-love, and inclusivity. At Olympus, we encourage every burner to foster a connection with their own inner god or goddess.",
+        "burnermap_location": {
+            "string": "4:15 & Inspirit",
+            "gps_longitude": -119.20430458839299,
+            "gps_latitude": 40.77339619060309
+        }
     },
     {
         "uid": "a1X0V000002rkQCUAY",
@@ -8430,7 +12053,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Brooklyn, NY",
-        "description": "French Manila"
+        "description": "French Manila",
+        "burnermap_location": {
+            "string": "4:45 & Ceremony",
+            "gps_longitude": -119.2082138771665,
+            "gps_latitude": 40.77730831015283
+        }
     },
     {
         "uid": "a1X0V000002rkLgUAI",
@@ -8439,7 +12067,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco / The World",
-        "description": "We're the Filthiest Camp Alive. Come let your filth flag fly and explore the depths of your inner filth. We embrace the full spectrum of trash from sexy to dirty (literally) . \r\n\r\nWe're here to steal the headline of most filthy camp. We're disgustingly dirty...in the best ways."
+        "description": "We're the Filthiest Camp Alive. Come let your filth flag fly and explore the depths of your inner filth. We embrace the full spectrum of trash from sexy to dirty (literally) . \r\n\r\nWe're here to steal the headline of most filthy camp. We're disgustingly dirty...in the best ways.",
+        "burnermap_location": {
+            "string": "6:15 & Inspirit",
+            "gps_longitude": -119.22055284837559,
+            "gps_latitude": 40.77849184441712
+        }
     },
     {
         "uid": "a1X0V000002rkSNUAY",
@@ -8448,7 +12081,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Princeton",
-        "description": "Come form new [neural] connections at the Campus Callosum. Bring your most nagging questions or share your own scientific knowledge, and if you don\u2019t leave the camp smarter at least you\u2019ll be drunker."
+        "description": "Come form new [neural] connections at the Campus Callosum. Bring your most nagging questions or share your own scientific knowledge, and if you don’t leave the camp smarter at least you’ll be drunker.",
+        "burnermap_location": {
+            "string": "9:45 & Ceremony",
+            "gps_longitude": -119.21134116556314,
+            "gps_latitude": 40.79525698109805
+        }
     },
     {
         "uid": "a1X0V000002rkN8UAI",
@@ -8457,7 +12095,12 @@
         "url": "https://www.instagram.com/campfurngully/",
         "contact_email": null,
         "hometown": "Sacramento",
-        "description": "Come explore the lush forests of FURngully... a sensory exploration relaxation experience"
+        "description": "Come explore the lush forests of FURngully... a sensory exploration relaxation experience",
+        "burnermap_location": {
+            "string": "7:30 & Ceremony",
+            "gps_longitude": -119.21897767487431,
+            "gps_latitude": 40.78659933872616
+        }
     },
     {
         "uid": "a1X0V000002rkQHUAY",
@@ -8466,7 +12109,12 @@
         "url": "https://www.facebook.com/BankBRC/",
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "We are the bank for the gifting economy, and we have what you need!  Visit the bank each day during business hours, or visit one of our 24 hr ATMs to make a deposit or withdrawal. Excellent customer service is sometimes guaranteed."
+        "description": "We are the bank for the gifting economy, and we have what you need!  Visit the bank each day during business hours, or visit one of our 24 hr ATMs to make a deposit or withdrawal. Excellent customer service is sometimes guaranteed.",
+        "burnermap_location": {
+            "string": "4:45 & Genuflect",
+            "gps_longitude": -119.20866874489691,
+            "gps_latitude": 40.774700272567486
+        }
     },
     {
         "uid": "a1X0V000002rkShUAI",
@@ -8475,7 +12123,12 @@
         "url": null,
         "contact_email": "pat_64@yahoo.com",
         "hometown": "Boise",
-        "description": "The Mason Jar returns to the playa after a decade long break! The inhabitants of this structure will once again capture and catalog the insect people of the playa and feed them the nectar of their choice. They will be tagged and classified and much data will be collected. The Mason Jar is a giant jar on its side, which first appeared on the playa in about 2000. It became a hit with the insectoids and the population in general. The Mason Jar houses a bar and becomes a public space for our events, teachings, and general mayhem. Our camp will incorporate a tea house dome, serving fine teas daily for those who don't want to be bugged."
+        "description": "The Mason Jar returns to the playa after a decade long break! The inhabitants of this structure will once again capture and catalog the insect people of the playa and feed them the nectar of their choice. They will be tagged and classified and much data will be collected. The Mason Jar is a giant jar on its side, which first appeared on the playa in about 2000. It became a hit with the insectoids and the population in general. The Mason Jar houses a bar and becomes a public space for our events, teachings, and general mayhem. Our camp will incorporate a tea house dome, serving fine teas daily for those who don't want to be bugged.",
+        "burnermap_location": {
+            "string": "8:00 & Breath",
+            "gps_longitude": -119.21771728177454,
+            "gps_latitude": 40.78885483247069
+        }
     },
     {
         "uid": "a1X0V000002rkNIUAY",
@@ -8484,7 +12137,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "Swing by and draw with UV light, enjoy Spanking & Pringles, climb our scaffold and Moon The Man in the comfortable seating up top, chill in the shaded hammocks in Las Hamacas, 7-11am enjoy coffee, pancakes and unidentifiable fried pig parts. Snowconeokie will be roaming deep playa, catch us, do a forfeit, get a cone; transforms into Darkwadeokie at night, roaming the playa giving out lights and shots to foolish people. Entirely Amateur since 2001"
+        "description": "Swing by and draw with UV light, enjoy Spanking & Pringles, climb our scaffold and Moon The Man in the comfortable seating up top, chill in the shaded hammocks in Las Hamacas, 7-11am enjoy coffee, pancakes and unidentifiable fried pig parts. Snowconeokie will be roaming deep playa, catch us, do a forfeit, get a cone; transforms into Darkwadeokie at night, roaming the playa giving out lights and shots to foolish people. Entirely Amateur since 2001",
+        "burnermap_location": {
+            "string": "7:15 & Dance",
+            "gps_longitude": -119.21973174661066,
+            "gps_latitude": 40.78528546667241
+        }
     },
     {
         "uid": "a1X0V000002rkS8UAI",
@@ -8502,7 +12160,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Fairfield",
-        "description": "Bard's Corner is a cool retreat from the heat and grab some iced tea and share some songs and stories (or hear some of ours)."
+        "description": "Bard's Corner is a cool retreat from the heat and grab some iced tea and share some songs and stories (or hear some of ours).",
+        "burnermap_location": {
+            "string": "3:45 & Ceremony",
+            "gps_longitude": -119.20186776097587,
+            "gps_latitude": 40.77794041280151
+        }
     },
     {
         "uid": "a1X0V000002rkQWUAY",
@@ -8511,7 +12174,12 @@
         "url": null,
         "contact_email": "dmckay@nma.ca",
         "hometown": "Toronto",
-        "description": "What could be more lost than a penguin in the desert? Drop in to our hospitality oasis where we offer comforts such as shade, couches, wine, lemonade, chocolate, snow cones, friendly people, and live entertainment.  Day or night, get up on stage for asshole theatre, watch some bands, dance to DJs or take a workshop. Join us as we navigate surprises all week!  Or just sit and we will engage you in conversation as you watch the playa float by."
+        "description": "What could be more lost than a penguin in the desert? Drop in to our hospitality oasis where we offer comforts such as shade, couches, wine, lemonade, chocolate, snow cones, friendly people, and live entertainment.  Day or night, get up on stage for asshole theatre, watch some bands, dance to DJs or take a workshop. Join us as we navigate surprises all week!  Or just sit and we will engage you in conversation as you watch the playa float by.",
+        "burnermap_location": {
+            "string": "3:00 & Dance",
+            "gps_longitude": -119.19723446308797,
+            "gps_latitude": 40.779507767971374
+        }
     },
     {
         "uid": "a1X0V000002rkT1UAI",
@@ -8520,7 +12188,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco and New York City",
-        "description": "The end is nigh! Come bounce while you can upon the upholstered luxury of our Bungee Couch Garden (yep, exactly what it sounds like), sip the ambrosia of perpetual motion (champagne and 5-\u00adhour energy, the official libation of our Ultimate Celebration, available from 4-\u00ad6pm daily), and/or contemplate your own ultimate destination while you zip around on a Wiimote-\u00adcontrolled electric armchair. In short, if your vision of the apocalypse is as lazy and carefree as ours, we've got you covered!"
+        "description": "The end is nigh! Come bounce while you can upon the upholstered luxury of our Bungee Couch Garden (yep, exactly what it sounds like), sip the ambrosia of perpetual motion (champagne and 5-­hour energy, the official libation of our Ultimate Celebration, available from 4-­6pm daily), and/or contemplate your own ultimate destination while you zip around on a Wiimote-­controlled electric armchair. In short, if your vision of the apocalypse is as lazy and carefree as ours, we've got you covered!",
+        "burnermap_location": {
+            "string": "3:45 & Ceremony",
+            "gps_longitude": -119.20186776097587,
+            "gps_latitude": 40.77794041280151
+        }
     },
     {
         "uid": "a1X0V000002rkUEUAY",
@@ -8529,7 +12202,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "SF Bay, L.A., Seattle, Pollock Pines, CT, Great Brittain",
-        "description": "The G-Spot, stop by and enjoy our pleasures. Remember if you can't find us you are not coming!"
+        "description": "The G-Spot, stop by and enjoy our pleasures. Remember if you can't find us you are not coming!",
+        "burnermap_location": {
+            "string": "6:45 & Ceremony",
+            "gps_longitude": -119.21803235908496,
+            "gps_latitude": 40.783008722511504
+        }
     },
     {
         "uid": "a1X0V000002rkUOUAY",
@@ -8538,7 +12216,12 @@
         "url": null,
         "contact_email": "minstrelcramp@ojaiconcertseries.com",
         "hometown": "Ojai & Ventura",
-        "description": "Feeling the need to fiddle about? \r\nTo blow, beat or stroke on something? \r\nCome to MINSTREL CrAMP and get your creative \"musical juices\" flowing. \r\nStop in, \r\nListen in, \r\nJoin in, to some great live acoustic, jamming with our house band \"THE BURNING SENSATIONS\".\r\nThis year we feature Belly Dancing, Celtic Circle, and Drumming. \r\nCheck the schedule board out front to see what's happening or sign-up for a slot to perform with your own band (or ours).\r\nIt's all good! \r\nListeners welcome!\r\nPS: We do have a large selection of legitimate \"menstrual cramp\" supplies if you have a urgent need"
+        "description": "Feeling the need to fiddle about? \r\nTo blow, beat or stroke on something? \r\nCome to MINSTREL CrAMP and get your creative \"musical juices\" flowing. \r\nStop in, \r\nListen in, \r\nJoin in, to some great live acoustic, jamming with our house band \"THE BURNING SENSATIONS\".\r\nThis year we feature Belly Dancing, Celtic Circle, and Drumming. \r\nCheck the schedule board out front to see what's happening or sign-up for a slot to perform with your own band (or ours).\r\nIt's all good! \r\nListeners welcome!\r\nPS: We do have a large selection of legitimate \"menstrual cramp\" supplies if you have a urgent need",
+        "burnermap_location": {
+            "string": "6:00 & Eulogy",
+            "gps_longitude": -119.21657960060574,
+            "gps_latitude": 40.77904267712541
+        }
     },
     {
         "uid": "a1X0V000002rkTpUAI",
@@ -8547,7 +12230,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Reno/Sparks",
-        "description": "Camp Ho-Down - home of the Cozmic Cowboy Art Car!  Come visit the Nambi Tower & Mechanical Bull! and come enjoy our phenomenal sriracha bacon grilled cheese sandwiches!"
+        "description": "Camp Ho-Down - home of the Cozmic Cowboy Art Car!  Come visit the Nambi Tower & Mechanical Bull! and come enjoy our phenomenal sriracha bacon grilled cheese sandwiches!",
+        "burnermap_location": {
+            "string": "2:30 & Ceremony",
+            "gps_longitude": -119.19588137538875,
+            "gps_latitude": 40.781913639085346
+        }
     },
     {
         "uid": "a1X0V000002rkTzUAI",
@@ -8556,7 +12244,12 @@
         "url": null,
         "contact_email": null,
         "hometown": null,
-        "description": "Iceberg Cowboys\r\nWranglin' them desert icebergs and riding 'em off into the sunset"
+        "description": "Iceberg Cowboys\r\nWranglin' them desert icebergs and riding 'em off into the sunset",
+        "burnermap_location": {
+            "string": "8:30 & Ceremony",
+            "gps_longitude": -119.21732013734074,
+            "gps_latitude": 40.79128536900388
+        }
     },
     {
         "uid": "a1X0V000002rkUJUAY",
@@ -8565,7 +12258,12 @@
         "url": null,
         "contact_email": "campluvclub@gmail.com",
         "hometown": "San Francisco",
-        "description": "LuvClub, an ensemble of heart-centered, mostly queer folks who are seeking to make the world a more beautiful, loving, and fun place together through magic, ritual, partying and play."
+        "description": "LuvClub, an ensemble of heart-centered, mostly queer folks who are seeking to make the world a more beautiful, loving, and fun place together through magic, ritual, partying and play.",
+        "burnermap_location": {
+            "string": "7:15 & Genuflect",
+            "gps_longitude": -119.22231612211759,
+            "gps_latitude": 40.78503230749086
+        }
     },
     {
         "uid": "a1X0V000002rkUdUAI",
@@ -8574,7 +12272,12 @@
         "url": null,
         "contact_email": "ukeawhat@gmail.com",
         "hometown": "Brooklyn",
-        "description": "In case of existential emergency, play ukulele."
+        "description": "In case of existential emergency, play ukulele.",
+        "burnermap_location": {
+            "string": "8:30 & Rods Road",
+            "gps_longitude": -119.2163901828559,
+            "gps_latitude": 40.781993514822936
+        }
     },
     {
         "uid": "a1X0V000002rkUTUAY",
@@ -8583,7 +12286,12 @@
         "url": "http://www.sparceland.com/art-of-suchnsuch-theme-camp/",
         "contact_email": null,
         "hometown": "Atlanta",
-        "description": "A.S.S. (Art of Such n Such) is home base for honorarium project UNCLE CHARLIE'S RED HOT COCK so stop by - check our nightly  burn schedule & while you are visiting enjoy our Paternity Testing Station (Back by Popular Demand!)  Warm late night/early morning fires and some Bad Advice for your Burn."
+        "description": "A.S.S. (Art of Such n Such) is home base for honorarium project UNCLE CHARLIE'S RED HOT COCK so stop by - check our nightly  burn schedule & while you are visiting enjoy our Paternity Testing Station (Back by Popular Demand!)  Warm late night/early morning fires and some Bad Advice for your Burn.",
+        "burnermap_location": {
+            "string": "5:00 & Awe",
+            "gps_longitude": -119.20935363037192,
+            "gps_latitude": 40.778818082935224
+        }
     },
     {
         "uid": "a1X0V000002rkUYUAY",
@@ -8592,7 +12300,12 @@
         "url": "https://www.facebook.com/pages/Camp-Faderade/",
         "contact_email": null,
         "hometown": "Sacramento",
-        "description": "We are Camp Faderade! Great game, great beverage, great time."
+        "description": "We are Camp Faderade! Great game, great beverage, great time.",
+        "burnermap_location": {
+            "string": "4:45 & Ceremony",
+            "gps_longitude": -119.2082138771665,
+            "gps_latitude": 40.77730831015283
+        }
     },
     {
         "uid": "a1X0V000002rkPdUAI",
@@ -8601,7 +12314,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Sacramento, Buffalo, Yellowknife, LA, Chicago, Pittsburgh, Germany, Lake Tahoe, Salt Lake City",
-        "description": "The Lazy Ass Fuckers are out of lazy retirement for the year and back to the playa.  Come to chill in our neon dome, relaxation station or drum circle. Or just stop and say hi!"
+        "description": "The Lazy Ass Fuckers are out of lazy retirement for the year and back to the playa.  Come to chill in our neon dome, relaxation station or drum circle. Or just stop and say hi!",
+        "burnermap_location": {
+            "string": "5:45 & Hallowed",
+            "gps_longitude": -119.21677738947514,
+            "gps_latitude": 40.7765556549045
+        }
     },
     {
         "uid": "a1X0V000002rkV2UAI",
@@ -8610,7 +12328,12 @@
         "url": null,
         "contact_email": "cosmic.casbah@gmail.com",
         "hometown": "Concord",
-        "description": "Cosmic Casbah celebrates diversity and provides to all citizens of Black Rock City. Come visit our magical shade lounge, enjoy our libations, creative expression rituals, photo booth, music, and games."
+        "description": "Cosmic Casbah celebrates diversity and provides to all citizens of Black Rock City. Come visit our magical shade lounge, enjoy our libations, creative expression rituals, photo booth, music, and games.",
+        "burnermap_location": {
+            "string": "5:00 & Genuflect",
+            "gps_longitude": -119.210702111906,
+            "gps_latitude": 40.7750065078431
+        }
     },
     {
         "uid": "a1X0V000002rkUiUAI",
@@ -8619,7 +12342,12 @@
         "url": "http://www.blackrockfrenchquarter.org",
         "contact_email": "ignatius@blackrockfrenchquarter.org",
         "hometown": "Los Angeles",
-        "description": "The heart of the Big Easy come to Black Rock City, including cocktails, bakery, fresh roasted coffee, live music and burlesque, wine cellar, vineyard, Mardi Gras, Jazz Funeral for the Man, and a few other surprises. Our French Quarter buildings are based on an open design that your camp can build to join us. And this year, look for Asiatown!"
+        "description": "The heart of the Big Easy come to Black Rock City, including cocktails, bakery, fresh roasted coffee, live music and burlesque, wine cellar, vineyard, Mardi Gras, Jazz Funeral for the Man, and a few other surprises. Our French Quarter buildings are based on an open design that your camp can build to join us. And this year, look for Asiatown!",
+        "burnermap_location": {
+            "string": "4:30 & Awe",
+            "gps_longitude": -119.20660000000001,
+            "gps_latitude": 40.77854360050924
+        }
     },
     {
         "uid": "a1X0V000002rkVCUAY",
@@ -8628,7 +12356,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Toronto",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "9:45 & Dance",
+            "gps_longitude": -119.21167388272448,
+            "gps_latitude": 40.795864495461
+        }
     },
     {
         "uid": "a1X0V000002rkV7UAI",
@@ -8637,7 +12370,12 @@
         "url": "http://sextantcamp.com/",
         "contact_email": "sextantcamp@gmail.com",
         "hometown": "San Francisco Bay Area",
-        "description": "Sextant is Hard Science, Hard Engineering and Hard Sexy! Come for the giant Tesla Coil, climb our 52 ft Tower, and have drinks at v\u00fcnderbar, ze bar in ze sky, before riding our Zip-Line high above Black Rock City!"
+        "description": "Sextant is Hard Science, Hard Engineering and Hard Sexy! Come for the giant Tesla Coil, climb our 52 ft Tower, and have drinks at vünderbar, ze bar in ze sky, before riding our Zip-Line high above Black Rock City!",
+        "burnermap_location": {
+            "string": "6:45 & Esplanade",
+            "gps_longitude": -119.2149570359047,
+            "gps_latitude": 40.7839747819945
+        }
     },
     {
         "uid": "a1X0V000002rkVMUAY",
@@ -8646,7 +12384,12 @@
         "url": "https://www.facebook.com/pg/volunteerresourceteam",
         "contact_email": null,
         "hometown": "Bay Area - San Francisco",
-        "description": "The Volunteer Resource Team helps turn citizens into participants throughout the year and at Black Rock City."
+        "description": "The Volunteer Resource Team helps turn citizens into participants throughout the year and at Black Rock City.",
+        "burnermap_location": {
+            "string": "6:00 & Portal",
+            "gps_longitude": -119.19878814345002,
+            "gps_latitude": 40.78067547010965
+        }
     },
     {
         "uid": "a1X0V000002rkVWUAY",
@@ -8655,7 +12398,12 @@
         "url": null,
         "contact_email": "dazoulai@gmail.com",
         "hometown": "San Francisco",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "2:15 & Eulogy",
+            "gps_longitude": -119.19356313857256,
+            "gps_latitude": 40.78250469590598
+        }
     },
     {
         "uid": "a1X0V000002rkVgUAI",
@@ -8664,7 +12412,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "The Dust Monkeys' revolutionary Fauxtobooth is guaranteed to make you smile and will always capture your good side. Don your best duds and come on down to experience the mystical power of fauxtography first hand!"
+        "description": "The Dust Monkeys' revolutionary Fauxtobooth is guaranteed to make you smile and will always capture your good side. Don your best duds and come on down to experience the mystical power of fauxtography first hand!",
+        "burnermap_location": {
+            "string": "4:45 & Eulogy",
+            "gps_longitude": -119.20844038603765,
+            "gps_latitude": 40.77600421451153
+        }
     },
     {
         "uid": "a1X0V000002rkVHUAY",
@@ -8673,7 +12426,12 @@
         "url": "https://www.facebook.com/pages/Altitude-Lounge/127966623902091",
         "contact_email": null,
         "hometown": "Boise",
-        "description": "Climb our 50-ft tower and see the City you are a part of. We offer magnificent views, downtempo music, and couches that will suck you in as you watch the world go by."
+        "description": "Climb our 50-ft tower and see the City you are a part of. We offer magnificent views, downtempo music, and couches that will suck you in as you watch the world go by.",
+        "burnermap_location": {
+            "string": "8:15 & Breath",
+            "gps_longitude": -119.21723564168582,
+            "gps_latitude": 40.78993011693281
+        }
     },
     {
         "uid": "a1X0V000002rkVlUAI",
@@ -8682,7 +12440,12 @@
         "url": "http://pinkheartcamp.wordpress.com/",
         "contact_email": "everything@pinkheartcamp.com",
         "hometown": "San Diego",
-        "description": "Let the legendary Pink Lounge be home to your daily Recalibration Ritual for body, mind, and spirit.\nEnjoy the sacrament of chilled cucumber water or vegan ice cream.  Share your experiences (and yourself) on our pink fur couches while gazing upon the open Playa."
+        "description": "Let the legendary Pink Lounge be home to your daily Recalibration Ritual for body, mind, and spirit.\nEnjoy the sacrament of chilled cucumber water or vegan ice cream.  Share your experiences (and yourself) on our pink fur couches while gazing upon the open Playa.",
+        "burnermap_location": {
+            "string": "8:00 & Esplanade",
+            "gps_longitude": -119.21533993793754,
+            "gps_latitude": 40.78837275671839
+        }
     },
     {
         "uid": "a1X0V000002rkVqUAI",
@@ -8691,7 +12454,12 @@
         "url": "http://atomcult.com/",
         "contact_email": null,
         "hometown": "SD-OC-LA-SF-NYC-Moscow-Riga-Amsterdam",
-        "description": "The Most Radiant Camp at Burning Man. Come taste our hot fusion pancakes at 9 AM and cold fusion ice cream and iced coffee at 3 PM. Enjoy the magnificent views of BRC and bounce off the trampoline at the top of our 30' tall Chilling Tower. Or relax in our Reactor Dome to the soothing sounds of the Geiger counter."
+        "description": "The Most Radiant Camp at Burning Man. Come taste our hot fusion pancakes at 9 AM and cold fusion ice cream and iced coffee at 3 PM. Enjoy the magnificent views of BRC and bounce off the trampoline at the top of our 30' tall Chilling Tower. Or relax in our Reactor Dome to the soothing sounds of the Geiger counter.",
+        "burnermap_location": {
+            "string": "6:45 & Dance",
+            "gps_longitude": -119.21883461146463,
+            "gps_latitude": 40.78275670882913
+        }
     },
     {
         "uid": "a1X0V000002rkW5UAI",
@@ -8700,7 +12468,12 @@
         "url": "http://funnelvision.camp",
         "contact_email": "info@funnelvision.camp",
         "hometown": "San Francisco, CA",
-        "description": "Fresh hot homemade funnel cakes Monday and Thursday 2:00pm - 4:00pm, Tuesday 4:00pm - 6:00pm, and Wednesday 4:30pm - 7:30pm.  Drinks and dancing on Wednesday as well!"
+        "description": "Fresh hot homemade funnel cakes Monday and Thursday 2:00pm - 4:00pm, Tuesday 4:00pm - 6:00pm, and Wednesday 4:30pm - 7:30pm.  Drinks and dancing on Wednesday as well!",
+        "burnermap_location": {
+            "string": "3:45 & Ceremony",
+            "gps_longitude": -119.20186776097587,
+            "gps_latitude": 40.77794041280151
+        }
     },
     {
         "uid": "a1X0V000002rkW0UAI",
@@ -8709,7 +12482,12 @@
         "url": "https://www.facebook.com/MoreCarrot.BRC.FarmersMarket",
         "contact_email": "brcfarmersmarket@gmail.com",
         "hometown": "Baltimore, MD and Washington, DC",
-        "description": "More Carrot: Sure, you could live off protein bars and MREs all week if you really want to, but how about giving your dusty soul a treat? Come by the More Carrot Camp and get yourself something crunchy, cold and crisp; we gift fresh vegetables and fruit at the More Carrot Camp. Tues. - Fri., 8 - 10 a.m."
+        "description": "More Carrot: Sure, you could live off protein bars and MREs all week if you really want to, but how about giving your dusty soul a treat? Come by the More Carrot Camp and get yourself something crunchy, cold and crisp; we gift fresh vegetables and fruit at the More Carrot Camp. Tues. - Fri., 8 - 10 a.m.",
+        "burnermap_location": {
+            "string": "4:15 & Awe",
+            "gps_longitude": -119.20521263175507,
+            "gps_latitude": 40.77861240608439
+        }
     },
     {
         "uid": "a1X0V000002rkWKUAY",
@@ -8718,7 +12496,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Reno",
-        "description": "Get twisted at Camp Pink Fuzzy Monkey with the most fun themed twister board on the Playa, lounge dj sessions, light saber battles, and our crazy fun monkey parties. If you really wanna get charged up, plug in to our Banana Bunch Fruit Salad phone charging stations and tune in, turn off, drop out, drop in, switch off, switch on, and explode."
+        "description": "Get twisted at Camp Pink Fuzzy Monkey with the most fun themed twister board on the Playa, lounge dj sessions, light saber battles, and our crazy fun monkey parties. If you really wanna get charged up, plug in to our Banana Bunch Fruit Salad phone charging stations and tune in, turn off, drop out, drop in, switch off, switch on, and explode.",
+        "burnermap_location": {
+            "string": "9:15 & Awe",
+            "gps_longitude": -119.21308211281135,
+            "gps_latitude": 40.792988966008515
+        }
     },
     {
         "uid": "a1X0V000002rkWFUAY",
@@ -8727,7 +12510,12 @@
         "url": "https://www.facebook.com/groups/sacredcow/",
         "contact_email": "sacredcowkid@gmail.com",
         "hometown": "NYC, SF and Seattle",
-        "description": "Come to the Sacred Cow - the Restaurant of Distinction of the Playa \u2013 a space open for penetration and delight \u2013 culinary and otherwise every night.  Once you reach us and are invited to penetrate through the (Glory) Hole in our Wall you will find fabulous food, games, and interactive participatory roll play. And some afternoons a Mexican Fiesta of Tequila  and  guacamole \u2013 along with music and games will be provided to all who dare to enter and say Ole (or Ola!)"
+        "description": "Come to the Sacred Cow - the Restaurant of Distinction of the Playa – a space open for penetration and delight – culinary and otherwise every night.  Once you reach us and are invited to penetrate through the (Glory) Hole in our Wall you will find fabulous food, games, and interactive participatory roll play. And some afternoons a Mexican Fiesta of Tequila  and  guacamole – along with music and games will be provided to all who dare to enter and say Ole (or Ola!)",
+        "burnermap_location": {
+            "string": "7:45 & Genuflect",
+            "gps_longitude": -119.22231686363757,
+            "gps_latitude": 40.78816556022795
+        }
     },
     {
         "uid": "a1X0V000002rkWUUAY",
@@ -8736,7 +12524,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "SF, LA, Mammoth, London & Vancouver",
-        "description": "Frogma is the little theme camp that could, where everyone is your friend and neighbor! Hop on over to our lily pads Monday and Wednesday at 5:00pm for BRC's one and only Hoppy Hour. Serving up ice cold slushy Frogaritas in our dome sweet dome. You're guaranteed to make a rainbow of connections."
+        "description": "Frogma is the little theme camp that could, where everyone is your friend and neighbor! Hop on over to our lily pads Monday and Wednesday at 5:00pm for BRC's one and only Hoppy Hour. Serving up ice cold slushy Frogaritas in our dome sweet dome. You're guaranteed to make a rainbow of connections.",
+        "burnermap_location": {
+            "string": "4:15 & Hallowed",
+            "gps_longitude": -119.20441792063578,
+            "gps_latitude": 40.77404823164073
+        }
     },
     {
         "uid": "a1X0V000002rkWAUAY",
@@ -8745,7 +12538,12 @@
         "url": "http://www.blackrocksock.com",
         "contact_email": "campinfo@blackrocksock.com",
         "hometown": "Seattle",
-        "description": "All the classes you wish were available when you were in school -- Black Rock School of Consensual Kink (S.O.C.K.) offers a variety of classes and BDSM tastings by our faculty of trained kinksters. The kink curious of all genders, orientations, and identities (18+) are welcome, see you in class!"
+        "description": "All the classes you wish were available when you were in school -- Black Rock School of Consensual Kink (S.O.C.K.) offers a variety of classes and BDSM tastings by our faculty of trained kinksters. The kink curious of all genders, orientations, and identities (18+) are welcome, see you in class!",
+        "burnermap_location": {
+            "string": "3:15 & Dance",
+            "gps_longitude": -119.19854210643658,
+            "gps_latitude": 40.77864010780672
+        }
     },
     {
         "uid": "a1X0V000002rkWPUAY",
@@ -8754,7 +12552,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "Cosmic Jukebox is a retro desert paradise for those looking to plunge in Palm Springs in the '60s. With our cozy, poolside cabana vibe, visit us for shenanigans and tropical tunes."
+        "description": "Cosmic Jukebox is a retro desert paradise for those looking to plunge in Palm Springs in the '60s. With our cozy, poolside cabana vibe, visit us for shenanigans and tropical tunes.",
+        "burnermap_location": {
+            "string": "7:15 & Eulogy",
+            "gps_longitude": -119.22059283731787,
+            "gps_latitude": 40.78519926850957
+        }
     },
     {
         "uid": "a1X0V000002rkWeUAI",
@@ -8763,7 +12566,12 @@
         "url": "http://www.burnstreamcourt.com",
         "contact_email": "burnstreamcourt@gmail.com",
         "hometown": "Camp lead: Grass Valley, CA.  Others are from all over the U.S.",
-        "description": "Burnstream Court's 16th year on the playa is dedicated to Airstream affectionados!\r\nWe have Airstream tours, photos opps, putting for Pabst, fun & games & grilled cheese LOVE!\r\nWe would love to have you hang out with us in our trailer park, burner-style."
+        "description": "Burnstream Court's 16th year on the playa is dedicated to Airstream affectionados!\r\nWe have Airstream tours, photos opps, putting for Pabst, fun & games & grilled cheese LOVE!\r\nWe would love to have you hang out with us in our trailer park, burner-style.",
+        "burnermap_location": {
+            "string": "3:15 & Inspirit",
+            "gps_longitude": -119.19589399906289,
+            "gps_latitude": 40.77603384631638
+        }
     },
     {
         "uid": "a1X0V000002rkWjUAI",
@@ -8772,7 +12580,12 @@
         "url": null,
         "contact_email": "campmuffinbottom@gmail.com",
         "hometown": "San Francisco",
-        "description": "The Muffin Bottoms are a mixed bag of interdisciplinary thinkers and doers, from microbiologists to clinical psychologists to symphony conductors to meditation teachers. We see our vastly diverse areas of passion and expertise as one of our key strengths, and what makes Muffin Bottoms, Muffin Bottoms."
+        "description": "The Muffin Bottoms are a mixed bag of interdisciplinary thinkers and doers, from microbiologists to clinical psychologists to symphony conductors to meditation teachers. We see our vastly diverse areas of passion and expertise as one of our key strengths, and what makes Muffin Bottoms, Muffin Bottoms.",
+        "burnermap_location": {
+            "string": "7:15 & Genuflect",
+            "gps_longitude": -119.22231612211759,
+            "gps_latitude": 40.78503230749086
+        }
     },
     {
         "uid": "a1X0V000002rkWtUAI",
@@ -8781,7 +12594,12 @@
         "url": "http://www.itsallmadeup.org",
         "contact_email": null,
         "hometown": "Washington",
-        "description": "Now in our seventh year on playa, Home Rule Village is committed to engaging BRC denizens in novel forms of expression, exploration, relaxation and connection. Three unique camps combine to offer a wildly diverse experience, including an array of workshops, seminars, dance parties, vaudeville shows, improv comedy classes, holistic healing, diversity-awareness events, yoga practice, body painting classes, fire spinning and more!"
+        "description": "Now in our seventh year on playa, Home Rule Village is committed to engaging BRC denizens in novel forms of expression, exploration, relaxation and connection. Three unique camps combine to offer a wildly diverse experience, including an array of workshops, seminars, dance parties, vaudeville shows, improv comedy classes, holistic healing, diversity-awareness events, yoga practice, body painting classes, fire spinning and more!",
+        "burnermap_location": {
+            "string": "4:15 & Ceremony",
+            "gps_longitude": -119.2049861228335,
+            "gps_latitude": 40.77730831015283
+        }
     },
     {
         "uid": "a1X0V000002rkVvUAI",
@@ -8790,7 +12608,12 @@
         "url": "http://www.kazbah.org",
         "contact_email": "reach@kazbah.org",
         "hometown": "San Francisco",
-        "description": "The Kazbah is back for our 5th year with vibes, music, lasers, libations, and our Pyramid hosting parties from 10pm to 10am every night and morning. Look for the laser pointing up towards the star Sirius, and join us."
+        "description": "The Kazbah is back for our 5th year with vibes, music, lasers, libations, and our Pyramid hosting parties from 10pm to 10am every night and morning. Look for the laser pointing up towards the star Sirius, and join us.",
+        "burnermap_location": {
+            "string": "10:00 & Breath",
+            "gps_longitude": -119.20957914313728,
+            "gps_latitude": 40.79501710189409
+        }
     },
     {
         "uid": "a1X0V000002rkWoUAI",
@@ -8799,7 +12622,12 @@
         "url": "http://campnicenice.com",
         "contact_email": null,
         "hometown": "Palo Alto / Napa",
-        "description": "Nice Nice is an international group of artists, musicians, yogis, dancers, scientists, and creators. We invite all to visit our Music Playground to play the Chimes, Rimba Pipes, and other instruments; or join in our sunset acoustic jam sessions."
+        "description": "Nice Nice is an international group of artists, musicians, yogis, dancers, scientists, and creators. We invite all to visit our Music Playground to play the Chimes, Rimba Pipes, and other instruments; or join in our sunset acoustic jam sessions.",
+        "burnermap_location": {
+            "string": "3:15 & Awe",
+            "gps_longitude": -119.20012723962701,
+            "gps_latitude": 40.78020596235774
+        }
     },
     {
         "uid": "a1X0V000002rkWyUAI",
@@ -8808,7 +12636,12 @@
         "url": "https://www.facebook.com/Palm-Tree-Country-Club-1296876547074778/",
         "contact_email": "camppalmtree@outlook.com",
         "hometown": "San Francisco",
-        "description": "Palm Tree Country Club is back to bring class to the playa with a range of activities for the hoightiest and toightiest of club members, including wine and cheese pairings, mini golf, and BYO bike polo. Come decorate your balls and sample wines from our classy country club staff."
+        "description": "Palm Tree Country Club is back to bring class to the playa with a range of activities for the hoightiest and toightiest of club members, including wine and cheese pairings, mini golf, and BYO bike polo. Come decorate your balls and sample wines from our classy country club staff.",
+        "burnermap_location": {
+            "string": "7:15 & Fire",
+            "gps_longitude": -119.22145392711097,
+            "gps_latitude": 40.785113070438236
+        }
     },
     {
         "uid": "a1X0V000002rkX3UAI",
@@ -8817,7 +12650,12 @@
         "url": null,
         "contact_email": null,
         "hometown": null,
-        "description": "Holy Flaming LED Ball! Visit the Institute of Higher Yearning where our overeducated undermanaged faculty staff will jam in your brain all the science, electro-shock therapy and swordplay that you can take. God created the playa to train the faithful and we will teach you EVERYTHING you need to know, both in Theory and through practice. Pay attention! On Thursday, there will be a Final Exam."
+        "description": "Holy Flaming LED Ball! Visit the Institute of Higher Yearning where our overeducated undermanaged faculty staff will jam in your brain all the science, electro-shock therapy and swordplay that you can take. God created the playa to train the faithful and we will teach you EVERYTHING you need to know, both in Theory and through practice. Pay attention! On Thursday, there will be a Final Exam.",
+        "burnermap_location": {
+            "string": "4:00 & Esplanade",
+            "gps_longitude": -119.20425843651887,
+            "gps_latitude": 40.77998272774902
+        }
     },
     {
         "uid": "a1X0V000002rkXIUAY",
@@ -8826,7 +12664,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Memphis",
-        "description": "Est. 1997, Camp Cul-de-Sac provides an open-air cinema with a wide selection of crazy clips plus a video art experience and open jam.  Also, we have candy."
+        "description": "Est. 1997, Camp Cul-de-Sac provides an open-air cinema with a wide selection of crazy clips plus a video art experience and open jam.  Also, we have candy.",
+        "burnermap_location": {
+            "string": "4:20 & Awe",
+            "gps_longitude": -119.2056736261612,
+            "gps_latitude": 40.77857420960967
+        }
     },
     {
         "uid": "a1X0V000002rkXNUAY",
@@ -8844,7 +12687,12 @@
         "url": "http://www.contraburners.org/",
         "contact_email": "info@contraburners.org",
         "hometown": "San Francisco area, Gainesville, Morgantown, etc",
-        "description": "Experience the tribal, hypnotic magic of contradancing to amazing live music - everything from traditional celtic to an electronic mix of DJ'd records and live instruments.  We dance every night (including some other dance forms) and in the mornings we have more dancing, concerts and jams.  Contra is fast-paced yet easy to learn with a caller who instructs, but with room for dancers to improvise and embellish.  There is no need to arrive with a partner - most dancers swap after each dance.  Lines of couples flow through each other creating a bonding, playful, noncompetitive, all-ages community dance.  There is no required footwork and contra is possible for many with disabilities.  If you are smiling, you are doing it right.  Everyone who shows up will have fun."
+        "description": "Experience the tribal, hypnotic magic of contradancing to amazing live music - everything from traditional celtic to an electronic mix of DJ'd records and live instruments.  We dance every night (including some other dance forms) and in the mornings we have more dancing, concerts and jams.  Contra is fast-paced yet easy to learn with a caller who instructs, but with room for dancers to improvise and embellish.  There is no need to arrive with a partner - most dancers swap after each dance.  Lines of couples flow through each other creating a bonding, playful, noncompetitive, all-ages community dance.  There is no required footwork and contra is possible for many with disabilities.  If you are smiling, you are doing it right.  Everyone who shows up will have fun.",
+        "burnermap_location": {
+            "string": "6:00 & Dance",
+            "gps_longitude": -119.21596553691205,
+            "gps_latitude": 40.779507767971374
+        }
     },
     {
         "uid": "a1X0V000002rkXhUAI",
@@ -8853,7 +12701,12 @@
         "url": "https://lavictrola.org/",
         "contact_email": "burningkoosh@gmail.com",
         "hometown": "Oakland",
-        "description": "La Victrola is a 35-foot tall wood and steel sculpture celebrating the music of a bygone era, built by a community of volunteer artists at American Steel Studios in Oakland California. Its period details, musical curation, and live performances stand as organic counterpoints to the digital saturation of modern culture. After debuting phase 1 of the build at Burning Man 2016, La Victrola phase II will appear at Burning Man 2017 and other festivals and events."
+        "description": "La Victrola is a 35-foot tall wood and steel sculpture celebrating the music of a bygone era, built by a community of volunteer artists at American Steel Studios in Oakland California. Its period details, musical curation, and live performances stand as organic counterpoints to the digital saturation of modern culture. After debuting phase 1 of the build at Burning Man 2016, La Victrola phase II will appear at Burning Man 2017 and other festivals and events.",
+        "burnermap_location": {
+            "string": "2:45 & Hallowed",
+            "gps_longitude": -119.19333610121724,
+            "gps_latitude": 40.77889228660458
+        }
     },
     {
         "uid": "a1X0V000002rkXmUAI",
@@ -8862,7 +12715,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Seattle",
-        "description": "Come celebrate the ritual of craft cocktail making at Yes, And!"
+        "description": "Come celebrate the ritual of craft cocktail making at Yes, And!",
+        "burnermap_location": {
+            "string": "9:45 & Eulogy",
+            "gps_longitude": -119.21200660038281,
+            "gps_latitude": 40.79647201073141
+        }
     },
     {
         "uid": "a1X0V000002rkXXUAY",
@@ -8880,7 +12738,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Los Angeles",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "4:45 & Fire",
+            "gps_longitude": -119.20855364045433,
+            "gps_latitude": 40.77535216679971
+        }
     },
     {
         "uid": "a1X0V000002rkY6UAI",
@@ -8889,7 +12752,12 @@
         "url": "http://www.nutzcamp.com",
         "contact_email": "nutzcamp@gmail.com",
         "hometown": "Los Angeles, San Francisco, New York, Montreal",
-        "description": "Here comes the sun. Beautiful beats and positive vibrations overflow the Playa at Nutz Sunrise Parties. Get some."
+        "description": "Here comes the sun. Beautiful beats and positive vibrations overflow the Playa at Nutz Sunrise Parties. Get some.",
+        "burnermap_location": {
+            "string": "10:00 & Genuflect",
+            "gps_longitude": -119.21070354441277,
+            "gps_latitude": 40.79819334684544
+        }
     },
     {
         "uid": "a1X0V000002rkZdUAI",
@@ -8907,7 +12775,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Salt Lake City",
-        "description": "Cosmiquarium Village is where the mysteries of the deep intermingle with the wonder of the stars.  Combining the galactic playground of Cosmic Recess and the aquatic antics of the fabulous mutant vessel: the Frog Prince.  Join us for adventures of sea and space\u2026at our home sphere or on voyages into the deep Playa!"
+        "description": "Cosmiquarium Village is where the mysteries of the deep intermingle with the wonder of the stars.  Combining the galactic playground of Cosmic Recess and the aquatic antics of the fabulous mutant vessel: the Frog Prince.  Join us for adventures of sea and space…at our home sphere or on voyages into the deep Playa!",
+        "burnermap_location": {
+            "string": "3:30 & Esplanade",
+            "gps_longitude": -119.20207640011253,
+            "gps_latitude": 40.78066704889926
+        }
     },
     {
         "uid": "a1X0V000002rkXrUAI",
@@ -8916,7 +12789,12 @@
         "url": null,
         "contact_email": "enjoyjars@gmail.com",
         "hometown": "Fresno",
-        "description": "Zen as Fuck \u2013 A shady place in your mind. An important step on your path to enlightenment is to stop by, relax and give your face an ego melting Dunkaroo. You'll leave wondering, \"Who am I?\""
+        "description": "Zen as Fuck – A shady place in your mind. An important step on your path to enlightenment is to stop by, relax and give your face an ego melting Dunkaroo. You'll leave wondering, \"Who am I?\"",
+        "burnermap_location": {
+            "string": "4:00 & Rods Road",
+            "gps_longitude": -119.21333709478392,
+            "gps_latitude": 40.77898166352459
+        }
     },
     {
         "uid": "a1X0V000002rkZsUAI",
@@ -8925,7 +12803,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco, East Bay, Pebble Beach and New York City",
-        "description": "An amulet goes with you, and draws you back toward a radical ritual; reminding you of your own participation, your impact, and your amazing decisions- bridging intention and manifestation.  Welcome to Amulet;  let our counselors guide you to craft a record of your rite of passage in brass."
+        "description": "An amulet goes with you, and draws you back toward a radical ritual; reminding you of your own participation, your impact, and your amazing decisions- bridging intention and manifestation.  Welcome to Amulet;  let our counselors guide you to craft a record of your rite of passage in brass.",
+        "burnermap_location": {
+            "string": "4:45 & Genuflect",
+            "gps_longitude": -119.20866874489691,
+            "gps_latitude": 40.774700272567486
+        }
     },
     {
         "uid": "a1X0V000002rkYuUAI",
@@ -8934,7 +12817,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Seattle",
-        "description": "Sidekick Camp strives to train and provide sidekicks playa wide to help the unsung heroes.  Where there is someone that needs that extra zap strap, little piece of sound advice, or the encouragement to know you can do it, we'll be there."
+        "description": "Sidekick Camp strives to train and provide sidekicks playa wide to help the unsung heroes.  Where there is someone that needs that extra zap strap, little piece of sound advice, or the encouragement to know you can do it, we'll be there.",
+        "burnermap_location": {
+            "string": "7:45 & Eulogy",
+            "gps_longitude": -119.22059514992095,
+            "gps_latitude": 40.787989121790545
+        }
     },
     {
         "uid": "a1X0V000002rkc8UAA",
@@ -8943,7 +12831,12 @@
         "url": "https://www.facebook.com/deusexdetectives/",
         "contact_email": null,
         "hometown": "San Francisco / Portland",
-        "description": "Stop by the Deus Ex Detective Agency to bask in the gritty noir ambience and crack a case."
+        "description": "Stop by the Deus Ex Detective Agency to bask in the gritty noir ambience and crack a case.",
+        "burnermap_location": {
+            "string": "8:45 & Hallowed",
+            "gps_longitude": -119.21986697775772,
+            "gps_latitude": 40.794306194330275
+        }
     },
     {
         "uid": "a1X0V000002rkaWUAQ",
@@ -8970,7 +12863,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Seattle",
-        "description": "Come by for dancing, drinks, cool lights, great atmosphere, play toys, relaxing netting, interactive games, and a bunch more!"
+        "description": "Come by for dancing, drinks, cool lights, great atmosphere, play toys, relaxing netting, interactive games, and a bunch more!",
+        "burnermap_location": {
+            "string": "9:15 & Dance",
+            "gps_longitude": -119.21466960683222,
+            "gps_latitude": 40.794553648023985
+        }
     },
     {
         "uid": "a1X0V000002rkc3UAA",
@@ -8988,7 +12886,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "7:45 & Fire",
+            "gps_longitude": -119.22145640090253,
+            "gps_latitude": 40.78807460729891
+        }
     },
     {
         "uid": "a1X0V000002rkY1UAI",
@@ -8997,7 +12900,12 @@
         "url": "http://mycodelicforest.org",
         "contact_email": "info@mycodelicforest.org",
         "hometown": "Arcata",
-        "description": "At the Mycodelic Forest the magic of renewal awaits you! We are inspired by the special ability of Mycelium to breakdown organic compounds and decompose biomass into compost to create new life. In this way we strive to break down barriers and educate others on how to protect the Playa and the Burner Culture to create an emotionally fertile environment for everyone."
+        "description": "At the Mycodelic Forest the magic of renewal awaits you! We are inspired by the special ability of Mycelium to breakdown organic compounds and decompose biomass into compost to create new life. In this way we strive to break down barriers and educate others on how to protect the Playa and the Burner Culture to create an emotionally fertile environment for everyone.",
+        "burnermap_location": {
+            "string": "3:15 & Fire",
+            "gps_longitude": -119.19748535810336,
+            "gps_latitude": 40.77759621181311
+        }
     },
     {
         "uid": "a1X0V000002rkZ4UAI",
@@ -9006,16 +12914,26 @@
         "url": "http://www.campawesomesauce.org",
         "contact_email": null,
         "hometown": "Bozeman",
-        "description": "Do you ever wonder what the ball feels like when you're watching the game?  Now's your chance to find out!  Come join us for Awesomeball in 2017 and strap in for an exhilliarating experience.  When you're safe inside a cushioned see through sphere you'll find whole new ways to move.  Be The Ball - Awesomeball at Camp Awesomesauce"
+        "description": "Do you ever wonder what the ball feels like when you're watching the game?  Now's your chance to find out!  Come join us for Awesomeball in 2017 and strap in for an exhilliarating experience.  When you're safe inside a cushioned see through sphere you'll find whole new ways to move.  Be The Ball - Awesomeball at Camp Awesomesauce",
+        "burnermap_location": {
+            "string": "2:15 & Awe",
+            "gps_longitude": -119.1967721529254,
+            "gps_latitude": 40.78351275215403
+        }
     },
     {
         "uid": "a1X0V000002rkalUAA",
         "year": 2017,
-        "name": "Interaction Caf\u00e9",
+        "name": "Interaction Café",
         "url": null,
         "contact_email": null,
         "hometown": "Oakland",
-        "description": "We create a unique and extremely interactive space where servers can offer any stripe of interaction \u2013 body part wrestling, improvised songs & skits, slo motion races, bullfights, spinning games, conversations about edgy & odd topics, (we have hundreds of tantalizing menu items that may be on our individual menus!) - and guests choose which they'd like to indulge in. It can be hard to leave, because you never know what might happen next\u2026"
+        "description": "We create a unique and extremely interactive space where servers can offer any stripe of interaction – body part wrestling, improvised songs & skits, slo motion races, bullfights, spinning games, conversations about edgy & odd topics, (we have hundreds of tantalizing menu items that may be on our individual menus!) - and guests choose which they'd like to indulge in. It can be hard to leave, because you never know what might happen next…",
+        "burnermap_location": {
+            "string": "7:30 & Dance",
+            "gps_longitude": -119.21984628362463,
+            "gps_latitude": 40.78659924265929
+        }
     },
     {
         "uid": "a1X0V000002rkcDUAQ",
@@ -9024,7 +12942,12 @@
         "url": "https://se.cretfi.re",
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "\"You cannot pass,\" he said. \"I am a servant of the Secret Fire, wielder of the flame of Anor. You cannot pass. The dark fire will not avail you, flame of Ud\u00fbn. Go back to the Shadow! You cannot pass.\" \r\n\r\nJoin our community of wizards for magical potions, acquire mystical knowledge, and learn to wield the power of fire!"
+        "description": "\"You cannot pass,\" he said. \"I am a servant of the Secret Fire, wielder of the flame of Anor. You cannot pass. The dark fire will not avail you, flame of Udûn. Go back to the Shadow! You cannot pass.\" \r\n\r\nJoin our community of wizards for magical potions, acquire mystical knowledge, and learn to wield the power of fire!",
+        "burnermap_location": {
+            "string": "9:15 & Awe",
+            "gps_longitude": -119.21308211281135,
+            "gps_latitude": 40.792988966008515
+        }
     },
     {
         "uid": "a1X0V000002rkYGUAY",
@@ -9033,7 +12956,12 @@
         "url": "http://www.camposantito.com",
         "contact_email": "quixote@gmail.com",
         "hometown": "San Francisco",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "3:15 & Dance",
+            "gps_longitude": -119.19854210643658,
+            "gps_latitude": 40.77864010780672
+        }
     },
     {
         "uid": "a1X0V000002rkcSUAQ",
@@ -9042,7 +12970,12 @@
         "url": "https://www.facebook.com/ThorArtCar",
         "contact_email": "mike.d.morrissey@gmail.com",
         "hometown": "Denver",
-        "description": "OK Korral - Support camp for the Thor Mutant Vehicle out of Denver, CO"
+        "description": "OK Korral - Support camp for the Thor Mutant Vehicle out of Denver, CO",
+        "burnermap_location": {
+            "string": "9:30 & Kundalini",
+            "gps_longitude": -119.216265117027,
+            "gps_latitude": 40.799272191730275
+        }
     },
     {
         "uid": "a1X0V000002rkXwUAI",
@@ -9051,7 +12984,12 @@
         "url": "https://www.facebook.com/groups/556296087862378/",
         "contact_email": "lisaanneporter@yahoo.com",
         "hometown": "Berkeley",
-        "description": "We are bringing a reimagined Shakespeare's Globe Theatre to the Playa and filling it with people witnessing one another speaking with joy, passion, abandon, specificity, imagination, irreverence, humor and pathos."
+        "description": "We are bringing a reimagined Shakespeare's Globe Theatre to the Playa and filling it with people witnessing one another speaking with joy, passion, abandon, specificity, imagination, irreverence, humor and pathos.",
+        "burnermap_location": {
+            "string": "4:15 & Rods Road",
+            "gps_longitude": -119.21368496470467,
+            "gps_latitude": 40.778929311971545
+        }
     },
     {
         "uid": "a1X0V000002rkabUAA",
@@ -9060,7 +12998,12 @@
         "url": null,
         "contact_email": "stevemaruska@gmail.com",
         "hometown": "The Village has representation from multiple locations in CA, Colorado, Texas and Japan.",
-        "description": "ShrinesBurg is a Art Support village for the Shrine Projects which is this year's regional project on Playa.  Come say hello to those do'ers that built the lovely Shrines you discover all around the Man Pavilion and in the Keyholes.  Ask for Mayor Birthday!"
+        "description": "ShrinesBurg is a Art Support village for the Shrine Projects which is this year's regional project on Playa.  Come say hello to those do'ers that built the lovely Shrines you discover all around the Man Pavilion and in the Keyholes.  Ask for Mayor Birthday!",
+        "burnermap_location": {
+            "string": "5:15 & Ceremony",
+            "gps_longitude": -119.21133223902413,
+            "gps_latitude": 40.777940412801506
+        }
     },
     {
         "uid": "a1X0V000002rkaqUAA",
@@ -9069,7 +13012,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Seattle",
-        "description": "SOUL MATE (mah-tay) invites friends new and old to join us for funky mate tea cocktails delicious vintage soul music. Revitalize your soul with mate, music, and friendship."
+        "description": "SOUL MATE (mah-tay) invites friends new and old to join us for funky mate tea cocktails delicious vintage soul music. Revitalize your soul with mate, music, and friendship.",
+        "burnermap_location": {
+            "string": "2:45 & Awe",
+            "gps_longitude": -119.19816248503069,
+            "gps_latitude": 40.78169196187608
+        }
     },
     {
         "uid": "a1X0V000002rkZ9UAI",
@@ -9078,7 +13026,12 @@
         "url": "http://do-more-now.com/",
         "contact_email": "admin@do-more-now.com",
         "hometown": "Everett",
-        "description": "Drop in anytime and share our great views, Mimosa bar, themed parties, art and chill space or just warm up by the fire and watch the fire spinners & pyros go to work.\r\nhttp://do-more-now.com/"
+        "description": "Drop in anytime and share our great views, Mimosa bar, themed parties, art and chill space or just warm up by the fire and watch the fire spinners & pyros go to work.\r\nhttp://do-more-now.com/",
+        "burnermap_location": {
+            "string": "7:30 & Ceremony",
+            "gps_longitude": -119.21897767487431,
+            "gps_latitude": 40.78659933872616
+        }
     },
     {
         "uid": "a1X0V000002rka2UAA",
@@ -9087,7 +13040,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Houston",
-        "description": "The purpose of Houphoria is to provide multiple spaces for unique interactions to explore all of our senses. We are a  collective of Houston based makers, visual artists, musicians, and DJs coming together and creating a environment for participants to come and interact with us and our creations. By day, we're a well shaded coffee lounge and bar, but at night is when our space really comes alive with vibrant lighting, sounds, and projections."
+        "description": "The purpose of Houphoria is to provide multiple spaces for unique interactions to explore all of our senses. We are a  collective of Houston based makers, visual artists, musicians, and DJs coming together and creating a environment for participants to come and interact with us and our creations. By day, we're a well shaded coffee lounge and bar, but at night is when our space really comes alive with vibrant lighting, sounds, and projections.",
+        "burnermap_location": {
+            "string": "2:30 & Eulogy",
+            "gps_longitude": -119.19437712806969,
+            "gps_latitude": 40.78125582486021
+        }
     },
     {
         "uid": "a1X0V000002rkZEUAY",
@@ -9105,7 +13063,12 @@
         "url": "https://www.facebook.com/pilepalace/",
         "contact_email": "pilepalace.camp@gmail.com",
         "hometown": "San Diego",
-        "description": "Here at the Pile Palace, we provide an unbelievably lavish, Moroccan-themed environment for Burners to pile hard. This is the ultimate Pile habitat. Whether you choose dancing your heart out to our ridiculously sexy house and techno music, lounging back in one of our pillow pits with a craft cocktail in hand, or taking a picture with friends upon our royal thrones, we want you and everything about you in a state of complete relaxation. Just remember to party til you Pile, and Pile til you party!"
+        "description": "Here at the Pile Palace, we provide an unbelievably lavish, Moroccan-themed environment for Burners to pile hard. This is the ultimate Pile habitat. Whether you choose dancing your heart out to our ridiculously sexy house and techno music, lounging back in one of our pillow pits with a craft cocktail in hand, or taking a picture with friends upon our royal thrones, we want you and everything about you in a state of complete relaxation. Just remember to party til you Pile, and Pile til you party!",
+        "burnermap_location": {
+            "string": "9:45 & Breath",
+            "gps_longitude": -119.21100844889875,
+            "gps_latitude": 40.794649467642486
+        }
     },
     {
         "uid": "a1X0V000002rkcNUAQ",
@@ -9123,7 +13086,12 @@
         "url": "https://www.oknotok.com",
         "contact_email": "info@oknotok.com",
         "hometown": "Los Angeles",
-        "description": "OKNOTOK is a multi-purpose venue featuring a variety of surprising events all week, including Ruby's Power Hour, the Disney-Sing-Along, a nightly funeral."
+        "description": "OKNOTOK is a multi-purpose venue featuring a variety of surprising events all week, including Ruby's Power Hour, the Disney-Sing-Along, a nightly funeral.",
+        "burnermap_location": {
+            "string": "3:30 & Ceremony",
+            "gps_longitude": -119.20041191876298,
+            "gps_latitude": 40.778483678436174
+        }
     },
     {
         "uid": "a1X0V000002rkYQUAY",
@@ -9132,7 +13100,12 @@
         "url": "https://www.facebook.com/groups/stagcamp/",
         "contact_email": "gregpora@cox.net",
         "hometown": "San Diego",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "8:15 & Dance",
+            "gps_longitude": -119.21884106386673,
+            "gps_latitude": 40.79043278933819
+        }
     },
     {
         "uid": "a1X0V000002rkavUAA",
@@ -9141,7 +13114,12 @@
         "url": "http://campdeepc.com",
         "contact_email": "contact@campdeepc.com",
         "hometown": "Seattle",
-        "description": "Deep C, a collaboration from Seattle Washington, was conceived to share our love of creating interactive music and light displays with the Burner community. Come join us for karaoke and play on our interactive musical art project!"
+        "description": "Deep C, a collaboration from Seattle Washington, was conceived to share our love of creating interactive music and light displays with the Burner community. Come join us for karaoke and play on our interactive musical art project!",
+        "burnermap_location": {
+            "string": "3:30 & Awe",
+            "gps_longitude": -119.20128033016314,
+            "gps_latitude": 40.77962283122676
+        }
     },
     {
         "uid": "a1X0V000002rkccUAA",
@@ -9150,7 +13128,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Sacramento",
-        "description": "We are Camp Shark Cage - the playa's one and only nautical Nicolas Cage theme camp!"
+        "description": "We are Camp Shark Cage - the playa's one and only nautical Nicolas Cage theme camp!",
+        "burnermap_location": {
+            "string": "5:45 & Hallowed",
+            "gps_longitude": -119.21677738947514,
+            "gps_latitude": 40.7765556549045
+        }
     },
     {
         "uid": "a1X0V000002rkb0UAA",
@@ -9168,7 +13151,12 @@
         "url": "http://www.huggzilla.com",
         "contact_email": null,
         "hometown": "Los Angeles",
-        "description": "Unlocking human intimacy among people regardless of age, gender, or sexuality by using Hug therapy as a powerful way of healing, expression, and connection."
+        "description": "Unlocking human intimacy among people regardless of age, gender, or sexuality by using Hug therapy as a powerful way of healing, expression, and connection.",
+        "burnermap_location": {
+            "string": "10:00 & Juju",
+            "gps_longitude": -119.21137823682733,
+            "gps_latitude": 40.80009908857694
+        }
     },
     {
         "uid": "a1X0V000002rkcrUAA",
@@ -9177,7 +13165,12 @@
         "url": "http://www.gigsville.org",
         "contact_email": "gigsmayors@gmail.com",
         "hometown": "Los Angeles, San Francisco, Austin, Houston, and New York City",
-        "description": "Gigsville is one of the oldest villages on the Playa. This year we're celebrating our 20th Anniversary and we invite you to join us for fire, fun, and good old fashion jackassery. You'll find us gathered around the car that's on fire in the center of camp. No ocelots or other violations of the Gigsville Code of Conduct are allowed."
+        "description": "Gigsville is one of the oldest villages on the Playa. This year we're celebrating our 20th Anniversary and we invite you to join us for fire, fun, and good old fashion jackassery. You'll find us gathered around the car that's on fire in the center of camp. No ocelots or other violations of the Gigsville Code of Conduct are allowed.",
+        "burnermap_location": {
+            "string": "3:00 & Portal",
+            "gps_longitude": -119.19925849296976,
+            "gps_latitude": 40.781298520887006
+        }
     },
     {
         "uid": "a1X0V000002rkd6UAA",
@@ -9186,7 +13179,12 @@
         "url": null,
         "contact_email": "pb207a@gmail.com",
         "hometown": "Seattle",
-        "description": "Experience Burning Man free of emotional baggage! Check your baggage with us---emotional baggage only!---by writing it in our book, which we will burn at the Temple Burn. Stop by any time of the day or night, get a drink of water, treat yourself to our pamper station, get out of the sun, or join a dance party in progress.\r\n\r\nWe have a full slate of events every day. Whether it's a Disco Line Dance, Beer Yoga, Salsa classes, a Foot Poll, or a Cuddle Workshop, we have something for you!"
+        "description": "Experience Burning Man free of emotional baggage! Check your baggage with us---emotional baggage only!---by writing it in our book, which we will burn at the Temple Burn. Stop by any time of the day or night, get a drink of water, treat yourself to our pamper station, get out of the sun, or join a dance party in progress.\r\n\r\nWe have a full slate of events every day. Whether it's a Disco Line Dance, Beer Yoga, Salsa classes, a Foot Poll, or a Cuddle Workshop, we have something for you!",
+        "burnermap_location": {
+            "string": "7:45 & Breath",
+            "gps_longitude": -119.21801140462152,
+            "gps_latitude": 40.787732666024304
+        }
     },
     {
         "uid": "a1X0V000002rkZiUAI",
@@ -9195,7 +13193,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Oakland",
-        "description": "Wasabi Kisses aims to provide a safer space for queer and trans burners and their allies. We provide group workshops around the intersections of sexuality, gender expression, consent as well as social events / mixers."
+        "description": "Wasabi Kisses aims to provide a safer space for queer and trans burners and their allies. We provide group workshops around the intersections of sexuality, gender expression, consent as well as social events / mixers.",
+        "burnermap_location": {
+            "string": "7:45 & Fire",
+            "gps_longitude": -119.22145640090253,
+            "gps_latitude": 40.78807460729891
+        }
     },
     {
         "uid": "a1X0V000002rkagUAA",
@@ -9204,7 +13207,12 @@
         "url": null,
         "contact_email": "skytownvillage@googlegroups.com",
         "hometown": "Oakland",
-        "description": "Amid the clouds and dust, a glorious steampunk airship appears on the horizon\u2014Airpusher is returning to dock! Skytown is bustling with activity, ready to entertain, refresh, and resupply voyagers before they set off on their next adventures."
+        "description": "Amid the clouds and dust, a glorious steampunk airship appears on the horizon—Airpusher is returning to dock! Skytown is bustling with activity, ready to entertain, refresh, and resupply voyagers before they set off on their next adventures.",
+        "burnermap_location": {
+            "string": "7:00 & Fire",
+            "gps_longitude": -119.22107231083757,
+            "gps_latitude": 40.783662864854
+        }
     },
     {
         "uid": "a1X0V000002rkbFUAQ",
@@ -9213,7 +13221,12 @@
         "url": "https://www.retrofrolic.com",
         "contact_email": "info@retrofrolic.com",
         "hometown": "Ventura, Ca",
-        "description": "Retrofrolic, a theme camp in the heart of the 7:30 corridor provides educational activities, including demonstrations, workshops, conferences, and meetings, for individuals in alternative lifestyles and relationships. Retrofrolic provides skills and technique workshops and mentor-ship to like-minded individuals and teaches the practice of consensual sexual activities in adult personal relationships and promotes safe sex practices."
+        "description": "Retrofrolic, a theme camp in the heart of the 7:30 corridor provides educational activities, including demonstrations, workshops, conferences, and meetings, for individuals in alternative lifestyles and relationships. Retrofrolic provides skills and technique workshops and mentor-ship to like-minded individuals and teaches the practice of consensual sexual activities in adult personal relationships and promotes safe sex practices.",
+        "burnermap_location": {
+            "string": "7:30 & Breath",
+            "gps_longitude": -119.21810906612154,
+            "gps_latitude": 40.78659942828001
+        }
     },
     {
         "uid": "a1X0V000002rkb5UAA",
@@ -9222,7 +13235,12 @@
         "url": "http://www.freestylepalace.com",
         "contact_email": null,
         "hometown": "Mountain View",
-        "description": "FreeStyle Palace 2017: Playa Talent Incubator.  Now in its second decade, a collaborative music play space and sound stage featuring Live Open Jams and nightly DJ and Hip Hop shows from sunset to about 2:00 am. Our stage and our microphones are open to all comers. Part alchemy and part black magic, FreeStyle Palace is an amalgam of sophisticated and authentic Urban Underground music and culture forged by the heat of the Black Rock Desert and polished by the collective talent of the Burning Man Community."
+        "description": "FreeStyle Palace 2017: Playa Talent Incubator.  Now in its second decade, a collaborative music play space and sound stage featuring Live Open Jams and nightly DJ and Hip Hop shows from sunset to about 2:00 am. Our stage and our microphones are open to all comers. Part alchemy and part black magic, FreeStyle Palace is an amalgam of sophisticated and authentic Urban Underground music and culture forged by the heat of the Black Rock Desert and polished by the collective talent of the Burning Man Community.",
+        "burnermap_location": {
+            "string": "6:30 & Esplanade",
+            "gps_longitude": -119.21443540063353,
+            "gps_latitude": 40.783174395085275
+        }
     },
     {
         "uid": "a1X0V000002rkZYUAY",
@@ -9231,7 +13249,12 @@
         "url": null,
         "contact_email": "mike.machenry@gmail.com",
         "hometown": "Boston and Denver",
-        "description": "We are Black Rock City's Embassy to the Default World. We are dedicated to inter-world relations and promoting the export of Black Rock City values to the Default World."
+        "description": "We are Black Rock City's Embassy to the Default World. We are dedicated to inter-world relations and promoting the export of Black Rock City values to the Default World.",
+        "burnermap_location": {
+            "string": "7:45 & Breath",
+            "gps_longitude": -119.21801140462152,
+            "gps_latitude": 40.787732666024304
+        }
     },
     {
         "uid": "a1X0V000002rkcwUAA",
@@ -9240,7 +13263,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Portland",
-        "description": "ACME Enterprises lights up the night with the Atmospheric Converter and the Radiant Guardian Spears, and everyone's favorite little flame-throwing playa shark, the Flamboni. Or head out on playa and find ACME's newest flame installation, the Three Wishes."
+        "description": "ACME Enterprises lights up the night with the Atmospheric Converter and the Radiant Guardian Spears, and everyone's favorite little flame-throwing playa shark, the Flamboni. Or head out on playa and find ACME's newest flame installation, the Three Wishes.",
+        "burnermap_location": {
+            "string": "8:15 & Hallowed",
+            "gps_longitude": -119.2220490568113,
+            "gps_latitude": 40.79144376369079
+        }
     },
     {
         "uid": "a1X0V000002rkdGUAQ",
@@ -9249,7 +13277,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "Escape to a Middle Eastern oasis! Smoke some shisha, drink mint tea, and dance your afternoon away in a bedouin tent of delights."
+        "description": "Escape to a Middle Eastern oasis! Smoke some shisha, drink mint tea, and dance your afternoon away in a bedouin tent of delights.",
+        "burnermap_location": {
+            "string": "3:15 & Eulogy",
+            "gps_longitude": -119.19801373155731,
+            "gps_latitude": 40.77811815910593
+        }
     },
     {
         "uid": "a1X0V000002rkYVUAY",
@@ -9258,7 +13291,12 @@
         "url": "https://www.facebook.com/TranscendentSouls/",
         "contact_email": "transcendentsoulskindred@gmail.com",
         "hometown": "Truckee",
-        "description": "Transcendent Souls - a journey within\r\nInteractive Public Art Piece \r\n\r\nThis piece tells the story of our existence through the seven stages of our evolutionary map and gives a visual representation to knowing enlightenment and ultimately unconditional love as our higher or spiritual selves align with our human selves.\r\n\r\nImagine two trees shining in copper with exposed roots that grow in to hands holding a glowing heart of unconditional love. Transcendent Souls will be approximately 16' tall will be made of steel, concrete, foam, fiberglass, copper, glass, wood and chain for \"porch type\" swing and solar for the electrical components inside of the heart/flame and solar spots lights that shine upward upon the tree trunks at night. Underneath the piece spectators will be able to experience Transcendent Souls from another perspective, with a large porch type swing that will be mounted/hung from the two main tree trunks. This will allow soul gazers to become part of the creation."
+        "description": "Transcendent Souls - a journey within\r\nInteractive Public Art Piece \r\n\r\nThis piece tells the story of our existence through the seven stages of our evolutionary map and gives a visual representation to knowing enlightenment and ultimately unconditional love as our higher or spiritual selves align with our human selves.\r\n\r\nImagine two trees shining in copper with exposed roots that grow in to hands holding a glowing heart of unconditional love. Transcendent Souls will be approximately 16' tall will be made of steel, concrete, foam, fiberglass, copper, glass, wood and chain for \"porch type\" swing and solar for the electrical components inside of the heart/flame and solar spots lights that shine upward upon the tree trunks at night. Underneath the piece spectators will be able to experience Transcendent Souls from another perspective, with a large porch type swing that will be mounted/hung from the two main tree trunks. This will allow soul gazers to become part of the creation.",
+        "burnermap_location": {
+            "string": "3:15 & Rods Road",
+            "gps_longitude": -119.21238776135205,
+            "gps_latitude": 40.77933581736501
+        }
     },
     {
         "uid": "a1X0V000002rkbAUAQ",
@@ -9267,7 +13305,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Reno",
-        "description": "\"The Snark Bar\". Founded upon the principle of \"Leave No Trace\" we drive ourselves on using creative and comedic means to encourage the community to clean up after all our entire community on playa."
+        "description": "\"The Snark Bar\". Founded upon the principle of \"Leave No Trace\" we drive ourselves on using creative and comedic means to encourage the community to clean up after all our entire community on playa.",
+        "burnermap_location": {
+            "string": "9:30 & Dance",
+            "gps_longitude": -119.21322400826011,
+            "gps_latitude": 40.79528552172986
+        }
     },
     {
         "uid": "a1X0V000002rkZxUAI",
@@ -9276,7 +13319,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "LOS ANGELES",
-        "description": "Key = Believe. We will guide you to find your own key to open any doors."
+        "description": "Key = Believe. We will guide you to find your own key to open any doors.",
+        "burnermap_location": {
+            "string": "2:30 & Dance",
+            "gps_longitude": -119.19512924800482,
+            "gps_latitude": 40.78158473441435
+        }
     },
     {
         "uid": "a1X0V000002rkbtUAA",
@@ -9285,7 +13333,12 @@
         "url": null,
         "contact_email": "kissingdinos@gmail.com",
         "hometown": null,
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "4:30 & Eulogy",
+            "gps_longitude": -119.20660000000001,
+            "gps_latitude": 40.77591293945103
+        }
     },
     {
         "uid": "a1X0V000002rkdkUAA",
@@ -9294,7 +13347,12 @@
         "url": "http://www.campbangbang.com/",
         "contact_email": "campbangbang@gmail.com",
         "hometown": "Sydney, Australia",
-        "description": "Camp Bang Bang is a community of open hearted and open armed adventurers from Australia and around the Globe. \r\n\r\nWe welcome you to our playground where you can play & drink. Music, laughs, dancing, Aussie-ness and if you are unlucky vegemite. Scale our Viewing Tower, Climb into our Harmony Hammocks, zone out watching our visual projections, dare not to eat Vegemite at our daily sunset saloon play Two Up, Giant Dice, Bingo & Roulette) Or came for our Monday Gardens of Babylon ritual ceremony and party and get down on Wednesday Wild Animal Party. \r\n\r\nIf you want to explore Black Rocky City, join us for the Bang Bang Bandits Bike tour on Thursday.\r\n\r\nHometown: Sydney, Australia. With strong links in Los Angeles, New York, England, Sweden, Netherlands, Hong Kong, Singapore, Mexico City, Italy, Uruguay and loads of other cool countries around the world.\r\n\r\nwww.campbangbang.com\r\ncampbangbang@gmail.com"
+        "description": "Camp Bang Bang is a community of open hearted and open armed adventurers from Australia and around the Globe. \r\n\r\nWe welcome you to our playground where you can play & drink. Music, laughs, dancing, Aussie-ness and if you are unlucky vegemite. Scale our Viewing Tower, Climb into our Harmony Hammocks, zone out watching our visual projections, dare not to eat Vegemite at our daily sunset saloon play Two Up, Giant Dice, Bingo & Roulette) Or came for our Monday Gardens of Babylon ritual ceremony and party and get down on Wednesday Wild Animal Party. \r\n\r\nIf you want to explore Black Rocky City, join us for the Bang Bang Bandits Bike tour on Thursday.\r\n\r\nHometown: Sydney, Australia. With strong links in Los Angeles, New York, England, Sweden, Netherlands, Hong Kong, Singapore, Mexico City, Italy, Uruguay and loads of other cool countries around the world.\r\n\r\nwww.campbangbang.com\r\ncampbangbang@gmail.com",
+        "burnermap_location": {
+            "string": "9:00 & Inspirit",
+            "gps_longitude": -119.2190392967646,
+            "gps_latitude": 40.7960163834362
+        }
     },
     {
         "uid": "a1X0V000002rkdpUAA",
@@ -9303,7 +13361,12 @@
         "url": "http://xtr-lab.com/",
         "contact_email": null,
         "hometown": "New York",
-        "description": "With the desert as an open canvas, and Burning Man as a context, XTR lab creates an immersive information and research platform as part of a physical platform and living playground, the structure itself. The roof provides a common ground of discourse, extracts what is the most absent in the Desert: Water, with a habitable scaffold of misting stations, sustaining and promoting a new ritual of exchange and life in the desert."
+        "description": "With the desert as an open canvas, and Burning Man as a context, XTR lab creates an immersive information and research platform as part of a physical platform and living playground, the structure itself. The roof provides a common ground of discourse, extracts what is the most absent in the Desert: Water, with a habitable scaffold of misting stations, sustaining and promoting a new ritual of exchange and life in the desert.",
+        "burnermap_location": {
+            "string": "9:45 & Ceremony",
+            "gps_longitude": -119.21134116556314,
+            "gps_latitude": 40.79525698109805
+        }
     },
     {
         "uid": "a1X0V000002rkdBUAQ",
@@ -9312,7 +13375,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "New San Frandencouver",
-        "description": "When you think \"pickles and techno\", think \"Toneage\"."
+        "description": "When you think \"pickles and techno\", think \"Toneage\".",
+        "burnermap_location": {
+            "string": "2:15 & Eulogy",
+            "gps_longitude": -119.19356313857256,
+            "gps_latitude": 40.78250469590598
+        }
     },
     {
         "uid": "a1X0V000002rkduUAA",
@@ -9321,7 +13389,12 @@
         "url": "http://www.zacharycoffin.com/work/temple-of-gravity/",
         "contact_email": null,
         "hometown": null,
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "7:15 & Awe",
+            "gps_longitude": -119.21714846900358,
+            "gps_latitude": 40.78554406171004
+        }
     },
     {
         "uid": "a1X0V000002rkeOUAQ",
@@ -9330,7 +13403,12 @@
         "url": "http://www.campsalty.com",
         "contact_email": null,
         "hometown": "SF, LA, Boise, Seattle, NYC",
-        "description": "Camp Salty:  Day and night we are the local deep dive bar of the 9:00 neighborhood.  Nautical, underwater themed, we are your safe haven from the fervor of the playa playing R&B, Soul, Blues, Electro-swing, Hip Hop, and Disco."
+        "description": "Camp Salty:  Day and night we are the local deep dive bar of the 9:00 neighborhood.  Nautical, underwater themed, we are your safe haven from the fervor of the playa playing R&B, Soul, Blues, Electro-swing, Hip Hop, and Disco.",
+        "burnermap_location": {
+            "string": "9:00 & Eulogy",
+            "gps_longitude": -119.21658187207909,
+            "gps_latitude": 40.79415646295399
+        }
     },
     {
         "uid": "a1X0V000002rkbZUAQ",
@@ -9339,7 +13417,12 @@
         "url": "http://playanauts.com",
         "contact_email": "playanauts@gmail.com",
         "hometown": "Eugene and South Lake Tahoe (we are from Eugene, OR, but currently living in South lake tahoe)",
-        "description": "We are the PlayaNauts! Come play with us! Games, Parties, a Bar,\r\nWe have tons of events throughout the week, Giant Glow in the Dark volleyball tournaments, Giant Drinking Jenga, Ball Pit Pool, and so much more. Keep an eye out for our ArtCar \"Scarabis Beetalius\" or seek our Secret Bus Stop for an experience of a lifetime ;"
+        "description": "We are the PlayaNauts! Come play with us! Games, Parties, a Bar,\r\nWe have tons of events throughout the week, Giant Glow in the Dark volleyball tournaments, Giant Drinking Jenga, Ball Pit Pool, and so much more. Keep an eye out for our ArtCar \"Scarabis Beetalius\" or seek our Secret Bus Stop for an experience of a lifetime ;",
+        "burnermap_location": {
+            "string": "8:15 & Ceremony",
+            "gps_longitude": -119.21803835138897,
+            "gps_latitude": 40.79018145270112
+        }
     },
     {
         "uid": "a1X0V000002rke4UAA",
@@ -9357,7 +13440,12 @@
         "url": null,
         "contact_email": null,
         "hometown": null,
-        "description": "Zoom into Decadence is an amazing mashup of two long time camps: Camp DOA and Camp !Zoom! and we will be honoring both camps heritage! From a tune filled wine bar to endless shade, playground equipment and chill spaces we look forward to providing tasty libations, good times, and respite for the weary dust-encrusted travelers of BRC. We cant wait to meet you!"
+        "description": "Zoom into Decadence is an amazing mashup of two long time camps: Camp DOA and Camp !Zoom! and we will be honoring both camps heritage! From a tune filled wine bar to endless shade, playground equipment and chill spaces we look forward to providing tasty libations, good times, and respite for the weary dust-encrusted travelers of BRC. We cant wait to meet you!",
+        "burnermap_location": {
+            "string": "3:45 & Dance",
+            "gps_longitude": -119.20153567703115,
+            "gps_latitude": 40.77733272796948
+        }
     },
     {
         "uid": "a1X0V000002rkeiUAA",
@@ -9366,7 +13454,12 @@
         "url": null,
         "contact_email": "tf_12@gmail.com",
         "hometown": "Oakland has the most members, camp also includes Bay Area, Boston, New Jersey, Colorado",
-        "description": "Camp Cloudy as Fuck is a Cumulonimbus Oasis on the Playa.  With a group of campers from their 20s to their 70s, we will be offering a relaxing, shady chill space, invigorating THUNDERSTORM! Drinks, and events throughout the week.  We are an eclectic group of 30 artists, frisbee players, policy wonks, elder wise men and women, thinkers, doers, and teachers from the Bay Area, SoCal, Northwest and Midwest, excited to provide fun, entertainment and love to all inhabitants of Black Rock City."
+        "description": "Camp Cloudy as Fuck is a Cumulonimbus Oasis on the Playa.  With a group of campers from their 20s to their 70s, we will be offering a relaxing, shady chill space, invigorating THUNDERSTORM! Drinks, and events throughout the week.  We are an eclectic group of 30 artists, frisbee players, policy wonks, elder wise men and women, thinkers, doers, and teachers from the Bay Area, SoCal, Northwest and Midwest, excited to provide fun, entertainment and love to all inhabitants of Black Rock City.",
+        "burnermap_location": {
+            "string": "4:15 & Breath",
+            "gps_longitude": -119.20509937728798,
+            "gps_latitude": 40.77796035808232
+        }
     },
     {
         "uid": "a1X0V000002rke9UAA",
@@ -9375,7 +13468,12 @@
         "url": "http://www.instagram.com/lightfaire/",
         "contact_email": null,
         "hometown": "Berkeley",
-        "description": "Come to Light Faire for some quick and flashy fun with nature's favorite particle, the photon. See what they can do when they fly through holes and bend and bounce around."
+        "description": "Come to Light Faire for some quick and flashy fun with nature's favorite particle, the photon. See what they can do when they fly through holes and bend and bounce around.",
+        "burnermap_location": {
+            "string": "7:15 & Eulogy",
+            "gps_longitude": -119.22059283731787,
+            "gps_latitude": 40.78519926850957
+        }
     },
     {
         "uid": "a1X0V000002rkedUAA",
@@ -9384,7 +13482,12 @@
         "url": "http://www.unnecessarilyhighfive.com/",
         "contact_email": "uhighfive@gmail.com",
         "hometown": "Alameda, CA and Puerto Rico",
-        "description": "Failure is the goal!  4 out of 5 dentists agree that the Unnecessarily High Five is the MOST DANGEROUS interactive art on the playa!"
+        "description": "Failure is the goal!  4 out of 5 dentists agree that the Unnecessarily High Five is the MOST DANGEROUS interactive art on the playa!",
+        "burnermap_location": {
+            "string": "4:00 & Eulogy",
+            "gps_longitude": -119.2029473647456,
+            "gps_latitude": 40.77627703461784
+        }
     },
     {
         "uid": "a1X0V000002rkexUAA",
@@ -9393,7 +13496,7 @@
         "url": "http://www.camphomeslice.org/",
         "contact_email": null,
         "hometown": "Altadena",
-        "description": "Drop in for a cheerful \"Slice of Home\"\u2014Playa-style.  Participate in our comfort-food cook-offs, climb the sky-high HomeSlice Tower's inverted pyramids, or re-engineer your Playa duds and gear at our Radical Alteration clinics."
+        "description": "Drop in for a cheerful \"Slice of Home\"—Playa-style.  Participate in our comfort-food cook-offs, climb the sky-high HomeSlice Tower's inverted pyramids, or re-engineer your Playa duds and gear at our Radical Alteration clinics."
     },
     {
         "uid": "a1X0V000002rkf2UAA",
@@ -9402,7 +13505,12 @@
         "url": null,
         "contact_email": "dustylustybrc@gmail.com",
         "hometown": "San Francisco",
-        "description": "Find your dusty lover with our famous PLAYA GRINDR matchmaking board! Join us everyday at 1pm for some music and lots of grilled, cheesy Queer-sadillas, geared for queers and friends to dance, eat and make plans for later < 3"
+        "description": "Find your dusty lover with our famous PLAYA GRINDR matchmaking board! Join us everyday at 1pm for some music and lots of grilled, cheesy Queer-sadillas, geared for queers and friends to dance, eat and make plans for later < 3",
+        "burnermap_location": {
+            "string": "7:45 & Dance",
+            "gps_longitude": -119.21973390021368,
+            "gps_latitude": 40.787903636408664
+        }
     },
     {
         "uid": "a1X0V000002rkesUAA",
@@ -9411,7 +13519,12 @@
         "url": null,
         "contact_email": null,
         "hometown": null,
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "8:30 & Kundalini",
+            "gps_longitude": -119.22333912312419,
+            "gps_latitude": 40.793915316745505
+        }
     },
     {
         "uid": "a1X0V000002rkf7UAA",
@@ -9420,7 +13533,12 @@
         "url": null,
         "contact_email": "campmorningcookie@gmail.com",
         "hometown": "Bay Area",
-        "description": "A congregation of misfits serving cookies and weird experiences on playa since 2010!\r\n\r\nWe hail from the North, South & East Bay Areas! We got all the bays in our camp!"
+        "description": "A congregation of misfits serving cookies and weird experiences on playa since 2010!\r\n\r\nWe hail from the North, South & East Bay Areas! We got all the bays in our camp!",
+        "burnermap_location": {
+            "string": "6:00 & Genuflect",
+            "gps_longitude": -119.21780770219705,
+            "gps_latitude": 40.77811248566889
+        }
     },
     {
         "uid": "a1X0V000002rkfHUAQ",
@@ -9438,7 +13556,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "CHAMPAGNE CHANDELIERS is a multicultural theme camp in its third year with members hailing from four different continents. Take a break from the playa to rest under the chandeliers or join us at our Thurs champagne and lingerie sunset party! San Francisco, CA"
+        "description": "CHAMPAGNE CHANDELIERS is a multicultural theme camp in its third year with members hailing from four different continents. Take a break from the playa to rest under the chandeliers or join us at our Thurs champagne and lingerie sunset party! San Francisco, CA",
+        "burnermap_location": {
+            "string": "5:45 & Inspirit",
+            "gps_longitude": -119.21730600093711,
+            "gps_latitude": 40.77603384631638
+        }
     },
     {
         "uid": "a1X0V000002rkfgUAA",
@@ -9447,7 +13570,12 @@
         "url": "http://www.camphellnback.com/",
         "contact_email": "claymore@camphellnback.com",
         "hometown": "Gerlach",
-        "description": "Camp Hellnback - Military veterans host an art space, art therapy projects and bar to invite dialogue and good times."
+        "description": "Camp Hellnback - Military veterans host an art space, art therapy projects and bar to invite dialogue and good times.",
+        "burnermap_location": {
+            "string": "8:45 & Ceremony",
+            "gps_longitude": -119.21642448959871,
+            "gps_latitude": 40.79230083156668
+        }
     },
     {
         "uid": "a1X0V000002rkfRUAQ",
@@ -9456,7 +13584,12 @@
         "url": "https://www.facebook.com/DustyPoonSaloon/",
         "contact_email": null,
         "hometown": "San Diego",
-        "description": "Yeehaw, we are the Dusty Poon Saloon. A burning man theme camp and we like it wild, as in wild west and so mustache more. Enter through our saloon doors, but don't let the saloon doors give you a shiner they got some kick, like a donkey. Pony up to our western themed bar for some Tasty Libations like our POON-tang, put on some western wear grab a gun and a gal and take a step into our vintage western style photo booth. \r\nsit back on a rocking horse and experience our patent pending buffing massage station and some above average conversation (no guarantees on the conversation). We literally take a car buffer and massage the heck out of you. Sounds weird but its wonderful. Sheee-ooot!\r\nYou cant be a sweet cowboy or cowgirl without a sweet stache. So come score yourself a Dusty Poon Saloon mustache bandanna, already waxed up and ready to be ridden."
+        "description": "Yeehaw, we are the Dusty Poon Saloon. A burning man theme camp and we like it wild, as in wild west and so mustache more. Enter through our saloon doors, but don't let the saloon doors give you a shiner they got some kick, like a donkey. Pony up to our western themed bar for some Tasty Libations like our POON-tang, put on some western wear grab a gun and a gal and take a step into our vintage western style photo booth. \r\nsit back on a rocking horse and experience our patent pending buffing massage station and some above average conversation (no guarantees on the conversation). We literally take a car buffer and massage the heck out of you. Sounds weird but its wonderful. Sheee-ooot!\r\nYou cant be a sweet cowboy or cowgirl without a sweet stache. So come score yourself a Dusty Poon Saloon mustache bandanna, already waxed up and ready to be ridden.",
+        "burnermap_location": {
+            "string": "4:00 & Dance",
+            "gps_longitude": -119.20317210951855,
+            "gps_latitude": 40.776912297351224
+        }
     },
     {
         "uid": "a1X0V000002rkfvUAA",
@@ -9465,7 +13598,12 @@
         "url": "http://www.musicsavages.com",
         "contact_email": "javier@musicsavages.com",
         "hometown": "Los Angeles",
-        "description": "MusicSavages is a lounge style sound camp that offers a sanctuary away from the hustle and bustle of the ever active city that surrounds it.  We create an all immersive, relaxing environment that promotes inhabitants to realize their full creative potential by cultivating their spirit in a symbiotic relationship with the immediate community.  Time appropriate stimulation of all senses that will relax the body, release the mind and arouse one's playful side to revert back to ancestral roots of raw savagery; Back to simple pleasures in a place where you can witness the ebbs and flows of the world. You will escape the madness in our soothing light that emulates the ether of the universe, a multicolor simulation of stars and light, synchronized to the sounds of the life itself. We offer an introspective community, thriving on comedy, stories, relationships and laughter for all who stumble upon our diamond in the dust. It is where you start your daily journey or find yourself when it ends"
+        "description": "MusicSavages is a lounge style sound camp that offers a sanctuary away from the hustle and bustle of the ever active city that surrounds it.  We create an all immersive, relaxing environment that promotes inhabitants to realize their full creative potential by cultivating their spirit in a symbiotic relationship with the immediate community.  Time appropriate stimulation of all senses that will relax the body, release the mind and arouse one's playful side to revert back to ancestral roots of raw savagery; Back to simple pleasures in a place where you can witness the ebbs and flows of the world. You will escape the madness in our soothing light that emulates the ether of the universe, a multicolor simulation of stars and light, synchronized to the sounds of the life itself. We offer an introspective community, thriving on comedy, stories, relationships and laughter for all who stumble upon our diamond in the dust. It is where you start your daily journey or find yourself when it ends",
+        "burnermap_location": {
+            "string": "9:30 & Genuflect",
+            "gps_longitude": -119.21452729586275,
+            "gps_latitude": 40.796994104363456
+        }
     },
     {
         "uid": "a1X0V000002rkg5UAA",
@@ -9474,7 +13612,12 @@
         "url": "http://redlightning.org/",
         "contact_email": "registration@redlightning.org",
         "hometown": "Los Angeles",
-        "description": "Red Lightning - A sacred container for spontaneous healing, magical moments & transformational experiences.\r\n\r\nWe are a conscious community supporting ALL beings in the alignment of body, mind, spirit with the evolutionary intelligence of Gaia.\r\n\r\nOver the last 8 years, Red Lightning has created an uplifting oasis of peace, healing and inspiration on the playa.\r\n\r\nIn 2017, we are interweaving the spirit of Standing Rock and Black Rock in the POWER OF PRAYER project. We are inviting Indigenous community members from across Turtle Island to gather in a tipi circle around a sacred fire in ceremony, prayer, song and celebration with the citizens of Black Rock.\r\n\r\nAs a chosen family, Red Lightning stands for an enlightened civilization celebrating diversity while sharing the values of honoring the Earth and one another.\r\n\r\nWe invite all co-creators of evolutionary culture, community, technology, economy, and spirituality to join us in building a mindblowingly magical and harmonious world together!"
+        "description": "Red Lightning - A sacred container for spontaneous healing, magical moments & transformational experiences.\r\n\r\nWe are a conscious community supporting ALL beings in the alignment of body, mind, spirit with the evolutionary intelligence of Gaia.\r\n\r\nOver the last 8 years, Red Lightning has created an uplifting oasis of peace, healing and inspiration on the playa.\r\n\r\nIn 2017, we are interweaving the spirit of Standing Rock and Black Rock in the POWER OF PRAYER project. We are inviting Indigenous community members from across Turtle Island to gather in a tipi circle around a sacred fire in ceremony, prayer, song and celebration with the citizens of Black Rock.\r\n\r\nAs a chosen family, Red Lightning stands for an enlightened civilization celebrating diversity while sharing the values of honoring the Earth and one another.\r\n\r\nWe invite all co-creators of evolutionary culture, community, technology, economy, and spirituality to join us in building a mindblowingly magical and harmonious world together!",
+        "burnermap_location": {
+            "string": "8:15 & Esplanade",
+            "gps_longitude": -119.21496131259366,
+            "gps_latitude": 40.78921800364014
+        }
     },
     {
         "uid": "a1X0V000002rkgAUAQ",
@@ -9492,7 +13635,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Laytonville",
-        "description": "Come warm up in our Iron Rose fire garden and burn barrel chill space! We have plenty of seating and a mystical interactive fire sculpture that will tell you your fortune with colorful flame effects!"
+        "description": "Come warm up in our Iron Rose fire garden and burn barrel chill space! We have plenty of seating and a mystical interactive fire sculpture that will tell you your fortune with colorful flame effects!",
+        "burnermap_location": {
+            "string": "3:00 & Portal",
+            "gps_longitude": -119.19925849296976,
+            "gps_latitude": 40.781298520887006
+        }
     },
     {
         "uid": "a1X0V000002rkgUUAQ",
@@ -9501,7 +13649,12 @@
         "url": "http://www.camposhun.com",
         "contact_email": "honoryourself@camposhun.com",
         "hometown": "Kailua-Kona",
-        "description": "Come Join us in Honoring ourselves in the fashion of Oshun; a Nigerian Yoruba deity of the river and fresh water, luxury and pleasure, sexuality and fertility, and beauty and love."
+        "description": "Come Join us in Honoring ourselves in the fashion of Oshun; a Nigerian Yoruba deity of the river and fresh water, luxury and pleasure, sexuality and fertility, and beauty and love.",
+        "burnermap_location": {
+            "string": "3:15 & Dance",
+            "gps_longitude": -119.19854210643658,
+            "gps_latitude": 40.77864010780672
+        }
     },
     {
         "uid": "a1X0V000002rkgyUAA",
@@ -9519,7 +13672,12 @@
         "url": "http://bluestango.com",
         "contact_email": "tangoedupinblues@gmail.com",
         "hometown": "Eugene",
-        "description": "Discover what it's like to hold a dance partner in your arms and move to the music.  Tango. Blues Dance.  Join us in re-popularizing partner dance in America."
+        "description": "Discover what it's like to hold a dance partner in your arms and move to the music.  Tango. Blues Dance.  Join us in re-popularizing partner dance in America.",
+        "burnermap_location": {
+            "string": "4:45 & Center Camp Plaza",
+            "gps_longitude": -119.21414266421307,
+            "gps_latitude": 40.78036925788836
+        }
     },
     {
         "uid": "a1X0V000002rkhIUAQ",
@@ -9528,7 +13686,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "The BLD Village"
+        "description": "The BLD Village",
+        "burnermap_location": {
+            "string": "4:30 & Rods Road",
+            "gps_longitude": -119.21403885625885,
+            "gps_latitude": 40.77891176542122
+        }
     },
     {
         "uid": "a1X0V000002rkhNUAQ",
@@ -9537,7 +13700,12 @@
         "url": null,
         "contact_email": "info@zerofucks.de",
         "hometown": "San Francisco",
-        "description": "The Zero Fucks philosophy is simple: rid yourself of the thoughts and fears holding you back, and instead be present in the moment. Come visit our dance floor, bar, skylounge, and confessionals to shake off every single stress you have - odds are, it'll be the start of a new, magical playa adventure."
+        "description": "The Zero Fucks philosophy is simple: rid yourself of the thoughts and fears holding you back, and instead be present in the moment. Come visit our dance floor, bar, skylounge, and confessionals to shake off every single stress you have - odds are, it'll be the start of a new, magical playa adventure.",
+        "burnermap_location": {
+            "string": "9:30 & Awe",
+            "gps_longitude": -119.21192078773886,
+            "gps_latitude": 40.79357692443366
+        }
     },
     {
         "uid": "a1X0V000002rkh3UAA",
@@ -9546,16 +13714,26 @@
         "url": "http://thecampwithnoname.com",
         "contact_email": "contact@thecampwithnoname.com",
         "hometown": "Santa Cruz",
-        "description": "[The Camp With No Name]. is a suburban, highly interactive and artistic camp, based in the suburbs of Burning Man.  We have multiple arts projects, a fire barrel, and one of the most successful daytime bars in the suburbs.  The bar will serve high-quality craft brews, infused vodkas, and soft drinks -  all day and night if required (or until we run out of booze - it's never happened yet!  See you on the playa.  Dusty hugs x"
+        "description": "[The Camp With No Name]. is a suburban, highly interactive and artistic camp, based in the suburbs of Burning Man.  We have multiple arts projects, a fire barrel, and one of the most successful daytime bars in the suburbs.  The bar will serve high-quality craft brews, infused vodkas, and soft drinks -  all day and night if required (or until we run out of booze - it's never happened yet!  See you on the playa.  Dusty hugs x",
+        "burnermap_location": {
+            "string": "7:45 & Ceremony",
+            "gps_longitude": -119.21887265178056,
+            "gps_latitude": 40.78781815115325
+        }
     },
     {
         "uid": "a1X0V000002rkhdUAA",
         "year": 2017,
-        "name": "Get-Your-Hair-Did Caf\u00e9",
+        "name": "Get-Your-Hair-Did Café",
         "url": null,
         "contact_email": null,
         "hometown": "New York",
-        "description": "A place for people of all ages, ethnicities and lifestyles to sit for a spell and have an alcoholic or non-alcoholic drink, and jump away on our trampoline! Also, we are giving away hair products for People of Color! All others are encouraged to bring your own hair products and use our mirrors to create fabulous hairstyles. We encourage conversation and meeting new people, and obviously, interesting hair."
+        "description": "A place for people of all ages, ethnicities and lifestyles to sit for a spell and have an alcoholic or non-alcoholic drink, and jump away on our trampoline! Also, we are giving away hair products for People of Color! All others are encouraged to bring your own hair products and use our mirrors to create fabulous hairstyles. We encourage conversation and meeting new people, and obviously, interesting hair.",
+        "burnermap_location": {
+            "string": "3:45 & Breath",
+            "gps_longitude": -119.20219984531452,
+            "gps_latitude": 40.77854809835442
+        }
     },
     {
         "uid": "a1X0V000002rkhSUAQ",
@@ -9564,7 +13742,12 @@
         "url": null,
         "contact_email": "thorndragon@gmail.com",
         "hometown": "Vancouver",
-        "description": "Come and discover how amazing friends without benefits can be! Cupcakes, tea, booze n ballpits < 3"
+        "description": "Come and discover how amazing friends without benefits can be! Cupcakes, tea, booze n ballpits < 3",
+        "burnermap_location": {
+            "string": "9:15 & Awe",
+            "gps_longitude": -119.21308211281135,
+            "gps_latitude": 40.792988966008515
+        }
     },
     {
         "uid": "a1X0V000002rkhXUAQ",
@@ -9573,7 +13756,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Los Angeles",
-        "description": "Bozochic \r\n\r\n1. n. A legendary creature native to steppes hot and frigid -- landscapes wet and rigid. \r\n\"Hast thou slain the Bozochic? You'd better not, you bastard boy\"  \r\n\r\n2. adj. Of or related to a style of dress and comportment consistent with fashionability attained through the exportation and manifestation of irreverence.\r\n\"Damn, Daniel! Back at it again with the bozochic tunic!\" \r\n\r\nSee also: Le Boz. Bof. Boeuf. Moo. Bleu."
+        "description": "Bozochic \r\n\r\n1. n. A legendary creature native to steppes hot and frigid -- landscapes wet and rigid. \r\n\"Hast thou slain the Bozochic? You'd better not, you bastard boy\"  \r\n\r\n2. adj. Of or related to a style of dress and comportment consistent with fashionability attained through the exportation and manifestation of irreverence.\r\n\"Damn, Daniel! Back at it again with the bozochic tunic!\" \r\n\r\nSee also: Le Boz. Bof. Boeuf. Moo. Bleu.",
+        "burnermap_location": {
+            "string": "6:15 & Hallowed",
+            "gps_longitude": -119.21986389878278,
+            "gps_latitude": 40.77889228660458
+        }
     },
     {
         "uid": "a1X0V000002rkhmUAA",
@@ -9582,7 +13770,12 @@
         "url": "http://www.polegasm.com",
         "contact_email": "burningman@freemovementzone.com",
         "hometown": "seattle",
-        "description": "Come over to our exclusive facility. We provide the best equipment and instruction there is for creative essence, existential growth, and Polegasms!"
+        "description": "Come over to our exclusive facility. We provide the best equipment and instruction there is for creative essence, existential growth, and Polegasms!",
+        "burnermap_location": {
+            "string": "7:30 & Portal",
+            "gps_longitude": -119.1994343069632,
+            "gps_latitude": 40.78095307484269
+        }
     },
     {
         "uid": "a1X0V000002rkiBUAQ",
@@ -9591,7 +13784,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Toronto",
-        "description": "We started out as 17 fresh-faced Burner-virgins, and one dusty vet - all with a shared philosophy: that we treat our friends as family, and that we're always open to new friends. And oh my, has our family has grown! So come by for a rip down the rabbit hole, we'll pour you a cocktail in the jungle, and let's get acquainted."
+        "description": "We started out as 17 fresh-faced Burner-virgins, and one dusty vet - all with a shared philosophy: that we treat our friends as family, and that we're always open to new friends. And oh my, has our family has grown! So come by for a rip down the rabbit hole, we'll pour you a cocktail in the jungle, and let's get acquainted.",
+        "burnermap_location": {
+            "string": "8:15 & Breath",
+            "gps_longitude": -119.21723564168582,
+            "gps_latitude": 40.78993011693281
+        }
     },
     {
         "uid": "a1X0V000002rki1UAA",
@@ -9609,7 +13807,12 @@
         "url": null,
         "contact_email": "eric@clevian.com",
         "hometown": "Milwaukee",
-        "description": "Snowflake Village is a haven for the long-distance traveler, with our unique smaller-scale, one-on-one interactivity operating round the clock."
+        "description": "Snowflake Village is a haven for the long-distance traveler, with our unique smaller-scale, one-on-one interactivity operating round the clock.",
+        "burnermap_location": {
+            "string": "9:30 & Esplanade",
+            "gps_longitude": -119.2111244082182,
+            "gps_latitude": 40.792532774424075
+        }
     },
     {
         "uid": "a1X0V000002rkipUAA",
@@ -9618,7 +13821,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "LAS VEGAS",
-        "description": "Sake To Me is your neighborhood sake bar! Stop by for a comfortable shady pitstop, some great chilled sake, and test your skills at a giant version of Jenga."
+        "description": "Sake To Me is your neighborhood sake bar! Stop by for a comfortable shady pitstop, some great chilled sake, and test your skills at a giant version of Jenga.",
+        "burnermap_location": {
+            "string": "4:45 & Ceremony",
+            "gps_longitude": -119.2082138771665,
+            "gps_latitude": 40.77730831015283
+        }
     },
     {
         "uid": "a1X0V000002rkjOUAQ",
@@ -9627,7 +13835,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "Hot and thirsty?  Come to our snowcone and hydration lounge between noon and 5 every day.  The Astral Outpost rejuvenates astronaut, space cadets, and aliens on their interstellar voyages.  Join us in the hottest parts of the day, from noon to 5 pm. \r\n\r\nWe're a crew of space nerds we feature daily interactive activities around space travel, astronomy, rocketry, the future, and more.  We especially love our 'Spaceship Earth' and include dialog about the most special of planets by covering biology, conservation, ecology, sustainability, and human society. We print and gift gorgeous large scale images, from the extra-galactic (i.e. Hubble telescope), mega-scopic (satellite imagery), to the micro-scopic (i.e. light and electron microscopes).  Take home gifts such as compasses, sun-dials, star maps, and more which we 3D print or laser cut ourselves."
+        "description": "Hot and thirsty?  Come to our snowcone and hydration lounge between noon and 5 every day.  The Astral Outpost rejuvenates astronaut, space cadets, and aliens on their interstellar voyages.  Join us in the hottest parts of the day, from noon to 5 pm. \r\n\r\nWe're a crew of space nerds we feature daily interactive activities around space travel, astronomy, rocketry, the future, and more.  We especially love our 'Spaceship Earth' and include dialog about the most special of planets by covering biology, conservation, ecology, sustainability, and human society. We print and gift gorgeous large scale images, from the extra-galactic (i.e. Hubble telescope), mega-scopic (satellite imagery), to the micro-scopic (i.e. light and electron microscopes).  Take home gifts such as compasses, sun-dials, star maps, and more which we 3D print or laser cut ourselves.",
+        "burnermap_location": {
+            "string": "4:00 & Dance",
+            "gps_longitude": -119.20317210951855,
+            "gps_latitude": 40.776912297351224
+        }
     },
     {
         "uid": "a1X0V000002rkkgUAA",
@@ -9636,7 +13849,12 @@
         "url": "http://www.csto.org",
         "contact_email": null,
         "hometown": "Santa Cruz",
-        "description": "Provider of Top Quality Soulmates since 1998!"
+        "description": "Provider of Top Quality Soulmates since 1998!",
+        "burnermap_location": {
+            "string": "6:30 & Ceremony",
+            "gps_longitude": -119.21731862461127,
+            "gps_latitude": 40.781913639085346
+        }
     },
     {
         "uid": "a1X0V000002rkl0UAA",
@@ -9645,7 +13863,12 @@
         "url": "http://www.fb.com/helloweloveyou",
         "contact_email": "ivealwaysgotmail@gmail.com",
         "hometown": "Los Angeles",
-        "description": "Camp hello we Love you is All about YOU! Why? Because HELLO!! We Love you! Come play on our magical tongue drums, Get a psychedelic long exposure portrait, get your body healed by our healers or taken on a magical sound bath by our sound healers, jam out, make new friends, Hang in our hammocks and don't forget to say HELLO!! :-)"
+        "description": "Camp hello we Love you is All about YOU! Why? Because HELLO!! We Love you! Come play on our magical tongue drums, Get a psychedelic long exposure portrait, get your body healed by our healers or taken on a magical sound bath by our sound healers, jam out, make new friends, Hang in our hammocks and don't forget to say HELLO!! :-)",
+        "burnermap_location": {
+            "string": "6:30 & Awe",
+            "gps_longitude": -119.21581434749669,
+            "gps_latitude": 40.782571433777456
+        }
     },
     {
         "uid": "a1X0V000002rklAUAQ",
@@ -9654,7 +13877,12 @@
         "url": null,
         "contact_email": "team@deserteyes.net",
         "hometown": "Detmold",
-        "description": "Desert eyes team\nwww.deserteyes.net"
+        "description": "Desert eyes team\nwww.deserteyes.net",
+        "burnermap_location": {
+            "string": "2:45 & Ceremony",
+            "gps_longitude": -119.19678496654431,
+            "gps_latitude": 40.780890669875745
+        }
     },
     {
         "uid": "a1X0V000002rklyUAA",
@@ -9663,7 +13891,12 @@
         "url": "http://campabovethelimit.com/",
         "contact_email": "info@campabovethelimit.com",
         "hometown": "West Coast",
-        "description": "Welcome aboard!\r\n\r\nBy day, come roast your own coffee and share in the morning caffeine ritual with us. Catch a yoga session or cooking class, or just get out of the heat under our tree-inspired dome (misters included).\r\nBy night, enjoy daily rotating specials concocted by our in-house mixologist, and several themed parties while you contemplate soaring off into the stars and beyond. At Above the Limit, you're sure to find your home away from home."
+        "description": "Welcome aboard!\r\n\r\nBy day, come roast your own coffee and share in the morning caffeine ritual with us. Catch a yoga session or cooking class, or just get out of the heat under our tree-inspired dome (misters included).\r\nBy night, enjoy daily rotating specials concocted by our in-house mixologist, and several themed parties while you contemplate soaring off into the stars and beyond. At Above the Limit, you're sure to find your home away from home.",
+        "burnermap_location": {
+            "string": "8:45 & Inspirit",
+            "gps_longitude": -119.22055625555296,
+            "gps_latitude": 40.79470647459345
+        }
     },
     {
         "uid": "a1X0V000002rklUUAQ",
@@ -9681,7 +13914,12 @@
         "url": "http://www.fsmtemple.com/",
         "contact_email": null,
         "hometown": "Southern California",
-        "description": "We are a comfortable neighborhood pub with a rockin' attitude. In honor of His Noodly Goodness, the Friendly Fire Bar will administer ice cold libations and groovin' tunes for your mind, body and spirit. Test your pole dancing skills, call almost anywhere in the world on our free public phone, or use our public wi-fi hotspot. The Flying Spaghetti Monster welcomes all, so stop by and be touched by His noodly appendage."
+        "description": "We are a comfortable neighborhood pub with a rockin' attitude. In honor of His Noodly Goodness, the Friendly Fire Bar will administer ice cold libations and groovin' tunes for your mind, body and spirit. Test your pole dancing skills, call almost anywhere in the world on our free public phone, or use our public wi-fi hotspot. The Flying Spaghetti Monster welcomes all, so stop by and be touched by His noodly appendage.",
+        "burnermap_location": {
+            "string": "2:45 & Ceremony",
+            "gps_longitude": -119.19678496654431,
+            "gps_latitude": 40.780890669875745
+        }
     },
     {
         "uid": "a1X0V000002rkkMUAQ",
@@ -9690,7 +13928,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Oakland",
-        "description": "Back To Camp is a summer camp inspired theme camp bringing a forest lounge, arts+crafts, postcards, games, cold beers, and campfire circles to citizens of Black Rock City. Don't you wanna go back to camp?"
+        "description": "Back To Camp is a summer camp inspired theme camp bringing a forest lounge, arts+crafts, postcards, games, cold beers, and campfire circles to citizens of Black Rock City. Don't you wanna go back to camp?",
+        "burnermap_location": {
+            "string": "7:15 & Fire",
+            "gps_longitude": -119.22145392711097,
+            "gps_latitude": 40.785113070438236
+        }
     },
     {
         "uid": "a1X0V000002rkmXUAQ",
@@ -9699,7 +13942,12 @@
         "url": "http://www.entheosrising.org",
         "contact_email": null,
         "hometown": "San Francisco Bay Area",
-        "description": "Cultivating the scientific study, psychological education and spiritual use of entheogens."
+        "description": "Cultivating the scientific study, psychological education and spiritual use of entheogens.",
+        "burnermap_location": {
+            "string": "5:45 & Hallowed",
+            "gps_longitude": -119.21677738947514,
+            "gps_latitude": 40.7765556549045
+        }
     },
     {
         "uid": "a1X0V000002rkoJUAQ",
@@ -9708,7 +13956,12 @@
         "url": "http://www.hamstercamp.com",
         "contact_email": "hamstercamp@gmail.com",
         "hometown": "New York",
-        "description": "Tired of spinning your wheels in the default world? HamsterCamp! Celebrating, booze, boobs, paint, clouds, mischief, and debauchery."
+        "description": "Tired of spinning your wheels in the default world? HamsterCamp! Celebrating, booze, boobs, paint, clouds, mischief, and debauchery.",
+        "burnermap_location": {
+            "string": "4:00 & Genuflect",
+            "gps_longitude": -119.20249788809402,
+            "gps_latitude": 40.7750065078431
+        }
     },
     {
         "uid": "a1X0V000002rkqUUAQ",
@@ -9717,7 +13970,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Vancouver & Toronto",
-        "description": "Camp Caribou - come play with the northerners through games, body stenciling, music, dance and some distinctively Canadian drinks!"
+        "description": "Camp Caribou - come play with the northerners through games, body stenciling, music, dance and some distinctively Canadian drinks!",
+        "burnermap_location": {
+            "string": "5:45 & Inspirit",
+            "gps_longitude": -119.21730600093711,
+            "gps_latitude": 40.77603384631638
+        }
     },
     {
         "uid": "a1X0V000002rkmrUAA",
@@ -9726,7 +13984,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Bay Area",
-        "description": "We are Space Oddity.  We are here to sooth our fellow wearied space travelers with the following:\n\n-To ward off the sickness of having lingered so far from our home star, come bask under our One Square Meter Of Sun lounge, equipped with a fire ceiling built as the ancient Egyptians to fill your pores with flames, who we all know came from space (Hours of operation: 2 hours ending around midnight)\n\n-Fly around in our psychedelic Anti-Gravity Gyroscope, and ready yourself for travel beyond planets (Climb aboard anytime with supervision)\n\n-Rest and relax in the Cosmic Lounge filled with levitating carpets (hammocks), chill Martian beats mixed from our spaceship (always open, music 2 hours daily, dusk)\n\n-Prepare for harsh enviros of new planets with our Steam Chamber and accustom yourself to life without your suit (open 2 hrs in the evening)\n\n-Climb atop our space deck and view the space you have past traveled, peer at the stars and chart your way towards your next frontier (always open)"
+        "description": "We are Space Oddity.  We are here to sooth our fellow wearied space travelers with the following:\n\n-To ward off the sickness of having lingered so far from our home star, come bask under our One Square Meter Of Sun lounge, equipped with a fire ceiling built as the ancient Egyptians to fill your pores with flames, who we all know came from space (Hours of operation: 2 hours ending around midnight)\n\n-Fly around in our psychedelic Anti-Gravity Gyroscope, and ready yourself for travel beyond planets (Climb aboard anytime with supervision)\n\n-Rest and relax in the Cosmic Lounge filled with levitating carpets (hammocks), chill Martian beats mixed from our spaceship (always open, music 2 hours daily, dusk)\n\n-Prepare for harsh enviros of new planets with our Steam Chamber and accustom yourself to life without your suit (open 2 hrs in the evening)\n\n-Climb atop our space deck and view the space you have past traveled, peer at the stars and chart your way towards your next frontier (always open)",
+        "burnermap_location": {
+            "string": "4:45 & Inspirit",
+            "gps_longitude": -119.20889541160703,
+            "gps_latitude": 40.77339619060309
+        }
     },
     {
         "uid": "a1X0V000002rkt4UAA",
@@ -9744,7 +14007,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Denver",
-        "description": "Xpat Alien and the Crop Circle Cantina. Providing the finest in terrestrial based partying."
+        "description": "Xpat Alien and the Crop Circle Cantina. Providing the finest in terrestrial based partying.",
+        "burnermap_location": {
+            "string": "7:30 & Awe",
+            "gps_longitude": -119.21724045736653,
+            "gps_latitude": 40.786599511320865
+        }
     },
     {
         "uid": "a1X0V000002rkmmUAA",
@@ -9753,7 +14021,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "Dive into our colorful tropical island and sea environment featuring Darwin the turtle dome, Glitz the interactive LED jellyfish, and a huge double-seater swing!"
+        "description": "Dive into our colorful tropical island and sea environment featuring Darwin the turtle dome, Glitz the interactive LED jellyfish, and a huge double-seater swing!",
+        "burnermap_location": {
+            "string": "3:45 & Awe",
+            "gps_longitude": -119.20253193004713,
+            "gps_latitude": 40.779155784628216
+        }
     },
     {
         "uid": "a1X0V000002rkqZUAQ",
@@ -9771,7 +14044,12 @@
         "url": "http://www.blackrockblindtiger.com",
         "contact_email": null,
         "hometown": "Austin",
-        "description": "Art Support camp for an immersive, puzzle and riddle locked Speakeasy full of art inventions in the deep open Playa."
+        "description": "Art Support camp for an immersive, puzzle and riddle locked Speakeasy full of art inventions in the deep open Playa.",
+        "burnermap_location": {
+            "string": "2:15 & Genuflect",
+            "gps_longitude": -119.19195557296419,
+            "gps_latitude": 40.78200595809783
+        }
     },
     {
         "uid": "a1X0V000002rkpCUAQ",
@@ -9780,7 +14058,12 @@
         "url": null,
         "contact_email": null,
         "hometown": null,
-        "description": "HOVerlandia is a community of burners that have a shared passion for mass transportation and have ridden the Burner Express into Black Rock City."
+        "description": "HOVerlandia is a community of burners that have a shared passion for mass transportation and have ridden the Burner Express into Black Rock City.",
+        "burnermap_location": {
+            "string": "6:15 & Juju",
+            "gps_longitude": -119.2212417896622,
+            "gps_latitude": 40.778091398132474
+        }
     },
     {
         "uid": "a1X0V000002rktEUAQ",
@@ -9807,7 +14090,12 @@
         "url": "https://www.facebook.com/groups/108814233980/",
         "contact_email": "opalminded@gmail.com",
         "hometown": "SAN FRANCISCO",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "7:15 & Esplanade",
+            "gps_longitude": -119.21556979530342,
+            "gps_latitude": 40.78570209241637
+        }
     },
     {
         "uid": "a1X0V000002rkqKUAQ",
@@ -9816,7 +14104,12 @@
         "url": null,
         "contact_email": "projects.nowak@gmail.com",
         "hometown": "Corning",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "10:00 & Awe",
+            "gps_longitude": -119.20935427579292,
+            "gps_latitude": 40.79438185159417
+        }
     },
     {
         "uid": "a1X0V000002rktJUAQ",
@@ -9825,7 +14118,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Berkeley",
-        "description": "Here at Playa Circuit Boogie we use circuits and science to spark ideas and bring strangers together, all while jamming out to groovy tunes. Come learn the basics of soldering and circuit building; ride away with your very own light-up pendant and the skills to make an even better one next year."
+        "description": "Here at Playa Circuit Boogie we use circuits and science to spark ideas and bring strangers together, all while jamming out to groovy tunes. Come learn the basics of soldering and circuit building; ride away with your very own light-up pendant and the skills to make an even better one next year.",
+        "burnermap_location": {
+            "string": "4:15 & Ceremony",
+            "gps_longitude": -119.2049861228335,
+            "gps_latitude": 40.77730831015283
+        }
     },
     {
         "uid": "a1X0V000002rkr3UAA",
@@ -9843,7 +14141,12 @@
         "url": "http://vivalosmuertos.org",
         "contact_email": "admin@vivalosmuertos.org",
         "hometown": "Miami Houston and Dallas",
-        "description": "About our camp, we're  a laid back group, we'll have a chill out bar area and you can rest and lounge in our Geo Dome. Serving Tequila and Sangria libations.\r\nOur music stylings is really as the caravans move, We have resident DJ's spinning anything from Lounge to old school trance."
+        "description": "About our camp, we're  a laid back group, we'll have a chill out bar area and you can rest and lounge in our Geo Dome. Serving Tequila and Sangria libations.\r\nOur music stylings is really as the caravans move, We have resident DJ's spinning anything from Lounge to old school trance.",
+        "burnermap_location": {
+            "string": "8:45 & Kundalini",
+            "gps_longitude": -119.22193483607842,
+            "gps_latitude": 40.7955070228151
+        }
     },
     {
         "uid": "a1X0V000002rkrIUAQ",
@@ -9852,7 +14155,12 @@
         "url": "http://www.priscillaqueenofthedoof.com.au",
         "contact_email": "cestroms@gmail.com",
         "hometown": "Melbourne",
-        "description": "Priscilla, Queen of the Doof! Wait, who is she and what is she Queen of?? She is a giant pink bus and the Doof is the party. Priscilla is a big pink party bus from Australia full of fantastic party people!  Check it."
+        "description": "Priscilla, Queen of the Doof! Wait, who is she and what is she Queen of?? She is a giant pink bus and the Doof is the party. Priscilla is a big pink party bus from Australia full of fantastic party people!  Check it.",
+        "burnermap_location": {
+            "string": "7:45 & Hallowed",
+            "gps_longitude": -119.22317808305544,
+            "gps_latitude": 40.788251282726016
+        }
     },
     {
         "uid": "a1X0V000002rktiUAA",
@@ -9861,7 +14169,12 @@
         "url": "https://www.facebook.com/groups/705136196225882/",
         "contact_email": "ancientcultofthealligator@gmail.com",
         "hometown": "Los Angeles",
-        "description": "The Ancient Cult of the Alligator is a place for worshippers to live in the NOW. Come by for daily afternoon activities, featuring an open bar providing specialty drinks (Alligator Bites!), music to replenish your soul, activities to refresh your mind and body, and, the hallmark of any good cult, a soupcon of brainwashing so light you won't notice till it's too late and you're one of us."
+        "description": "The Ancient Cult of the Alligator is a place for worshippers to live in the NOW. Come by for daily afternoon activities, featuring an open bar providing specialty drinks (Alligator Bites!), music to replenish your soul, activities to refresh your mind and body, and, the hallmark of any good cult, a soupcon of brainwashing so light you won't notice till it's too late and you're one of us.",
+        "burnermap_location": {
+            "string": "4:15 & Ceremony",
+            "gps_longitude": -119.2049861228335,
+            "gps_latitude": 40.77730831015283
+        }
     },
     {
         "uid": "a1X0V000002rkp2UAA",
@@ -9870,7 +14183,12 @@
         "url": "https://www.mansonian.org/",
         "contact_email": "mansonianinstitute@gmail.com",
         "hometown": "San Francisco",
-        "description": "Mansonian Institute for Urban Studies: Celebrating the history and culture of Burning Man. Come visit us and explore."
+        "description": "Mansonian Institute for Urban Studies: Celebrating the history and culture of Burning Man. Come visit us and explore.",
+        "burnermap_location": {
+            "string": "6:30 & Awe",
+            "gps_longitude": -119.21581434749669,
+            "gps_latitude": 40.782571433777456
+        }
     },
     {
         "uid": "a1X0V000002rknaUAA",
@@ -9888,7 +14206,12 @@
         "url": "http://www.facebook.com/infinitefineprint",
         "contact_email": "thebrnotaryproject@gmail.com",
         "hometown": "Saugerties",
-        "description": "Bring your intentions! We're here to witness, illuminate & document your presence. Indulge yourself!! Let's make history!!!"
+        "description": "Bring your intentions! We're here to witness, illuminate & document your presence. Indulge yourself!! Let's make history!!!",
+        "burnermap_location": {
+            "string": "4:45 & Rods Road",
+            "gps_longitude": -119.21439274696836,
+            "gps_latitude": 40.778929316835054
+        }
     },
     {
         "uid": "a1X0V000002rktdUAA",
@@ -9897,7 +14220,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Reno",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "9:15 & Fire",
+            "gps_longitude": -119.2157279444489,
+            "gps_latitude": 40.79559677751822
+        }
     },
     {
         "uid": "a1X0V000002rkpqUAA",
@@ -9906,7 +14234,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Brooklyn",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "3:45 & Dance",
+            "gps_longitude": -119.20153567703115,
+            "gps_latitude": 40.77733272796948
+        }
     },
     {
         "uid": "a1X0V000002rktsUAA",
@@ -9915,7 +14248,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "LA/SF",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "2:45 & Hallowed",
+            "gps_longitude": -119.19333610121724,
+            "gps_latitude": 40.77889228660458
+        }
     },
     {
         "uid": "a1X0V000002rkuCUAQ",
@@ -9942,7 +14280,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "There are no mistakes, only happy acidents. Stop by! We can Bob Ross and chill."
+        "description": "There are no mistakes, only happy acidents. Stop by! We can Bob Ross and chill.",
+        "burnermap_location": {
+            "string": "7:45 & Hallowed",
+            "gps_longitude": -119.22317808305544,
+            "gps_latitude": 40.788251282726016
+        }
     },
     {
         "uid": "a1X0V000002rkpgUAA",
@@ -9969,7 +14312,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Sparks",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "8:45 & Fire",
+            "gps_longitude": -119.21849287500578,
+            "gps_latitude": 40.79350104830081
+        }
     },
     {
         "uid": "a1X0V000002rknkUAA",
@@ -9978,7 +14326,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "NYC",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "8:30 & Genuflect",
+            "gps_longitude": -119.22032957062862,
+            "gps_latitude": 40.79260038196808
+        }
     },
     {
         "uid": "a1X0V000002rkrhUAA",
@@ -9987,7 +14340,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Reno",
-        "description": "Camp Slippery Tentacle, where desert pirates artist Peter Hazel and crew hang out and enjoy the Playa."
+        "description": "Camp Slippery Tentacle, where desert pirates artist Peter Hazel and crew hang out and enjoy the Playa.",
+        "burnermap_location": {
+            "string": "3:30 & Esplanade",
+            "gps_longitude": -119.20207640011253,
+            "gps_latitude": 40.78066704889926
+        }
     },
     {
         "uid": "a1X0V000002rknzUAA",
@@ -9996,7 +14354,12 @@
         "url": null,
         "contact_email": "saluteyourjorts.burningman@gmail.com",
         "hometown": "San Francisco",
-        "description": "saluteyourjorts.burningman"
+        "description": "saluteyourjorts.burningman",
+        "burnermap_location": {
+            "string": "4:30 & Kundalini",
+            "gps_longitude": -119.20660000000001,
+            "gps_latitude": 40.77196694786372
+        }
     },
     {
         "uid": "a1X0V000002rkpWUAQ",
@@ -10005,7 +14368,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "Come to the Mission District- look for Sutro Tower!  Have an ironic PBR-tini and be the one to have seen it before it was cool."
+        "description": "Come to the Mission District- look for Sutro Tower!  Have an ironic PBR-tini and be the one to have seen it before it was cool.",
+        "burnermap_location": {
+            "string": "3:45 & Eulogy",
+            "gps_longitude": -119.20120359348034,
+            "gps_latitude": 40.77672504385827
+        }
     },
     {
         "uid": "a1X0V000002rkuHUAQ",
@@ -10014,7 +14382,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Black Rock City",
-        "description": "Moop Map Headquarters is the Playa Restoration interactive education camp.\n\n\u2022 Visit the Moop Gardens, learn about the most common types of Moop found during Playa Restoration.\n\u2022 View GPS data and photos from past event site Restoration operations.\n\u2022 Get familiar with the tools used to Leave No Trace on the Playa.\n\u2022 See every Moop Map 2006 \u2013 2014 on display.\n\nVisit any evening after Sunset to enjoy the Fireside Circle, a place for the community to congregate around an open fire."
+        "description": "Moop Map Headquarters is the Playa Restoration interactive education camp.\n\n• Visit the Moop Gardens, learn about the most common types of Moop found during Playa Restoration.\n• View GPS data and photos from past event site Restoration operations.\n• Get familiar with the tools used to Leave No Trace on the Playa.\n• See every Moop Map 2006 – 2014 on display.\n\nVisit any evening after Sunset to enjoy the Fireside Circle, a place for the community to congregate around an open fire.",
+        "burnermap_location": {
+            "string": "5:30 & Esplanade",
+            "gps_longitude": -119.21112359988747,
+            "gps_latitude": 40.78066704889926
+        }
     },
     {
         "uid": "a1X0V000002rkqAUAQ",
@@ -10023,7 +14396,12 @@
         "url": "https://www.facebook.com/HotelCaliforniaBM",
         "contact_email": null,
         "hometown": "San Francisco, CA",
-        "description": "Hotel California is an oasis of generosity where all dusty playa visitors can come re-energize, rest and relax. All guests are welcome to experience our fabulous hospitality: our Day Spa is returning this year with new services - come enjoy a facial, a massage, meditation or temporary tattoos! We will offer Continental Breakfast in the morning, and host Happy Hour in the evening. Our new Pool and Cabanas area will be open anytime for napping and lounging. Our giant glowing steel fire bowl will be on fire every night - warm up with us!  You can ask our Concierge advice about playa events and places to check out during the day, take a class in our Workshop Space, and even view panoramic sunsets and sunrises from our rooftop!"
+        "description": "Hotel California is an oasis of generosity where all dusty playa visitors can come re-energize, rest and relax. All guests are welcome to experience our fabulous hospitality: our Day Spa is returning this year with new services - come enjoy a facial, a massage, meditation or temporary tattoos! We will offer Continental Breakfast in the morning, and host Happy Hour in the evening. Our new Pool and Cabanas area will be open anytime for napping and lounging. Our giant glowing steel fire bowl will be on fire every night - warm up with us!  You can ask our Concierge advice about playa events and places to check out during the day, take a class in our Workshop Space, and even view panoramic sunsets and sunrises from our rooftop!",
+        "burnermap_location": {
+            "string": "7:00 & Eulogy",
+            "gps_longitude": -119.22023337125158,
+            "gps_latitude": 40.78383318292532
+        }
     },
     {
         "uid": "a1X0V000002rkuWUAQ",
@@ -10050,7 +14428,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Flagstaff",
-        "description": "Chop Shop is the Best Playa Repair garage in BRC! We are ready to repair a wide variety of Playa transportation with parts, repairs and advice."
+        "description": "Chop Shop is the Best Playa Repair garage in BRC! We are ready to repair a wide variety of Playa transportation with parts, repairs and advice.",
+        "burnermap_location": {
+            "string": "8:30 & Awe",
+            "gps_longitude": -119.21581546539866,
+            "gps_latitude": 40.790627833203835
+        }
     },
     {
         "uid": "a1X0V000002rksGUAQ",
@@ -10059,7 +14442,12 @@
         "url": null,
         "contact_email": "ryan@babyjellybeans.com",
         "hometown": "Aspen and San Francisco",
-        "description": "POSER- Get Beautiful. We will make you look and feel like a billion bucks, take your GLAM shot and show you how to unleash your inner beauty as well."
+        "description": "POSER- Get Beautiful. We will make you look and feel like a billion bucks, take your GLAM shot and show you how to unleash your inner beauty as well.",
+        "burnermap_location": {
+            "string": "2:30 & Dance",
+            "gps_longitude": -119.19512924800482,
+            "gps_latitude": 40.78158473441435
+        }
     },
     {
         "uid": "a1X0V000002rkoTUAQ",
@@ -10068,7 +14456,12 @@
         "url": null,
         "contact_email": "camp1111makeawish@gmail.com",
         "hometown": "Los Angeles",
-        "description": "It's 11:11 - make a wish! Synchronicity at its finest plus the magic of the playa provides some powerful wishmaking opportunities. It's a time for mindful intension, a time for deepest hopes, a time for silly little pleasures and fun! And in this camp, it's always time to wish! 11:11 24/7, baby! \r\n\r\nThis is a time for you! And if you need help learning the beautiful art of wishmaking, come and we will teach you! Tune in, believe, express and observe: you wish might just come true. \r\n\r\nWe tried our best to guess and pre-fulfill some of the more common wishes out there: delicious coffee and artisanal tea blends, yoga, a place for rest, loving company, esthetic pleasure, hugs and good vibes.\r\n\r\nIt's 11:11 somewhere! Make a wish!"
+        "description": "It's 11:11 - make a wish! Synchronicity at its finest plus the magic of the playa provides some powerful wishmaking opportunities. It's a time for mindful intension, a time for deepest hopes, a time for silly little pleasures and fun! And in this camp, it's always time to wish! 11:11 24/7, baby! \r\n\r\nThis is a time for you! And if you need help learning the beautiful art of wishmaking, come and we will teach you! Tune in, believe, express and observe: you wish might just come true. \r\n\r\nWe tried our best to guess and pre-fulfill some of the more common wishes out there: delicious coffee and artisanal tea blends, yoga, a place for rest, loving company, esthetic pleasure, hugs and good vibes.\r\n\r\nIt's 11:11 somewhere! Make a wish!",
+        "burnermap_location": {
+            "string": "4:15 & Juju",
+            "gps_longitude": -119.20419125837468,
+            "gps_latitude": 40.77274414945459
+        }
     },
     {
         "uid": "a1X0V000002rkuMUAQ",
@@ -10077,7 +14470,12 @@
         "url": "http://hearttribefamily.weebly.com",
         "contact_email": "hearttribefamily@gmail.com",
         "hometown": "SF Bay Area",
-        "description": "Come chill out in our Squish Lounge while you wait for your Healing Session. Heart Tribe has many healing modalities and tons of squish! Come unwind! Get a massage, chiropractic adjustment, reiki healing or other healing session and get \"buffed\" or buff someone and drop in with other heart-centered peeps. You will leave feeling rejuvenated and alive! Tue-Sat 2-6pm"
+        "description": "Come chill out in our Squish Lounge while you wait for your Healing Session. Heart Tribe has many healing modalities and tons of squish! Come unwind! Get a massage, chiropractic adjustment, reiki healing or other healing session and get \"buffed\" or buff someone and drop in with other heart-centered peeps. You will leave feeling rejuvenated and alive! Tue-Sat 2-6pm",
+        "burnermap_location": {
+            "string": "2:15 & Genuflect",
+            "gps_longitude": -119.19195557296419,
+            "gps_latitude": 40.78200595809783
+        }
     },
     {
         "uid": "a1X0V000002rkulUAA",
@@ -10095,7 +14493,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Reno",
-        "description": "The Baconeers are back for more mischief! Come visit our new drum installation !BANG!, enjoy some shade and periodic live DJ music. Always shade and cool libations to share. The Porta Potty Pigs will be hosting the usual potty comfort station with unlimited toilet paper, wipes, nice smelling things, and lots of fun! Join us in the evenings for fun videos and music, too."
+        "description": "The Baconeers are back for more mischief! Come visit our new drum installation !BANG!, enjoy some shade and periodic live DJ music. Always shade and cool libations to share. The Porta Potty Pigs will be hosting the usual potty comfort station with unlimited toilet paper, wipes, nice smelling things, and lots of fun! Join us in the evenings for fun videos and music, too.",
+        "burnermap_location": {
+            "string": "4:15 & Dance",
+            "gps_longitude": -119.20487286839162,
+            "gps_latitude": 40.7766562622959
+        }
     },
     {
         "uid": "a1X0V000002rkuRUAQ",
@@ -10104,7 +14507,12 @@
         "url": null,
         "contact_email": null,
         "hometown": null,
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "8:15 & Dance",
+            "gps_longitude": -119.21884106386673,
+            "gps_latitude": 40.79043278933819
+        }
     },
     {
         "uid": "a1X0V000002rksLUAQ",
@@ -10113,7 +14521,12 @@
         "url": "http://www.pathogentrackers.com",
         "contact_email": "campleader@pathogentrackers.com",
         "hometown": "Winnemucca",
-        "description": "Pathogen Trackers camp is excited to return to the playa and provide the gifts of food and drink to those in need.  Please visit www.PathogenTrackers.com to learn more."
+        "description": "Pathogen Trackers camp is excited to return to the playa and provide the gifts of food and drink to those in need.  Please visit www.PathogenTrackers.com to learn more.",
+        "burnermap_location": {
+            "string": "3:30 & Genuflect",
+            "gps_longitude": -119.19867518531167,
+            "gps_latitude": 40.77620535332683
+        }
     },
     {
         "uid": "a1X0V000002rkugUAA",
@@ -10131,7 +14544,12 @@
         "url": "https://www.facebook.com/magiclanternsociety/",
         "contact_email": "hello@supermoni.ca",
         "hometown": "Pacifica",
-        "description": "Come and find what you're looking for."
+        "description": "Come and find what you're looking for.",
+        "burnermap_location": {
+            "string": "2:30 & Awe",
+            "gps_longitude": -119.19738565250331,
+            "gps_latitude": 40.782571433777456
+        }
     },
     {
         "uid": "a1X0V000002rkqPUAQ",
@@ -10149,7 +14567,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "The Three of Cups Tarot Card is the card of celebration, friendship, community and creativity. Come join us for a drink and celebrate an old or create a new friend!"
+        "description": "The Three of Cups Tarot Card is the card of celebration, friendship, community and creativity. Come join us for a drink and celebrate an old or create a new friend!",
+        "burnermap_location": {
+            "string": "4:15 & Ceremony",
+            "gps_longitude": -119.2049861228335,
+            "gps_latitude": 40.77730831015283
+        }
     },
     {
         "uid": "a1X0V000002rkvFUAQ",
@@ -10158,7 +14581,12 @@
         "url": "http://www.dustyrhino.com/",
         "contact_email": "dustyrhino@gmail.com",
         "hometown": "Oakland",
-        "description": "The Dusty Rhino art car is a fire breathing, thumping, mobile party that brings people together through art, fire and electronic music. We provide enthusiastic participants with a unique interactive experience that alters their notions of what is possible."
+        "description": "The Dusty Rhino art car is a fire breathing, thumping, mobile party that brings people together through art, fire and electronic music. We provide enthusiastic participants with a unique interactive experience that alters their notions of what is possible.",
+        "burnermap_location": {
+            "string": "9:45 & Genuflect",
+            "gps_longitude": -119.2126673530477,
+            "gps_latitude": 40.797688604580976
+        }
     },
     {
         "uid": "a1X0V000002rksVUAQ",
@@ -10176,7 +14604,7 @@
         "url": "http://www.blackrockvineyards.org",
         "contact_email": "vintner@blackrockvineyards.org",
         "hometown": "Los Angeles",
-        "description": "Producers of the first and only wine grown pressed and aged entirely in Black Rock City! Established in 1999 the vineyards have nurtured a cutting of the nearly extinct carnivorous Cabernet Dionaea for 12 years to yield the acclaimed Vinum Pejorative \u2013 vintners and wine lovers stop by for a sip! We especially need experts and trainees to start our first batch of Dandelion and Lilac wines!"
+        "description": "Producers of the first and only wine grown pressed and aged entirely in Black Rock City! Established in 1999 the vineyards have nurtured a cutting of the nearly extinct carnivorous Cabernet Dionaea for 12 years to yield the acclaimed Vinum Pejorative – vintners and wine lovers stop by for a sip! We especially need experts and trainees to start our first batch of Dandelion and Lilac wines!"
     },
     {
         "uid": "a1X0V000002rkvKUAQ",
@@ -10194,7 +14622,12 @@
         "url": "https://www.facebook.com/campgravity/",
         "contact_email": "gravitycampbrc@gmail.com",
         "hometown": "San Francisco",
-        "description": "Step into a digital realm of perceptual vastness, defying the physical and mental limitations of your perceived reality. Gravitate towards your dream experience in one of many time and space altering attractions. You will surely find your true center of gravity here.\n\nAn engaging, interactive sensory experience of the highest order, Gravity tickles your curiosity and opens new doors of perception.\n\nDeep house, progressive, and downtempo DJs with ice cold drinks daily."
+        "description": "Step into a digital realm of perceptual vastness, defying the physical and mental limitations of your perceived reality. Gravitate towards your dream experience in one of many time and space altering attractions. You will surely find your true center of gravity here.\n\nAn engaging, interactive sensory experience of the highest order, Gravity tickles your curiosity and opens new doors of perception.\n\nDeep house, progressive, and downtempo DJs with ice cold drinks daily.",
+        "burnermap_location": {
+            "string": "9:00 & Kundalini",
+            "gps_longitude": -119.22026806074321,
+            "gps_latitude": 40.796946324126644
+        }
     },
     {
         "uid": "a1X0V000002rkszUAA",
@@ -10203,7 +14636,12 @@
         "url": "http://www.facebook.com/QueVivaCamp",
         "contact_email": "favianna@favianna.com",
         "hometown": "Oakland",
-        "description": "Que Viva! is a Burning Man camp of people of color activists and artists, plus allies celebrating diversity, justice, and enlightenment through the power of interactive art and joyful action. We are dedicated to social justice and radical inclusion, bringing issues like racial justice and immigrant inclusion to the playa in a celebratory, magical, Burning Man way. Our camp leads hands on art workshops for Burners of all ages, hosts compelling art installations about human rights issues, facilitates workshops and group discussions about race and inclusion, and serves as a relaxing chill space for Burners. You can find QueViva! at: www.facebook.com/QueVivaCamp"
+        "description": "Que Viva! is a Burning Man camp of people of color activists and artists, plus allies celebrating diversity, justice, and enlightenment through the power of interactive art and joyful action. We are dedicated to social justice and radical inclusion, bringing issues like racial justice and immigrant inclusion to the playa in a celebratory, magical, Burning Man way. Our camp leads hands on art workshops for Burners of all ages, hosts compelling art installations about human rights issues, facilitates workshops and group discussions about race and inclusion, and serves as a relaxing chill space for Burners. You can find QueViva! at: www.facebook.com/QueVivaCamp",
+        "burnermap_location": {
+            "string": "3:30 & Rods Road",
+            "gps_longitude": -119.21268290712068,
+            "gps_latitude": 40.77918664538623
+        }
     },
     {
         "uid": "a1X0V000002rkvZUAQ",
@@ -10212,7 +14650,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Menlo Park",
-        "description": "Come relax under the rabbit-dome, get your morning coffee while practicing yoga, discover unique art pieces or make your own. All bunnies welcome!"
+        "description": "Come relax under the rabbit-dome, get your morning coffee while practicing yoga, discover unique art pieces or make your own. All bunnies welcome!",
+        "burnermap_location": {
+            "string": "4:45 & Fire",
+            "gps_longitude": -119.20855364045433,
+            "gps_latitude": 40.77535216679971
+        }
     },
     {
         "uid": "a1X0V000002rkvUUAQ",
@@ -10221,7 +14664,12 @@
         "url": "http://valhalla.camp",
         "contact_email": "crutcher@gmail.com",
         "hometown": "San Francisco",
-        "description": "Valhalla is the majestic hall of the god Odin; Chosen by Odin, half of those who die in combat travel to Valhalla upon death, led by valkyries, while the other half go to the goddess Freyja's field F\u00f3lkvangr."
+        "description": "Valhalla is the majestic hall of the god Odin; Chosen by Odin, half of those who die in combat travel to Valhalla upon death, led by valkyries, while the other half go to the goddess Freyja's field Fólkvangr.",
+        "burnermap_location": {
+            "string": "3:30 & Dance",
+            "gps_longitude": -119.1999777242319,
+            "gps_latitude": 40.77791409959976
+        }
     },
     {
         "uid": "a1X0V000002rkveUAA",
@@ -10230,7 +14678,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Jose, CA",
-        "description": "The home of the Flying Iron."
+        "description": "The home of the Flying Iron.",
+        "burnermap_location": {
+            "string": "8:45 & Hallowed",
+            "gps_longitude": -119.21986697775772,
+            "gps_latitude": 40.794306194330275
+        }
     },
     {
         "uid": "a1X0V000002rkvyUAA",
@@ -10248,7 +14701,12 @@
         "url": "http://www.virginletters.com/",
         "contact_email": null,
         "hometown": "Portland",
-        "description": "WE TAKE STUFF PLACES...your on-playa delivery service hosts the Virgin Letters Project."
+        "description": "WE TAKE STUFF PLACES...your on-playa delivery service hosts the Virgin Letters Project.",
+        "burnermap_location": {
+            "string": "6:15 & Dance",
+            "gps_longitude": -119.21710378901787,
+            "gps_latitude": 40.78049002601679
+        }
     },
     {
         "uid": "a1X0V000002rkw8UAA",
@@ -10257,7 +14715,12 @@
         "url": "http://www.porchtimes.com",
         "contact_email": "jesse@porchtimes.com",
         "hometown": "Portland",
-        "description": "Come relax with us on the porch! Stick around for our events, stories and see why we are such a close camp year round. After a meditation to unfuck yourself, grab a nipple button and recite the three rules. Take a ride on The Muppet Mobile, but mind the gap. Sunset Naked Happy Howl, questionable Yoga & decisions, in general - we've got it all! Keep your hands and arms inside the vehicle, but don't forget to maintain thigh contact!"
+        "description": "Come relax with us on the porch! Stick around for our events, stories and see why we are such a close camp year round. After a meditation to unfuck yourself, grab a nipple button and recite the three rules. Take a ride on The Muppet Mobile, but mind the gap. Sunset Naked Happy Howl, questionable Yoga & decisions, in general - we've got it all! Keep your hands and arms inside the vehicle, but don't forget to maintain thigh contact!",
+        "burnermap_location": {
+            "string": "3:00 & Dance",
+            "gps_longitude": -119.19723446308797,
+            "gps_latitude": 40.779507767971374
+        }
     },
     {
         "uid": "a1X0V000002rkwhUAA",
@@ -10266,7 +14729,12 @@
         "url": null,
         "contact_email": "monteirogabriela35@gmail.com",
         "hometown": null,
-        "description": "Brazilian Favela Soul Experience!"
+        "description": "Brazilian Favela Soul Experience!",
+        "burnermap_location": {
+            "string": "9:45 & Dance",
+            "gps_longitude": -119.21167388272448,
+            "gps_latitude": 40.795864495461
+        }
     },
     {
         "uid": "a1X0V000002rkx1UAA",
@@ -10275,16 +14743,26 @@
         "url": null,
         "contact_email": null,
         "hometown": "Venice",
-        "description": "Come get your amber on: amber, amber beverages, amber lights, amber people, and amber dust. Open 24/7."
+        "description": "Come get your amber on: amber, amber beverages, amber lights, amber people, and amber dust. Open 24/7.",
+        "burnermap_location": {
+            "string": "6:45 & Genuflect",
+            "gps_longitude": -119.22124442703583,
+            "gps_latitude": 40.78200595809783
+        }
     },
     {
         "uid": "a1X0V000002rkwwUAA",
         "year": 2017,
-        "name": "Camp K\u00fchloff",
+        "name": "Camp Kühloff",
         "url": null,
         "contact_email": null,
         "hometown": "Reno",
-        "description": "Camp K\u00fchloff is the icy oasis within the sizzling BRC -- it is where you can stop for an ice cold lavender shoulder massage, shade, sunscreen and sunglasses. Burners will feel the coolness of our icy camp decorations and the warmth of our welcome."
+        "description": "Camp Kühloff is the icy oasis within the sizzling BRC -- it is where you can stop for an ice cold lavender shoulder massage, shade, sunscreen and sunglasses. Burners will feel the coolness of our icy camp decorations and the warmth of our welcome.",
+        "burnermap_location": {
+            "string": "2:45 & Eulogy",
+            "gps_longitude": -119.19540745787381,
+            "gps_latitude": 40.78008938358524
+        }
     },
     {
         "uid": "a1X0V000002rkwcUAA",
@@ -10293,7 +14771,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "Come take a dive into your subconscious with the Deep Sea Divers. We have a 600 square foot bounce house waiting to launch your mind into the stratosphere."
+        "description": "Come take a dive into your subconscious with the Deep Sea Divers. We have a 600 square foot bounce house waiting to launch your mind into the stratosphere.",
+        "burnermap_location": {
+            "string": "2:45 & Dance",
+            "gps_longitude": -119.19609621098215,
+            "gps_latitude": 40.7804900260168
+        }
     },
     {
         "uid": "a1X0V000002rkrXUAQ",
@@ -10302,7 +14785,12 @@
         "url": "http://www.brchoa.com",
         "contact_email": "brchoa@brchoa.com",
         "hometown": null,
-        "description": "The BRC HOA prides itself on offering a wide range of options for any prospective Black Rock City homeowner. Hydration! Dehydration! Art! Craft! Heckling (the good kind AND the bad kind) and so much more!"
+        "description": "The BRC HOA prides itself on offering a wide range of options for any prospective Black Rock City homeowner. Hydration! Dehydration! Art! Craft! Heckling (the good kind AND the bad kind) and so much more!",
+        "burnermap_location": {
+            "string": "5:00 & Dance",
+            "gps_longitude": -119.21002789048147,
+            "gps_latitude": 40.776912297351224
+        }
     },
     {
         "uid": "a1X0V000002rkxLUAQ",
@@ -10320,7 +14808,12 @@
         "url": "http://kaleidoscope.wtf",
         "contact_email": "kaleidoscope.wtf@gmail.com",
         "hometown": "San Francisco",
-        "description": "Welcome to Kaleidoscope! We serve fresh pour over coffee and offer a shaded board game lounge for socializing and play. Join us in the evenings for public workshops and discussions. Find us on the playa by looking for the 25ft climb-able and hang-out-able crows nest lookout tower and wooden geodesic domes."
+        "description": "Welcome to Kaleidoscope! We serve fresh pour over coffee and offer a shaded board game lounge for socializing and play. Join us in the evenings for public workshops and discussions. Find us on the playa by looking for the 25ft climb-able and hang-out-able crows nest lookout tower and wooden geodesic domes.",
+        "burnermap_location": {
+            "string": "9:45 & Ceremony",
+            "gps_longitude": -119.21134116556314,
+            "gps_latitude": 40.79525698109805
+        }
     },
     {
         "uid": "a1X0V000002rkxzUAA",
@@ -10329,7 +14822,12 @@
         "url": null,
         "contact_email": "530bobby@gmail.com",
         "hometown": "Redding",
-        "description": "92.1 misfit burner radio, come play carnival style games while listening to great jamz"
+        "description": "92.1 misfit burner radio, come play carnival style games while listening to great jamz",
+        "burnermap_location": {
+            "string": "3:15 & Juju",
+            "gps_longitude": -119.19536539590487,
+            "gps_latitude": 40.775512035316275
+        }
     },
     {
         "uid": "a1X0V000002rky9UAA",
@@ -10338,7 +14836,12 @@
         "url": "http://opulentchill.org/",
         "contact_email": "sydgris@opulenttemple.org",
         "hometown": "San Francisco",
-        "description": "Opulent Chill is a place to go sit down, layback, listen to some downtempo / chill / ambient / trip hop / eclectic sound scapes, chat with friends, make out with your lover, enjoy large scale visuals, and watch various forms of belly dance, sword dance, whirling sufi dance, hoop, aerial, ritual performance and the like on a stage to take in various forms of slow paced beauty all at once."
+        "description": "Opulent Chill is a place to go sit down, layback, listen to some downtempo / chill / ambient / trip hop / eclectic sound scapes, chat with friends, make out with your lover, enjoy large scale visuals, and watch various forms of belly dance, sword dance, whirling sufi dance, hoop, aerial, ritual performance and the like on a stage to take in various forms of slow paced beauty all at once.",
+        "burnermap_location": {
+            "string": "2:00 & Hallowed",
+            "gps_longitude": -119.1904498228991,
+            "gps_latitude": 40.78332221048476
+        }
     },
     {
         "uid": "a1X0V000002rkyYUAQ",
@@ -10347,7 +14850,12 @@
         "url": "http://www.hudzo.com",
         "contact_email": "peter@hudzo.com",
         "hometown": "San Francisco",
-        "description": "Camp Zoetrope"
+        "description": "Camp Zoetrope",
+        "burnermap_location": {
+            "string": "7:45 & Ceremony",
+            "gps_longitude": -119.21887265178056,
+            "gps_latitude": 40.78781815115325
+        }
     },
     {
         "uid": "a1X0V000002rkyOUAQ",
@@ -10356,7 +14864,12 @@
         "url": null,
         "contact_email": "andres_zd6@hotmail.com",
         "hometown": "Los Angeles",
-        "description": "Dusty Cantina, a Mexican cultural experience."
+        "description": "Dusty Cantina, a Mexican cultural experience.",
+        "burnermap_location": {
+            "string": "8:45 & Hallowed",
+            "gps_longitude": -119.21986697775772,
+            "gps_latitude": 40.794306194330275
+        }
     },
     {
         "uid": "a1X0V000002rkynUAA",
@@ -10365,7 +14878,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Healdsburg",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "3:30 & Dance",
+            "gps_longitude": -119.1999777242319,
+            "gps_latitude": 40.77791409959976
+        }
     },
     {
         "uid": "a1X0V000002rkysUAA",
@@ -10374,7 +14892,12 @@
         "url": null,
         "contact_email": "intergalacticsasquatch@gmail.com",
         "hometown": "Mt Shasta",
-        "description": "Intergalactic Sasquatch Village...a place for the dusty space traveller."
+        "description": "Intergalactic Sasquatch Village...a place for the dusty space traveller.",
+        "burnermap_location": {
+            "string": "2:45 & Awe",
+            "gps_longitude": -119.19816248503069,
+            "gps_latitude": 40.78169196187608
+        }
     },
     {
         "uid": "a1X0V000002rkyiUAA",
@@ -10383,7 +14906,12 @@
         "url": "http://www.honeypuddle.info/",
         "contact_email": "wag@honeypuddle.info",
         "hometown": "Los Angeles",
-        "description": "Slide and shimmer and shine, drinking Queen's Honey-wine.\r\nOur colossal illuminated Honey Altar will serve as an entrance to your experience.  A coronation stage to those who choose to be offered up to the hallowed, ethereal queen of amber sweetness.\r\nParticipate in enchanting rituals to add a rush of life's amber liquid to your life. The magic infused honey seeps in, adding sweetness where it is needed most. \r\n\r\nEnjoy enlightenment from the tea leaf, the brewer, and the honeybee. We offer hydration and libation in the sweet amber viscous of honey, tea and mead. Our camp exists to educate and serve curious spirits who drift across the playa.\r\nWe feature:\r\n| Tea blending workshops | Mead Tastings | Honey Tastings | Bee-keeping Expertise |\r\nMost of all, we offer honey laden hospitality to all dusty nomads seeking community.\r\n \r\nURL: http://www.honeypuddle.info/\r\n\r\nHometown: Los Angeles"
+        "description": "Slide and shimmer and shine, drinking Queen's Honey-wine.\r\nOur colossal illuminated Honey Altar will serve as an entrance to your experience.  A coronation stage to those who choose to be offered up to the hallowed, ethereal queen of amber sweetness.\r\nParticipate in enchanting rituals to add a rush of life's amber liquid to your life. The magic infused honey seeps in, adding sweetness where it is needed most. \r\n\r\nEnjoy enlightenment from the tea leaf, the brewer, and the honeybee. We offer hydration and libation in the sweet amber viscous of honey, tea and mead. Our camp exists to educate and serve curious spirits who drift across the playa.\r\nWe feature:\r\n| Tea blending workshops | Mead Tastings | Honey Tastings | Bee-keeping Expertise |\r\nMost of all, we offer honey laden hospitality to all dusty nomads seeking community.\r\n \r\nURL: http://www.honeypuddle.info/\r\n\r\nHometown: Los Angeles",
+        "burnermap_location": {
+            "string": "5:15 & Ceremony",
+            "gps_longitude": -119.21133223902413,
+            "gps_latitude": 40.777940412801506
+        }
     },
     {
         "uid": "a1X0V000002rkyxUAA",
@@ -10392,7 +14920,12 @@
         "url": null,
         "contact_email": "audiowells@gmail.com",
         "hometown": "Portland",
-        "description": "Where the worlds most fabulous musicians and dancers from MarchFourth Marching Band, The Saloon Ensemble, Love-Bomb Go-Go Marching Band, Trashcan Joe, and The Ukeladies are dumped and recycled to endlessly create music from a by-gone era.  Come sing, dance, play our piano, and join-in as we all share in electronic-free acoustic joy! Lyrics included!"
+        "description": "Where the worlds most fabulous musicians and dancers from MarchFourth Marching Band, The Saloon Ensemble, Love-Bomb Go-Go Marching Band, Trashcan Joe, and The Ukeladies are dumped and recycled to endlessly create music from a by-gone era.  Come sing, dance, play our piano, and join-in as we all share in electronic-free acoustic joy! Lyrics included!",
+        "burnermap_location": {
+            "string": "2:00 & Center Camp Plaza",
+            "gps_longitude": -119.21326995330195,
+            "gps_latitude": 40.780810613050335
+        }
     },
     {
         "uid": "a1X0V000002rkzCUAQ",
@@ -10401,7 +14934,12 @@
         "url": null,
         "contact_email": "itam627@gmail.com",
         "hometown": "San Francisco",
-        "description": "OONTZ OONTZ OONTZ!"
+        "description": "OONTZ OONTZ OONTZ!",
+        "burnermap_location": {
+            "string": "9:30 & Dance",
+            "gps_longitude": -119.21322400826011,
+            "gps_latitude": 40.79528552172986
+        }
     },
     {
         "uid": "a1X0V000002rlJWUAY",
@@ -10410,7 +14948,12 @@
         "url": "http://bit.ly/campilluminaughty",
         "contact_email": "legstep@googlegroups.com",
         "hometown": "Sunnyvale",
-        "description": "Welcome to Camp Illuminaughty! Come by at dusk for our music and light-filled activities, then follow us and the Wall of Light out into the night to dance 'til dawn!"
+        "description": "Welcome to Camp Illuminaughty! Come by at dusk for our music and light-filled activities, then follow us and the Wall of Light out into the night to dance 'til dawn!",
+        "burnermap_location": {
+            "string": "9:15 & Inspirit",
+            "gps_longitude": -119.21730940811462,
+            "gps_latitude": 40.79716516393263
+        }
     },
     {
         "uid": "a1X0V000002rkzHUAQ",
@@ -10428,7 +14971,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "New York City, San Francisco, Lima, and Nairobi",
-        "description": "inspiring people to radically reimagine our world by connecting with a sense of child-like wonderment\n\ndream. dream bigger. ignition. liftoff. whynaut?"
+        "description": "inspiring people to radically reimagine our world by connecting with a sense of child-like wonderment\n\ndream. dream bigger. ignition. liftoff. whynaut?",
+        "burnermap_location": {
+            "string": "8:45 & Juju",
+            "gps_longitude": -119.22124554165981,
+            "gps_latitude": 40.79510675075509
+        }
     },
     {
         "uid": "a1X0V000002rkx6UAA",
@@ -10437,7 +14985,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "The northern countries (swedish/finnis)",
-        "description": "When the sun hides away behind the mountains, we are proud to be able to provide the gift of warmth. This will be provided by a full-scale working custom built Finnish Sauna located inside an magically transformed old School-Bus. When the body is purified and you are complitely relaxed, there will be massage stations where we provide the total experience of a SPA including a Swedish Massage.\n\nThe Space on Fire installation will inhabit the deep playa, where signals from earth orbit and beyond will fuel an experience. Inside a wooden dome-like structure that lets just a bit of light through its walls, and many more wavelengths escape through its roof to Earth orbit and further. Carrying your thoughts and hopes to the galaxy."
+        "description": "When the sun hides away behind the mountains, we are proud to be able to provide the gift of warmth. This will be provided by a full-scale working custom built Finnish Sauna located inside an magically transformed old School-Bus. When the body is purified and you are complitely relaxed, there will be massage stations where we provide the total experience of a SPA including a Swedish Massage.\n\nThe Space on Fire installation will inhabit the deep playa, where signals from earth orbit and beyond will fuel an experience. Inside a wooden dome-like structure that lets just a bit of light through its walls, and many more wavelengths escape through its roof to Earth orbit and further. Carrying your thoughts and hopes to the galaxy.",
+        "burnermap_location": {
+            "string": "3:45 & Dance",
+            "gps_longitude": -119.20153567703115,
+            "gps_latitude": 40.77733272796948
+        }
     },
     {
         "uid": "a1X0V000002rm9wUAA",
@@ -10446,7 +14999,12 @@
         "url": null,
         "contact_email": "cuddle-oasis@googlegroups.com",
         "hometown": "San Francisco",
-        "description": "Too hot? Too cold? Partied out? Need a break? Need a cuddle or two? Or ten?\r\n\r\nYou've come to the right place.\r\n\r\nCuddle Oasis is bringing you the best chillaxation and rechargation on the playa. Hang with us, stay a while, get misted, do some yoga, take a party nap, rejuvenate your senses with our fresh tropical drinks, and let us liven up your spirits with our chill tropical tunes.\r\n\r\nNow you are ready carry on with your burn."
+        "description": "Too hot? Too cold? Partied out? Need a break? Need a cuddle or two? Or ten?\r\n\r\nYou've come to the right place.\r\n\r\nCuddle Oasis is bringing you the best chillaxation and rechargation on the playa. Hang with us, stay a while, get misted, do some yoga, take a party nap, rejuvenate your senses with our fresh tropical drinks, and let us liven up your spirits with our chill tropical tunes.\r\n\r\nNow you are ready carry on with your burn.",
+        "burnermap_location": {
+            "string": "4:30 & Awe",
+            "gps_longitude": -119.20660000000001,
+            "gps_latitude": 40.77854360050924
+        }
     },
     {
         "uid": "a1X0V000002rmAQUAY",
@@ -10464,7 +15022,12 @@
         "url": "http://www.cuddleordie.info",
         "contact_email": "hello@cuddleordie.info",
         "hometown": "Los Angeles",
-        "description": "A group of hookers bitten by the cuddle bug!\r\nOrganizing two large group chest/spirit hook pulls while providing a suspended cuddle pit and climbable toys to the community at large. Come 'hang' out!"
+        "description": "A group of hookers bitten by the cuddle bug!\r\nOrganizing two large group chest/spirit hook pulls while providing a suspended cuddle pit and climbable toys to the community at large. Come 'hang' out!",
+        "burnermap_location": {
+            "string": "4:15 & Dance",
+            "gps_longitude": -119.20487286839162,
+            "gps_latitude": 40.7766562622959
+        }
     },
     {
         "uid": "a1X0V000002rmApUAI",
@@ -10473,7 +15036,12 @@
         "url": "https://burningman.org/",
         "contact_email": null,
         "hometown": null,
-        "description": "The home to the ARTery, Burning Man's Art Headquarters on playa and Everywhere, a point of connection between Black Rock Citizens and off-playa, worldwide Burning Man-related projects and culture. Come learn about and connect with off-playa Art and Civic Engagement programs, the Regionals Network and Burners Without Borders as well as meet other like-minded burners to discuss year-round Burning Man culture in the world."
+        "description": "The home to the ARTery, Burning Man's Art Headquarters on playa and Everywhere, a point of connection between Black Rock Citizens and off-playa, worldwide Burning Man-related projects and culture. Come learn about and connect with off-playa Art and Civic Engagement programs, the Regionals Network and Burners Without Borders as well as meet other like-minded burners to discuss year-round Burning Man culture in the world.",
+        "burnermap_location": {
+            "string": "6:30 & Esplanade",
+            "gps_longitude": -119.21443540063353,
+            "gps_latitude": 40.783174395085275
+        }
     },
     {
         "uid": "a1X0V000002rmKLUAY",
@@ -10491,7 +15059,12 @@
         "url": "http://burningman.org/network/about-us/press-media/media_mecca/",
         "contact_email": "media-mecca@burningman.org",
         "hometown": "Black Rock City",
-        "description": "Media Mecca is Black Rock City's home to storytellers, journalists, and media. All media projects must register at Mecca prior to beginning in BRC."
+        "description": "Media Mecca is Black Rock City's home to storytellers, journalists, and media. All media projects must register at Mecca prior to beginning in BRC.",
+        "burnermap_location": {
+            "string": "10:00 & Center Camp Plaza",
+            "gps_longitude": -119.21424512556924,
+            "gps_latitude": 40.78154924140873
+        }
     },
     {
         "uid": "a1X0V000002rmQdUAI",
@@ -10500,7 +15073,12 @@
         "url": null,
         "contact_email": null,
         "hometown": null,
-        "description": "Black Rock City's Yellow Bike Shop"
+        "description": "Black Rock City's Yellow Bike Shop",
+        "burnermap_location": {
+            "string": "5:15 & Awe",
+            "gps_longitude": -119.21066806995286,
+            "gps_latitude": 40.77915578462821
+        }
     },
     {
         "uid": "a1X0V000002rmV4UAI",
@@ -10509,7 +15087,12 @@
         "url": null,
         "contact_email": "vagabondsandtagalongs@gmail.com",
         "hometown": "The Internet",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "7:45 & Hallowed",
+            "gps_longitude": -119.22317808305544,
+            "gps_latitude": 40.788251282726016
+        }
     },
     {
         "uid": "a1X0V000002sFOJUA2",
@@ -10518,7 +15101,12 @@
         "url": "https://www.facebook.com/VolunteerResourceTeam/",
         "contact_email": "vspot@burningman.org",
         "hometown": "San Francisco",
-        "description": "Your City Needs You!\nCome Volunteer!  The V-Spot is now at 9:00"
+        "description": "Your City Needs You!\nCome Volunteer!  The V-Spot is now at 9:00",
+        "burnermap_location": {
+            "string": "9:00 & Awe",
+            "gps_longitude": -119.21412458507841,
+            "gps_latitude": 40.79229649034195
+        }
     },
     {
         "uid": "a1X0V000002rmSoUAI",
@@ -10527,7 +15115,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "los angeles",
-        "description": "Welcome to Blood, Rust & Whiskey - where pseudo-randomly selected individuals will be required to pass through our sobriety checkpoint, and those determined to be sober will be issued libations - not citations! \r\nChill in the Yurthedral - or enjoy a proper cup of tea and peruse our extensive collection of randy reading material in the Tea and Porn lounge."
+        "description": "Welcome to Blood, Rust & Whiskey - where pseudo-randomly selected individuals will be required to pass through our sobriety checkpoint, and those determined to be sober will be issued libations - not citations! \r\nChill in the Yurthedral - or enjoy a proper cup of tea and peruse our extensive collection of randy reading material in the Tea and Porn lounge.",
+        "burnermap_location": {
+            "string": "4:45 & Hallowed",
+            "gps_longitude": -119.20878207936424,
+            "gps_latitude": 40.77404823164073
+        }
     },
     {
         "uid": "a1X0V000002sSV3UAM",
@@ -10536,7 +15129,12 @@
         "url": null,
         "contact_email": "mnburningarts@gmail.com",
         "hometown": "Minneapolis",
-        "description": "Fade to White, we are a drama free art support camp.  Stop by to chat about art, shrines, Minnesota, Burner culture, or just about anything sometime."
+        "description": "Fade to White, we are a drama free art support camp.  Stop by to chat about art, shrines, Minnesota, Burner culture, or just about anything sometime.",
+        "burnermap_location": {
+            "string": "3:45 & Ceremony",
+            "gps_longitude": -119.20186776097587,
+            "gps_latitude": 40.77794041280151
+        }
     },
     {
         "uid": "a1X0V000002rmmZUAQ",
@@ -10545,7 +15143,12 @@
         "url": "http://www.postnuclearfamily.com",
         "contact_email": "camp@postnuclearfamily.com",
         "hometown": "Los Angeles",
-        "description": "Our online home ~ mutants are welcome!"
+        "description": "Our online home ~ mutants are welcome!",
+        "burnermap_location": {
+            "string": "4:45 & Hallowed",
+            "gps_longitude": -119.20878207936424,
+            "gps_latitude": 40.77404823164073
+        }
     },
     {
         "uid": "a1X0V000002rmt1UAA",
@@ -10554,7 +15157,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Denver",
-        "description": "You've ridden your bike from 10 to 2, from Center Camp, to the trash fence too. You're loving life, but your throat feels ew. Your voice has bid a dusty adieu. But you have things to say, so what can you do?! The Larynx Lounge is here for you.  When dust, deep conversations, and occasional screams of rapture have done a number on your vocal cords, we have what you need. An assortment of electrolarynx machines are available for use in our comfy, shady lounge. Bring your friends and have a monotone robot voice singalong. We also offer smart device technology called The Whisper App. Whisper a soliloquy into our devices with the app, and it's repeated  out loud for all to hear. We offer refreshing iced tea, chai and kombucha, (bring your own cup!), snacks, cough drops, throat sprays, plenty o' popsicles, chill music and good vibes. Losing your voice is fun."
+        "description": "You've ridden your bike from 10 to 2, from Center Camp, to the trash fence too. You're loving life, but your throat feels ew. Your voice has bid a dusty adieu. But you have things to say, so what can you do?! The Larynx Lounge is here for you.  When dust, deep conversations, and occasional screams of rapture have done a number on your vocal cords, we have what you need. An assortment of electrolarynx machines are available for use in our comfy, shady lounge. Bring your friends and have a monotone robot voice singalong. We also offer smart device technology called The Whisper App. Whisper a soliloquy into our devices with the app, and it's repeated  out loud for all to hear. We offer refreshing iced tea, chai and kombucha, (bring your own cup!), snacks, cough drops, throat sprays, plenty o' popsicles, chill music and good vibes. Losing your voice is fun.",
+        "burnermap_location": {
+            "string": "2:15 & Breath",
+            "gps_longitude": -119.19596989571168,
+            "gps_latitude": 40.783260736953125
+        }
     },
     {
         "uid": "a1X0V000002sSphUAE",
@@ -10563,7 +15171,12 @@
         "url": null,
         "contact_email": "mkzhang@yahoo.com",
         "hometown": "Bay area/SF",
-        "description": "BlueLotus Camp -primarily from SF BayArea, a perfect mix of photographers, musician, designers and dreamers.  We have been with BM community for more than a decade."
+        "description": "BlueLotus Camp -primarily from SF BayArea, a perfect mix of photographers, musician, designers and dreamers.  We have been with BM community for more than a decade.",
+        "burnermap_location": {
+            "string": "6:30 & Ceremony",
+            "gps_longitude": -119.21731862461127,
+            "gps_latitude": 40.781913639085346
+        }
     },
     {
         "uid": "a1X0V000002rkgFUAQ",
@@ -10572,7 +15185,12 @@
         "url": "https://www.facebook.com/CBHSSF",
         "contact_email": "cbhssf415@gmail.com",
         "hometown": "San Francisco",
-        "description": "Cubhouse brings house party vibes to the Playa. Music, dancing, games and best of all good company.\r\n\r\nYUNG ANIMAL SQUAD // NEVER LEFT ALWAYS RIGHT \r\n\r\n\"Mi casa, su casa. That's our cosa nostra\""
+        "description": "Cubhouse brings house party vibes to the Playa. Music, dancing, games and best of all good company.\r\n\r\nYUNG ANIMAL SQUAD // NEVER LEFT ALWAYS RIGHT \r\n\r\n\"Mi casa, su casa. That's our cosa nostra\"",
+        "burnermap_location": {
+            "string": "7:45 & Fire",
+            "gps_longitude": -119.22145640090253,
+            "gps_latitude": 40.78807460729891
+        }
     },
     {
         "uid": "a1X0V000002sVuVUAU",
@@ -10590,7 +15208,12 @@
         "url": null,
         "contact_email": null,
         "hometown": null,
-        "description": "Home of Black Rock City's Department of Public Works"
+        "description": "Home of Black Rock City's Department of Public Works",
+        "burnermap_location": {
+            "string": "5:30 & Eulogy",
+            "gps_longitude": -119.21365646285352,
+            "gps_latitude": 40.77734451913604
+        }
     },
     {
         "uid": "a1X0V000002rmxhUAA",
@@ -10599,7 +15222,12 @@
         "url": null,
         "contact_email": null,
         "hometown": null,
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "6:00 & Juju",
+            "gps_longitude": -119.21964979009691,
+            "gps_latitude": 40.77671717407414
+        }
     },
     {
         "uid": "a1X0V000002rnNzUAI",
@@ -10608,16 +15236,26 @@
         "url": null,
         "contact_email": null,
         "hometown": "Campbell",
-        "description": "Come enjoy a cool glass of whiskey and the funky dancing made famous by our interactive extravaganza dance dome! And when the dancing gets old, join us for a night exploring the playa."
+        "description": "Come enjoy a cool glass of whiskey and the funky dancing made famous by our interactive extravaganza dance dome! And when the dancing gets old, join us for a night exploring the playa.",
+        "burnermap_location": {
+            "string": "6:00 & Genuflect",
+            "gps_longitude": -119.21780770219705,
+            "gps_latitude": 40.77811248566889
+        }
     },
     {
         "uid": "a1X0V000002rr98UAA",
         "year": 2017,
-        "name": "Elves of T\u00e9n\u00e9r\u00e9",
+        "name": "Elves of Ténéré",
         "url": "https://treeoftenere.com",
         "contact_email": "contact-tenere@gmail.com",
         "hometown": "San Francisco",
-        "description": "This is a support camp for the Tree of T\u00e9n\u00e9r\u00e9 installation. Come meet us under the tree!"
+        "description": "This is a support camp for the Tree of Ténéré installation. Come meet us under the tree!",
+        "burnermap_location": {
+            "string": "2:15 & Ceremony",
+            "gps_longitude": -119.19516764091506,
+            "gps_latitude": 40.78300872251151
+        }
     },
     {
         "uid": "a1X0V000002rkyEUAQ",
@@ -10626,7 +15264,12 @@
         "url": null,
         "contact_email": "claudiabicen@gmail.com",
         "hometown": "San Francisco",
-        "description": "Salt is one of the most important building blocks of life and one of the most important elements playa-goers need to sustain a healthy Burn. The Salt House brings to the playa salt of all kinds: homemade salty snacks and drinks; sweaty (salty!) yoga classes and dance parties, and mind-expanding workshops that conjure [the good kind of] salty tears."
+        "description": "Salt is one of the most important building blocks of life and one of the most important elements playa-goers need to sustain a healthy Burn. The Salt House brings to the playa salt of all kinds: homemade salty snacks and drinks; sweaty (salty!) yoga classes and dance parties, and mind-expanding workshops that conjure [the good kind of] salty tears.",
+        "burnermap_location": {
+            "string": "6:45 & Eulogy",
+            "gps_longitude": -119.21963686142745,
+            "gps_latitude": 40.78250469590597
+        }
     },
     {
         "uid": "a1X0V000002rqI9UAI",
@@ -10635,7 +15278,12 @@
         "url": null,
         "contact_email": "iamh2o@gmail.com",
         "hometown": "San Francisco",
-        "description": "Home base for construction, maintenance, reconnoitering and recruiting for the MV Pyramid Scheme and  playa art installation Luster Cluster."
+        "description": "Home base for construction, maintenance, reconnoitering and recruiting for the MV Pyramid Scheme and  playa art installation Luster Cluster.",
+        "burnermap_location": {
+            "string": "7:45 & Inspirit",
+            "gps_longitude": -119.22403930469672,
+            "gps_latitude": 40.78833699882135
+        }
     },
     {
         "uid": "a1X0V000002sFO4UAM",
@@ -10644,7 +15292,12 @@
         "url": "https://www.facebook.com/VolunteerResourceTeam/",
         "contact_email": "vpot@burningman.org",
         "hometown": "San Francisco",
-        "description": "Your City Needs You!\nCome Volunteer.  Now the V-Spot is at 3:00."
+        "description": "Your City Needs You!\nCome Volunteer.  Now the V-Spot is at 3:00.",
+        "burnermap_location": {
+            "string": "3:00 & Portal",
+            "gps_longitude": -119.19925849296976,
+            "gps_latitude": 40.781298520887006
+        }
     },
     {
         "uid": "a1X0V000002rm72UAA",
@@ -10653,7 +15306,12 @@
         "url": "https://www.facebook.com/FlirtCampSF/",
         "contact_email": "campmaster@flirtcampsf.com",
         "hometown": "San Francisco",
-        "description": "Come chill with the mellow flirtatious vibes of Flirt Camp!  Fun people, fun times!  See you there!"
+        "description": "Come chill with the mellow flirtatious vibes of Flirt Camp!  Fun people, fun times!  See you there!",
+        "burnermap_location": {
+            "string": "8:45 & Dance",
+            "gps_longitude": -119.21711394862523,
+            "gps_latitude": 40.79270090220066
+        }
     },
     {
         "uid": "a1X0V000002rmuiUAA",
@@ -10662,7 +15320,12 @@
         "url": "http://runfreecamp.com/",
         "contact_email": "runfreecamp@runfreecamp.com",
         "hometown": "San Francisco",
-        "description": "Run Free is a clean and sober Burning Man camp for folks whose common goal is enlargement of spiritual life through new adventures in being human and living life to the fullest. Run Free Camp: One incredibly fucking amazing day at a time."
+        "description": "Run Free is a clean and sober Burning Man camp for folks whose common goal is enlargement of spiritual life through new adventures in being human and living life to the fullest. Run Free Camp: One incredibly fucking amazing day at a time.",
+        "burnermap_location": {
+            "string": "6:45 & Dance",
+            "gps_longitude": -119.21883461146463,
+            "gps_latitude": 40.78275670882913
+        }
     },
     {
         "uid": "a1X0V000003HCO2UAO",
@@ -10671,7 +15334,12 @@
         "url": "http://www.spankyswinebar.com",
         "contact_email": "jimhillas_gc@yahoo.com",
         "hometown": "Sacramento",
-        "description": "The infamous crown-jewel of Burning Man bars - The legendary \"Spanky's Wine Bar\" celebrating our 10th year!\r\n\r\nLead by notorious \"Admiral Painjoy\", our village is a large, group of theme camps with something for everybody; The Camp for Sensual Pleasures (The Orgasmator Experience and Eros Tangier), Camp Stupid (flaming minions art installation and wine & cheese parties), Hello Camp (hilarious name badges - since 1999), The Buffer Zone (car buffer massage), Body Painting, Camp Lola (massage, grilled cheese, cattle prodding), The PlayaQ (FinalQ).\r\n\r\nSpanky's hosts a myriad of events:\r\nSpank U!, MPR (Morning Painjoy Radio), Many great DJs, The Festival of Bubastis (FemDom fetish party), Spank-dat-Bootie - (mash-up music party DJ'd by Adrien Roberts), The Chapel of Smoke and Wine-Down Party.\r\n\r\nAnd playa-famous toys/structures, The Chairway to Heaven Tower, The Teeter Totter of Death, The Spank-o-Matic machine, the Latex Vac-u-Bed, The Playa-Penthouse, The Orgasmator, and 5 art-cars."
+        "description": "The infamous crown-jewel of Burning Man bars - The legendary \"Spanky's Wine Bar\" celebrating our 10th year!\r\n\r\nLead by notorious \"Admiral Painjoy\", our village is a large, group of theme camps with something for everybody; The Camp for Sensual Pleasures (The Orgasmator Experience and Eros Tangier), Camp Stupid (flaming minions art installation and wine & cheese parties), Hello Camp (hilarious name badges - since 1999), The Buffer Zone (car buffer massage), Body Painting, Camp Lola (massage, grilled cheese, cattle prodding), The PlayaQ (FinalQ).\r\n\r\nSpanky's hosts a myriad of events:\r\nSpank U!, MPR (Morning Painjoy Radio), Many great DJs, The Festival of Bubastis (FemDom fetish party), Spank-dat-Bootie - (mash-up music party DJ'd by Adrien Roberts), The Chapel of Smoke and Wine-Down Party.\r\n\r\nAnd playa-famous toys/structures, The Chairway to Heaven Tower, The Teeter Totter of Death, The Spank-o-Matic machine, the Latex Vac-u-Bed, The Playa-Penthouse, The Orgasmator, and 5 art-cars.",
+        "burnermap_location": {
+            "string": "2:30 & Fire",
+            "gps_longitude": -119.19362501558332,
+            "gps_latitude": 40.780926910423005
+        }
     },
     {
         "uid": "a1X0V000003HBu2UAG",
@@ -10680,7 +15348,12 @@
         "url": "https://www.facebook.com/CelticChaosCommunity/",
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "\u200bIrish theme camp Celtic Chaos present 'ENCHANTED KINGDOM' a world of Celtic mysticism and magic, where Irish folklore will come to life on the Playa. A domain of fairy forts, a magic toadstool, a causeway and forest of enchantment that will leave you spellbound. Of course we wouldn't be Celtic Chaos without a touch o'blarney... you can expect a mighty good session and epic sound."
+        "description": "​Irish theme camp Celtic Chaos present 'ENCHANTED KINGDOM' a world of Celtic mysticism and magic, where Irish folklore will come to life on the Playa. A domain of fairy forts, a magic toadstool, a causeway and forest of enchantment that will leave you spellbound. Of course we wouldn't be Celtic Chaos without a touch o'blarney... you can expect a mighty good session and epic sound.",
+        "burnermap_location": {
+            "string": "10:00 & Dance",
+            "gps_longitude": -119.21002889073623,
+            "gps_latitude": 40.796287601184346
+        }
     },
     {
         "uid": "a1X0V000003HCtyUAG",
@@ -10689,7 +15362,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Diego",
-        "description": "This camp is about jet-fuel coffee and questionable clairvoyance. We'll help you while away a dusty afternoon, then send you off with grounds in your teeth, and a fortune you won't forget."
+        "description": "This camp is about jet-fuel coffee and questionable clairvoyance. We'll help you while away a dusty afternoon, then send you off with grounds in your teeth, and a fortune you won't forget.",
+        "burnermap_location": {
+            "string": "3:00 & Portal",
+            "gps_longitude": -119.19925849296976,
+            "gps_latitude": 40.781298520887006
+        }
     },
     {
         "uid": "a1X0V000003HBRPUA4",
@@ -10707,7 +15385,12 @@
         "url": "https://www.facebook.com/GauchosDelFuego/",
         "contact_email": null,
         "hometown": "Buenos Aires (but there are people from other cities too)",
-        "description": "Barrio Gaucho, Fuego Austral\u00b4s community at Burningman. Come by to meet Latin American burners and share some mates every morning!"
+        "description": "Barrio Gaucho, Fuego Austral´s community at Burningman. Come by to meet Latin American burners and share some mates every morning!",
+        "burnermap_location": {
+            "string": "5:45 & Juju",
+            "gps_longitude": -119.21783460409515,
+            "gps_latitude": 40.775512035316275
+        }
     },
     {
         "uid": "a1X0V000003H4RwUAK",
@@ -10734,7 +15417,12 @@
         "url": "http://www.tylersculpture.com",
         "contact_email": "thunderbirdssculpture@gmail.com",
         "hometown": "Haverstraw",
-        "description": "Thunderbirds - Art support camp\nTotem Orchestra - Art support camp"
+        "description": "Thunderbirds - Art support camp\nTotem Orchestra - Art support camp",
+        "burnermap_location": {
+            "string": "7:15 & Awe",
+            "gps_longitude": -119.21714846900358,
+            "gps_latitude": 40.78554406171004
+        }
     },
     {
         "uid": "a1X0V000002rkEBUAY",
@@ -10743,7 +15431,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "We are based out of the Seattle area in Washington State",
-        "description": "Heart Beats is a small playa family offering a cuddle dome with ambient and downtempo tunes aimed at opening the heart, mind, and soul. We're offering a safe space to relax and get real with nightly music, daytime activities, and 24 hour good vibes. Lift your spirits, lift your neighbor's spirits, elevate the collective, and chill."
+        "description": "Heart Beats is a small playa family offering a cuddle dome with ambient and downtempo tunes aimed at opening the heart, mind, and soul. We're offering a safe space to relax and get real with nightly music, daytime activities, and 24 hour good vibes. Lift your spirits, lift your neighbor's spirits, elevate the collective, and chill.",
+        "burnermap_location": {
+            "string": "3:00 & Awe",
+            "gps_longitude": -119.1990767057636,
+            "gps_latitude": 40.78090302097891
+        }
     },
     {
         "uid": "a1X0V000003H96UUAS",
@@ -10752,7 +15445,7 @@
         "url": "http://www.campp3.com",
         "contact_email": "questions@campp3.com",
         "hometown": "Denver",
-        "description": "Do you like to play dress up?  Then come join us for our annual Wedding Dress Wednesday Parade.  Our very own Princes S. Stephanie kicks off our Annual Parade with a Champagne Toasts followed by a short dancing procession to the chapel.  Who gets married\u2026.does it really matter?  We have pretty dresses and champagne."
+        "description": "Do you like to play dress up?  Then come join us for our annual Wedding Dress Wednesday Parade.  Our very own Princes S. Stephanie kicks off our Annual Parade with a Champagne Toasts followed by a short dancing procession to the chapel.  Who gets married….does it really matter?  We have pretty dresses and champagne."
     },
     {
         "uid": "a1X0V000003HFt8UAG",
@@ -10761,7 +15454,12 @@
         "url": "http://www.facebook.com/shipwrecktikilounge",
         "contact_email": "bmshipwrecktikilounge@gmail.com",
         "hometown": "Oakland",
-        "description": "Step into a mysterious lost world at the Shipwreck Tiki Lounge! Enjoy alluring music while sipping exotic libations. But beware of cannibals!"
+        "description": "Step into a mysterious lost world at the Shipwreck Tiki Lounge! Enjoy alluring music while sipping exotic libations. But beware of cannibals!",
+        "burnermap_location": {
+            "string": "7:30 & Portal",
+            "gps_longitude": -119.1994343069632,
+            "gps_latitude": 40.78095307484269
+        }
     },
     {
         "uid": "a1X0V000002rkIrUAI",
@@ -10770,7 +15468,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "NYC-TLV- SF-LA-BERLIN",
-        "description": "REBOOT - Home of Touchy Blinky and Raydulum!"
+        "description": "REBOOT - Home of Touchy Blinky and Raydulum!",
+        "burnermap_location": {
+            "string": "7:00 & Awe",
+            "gps_longitude": -119.21687756988142,
+            "gps_latitude": 40.78451439445373
+        }
     },
     {
         "uid": "a1X0V000002rkcXUAQ",
@@ -10788,7 +15491,12 @@
         "url": null,
         "contact_email": "blackrockcityzoo@gmail.com",
         "hometown": "FRANCE",
-        "description": "Zoo Camp - animal chilled zone - happy music and bar - sunset parties from Tuesday to Friday."
+        "description": "Zoo Camp - animal chilled zone - happy music and bar - sunset parties from Tuesday to Friday.",
+        "burnermap_location": {
+            "string": "9:45 & Lustrate",
+            "gps_longitude": -119.21432999528908,
+            "gps_latitude": 40.800726522968205
+        }
     },
     {
         "uid": "a1Xd0000002rjNKEAY",
@@ -10797,7 +15505,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Laguna Beach",
-        "description": "OHM Home. Happy dancing freaks."
+        "description": "OHM Home. Happy dancing freaks.",
+        "burnermap_location": {
+            "string": "9:45 & Lustrate",
+            "gps_longitude": -119.21432999528908,
+            "gps_latitude": 40.800726522968205
+        }
     },
     {
         "uid": "a1X0V000003H8UVUA0",
@@ -10806,7 +15519,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Ibiza",
-        "description": "Ibiza Dreamers brings the islands vibe to the playa in a Moroccan oasis replica."
+        "description": "Ibiza Dreamers brings the islands vibe to the playa in a Moroccan oasis replica.",
+        "burnermap_location": {
+            "string": "9:45 & Lustrate",
+            "gps_longitude": -119.21432999528908,
+            "gps_latitude": 40.800726522968205
+        }
     },
     {
         "uid": "a1X0V000003HBTGUA4",
@@ -10815,7 +15533,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Northern California, Nevada, and seas beyond",
-        "description": "We are an all-inclusive resort community located on the beautiful shores of Black Rock City, NV."
+        "description": "We are an all-inclusive resort community located on the beautiful shores of Black Rock City, NV.",
+        "burnermap_location": {
+            "string": "9:45 & Lustrate",
+            "gps_longitude": -119.21432999528908,
+            "gps_latitude": 40.800726522968205
+        }
     },
     {
         "uid": "a1X0V000003H8epUAC",
@@ -10833,7 +15556,7 @@
         "url": "https://www.facebook.com/bigimaginationfoundation",
         "contact_email": "info@bigimagination.org",
         "hometown": null,
-        "description": "747 Big Imagination.. \r\nThe sky's the limit, and welcome about the \"747 Experience\". entering the 747 aircraft, the largest moving art car ever to grace Burning Man, each visitor will be checked onto the plane, and through the Insecurity Checkpoint where they can receive hugs and praise from our crew members and volunteers. Proceeding further into the 747 fuselage, they will be asked to fill out an Emotional Baggage Tag, to let go of anything holding them back. \u00a0Once completed, they hang the tag on the wall of baggage handles. Next, a flight attendant asks them for their destination (where they are going on their journey through life), which will be shared on a Boarding Pass. \u00a0This pass is hung onto the Destination wall. Once completed, the traveler is given a pair of airplane wings. \r\nCome and be inspired, and dream of what is possible, while letting go of the things that hold you back in life,"
+        "description": "747 Big Imagination.. \r\nThe sky's the limit, and welcome about the \"747 Experience\". entering the 747 aircraft, the largest moving art car ever to grace Burning Man, each visitor will be checked onto the plane, and through the Insecurity Checkpoint where they can receive hugs and praise from our crew members and volunteers. Proceeding further into the 747 fuselage, they will be asked to fill out an Emotional Baggage Tag, to let go of anything holding them back.  Once completed, they hang the tag on the wall of baggage handles. Next, a flight attendant asks them for their destination (where they are going on their journey through life), which will be shared on a Boarding Pass.  This pass is hung onto the Destination wall. Once completed, the traveler is given a pair of airplane wings. \r\nCome and be inspired, and dream of what is possible, while letting go of the things that hold you back in life,"
     },
     {
         "uid": "a1X0V000003H3LEUA0",
@@ -10842,7 +15565,12 @@
         "url": "http://serenitygamecamp.blogspot.com/",
         "contact_email": "slickjack@serenitygiantgamecamp.com",
         "hometown": "NY,NY",
-        "description": "Serenity Giant Game Camp\r\nGiant Game Camp is back this year with more games and new events each day. Hang out and enjoy the games you played as a kid. Picture a giant size Connect 4, Jenga, Backgammon  or a Checker Board, you have to walk on and move your pieces. No more searching for people who aren't embarrassed to play kids games. Check calendar for the events. Watch for the Mutant Vehicle pulling a Giant Connect 4"
+        "description": "Serenity Giant Game Camp\r\nGiant Game Camp is back this year with more games and new events each day. Hang out and enjoy the games you played as a kid. Picture a giant size Connect 4, Jenga, Backgammon  or a Checker Board, you have to walk on and move your pieces. No more searching for people who aren't embarrassed to play kids games. Check calendar for the events. Watch for the Mutant Vehicle pulling a Giant Connect 4",
+        "burnermap_location": {
+            "string": "7:45 & Dance",
+            "gps_longitude": -119.21973390021368,
+            "gps_latitude": 40.787903636408664
+        }
     },
     {
         "uid": "a1X0V000003HDFuUAO",
@@ -10851,7 +15579,12 @@
         "url": "https://www.facebook.com/CampPendant/",
         "contact_email": null,
         "hometown": "Oakland & Laguna Niguel",
-        "description": "Welcome to Camp Pendant, our Best Little Camp On The Playa! Come by and pick up one of this year's pendants, rest your weary feet, and tell us how your year has been. While you're here, don't forget to pay the *all new* Gifting Tree a visit. Whether you take a little something or leave a little something, she's here to make everyone's day a little brighter."
+        "description": "Welcome to Camp Pendant, our Best Little Camp On The Playa! Come by and pick up one of this year's pendants, rest your weary feet, and tell us how your year has been. While you're here, don't forget to pay the *all new* Gifting Tree a visit. Whether you take a little something or leave a little something, she's here to make everyone's day a little brighter.",
+        "burnermap_location": {
+            "string": "7:45 & Dance",
+            "gps_longitude": -119.21973390021368,
+            "gps_latitude": 40.787903636408664
+        }
     },
     {
         "uid": "a1X0V000003HESfUAO",
@@ -10860,7 +15593,12 @@
         "url": "https://greasefairies.org/",
         "contact_email": "greasefairieslocal77@gmail.com",
         "hometown": "Portland",
-        "description": "Grease Fairies pop culture year.  Listen, look, reach out and touch someone."
+        "description": "Grease Fairies pop culture year.  Listen, look, reach out and touch someone.",
+        "burnermap_location": {
+            "string": "7:15 & Hallowed",
+            "gps_longitude": -119.22317725804663,
+            "gps_latitude": 40.78494634491609
+        }
     },
     {
         "uid": "a1X0V000003HFGuUAO",
@@ -10896,7 +15634,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Truckee",
-        "description": "Support camp for the Playa Blacksmith Shop."
+        "description": "Support camp for the Playa Blacksmith Shop.",
+        "burnermap_location": {
+            "string": "9:45 & Dance",
+            "gps_longitude": -119.21167388272448,
+            "gps_latitude": 40.795864495461
+        }
     },
     {
         "uid": "a1X0V000003H2VrUAK",
@@ -10905,7 +15648,12 @@
         "url": null,
         "contact_email": "auntlisac@gmail.com",
         "hometown": "San Carlos",
-        "description": "Love Bubble - A safe haven for human connection and self-discovery with a focus on the healing power of love and compassion."
+        "description": "Love Bubble - A safe haven for human connection and self-discovery with a focus on the healing power of love and compassion.",
+        "burnermap_location": {
+            "string": "9:45 & Dance",
+            "gps_longitude": -119.21167388272448,
+            "gps_latitude": 40.795864495461
+        }
     },
     {
         "uid": "a1X0V000002rkQqUAI",
@@ -10914,7 +15662,12 @@
         "url": null,
         "contact_email": "jipangu.green.tea.sake@gmail.com",
         "hometown": "Las Vegas",
-        "description": "Enjoy the best green tea and sake on the playa in our relaxing and welcoming tea lounge.  Take some time to visit our Bijou Boutique's collection of fine jewelry, and join one of our artists to make your own."
+        "description": "Enjoy the best green tea and sake on the playa in our relaxing and welcoming tea lounge.  Take some time to visit our Bijou Boutique's collection of fine jewelry, and join one of our artists to make your own.",
+        "burnermap_location": {
+            "string": "6:00 & Eulogy",
+            "gps_longitude": -119.21657960060574,
+            "gps_latitude": 40.77904267712541
+        }
     },
     {
         "uid": "a1X0V000002rkF4UAI",
@@ -10923,7 +15676,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Las Vegas",
-        "description": "Candy Land - Offering CANDY, shade, conversation and cold water."
+        "description": "Candy Land - Offering CANDY, shade, conversation and cold water.",
+        "burnermap_location": {
+            "string": "6:00 & Eulogy",
+            "gps_longitude": -119.21657960060574,
+            "gps_latitude": 40.77904267712541
+        }
     },
     {
         "uid": "a1X0V000003HDtGUAW",
@@ -10977,7 +15735,12 @@
         "url": "http://www.houstonburners.org/houville-burning-man-theme-camp/",
         "contact_email": "houville@houstonburners.org",
         "hometown": "Houston",
-        "description": "Curious about the new competitive sport of hobbyhorsing that's taking Finland by storm? Come to Houville and challenge one of our Texans to try our equestrian jumps with you on our Dr. Seuss-themed stick horses!"
+        "description": "Curious about the new competitive sport of hobbyhorsing that's taking Finland by storm? Come to Houville and challenge one of our Texans to try our equestrian jumps with you on our Dr. Seuss-themed stick horses!",
+        "burnermap_location": {
+            "string": "9:15 & Juju",
+            "gps_longitude": -119.21783835609293,
+            "gps_latitude": 40.7976868747659
+        }
     },
     {
         "uid": "a1X0V000003HFKSUA4",
@@ -11022,7 +15785,12 @@
         "url": null,
         "contact_email": null,
         "hometown": null,
-        "description": "We are a group of friends that enjoy lifting people to the moon. Come join us and climb our scaffolding to get a lay of the land!"
+        "description": "We are a group of friends that enjoy lifting people to the moon. Come join us and climb our scaffolding to get a lay of the land!",
+        "burnermap_location": {
+            "string": "3:15 & Fire",
+            "gps_longitude": -119.19748535810336,
+            "gps_latitude": 40.77759621181311
+        }
     },
     {
         "uid": "a1X0V000002rkoxUAA",
@@ -11121,7 +15889,10 @@
         "url": null,
         "contact_email": null,
         "hometown": "San Francisco",
-        "description": "I don't think we want to be listed on the website. just the printed map. 2017 printed map name TBD later this summer."
+        "description": "I don't think we want to be listed on the website. just the printed map. 2017 printed map name TBD later this summer.",
+        "burnermap_location": {
+            "string": "6:15 & Esplanade"
+        }
     },
     {
         "uid": "a1X0V000002rmNKUAY",
@@ -11139,7 +15910,12 @@
         "url": "http://www.whitebronco.life",
         "contact_email": "whitebronco310@gmail.com",
         "hometown": "San Francisco",
-        "description": "Welcome to White Bronco! We will host daily DJ events, performances, and the first annual 7:30 sector Bronco Chase. If you are a performer or a musician we encourage you to perform at our camp!  \n\nWe are also looking for potential members who are willing to pay dues, carry out daily camp responsibilities, and help with breakdown. This is not a catered camp and we expect all members to do their part.\n\nWe look forward to hearing from you....CONNECT!"
+        "description": "Welcome to White Bronco! We will host daily DJ events, performances, and the first annual 7:30 sector Bronco Chase. If you are a performer or a musician we encourage you to perform at our camp!  \n\nWe are also looking for potential members who are willing to pay dues, carry out daily camp responsibilities, and help with breakdown. This is not a catered camp and we expect all members to do their part.\n\nWe look forward to hearing from you....CONNECT!",
+        "burnermap_location": {
+            "string": "7:30 & Portal",
+            "gps_longitude": -119.1994343069632,
+            "gps_latitude": 40.78095307484269
+        }
     },
     {
         "uid": "a1X0V000002sy6WUAQ",
@@ -11184,7 +15960,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Reno",
-        "description": "Every action has a reaction; every motion has an emotion. Move and laugh in our bizarre playland."
+        "description": "Every action has a reaction; every motion has an emotion. Move and laugh in our bizarre playland.",
+        "burnermap_location": {
+            "string": "2:45 & Eulogy",
+            "gps_longitude": -119.19540745787381,
+            "gps_latitude": 40.78008938358524
+        }
     },
     {
         "uid": "a1X0V000003H2iRUAS",
@@ -11283,7 +16064,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Portland OR, Los Angeles CA &  S. Dennis MA",
-        "description": "Come express yourself on canvas and paint on the Wall! Supplies are provided for this community art project, all we need is you!"
+        "description": "Come express yourself on canvas and paint on the Wall! Supplies are provided for this community art project, all we need is you!",
+        "burnermap_location": {
+            "string": "2:15 & Eulogy",
+            "gps_longitude": -119.19356313857256,
+            "gps_latitude": 40.78250469590598
+        }
     },
     {
         "uid": "a1X0V000003HCXnUAO",
@@ -11292,7 +16078,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Honolulu",
-        "description": "Pele's Fire: Celebrating the 5 elements of Fire, Water, Wind, Earth, and Aether by providing shady place to rest, musical performances, flow and fire workshops, a spiritual grounding zone, and a double rainbow of interactive lights art exhibit."
+        "description": "Pele's Fire: Celebrating the 5 elements of Fire, Water, Wind, Earth, and Aether by providing shady place to rest, musical performances, flow and fire workshops, a spiritual grounding zone, and a double rainbow of interactive lights art exhibit.",
+        "burnermap_location": {
+            "string": "3:45 & Eulogy",
+            "gps_longitude": -119.20120359348034,
+            "gps_latitude": 40.77672504385827
+        }
     },
     {
         "uid": "a1X0V000003HG17UAG",
@@ -11355,7 +16146,12 @@
         "url": "http://www.devachanlounge.com",
         "contact_email": "contact@devachanlounge.com",
         "hometown": "San Diego, Bay Area, Oregon",
-        "description": "The \"dwelling of the gods\" of Indo-Tibetan theosophy\r\nA place of authenticity, love, and connection.\r\nA home on the playa where we get to be our best selves."
+        "description": "The \"dwelling of the gods\" of Indo-Tibetan theosophy\r\nA place of authenticity, love, and connection.\r\nA home on the playa where we get to be our best selves.",
+        "burnermap_location": {
+            "string": "4:45 & Juju",
+            "gps_longitude": -119.20900874162534,
+            "gps_latitude": 40.77274414945459
+        }
     },
     {
         "uid": "a1X0V000002rk6CUAQ",
@@ -11373,7 +16169,12 @@
         "url": "http://www.campofosho.com/",
         "contact_email": null,
         "hometown": "Seattle",
-        "description": "We are Camp Ofosho!"
+        "description": "We are Camp Ofosho!",
+        "burnermap_location": {
+            "string": "4:15 & Dance",
+            "gps_longitude": -119.20487286839162,
+            "gps_latitude": 40.7766562622959
+        }
     },
     {
         "uid": "a1X0V000003H8asUAC",
@@ -11382,7 +16183,12 @@
         "url": "http://www.buddhacamp.org",
         "contact_email": "taralynn@buddhacamp.org",
         "hometown": "Seattle",
-        "description": "BuddhaCamp @ the Lotus Dome\n\nEvery human being can manifest their full potential and live a life of true happiness. Come learn, play, and chant with us at the Lotus Dome. Everyone is invited to stretch their body, mind, and spirit. \n\nEnjoy fresh roasted espresso or an Italian soda in our Moroccan cafe, take a yoga or self-defense class, and while away your day in the shade as you find your inner Buddha."
+        "description": "BuddhaCamp @ the Lotus Dome\n\nEvery human being can manifest their full potential and live a life of true happiness. Come learn, play, and chant with us at the Lotus Dome. Everyone is invited to stretch their body, mind, and spirit. \n\nEnjoy fresh roasted espresso or an Italian soda in our Moroccan cafe, take a yoga or self-defense class, and while away your day in the shade as you find your inner Buddha.",
+        "burnermap_location": {
+            "string": "5:00 & Fire",
+            "gps_longitude": -119.2104773757292,
+            "gps_latitude": 40.77564177144846
+        }
     },
     {
         "uid": "a1X0V000002rkLCUAY",
@@ -11391,7 +16197,12 @@
         "url": "https://www.facebook.com/groups/977727452335186",
         "contact_email": null,
         "hometown": "Reno",
-        "description": "Learn more about the Burntanical Garden Camp at our website"
+        "description": "Learn more about the Burntanical Garden Camp at our website",
+        "burnermap_location": {
+            "string": "5:00 & Breath",
+            "gps_longitude": -119.2095783880404,
+            "gps_latitude": 40.77818282150993
+        }
     },
     {
         "uid": "a1X0V000003H5JeUAK",
@@ -11409,7 +16220,12 @@
         "url": null,
         "contact_email": "teddiesonteddies@gmail.com",
         "hometown": "San Francisco",
-        "description": "Teddies on Teddies... oh my! Join us in discovering the \"stuffing\" of life. \r\n\r\nEnjoy a drink at our bar, snooze in the cuddle puddle, or admire the view from the top of our dome.  We offer fluff and frills and so much more."
+        "description": "Teddies on Teddies... oh my! Join us in discovering the \"stuffing\" of life. \r\n\r\nEnjoy a drink at our bar, snooze in the cuddle puddle, or admire the view from the top of our dome.  We offer fluff and frills and so much more.",
+        "burnermap_location": {
+            "string": "5:00 & Breath",
+            "gps_longitude": -119.2095783880404,
+            "gps_latitude": 40.77818282150993
+        }
     },
     {
         "uid": "a1X0V000002rkQRUAY",
@@ -11472,7 +16288,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Carson City",
-        "description": "Battle Born Burners Bar - The Friendliest Bar on the Playa! The Bar with Nevadatude! Join us for Mimosa Monday 1:00 PM - A Formal Event (Formal attire encouraged, think bow tie and flip flops, or go all out with a gown!) and Shot Party and Giant Beer Pong Friday! 2:00 PM Have a shot keep the shot glass!"
+        "description": "Battle Born Burners Bar - The Friendliest Bar on the Playa! The Bar with Nevadatude! Join us for Mimosa Monday 1:00 PM - A Formal Event (Formal attire encouraged, think bow tie and flip flops, or go all out with a gown!) and Shot Party and Giant Beer Pong Friday! 2:00 PM Have a shot keep the shot glass!",
+        "burnermap_location": {
+            "string": "5:45 & Hallowed",
+            "gps_longitude": -119.21677738947514,
+            "gps_latitude": 40.7765556549045
+        }
     },
     {
         "uid": "a1X0V000003HFz6UAG",
@@ -11481,7 +16302,12 @@
         "url": null,
         "contact_email": "playainfo@burningman.org",
         "hometown": "Ssan Francisco",
-        "description": null
+        "description": null,
+        "burnermap_location": {
+            "string": "1:00 & Center Camp Plaza",
+            "gps_longitude": -119.2132697203187,
+            "gps_latitude": 40.78112267239388
+        }
     },
     {
         "uid": "a1X0V000003HDrFUAW",
@@ -11490,7 +16316,12 @@
         "url": null,
         "contact_email": null,
         "hometown": "Phoenix",
-        "description": "Make a lantern out of a gourd. These are beautiful, last for years, and are yours to keep."
+        "description": "Make a lantern out of a gourd. These are beautiful, last for years, and are yours to keep.",
+        "burnermap_location": {
+            "string": "3:45 & Breath",
+            "gps_longitude": -119.20219984531452,
+            "gps_latitude": 40.77854809835442
+        }
     },
     {
         "uid": "a1X0V000003H6loUAC",
@@ -11499,7 +16330,12 @@
         "url": "http://campmerkabah.com/",
         "contact_email": "elischeier@gmail.com",
         "hometown": "NY/LA",
-        "description": "Camp Merkabah is a tribe committed to curate transformational experiences on and off the Playa.  All that we do as a community is in service to the expansion of each and every human at every moment by means of nurturing love, compassion and peace. The modalities of our tribal members include workshops on: meditation, energy medicine, ceremony, sacred dance, sound healing, yoga; talks on: the human body, biological systems, stewardship, health, wellness, movement, consciousness, and healing through food."
+        "description": "Camp Merkabah is a tribe committed to curate transformational experiences on and off the Playa.  All that we do as a community is in service to the expansion of each and every human at every moment by means of nurturing love, compassion and peace. The modalities of our tribal members include workshops on: meditation, energy medicine, ceremony, sacred dance, sound healing, yoga; talks on: the human body, biological systems, stewardship, health, wellness, movement, consciousness, and healing through food.",
+        "burnermap_location": {
+            "string": "4:00 & Genuflect",
+            "gps_longitude": -119.20249788809402,
+            "gps_latitude": 40.7750065078431
+        }
     },
     {
         "uid": "a1X0V000003HG5dUAG",
@@ -11517,7 +16353,12 @@
         "url": null,
         "contact_email": "wearecampafterglow@gmail.com",
         "hometown": "Oakland",
-        "description": "Afterglow, that wonderful feeling that lingers long after the experience has elapsed\u2014a feeling that only occurs when the mind, body, and soul has been ever so stimulated. Our gift to the Playa and to its dear citizens is Afterglow!"
+        "description": "Afterglow, that wonderful feeling that lingers long after the experience has elapsed—a feeling that only occurs when the mind, body, and soul has been ever so stimulated. Our gift to the Playa and to its dear citizens is Afterglow!",
+        "burnermap_location": {
+            "string": "4:15 & Ceremony",
+            "gps_longitude": -119.2049861228335,
+            "gps_latitude": 40.77730831015283
+        }
     },
     {
         "uid": "a1X0V000003H9tWUAS",
