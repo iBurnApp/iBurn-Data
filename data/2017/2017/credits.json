@@ -1,12 +1,12 @@
 [
 	{
 		"name": "Andrew Johnstone / Haggis",
-		"url": "http://architecturalartsguild.com/about/",
+		"url": "https://www.facebook.com/andrew.johnstone.184",
 		"blurb": "Design Steward of the Man"
 	},
 	{
 		"name": "Chris Ballinger",
-		"url": "http://chrisballinger.info",
+		"url": "https://ballinger.io",
 		"blurb": "iBurn iOS"
 	},
 	{
@@ -20,24 +20,14 @@
 		"blurb": "iBurn Data"
 	},
 	{
-		"name": "Savannah Henderson",
-		"url": "http://www.savannahhenderson.com",
-		"blurb": "iBurn Maps"
-	},
-	{
 		"name": "BurnerMap",
 		"url": "https://burnermap.com/",
 		"blurb": "Camp Location Data"
 	},
 	{
-		"name": "2015 Unofficial Map",
-		"url": "https://www.google.com/maps/d/viewer?mid=zkszwyFJ-h7E.kaxgaF8gR5Sw",
-		"blurb": "Camp Location Data"
-	},
-	{
 		"name": "PlayaEvents API",
 		"url": "http://playaevents.burningman.org/api/0.2/docs/",
-		"blurb": "Art Camp & Event Data"
+		"blurb": "Art, Camp & Event Data"
 	},
 	{
 		"name": "Matthew Goodman",
