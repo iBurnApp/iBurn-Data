@@ -2186,7 +2186,7 @@
         "uid": "a1X0V000003H4brUAC",
         "year": 2017,
         "name": "Big Puffy Yellow",
-        "url": "https://www.facebook.com/Big-Puffy-Yellow-558193654250611/–",
+        "url": "https://www.facebook.com/Big-Puffy-Yellow-558193654250611/",
         "contact_email": null,
         "hometown": "Charlotte, NYC, SF, Seattle, Chicago, NOLA, London, Las Vegas, Philadelphia, etc.",
         "description": "What began as a Burning Man Theme Camp in 1999 has grown into a collective of Burners, artists, DJs, performers and general badasses who love all things Big, Puffy and Yellow!",
