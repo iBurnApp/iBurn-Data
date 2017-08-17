@@ -6,7 +6,7 @@
 	},
 	{
 		"name": "Chris Ballinger",
-		"url": "https://ballinger.io",
+		"url": "https://twitter.com/chrisballingr",
 		"blurb": "iBurn iOS"
 	},
 	{
@@ -33,5 +33,10 @@
 		"name": "Matthew Goodman",
 		"url": "http://craneium.net/index.php?option=com_content&view=article&id=109&Itemid=116",
 		"blurb": "Playa Time Lapse Video"
+	},
+	{
+		"name": "Jim Tierney",
+		"url": "https://burningman.org/event/brc/2017-art-audio-guide/",
+		"blurb": "Art Audio Guide"
 	}
 ]
