@@ -10238,7 +10238,7 @@
         "hometown": "San Francisco",
         "description": "Salon Soleil is a welcoming space for personal exploration, self-expression, and interaction with other organic beings. We invite the Black Rock City community to visit our friendly, comfy quadruple Do-Me Domes any time, shake your bootie at our funk dance party, learn at our East Asian calligraphy workshop, or our Healing Faire with massage, readings, and personal and relationship counseling.  Also, come feed your power hungry devices and fill depleted batteries at our solar charging station!",
         "burnermap_location": {
-            "string": "5:40 & Genuflect",
+            "string": "5:55 & Genuflect",
             "gps_longitude": -119.21568531724557,
             "gps_latitude": 40.776764959530425
         }
