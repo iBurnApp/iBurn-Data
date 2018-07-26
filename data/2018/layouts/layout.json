@@ -25,6 +25,7 @@
   "center_camp":{
     "distance": 2907,
     "rod_road_distance":750,
+    "rod_road_name":"Rod’s Ring Road",
     "cafe_plaza_radius":330,
     "cafe_radius":110,
     "six_six_width": 25,
@@ -44,73 +45,73 @@
       "distance":2940,
       "segments":[["2:00","6:00"],["6:00","10:00"]],
       "ref":"a",
-      "name": "Awe"
+      "name": "Algorithm"
     },
     {
       "distance":3180,
       "segments":[["2:00","5:30"],["6:30","10:00"]],
       "ref":"b",
-      "name": "Breath"
+      "name": "Bender"
     },
     {
       "distance":3420,
       "segments":[["2:00","6:00"],["6:00","10:00"]],
       "ref":"c",
-      "name": "Ceremony"
+      "name": "Cylon"
     },
     {
       "distance":3660,
       "segments":[["2:00","6:00"],["6:00","10:00"]],
       "ref":"d",
-      "name": "Dance"
+      "name": "Dewey"
     },
     {
       "distance":3900,
       "segments":[["2:00","10:00"]],
       "ref":"e",
-      "name": "Eulogy"
+      "name": "Elektro"
     },
     {
       "distance":4140,
       "segments":[["2:30","3:30"],["4:00","5:00"],["7:00","8:00"],["8:30","9:30"]],
       "ref":"f",
-      "name": "Fire"
+      "name": "Fribo"
     },
     {
       "distance":4380,
       "segments":[["2:00","10:00"]],
       "ref":"g",
-      "name": "Genuflect"
+      "name": "Gort"
     },
     {
       "distance":4620,
       "segments":[["2:00","10:00"]],
       "ref":"h",
-      "name": "Hallowed"
+      "name": "HAL"
     },
     {
       "distance":4860,
       "segments":[["2:00","10:00"]],
       "ref":"i",
-      "name": "Inspirit"
+      "name": "Iron Giant"
     },
     {
       "distance":5100,
       "segments":[["2:00","10:00"]],
       "ref":"j",
-      "name": "Juju"
+      "name": "Johnny 5"
     },
     {
       "distance":5340,
       "segments":[["2:00","10:00"]],
       "ref":"k",
-      "name": "Kundalini"
+      "name": "Kinoshita"
     },
     {
       "distance":5580,
       "segments":[["2:00","10:00"]],
       "ref":"l",
-      "name": "Lustrate"
+      "name": "Leon"
     }
   ],
   "tStreets":[
@@ -180,43 +181,43 @@
       "name":"9:00 Civic Plaza",
       "time":"9:00",
       "distance":"b",
-      "diameter": 250
+      "diameter": 200
     },
     {
       "name":"3:00 Civic Plaza",
       "time":"3:00",
       "distance":"b",
-      "diameter": 250
+      "diameter": 200
     },
     {
       "name":"4:30 Art Plaza",
       "time":"4:30",
       "distance":"g",
-      "diameter": 250
+      "diameter": 200
     },
     {
       "name":"7:30 Art Plaza",
       "time":"7:30",
       "distance":"g",
-      "diameter": 250
+      "diameter": 200
     },
     {
       "name":"9:00 Public Plaza",
       "time":"9:00",
       "distance":"g",
-      "diameter": 250
+      "diameter": 200
     },
     {
       "name":"6:00 Public Plaza",
       "time":"6:00",
       "distance":"i",
-      "diameter": 250
+      "diameter": 200
     },
     {
       "name":"3:00 Public Plaza",
       "time":"3:00",
       "distance":"g",
-      "diameter": 250
+      "diameter": 200
     },
     {
       "name":"The Man Plaza",
