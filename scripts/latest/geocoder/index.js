@@ -1,5 +1,5 @@
 var Geocoder = require('./geocoder.js');
-var layoutFile = require('../../../data/2015/geo/layout.json');
+var layoutFile = require('../../../data/2018/layouts/layout.json');
 
 /**
  * This can take a few seconds to setup all the necessary geo files.
