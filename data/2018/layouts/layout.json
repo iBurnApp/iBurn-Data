@@ -224,6 +224,12 @@
       "time":"12:00",
       "distance": 0,
       "diameter": 400
+    },
+    {
+      "name":"Center Camp Plaza",
+      "time":"6:00",
+      "distance":"a",
+      "diameter": 600
     }
   ],
   "portals":[
