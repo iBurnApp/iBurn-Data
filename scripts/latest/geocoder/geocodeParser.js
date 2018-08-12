@@ -21,7 +21,7 @@ module.exports.parse = function(string) {
   //Distance regex 100'
   var feetRegEx = new RegExp("[0-9]*(?=')");
   //featureRegEx captures streets A-L Rod's road and plazas when they begin the string and are followed by ' &' or are at the end
-  var featureRegEx = new RegExp("(^[a-l|rod|p].*)|(^.*plaza.*$)");
+  var featureRegEx = new RegExp("(^[a-l|rod|p|center].*)|(^.*[plaza|portal].*$)");
 
   var split = string.split(/(?: @|&)/);
   if (split.length > 1) {

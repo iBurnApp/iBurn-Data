@@ -39,7 +39,7 @@ Geocoder.prototype.streetIntersectionToLatLon = function(timeString, featureName
   featureName = featureName.toLowerCase();
   var timeBearing = utils.timeStringToCompaassDegress(timeString,this.cityBearing);
   var start = this.centerPoint;
-  if (featureName.indexOf("rod") > -1 ||featureName.indexOf("inner") > -1 || featureName.indexOf("66") > -1) {
+  if (featureName.indexOf("rod") > -1 ||featureName.indexOf("inner") > -1 || featureName.indexOf("66") > -1 || featureName.indexOf("center camp") > -1) {
     start = this.centerCamp;
   }
 
@@ -110,7 +110,7 @@ function intersectingPoints(features1,features2) {
 
 Geocoder.prototype.geocode = function(locationString) {
   if (locationString in this.hardcodedLocations) {
-    return this.hardcodedLocations[locationStirng]
+    return this.hardcodedLocations[locationString]
   } else {
     var coder = this;
     var result = Parser.parse(locationString);
