@@ -1,5 +1,5 @@
 var forwardGeocoder = require('./forward.js');
-var hardcodedLocations = require('../../../data/2018/hardcoded_locations.js');
+var hardcodedLocations = require('../../../data/2019/hardcoded_locations.js');
 var reverseGeocoder = require('./reverse.js')
 var prepare = require('./prepare.js');
 

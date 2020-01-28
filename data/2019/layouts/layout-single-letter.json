@@ -7,10 +7,10 @@
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [-119.2065, 40.7864]
+      "coordinates": [-119.205840, 40.785980]
     }
   },
-  "fence_distance": 8160,
+  "fence_distance": 8175,
   "bearing": 45,
   "road_width": 40,
   "entrance_road": {
@@ -23,10 +23,10 @@
     "segments": [["10:30","11:15"]]
   },
   "center_camp":{
-    "distance": 2907,
-    "rod_road_distance":750,
+    "distance": 3026,
+    "rod_road_distance":783,
     "rod_road_name":"Rod’s Ring Road",
-    "cafe_plaza_radius":330,
+    "cafe_plaza_radius":320,
     "cafe_radius":110,
     "six_six_width": 25,
     "six_six_distance":{
@@ -48,67 +48,67 @@
       "name": "A"
     },
     {
-      "distance":3180,
+      "distance":3230,
       "segments":[["2:00","5:30"],["6:30","10:00"]],
       "ref":"b",
       "name": "B"
     },
     {
-      "distance":3420,
+      "distance":3520,
       "segments":[["2:00","6:00"],["6:00","10:00"]],
       "ref":"c",
       "name": "C"
     },
     {
-      "distance":3660,
+      "distance":3810,
       "segments":[["2:00","6:00"],["6:00","10:00"]],
       "ref":"d",
       "name": "D"
     },
     {
-      "distance":3900,
+      "distance":4100,
       "segments":[["2:00","10:00"]],
       "ref":"e",
       "name": "E"
     },
     {
-      "distance":4140,
+      "distance":4340,
       "segments":[["2:30","3:30"],["4:00","5:00"],["7:00","8:00"],["8:30","9:30"]],
       "ref":"f",
       "name": "F"
     },
     {
-      "distance":4380,
+      "distance":4580,
       "segments":[["2:00","10:00"]],
       "ref":"g",
       "name": "G"
     },
     {
-      "distance":4620,
+      "distance":4820,
       "segments":[["2:00","10:00"]],
       "ref":"h",
       "name": "H"
     },
     {
-      "distance":4860,
+      "distance":5060,
       "segments":[["2:00","10:00"]],
       "ref":"i",
       "name": "I"
     },
     {
-      "distance":5100,
+      "distance":5300,
       "segments":[["2:00","10:00"]],
       "ref":"j",
       "name": "J"
     },
     {
-      "distance":5340,
+      "distance":5490,
       "segments":[["2:00","10:00"]],
       "ref":"k",
       "name": "K"
     },
     {
-      "distance":5580,
+      "distance":5680,
       "segments":[["2:00","10:00"]],
       "ref":"l",
       "name": "L"
@@ -190,6 +190,24 @@
       "diameter": 200
     },
     {
+      "name":"4:30 Civic Plaza",
+      "time":"4:30",
+      "distance":"b",
+      "diameter": 200
+    },
+    {
+      "name":"7:30 Civic Plaza",
+      "time":"7:30",
+      "distance":"b",
+      "diameter": 200
+    },
+    {
+      "name":"3:00 Art Plaza",
+      "time":"3:00",
+      "distance":"g",
+      "diameter": 200
+    },
+    {
       "name":"4:30 Art Plaza",
       "time":"4:30",
       "distance":"g",
@@ -214,22 +232,10 @@
       "diameter": 200
     },
     {
-      "name":"3:00 Public Plaza",
-      "time":"3:00",
-      "distance":"g",
-      "diameter": 200
-    },
-    {
       "name":"The Man Plaza",
       "time":"12:00",
       "distance": 0,
       "diameter": 400
-    },
-    {
-      "name":"Center Camp Plaza",
-      "time":"6:00",
-      "distance":"a",
-      "diameter": 600
     }
   ],
   "portals":[
@@ -241,23 +247,23 @@
       "ref":"3portal"
     },
     {
-      "distance":2994.64,
+      "distance":"b",
       "time":"4:30",
-      "angle":30,
+      "angle":20,
       "name":"4:30 Portal",
       "ref":"43portal"
     },
     {
-      "distance":2907,
+      "distance":"b",
       "time":"6:00",
-      "angle":30,
+      "angle":20,
       "name":"6:00 Portal",
       "ref":"6portal"
     },
     {
-      "distance":2994.64,
+      "distance":"b",
       "time":"7:30",
-      "angle":30,
+      "angle":20,
       "name":"7:30 Portal",
       "ref":"73portal"
     },
