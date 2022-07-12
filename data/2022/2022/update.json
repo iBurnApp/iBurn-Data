@@ -1,0 +1,8 @@
+{
+	"art": {"file": "art.json",
+			"updated": "2019-08-20T12:35:00-07:00"},
+	"camps": {"file": "camp.json",
+			  "updated": "2019-08-20T12:34:00-07:00"},
+	"events": {"file": "event.json",
+			   "updated": "2019-08-20T12:34:00-07:00"}
+}

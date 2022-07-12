@@ -1,0 +1,42 @@
+[
+	{
+		"name": "Andrew Johnstone / Haggis",
+		"url": "https://www.facebook.com/andrew.johnstone.184",
+		"blurb": "Design Steward of the Man"
+	},
+	{
+		"name": "Chris Ballinger",
+		"url": "https://twitter.com/chrisballingr",
+		"blurb": "iBurn iOS"
+	},
+	{
+		"name": "David Brodsky",
+		"url": "https://github.com/onlyinamerica",
+		"blurb": "iBurn Android"
+	},
+	{
+		"name": "David Chiles",
+		"url": "https://github.com/davidchiles",
+		"blurb": "iBurn Data & Map"
+	},
+	{
+		"name": "BurnerMap",
+		"url": "https://burnermap.com/",
+		"blurb": "Camp Location Data"
+	},
+	{
+		"name": "PlayaEvents API",
+		"url": "http://playaevents.burningman.org/api/0.2/docs/",
+		"blurb": "Art, Camp & Event Data"
+	},
+	{
+		"name": "Matthew Goodman",
+		"url": "http://craneium.net/index.php?option=com_content&view=article&id=109&Itemid=116",
+		"blurb": "Playa Time Lapse Video"
+	},
+	{
+		"name": "Jim Tierney",
+		"url": "https://burningman.org/event/brc/2017-art-audio-guide/",
+		"blurb": "Art Audio Guide"
+	}
+]
