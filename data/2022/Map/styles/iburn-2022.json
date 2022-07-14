@@ -15,8 +15,8 @@
   "sources": {
     "composite": {"url": "mbtiles://{{mbtiles_path}}", "type": "vector"}
   },
-  "sprite": "asset://{{sprites_path}}",
-  "glyphs": "asset://{{glyphs_path}}/{fontstack}/{range}.pbf",
+  "sprite": "asset://Map/sprites",
+  "glyphs": "asset://Map/glyphs/{fontstack}/{range}.pbf",
   "layers": [
     {
       "id": "background",
