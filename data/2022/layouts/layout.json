@@ -45,73 +45,67 @@
       "distance":2940,
       "segments":[["2:00","6:00"],["6:00","10:00"]],
       "ref":"a",
-      "name": "Andromeda"
+      "name": "Apparition"
     },
     {
       "distance":3230,
       "segments":[["2:00","5:30"],["6:30","10:00"]],
       "ref":"b",
-      "name": "Bacchus"
+      "name": "Breton"
     },
     {
       "distance":3520,
       "segments":[["2:00","6:00"],["6:00","10:00"]],
       "ref":"c",
-      "name": "Cupid"
+      "name": "Cocteau"
     },
     {
       "distance":3810,
       "segments":[["2:00","6:00"],["6:00","10:00"]],
       "ref":"d",
-      "name": "Diana"
+      "name": "Dalí"
     },
     {
       "distance":4100,
       "segments":[["2:00","10:00"]],
       "ref":"e",
-      "name": "Echo"
-    },
-    {
-      "distance":4340,
-      "segments":[["2:30","3:30"],["4:00","5:00"],["7:00","8:00"],["8:30","9:30"]],
-      "ref":"f",
-      "name": "Fortuna"
+      "name": "Enigma"
     },
     {
       "distance":4580,
       "segments":[["2:00","10:00"]],
-      "ref":"g",
-      "name": "Ganymede"
+      "ref":"f",
+      "name": "Fugue"
     },
     {
       "distance":4820,
       "segments":[["2:00","10:00"]],
-      "ref":"h",
-      "name": "Hyacinth"
+      "ref":"g",
+      "name": "Glimmer"
     },
     {
       "distance":5060,
       "segments":[["2:00","10:00"]],
-      "ref":"i",
-      "name": "Icarus"
+      "ref":"h",
+      "name": "Hypnagogia"
     },
     {
       "distance":5300,
       "segments":[["2:00","10:00"]],
-      "ref":"j",
-      "name": "Jove"
+      "ref":"i",
+      "name": "Inception"
     },
     {
-      "distance":5490,
+      "distance":5440,
+      "segments":[["2:00","10:00"]],
+      "ref":"j",
+      "name": "Jarry"
+    },
+    {
+      "distance":5580,
       "segments":[["2:00","10:00"]],
       "ref":"k",
-      "name": "Kronos"
-    },
-    {
-      "distance":5680,
-      "segments":[["2:00","10:00"]],
-      "ref":"l",
-      "name": "Labyrinth"
+      "name": "Kahlo"
     }
   ],
   "tStreets":[
@@ -123,14 +117,14 @@
       "refs":[
         "6:00"
       ],
-      "segments":[[0,2907],[2907,"l"]]
+      "segments":[[0,2907],[2907,"k"]]
     },
     {
       "refs":[
         "3:00",
         "9:00"
       ],
-      "segments":[[0,"l"]]
+      "segments":[[0,"k"]]
     },
     {
       "refs":[
@@ -146,7 +140,7 @@
         "8:30",
         "9:30",
         "10:00"],
-      "segments":[["esplanade","l"]]
+      "segments":[["esplanade","k"]]
     },
     {
       "refs":[
@@ -173,7 +167,7 @@
         "8:45",
         "9:15",
         "9:45"],
-      "segments":[["g","l"]]
+      "segments":[["f","k"]]
     }
   ],
   "plazas":[

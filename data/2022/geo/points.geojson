@@ -1,0 +1,310 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Man",
+                "ref": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.20584000000001,
+                    40.78598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Center Camp",
+                "ref": "centerCamp"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.21358326920554,
+                    40.78011636918136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DPW",
+                "ref": "dpw"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.21743677813966,
+                    40.77076756417667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Services",
+                "ref": "services"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.22592815270374,
+                    40.77719568939565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Black Rock City Airport",
+                "ref": "airport"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.21045835158536,
+                    40.76389459231978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "First Aid (Main)",
+                "ref": "EmergencyClinic"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.20932397168873,
+                    40.77945025844404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "First Aid (3:00)",
+                "ref": "firstAid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.19701315822749,
+                    40.7791780052113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "First Aid (9:00)",
+                "ref": "firstAid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.2146686500161,
+                    40.79278132207318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "First Aid (4:30)",
+                "ref": "firstAid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.20598746326522,
+                    40.77318342133485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "First Aid (7:30)",
+                "ref": "firstAid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.2227409004129,
+                    40.78609044116856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ranger HQ",
+                "ref": "rangerHQ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.21079620889685,
+                    40.78081445672841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ranger Outpost (Berlin)",
+                "ref": "ranger"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.19685772464224,
+                    40.7792956805702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ranger Outpost (Tokyo)",
+                "ref": "ranger"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.21482408360137,
+                    40.79266362281619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Greeters",
+                "ref": "greeters"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.22272706170985,
+                    40.773190184969074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "First Aid (Temple)",
+                "ref": "firstAid"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.2027467984659,
+                    40.78932455967729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "ice"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.19399602109358,
+                    40.777318231841555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "ice"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.2142811180412,
+                    40.78098593765159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "ice"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.21788490132107,
+                    40.79448268852642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Temple",
+                "ref": "temple"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.19940329455126,
+                    40.790853046765434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "bus",
+                "name": "Burner Express Bus"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.22015880778514,
+                    40.77655335670186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "recycle",
+                "name": "Recycle Camp"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.214184921233,
+                    40.77932082938752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "info",
+                "name": "Playa Info"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.2121116951982,
+                    40.780705506930886
+                ]
+            }
+        }
+    ]
+}
