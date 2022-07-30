@@ -10,7 +10,7 @@
       "coordinates": [-119.20274, 40.78703]
     }
   },
-  "fence_distance": 8175,
+  "fence_distance": 8491,
   "bearing": 45,
   "road_width": 40,
   "entrance_road": {
@@ -72,40 +72,41 @@
       "name": "Enigma"
     },
     {
-      "distance":4580,
+      "distance":4590,
       "segments":[["2:00","10:00"]],
       "ref":"f",
       "name": "Fugue"
     },
     {
-      "distance":4820,
+      "distance":4880,
       "segments":[["2:00","10:00"]],
       "ref":"g",
       "name": "Glimmer"
     },
     {
-      "distance":5060,
+      "distance":5170,
       "segments":[["2:00","10:00"]],
       "ref":"h",
       "name": "Hypnagogia"
     },
     {
-      "distance":5300,
+      "distance":5460,
       "segments":[["2:00","10:00"]],
       "ref":"i",
       "name": "Inception"
     },
     {
-      "distance":5440,
+      "distance":5650,
       "segments":[["2:00","10:00"]],
       "ref":"j",
       "name": "Jarry"
     },
     {
-      "distance":5580,
+      "distance":5845,
       "segments":[["2:00","10:00"]],
       "ref":"k",
-      "name": "Kahlo"
+      "name": "Kahlo",
+      "width": 50
     }
   ],
   "tStreets":[
@@ -167,7 +168,8 @@
         "8:45",
         "9:15",
         "9:45"],
-      "segments":[["f","k"]]
+      "segments":[["f","k"]],
+      "width": 15
     }
   ],
   "plazas":[
