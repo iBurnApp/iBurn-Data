@@ -7,10 +7,10 @@
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [-119.205840, 40.785980]
+      "coordinates": [-119.20274, 40.78703]
     }
   },
-  "fence_distance": 8175,
+  "fence_distance": 8491,
   "bearing": 45,
   "road_width": 40,
   "entrance_road": {
@@ -72,46 +72,41 @@
       "name": "E"
     },
     {
-      "distance":4340,
-      "segments":[["2:30","3:30"],["4:00","5:00"],["7:00","8:00"],["8:30","9:30"]],
+      "distance":4590,
+      "segments":[["2:00","10:00"]],
       "ref":"f",
       "name": "F"
     },
     {
-      "distance":4580,
+      "distance":4880,
       "segments":[["2:00","10:00"]],
       "ref":"g",
       "name": "G"
     },
     {
-      "distance":4820,
+      "distance":5170,
       "segments":[["2:00","10:00"]],
       "ref":"h",
       "name": "H"
     },
     {
-      "distance":5060,
+      "distance":5460,
       "segments":[["2:00","10:00"]],
       "ref":"i",
       "name": "I"
     },
     {
-      "distance":5300,
+      "distance":5650,
       "segments":[["2:00","10:00"]],
       "ref":"j",
       "name": "J"
     },
     {
-      "distance":5490,
+      "distance":5845,
       "segments":[["2:00","10:00"]],
       "ref":"k",
-      "name": "K"
-    },
-    {
-      "distance":5680,
-      "segments":[["2:00","10:00"]],
-      "ref":"l",
-      "name": "L"
+      "name": "K",
+      "width": 50
     }
   ],
   "tStreets":[
@@ -123,14 +118,14 @@
       "refs":[
         "6:00"
       ],
-      "segments":[[0,2907],[2907,"l"]]
+      "segments":[[0,2907],[2907,"k"]]
     },
     {
       "refs":[
         "3:00",
         "9:00"
       ],
-      "segments":[[0,"l"]]
+      "segments":[[0,"k"]]
     },
     {
       "refs":[
@@ -146,7 +141,7 @@
         "8:30",
         "9:30",
         "10:00"],
-      "segments":[["esplanade","l"]]
+      "segments":[["esplanade","k"]]
     },
     {
       "refs":[
@@ -173,7 +168,8 @@
         "8:45",
         "9:15",
         "9:45"],
-      "segments":[["g","l"]]
+      "segments":[["f","k"]],
+      "width": 15
     }
   ],
   "plazas":[
