@@ -81,26 +81,6 @@
   },
   {
     "properties": {
-      "name": "First Aid (4:30)",
-      "ref": "firstAid"
-    },
-    "address": {
-      "time": "4:31",
-      "distance": 4670
-    }
-  },
-  {
-    "properties": {
-      "name": "First Aid (7:30)",
-      "ref": "firstAid"
-    },
-    "address": {
-      "time": "7:31",
-      "distance": 4670
-    }
-  },
-  {
-    "properties": {
       "name": "Ranger HQ",
       "ref": "rangerHQ"
     },
@@ -137,16 +117,6 @@
     "address": {
       "time": "6:00",
       "distance": 6600
-    }
-  },
-  {
-    "properties": {
-      "name": "First Aid (Temple)",
-      "ref": "firstAid"
-    },
-    "address": {
-      "time": "11:40",
-      "distance": 1490
     }
   },
   {

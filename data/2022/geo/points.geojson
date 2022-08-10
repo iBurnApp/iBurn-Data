@@ -116,34 +116,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "First Aid (4:30)",
-                "ref": "firstAid"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -119.20288746559574,
-                    40.774233421334834
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "First Aid (7:30)",
-                "ref": "firstAid"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -119.2196411676364,
-                    40.78714044112288
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Ranger HQ",
                 "ref": "rangerHQ"
             },
@@ -194,20 +166,6 @@
                 "coordinates": [
                     -119.21962732859299,
                     40.774240184923464
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "First Aid (Temple)",
-                "ref": "firstAid"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -119.1996467495531,
-                    40.790374559675755
                 ]
             }
         },
