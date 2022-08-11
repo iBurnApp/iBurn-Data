@@ -45,18 +45,13 @@ Next is to take all the geojson files and cram them into vector tiles.
 3. Run this command
 
 ```bash
-docker run -it --rm \
-  -v [PATH TO THIS DIRECTORY]:/data \
-  tippecanoe:latest \
-  tippecanoe --output=/data/2017.mbtiles -f \
-  -L airport:/data/airport.geojson \
-  -L entrance_road:/data/entrance_road.geojson \
-  -L fence:/data/fence.geojson \
-  -L outline:/data/outline.geojson \
-  -L points:/data/points.geojson \
-  -L polygons:/data/polygons.geojson \
-  -L streets:/data/streets.geojson \
-  -L toilets:/data/toilets.geojson \
+  tippecanoe --output=Map/map.mbtiles -f \
+  -L fence:geo/fence.geojson \
+  -L outline:geo/outline.geojson \
+  -L points:geo/points.geojson \
+  -L polygons:geo/polygons.geojson \
+  -L streets:geo/streets.geojson \
+  -L toilets:geo/toilets.geojson \
   -z 14 \
   -Z 4
 ```
