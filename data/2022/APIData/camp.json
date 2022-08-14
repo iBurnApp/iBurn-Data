@@ -255,23 +255,6 @@
         "location_string": "D & 2:45"
     },
     {
-        "uid": "a1X8X00000RTxVIUA1",
-        "year": 2022,
-        "name": "etceTerra",
-        "url": null,
-        "contact_email": null,
-        "hometown": "Austin",
-        "description": null,
-        "location": {
-            "string": "A & 4:15",
-            "frontage": "A",
-            "intersection": "4:15",
-            "intersection_type": "&",
-            "dimensions": null
-        },
-        "location_string": "A & 4:15"
-    },
-    {
         "uid": "a1X8X00000RU2y2UAD",
         "year": 2022,
         "name": "Fractal Regeneration",
@@ -9095,23 +9078,6 @@
         "location_string": "D & 2:45"
     },
     {
-        "uid": "a1X8X00000RTwYpUAL",
-        "year": 2022,
-        "name": "Awkward & Tawdry Lounge",
-        "url": null,
-        "contact_email": null,
-        "hometown": null,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "location": {
-            "string": "7:30 B Plaza",
-            "frontage": "7:30 B Plaza",
-            "intersection": null,
-            "intersection_type": null,
-            "dimensions": null
-        },
-        "location_string": "7:30 B Plaza"
-    },
-    {
         "uid": "a1X8X00000RTvgOUAT",
         "year": 2022,
         "name": "Darkwad Patrol",
@@ -11439,23 +11405,6 @@
             "dimensions": null
         },
         "location_string": "7:00 & C"
-    },
-    {
-        "uid": "a1X8X00000RTvzzUAD",
-        "year": 2022,
-        "name": "Alchemy Stop",
-        "url": "http://www.alchemystop.org",
-        "contact_email": null,
-        "hometown": "San Francisco",
-        "description": "Alchemy Stop is a dusty sanctuary for anyone to enjoy a quiet musical retreat with a cold limoncello or a steamy Italian coffee in hand. Look for our old timey piano, bar and block printing stations - we will be welcoming you with open arms.",
-        "location": {
-            "string": "A & 4:45",
-            "frontage": "A",
-            "intersection": "4:45",
-            "intersection_type": "&",
-            "dimensions": null
-        },
-        "location_string": "A & 4:45"
     },
     {
         "uid": "a1X8X00000RTwvoUAD",
@@ -17274,7 +17223,7 @@
     {
         "uid": "a1X8X00000RTv0IUAT",
         "year": 2022,
-        "name": 3907,
+        "name": "3907",
         "url": "https://www.facebook.com/camp3907",
         "contact_email": null,
         "hometown": "Bishop",
@@ -17512,7 +17461,7 @@
     {
         "uid": "a1X8X00000RTtl2UAD",
         "year": 2022,
-        "name": 88,
+        "name": "88",
         "url": null,
         "contact_email": "info@eightyeightdc.com",
         "hometown": "Washington DC",
@@ -18205,23 +18154,6 @@
             "dimensions": null
         },
         "location_string": "B & 9:45"
-    },
-    {
-        "uid": "a1X8X00000U0GRAUA3",
-        "year": 2022,
-        "name": "The Whomp Party",
-        "url": "https://whompwagon.com",
-        "contact_email": "adam.prang@gmail.com",
-        "hometown": "Reno",
-        "description": "Missed us on the Playa? Stop by and say \"hi\" when the Whomp Wagon is parked at our camp.",
-        "location": {
-            "string": "J & 9:45",
-            "frontage": "J",
-            "intersection": "9:45",
-            "intersection_type": "&",
-            "dimensions": null
-        },
-        "location_string": "J & 9:45"
     },
     {
         "uid": "a1X8X00000RTzVWUA1",
@@ -25636,23 +25568,6 @@
         "location_string": "A & 4:15"
     },
     {
-        "uid": "a1X8X00000RTzMeUAL",
-        "year": 2022,
-        "name": "\"ING\"",
-        "url": "https://www.burning.camp",
-        "contact_email": "playanauts@gmail.com",
-        "hometown": "Lake Tahoe",
-        "description": "We are ING! camp \" ING \".\r\nA wild and fun crew from all over the world and all walks of life that have been burnING together for about a DECADE. Stop by and shout a \"FUCK YEAH!\" then come in and hang out!\r\n\r\nWe have a bar, and daily happy hours, 2:22pm-4:44pm\r\nEvents and classes throughout the week. drinkING, artING, spinnING, playING, racING, dancING etc.",
-        "location": {
-            "string": "G & 8:15",
-            "frontage": "G",
-            "intersection": "8:15",
-            "intersection_type": "&",
-            "dimensions": null
-        },
-        "location_string": "G & 8:15"
-    },
-    {
         "uid": "a1X8X00000RUDmkUAH",
         "year": 2022,
         "name": "Brewed Awakening",
@@ -26537,23 +26452,6 @@
         "location_string": "6:30 & G"
     },
     {
-        "uid": "a1X8X00000RUDs4UAH",
-        "year": 2022,
-        "name": "Unhealthy Competition Cup",
-        "url": null,
-        "contact_email": null,
-        "hometown": "Bend",
-        "description": "It's all about competition! Healthy or unhealthy, you decide. Come show us you're the best or at least better than who you're biking down the street with.  Brains, muscle, luck, or maybe all three? Pick your task or let us decide.  Did you win? Brag about it and put your name on the leaderboard.  Did you choose unhealthy competition? Then maybe we'll take 10 seconds off your time if we're impressed with your bad sportsmanship. Check back- if you're still number 1 on Friday come get your unhealthy prize.",
-        "location": {
-            "string": "D & 2:15",
-            "frontage": "D",
-            "intersection": "2:15",
-            "intersection_type": "&",
-            "dimensions": null
-        },
-        "location_string": "D & 2:15"
-    },
-    {
         "uid": "a1X8X00000RUIDCUA5",
         "year": 2022,
         "name": "Foam Home",
@@ -27011,23 +26909,6 @@
             "dimensions": null
         },
         "location_string": "F & 7:15"
-    },
-    {
-        "uid": "a1X8X00000RUES7UAP",
-        "year": 2022,
-        "name": "Stay Golden",
-        "url": null,
-        "contact_email": null,
-        "hometown": "San Francisco",
-        "description": "Oldies bar and lounge straight out of a retirement community in Florida.  Come relax, play games, banter with Betty White behind the bar.  Leave with a new jewelry item and a smile on your face.",
-        "location": {
-            "string": "F & 5:45",
-            "frontage": "F",
-            "intersection": "5:45",
-            "intersection_type": "&",
-            "dimensions": null
-        },
-        "location_string": "F & 5:45"
     },
     {
         "uid": "a1X8X00000RUE3CUAX",
@@ -29340,5 +29221,141 @@
             "dimensions": null
         },
         "location_string": "6:00 G Plaza"
+    },
+    {
+        "uid": "a1X8X00000RTwYpUAL",
+        "year": 2022,
+        "name": "Awkward & Tawdry Lounge",
+        "url": null,
+        "contact_email": null,
+        "hometown": null,
+        "description": null,
+        "location": {
+            "string": "7:30 B Plaza",
+            "frontage": "7:30 B Plaza",
+            "intersection": null,
+            "intersection_type": null,
+            "dimensions": null
+        },
+        "location_string": "7:30 B Plaza"
+    },
+    {
+        "uid": "a1X8X00000RTzMeUAL",
+        "year": 2022,
+        "name": "\"ING\"",
+        "url": null,
+        "contact_email": "playanauts@gmail.com",
+        "hometown": "Lake Tahoe",
+        "description": "We are ING! camp \" ING \".\r\nA wild and fun crew from all over the world and all walks of life that have been burnING together for about a DECADE. Stop by and shout a \"FUCK YEAH!\" then come in and hang out!\r\n\r\nWe have a bar, and daily happy hours, 2:22pm-4:44pm\r\nEvents and classes throughout the week. drinkING, artING, spinnING, playING, racING, dancING etc.",
+        "location": {
+            "string": "G & 8:15",
+            "frontage": "G",
+            "intersection": "8:15",
+            "intersection_type": "&",
+            "dimensions": null
+        },
+        "location_string": "G & 8:15"
+    },
+    {
+        "uid": "a1X8X00000RTvzzUAD",
+        "year": 2022,
+        "name": "Alchemy Stop",
+        "url": null,
+        "contact_email": null,
+        "hometown": "San Francisco",
+        "description": "Alchemy Stop is a dusty sanctuary for anyone to enjoy a quiet musical retreat with a cold limoncello or a steamy Italian coffee in hand. Look for our old timey piano, bar and block printing stations - we will be welcoming you with open arms.",
+        "location": {
+            "string": "A & 4:45",
+            "frontage": "A",
+            "intersection": "4:45",
+            "intersection_type": "&",
+            "dimensions": null
+        },
+        "location_string": "A & 4:45"
+    },
+    {
+        "uid": "a1X8X00000RUES7UAP",
+        "year": 2022,
+        "name": "Stay Golden",
+        "url": null,
+        "contact_email": null,
+        "hometown": "San Francisco",
+        "description": "Oldies bar and lounge straight out of a retirement community in Florida.  Come relax, play games, banter with Betty White behind the bar.  Leave with a new jewelry item and a smile on your face.",
+        "location": {
+            "string": null,
+            "frontage": null,
+            "intersection": null,
+            "intersection_type": null,
+            "dimensions": null
+        },
+        "location_string": null
+    },
+    {
+        "uid": "a1X8X00000RUDs4UAH",
+        "year": 2022,
+        "name": "Ray\u2019s Fix It",
+        "url": null,
+        "contact_email": null,
+        "hometown": "Bend",
+        "description": "Need something screwed, hammered, drilled, or pounded in the SFW sense? We have power tools! We have buckets of fix it materials and plenty of hand tools. Need duct tape? Rope? A widget for your RV? Fasteners? Glue? Bits? Clamps? Wood scraps? Come during office hours or we're open 24/7 for the DIY shop. We don't do bikes or mutant vehicles. (unless you need air, or something destroyed). Bring what you broke, and we'll try not to make it worse.",
+        "location": {
+            "string": "D & 2:15",
+            "frontage": "D",
+            "intersection": "2:15",
+            "intersection_type": "&",
+            "dimensions": null
+        },
+        "location_string": "D & 2:15"
+    },
+    {
+        "uid": "a1X8X00000RU0GmUAL",
+        "year": 2022,
+        "name": "Westlandia",
+        "url": null,
+        "contact_email": null,
+        "hometown": null,
+        "description": null,
+        "location": {
+            "string": null,
+            "frontage": null,
+            "intersection": null,
+            "intersection_type": null,
+            "dimensions": null
+        },
+        "location_string": null
+    },
+    {
+        "uid": "a1X8X00000U0GRAUA3",
+        "year": 2022,
+        "name": "The Whomp Party",
+        "url": "https://whompwagon.com",
+        "contact_email": "adam.prang@gmail.com",
+        "hometown": "Reno",
+        "description": "Missed us on the Playa? Stop by and say \"hi\" when the Whomp Wagon is parked at our camp.",
+        "location": {
+            "string": "I & 9:45",
+            "frontage": "I",
+            "intersection": "9:45",
+            "intersection_type": "&",
+            "dimensions": null
+        },
+        "location_string": "I & 9:45"
+    },
+    {
+        "uid": "a1X8X00000RTxVIUA1",
+        "year": 2022,
+        "name": "etceTerra",
+        "url": null,
+        "contact_email": null,
+        "hometown": "Austin",
+        "description": "Come see, hear, and taste your dreams! If your dreams taste like cold beer, and are filled with LEDs.",
+        "location": {
+            "string": "A & 4:15",
+            "frontage": "A",
+            "intersection": "4:15",
+            "intersection_type": "&",
+            "dimensions": null
+        },
+        "location_string": "A & 4:15"
     }
 ]
