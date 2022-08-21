@@ -20,9 +20,9 @@
 		"blurb": "iBurn Data & Map"
 	},
 	{
-		"name": "BurnerMap",
-		"url": "https://burnermap.com/",
-		"blurb": "Camp Location Data"
+		"name": "Andy McSherry",
+		"url": "https://github.com/andyland",
+		"blurb": "2022 iOS & Android Contributions"
 	},
 	{
 		"name": "PlayaEvents API",
@@ -33,10 +33,5 @@
 		"name": "Matthew Goodman",
 		"url": "http://craneium.net/index.php?option=com_content&view=article&id=109&Itemid=116",
 		"blurb": "Playa Time Lapse Video"
-	},
-	{
-		"name": "Jim Tierney",
-		"url": "https://burningman.org/event/brc/2017-art-audio-guide/",
-		"blurb": "Art Audio Guide"
 	}
 ]
