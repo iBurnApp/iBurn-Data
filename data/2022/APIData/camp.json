@@ -5151,23 +5151,6 @@
         "location_string": "8:00 & E"
     },
     {
-        "uid": "a1X8X00000RTtyaUAD",
-        "year": 2022,
-        "name": "Robotronia",
-        "url": null,
-        "contact_email": null,
-        "hometown": "Reno",
-        "description": null,
-        "location": {
-            "string": "3:00 Portal",
-            "frontage": "3:00 Portal",
-            "intersection": null,
-            "intersection_type": null,
-            "dimensions": null
-        },
-        "location_string": "3:00 Portal"
-    },
-    {
         "uid": "a1X8X00000RTtnSUAT",
         "year": 2022,
         "name": "Inspiration Oasis",
@@ -14297,23 +14280,6 @@
         "location_string": "H & 2:45"
     },
     {
-        "uid": "a1X8X00000RUC1oUAH",
-        "year": 2022,
-        "name": "Brainiac",
-        "url": null,
-        "contact_email": null,
-        "hometown": "Portland",
-        "description": "Hop on the Brainiac and take a ride to Somewhere Else! We go to Lots of Places and we might take you there! We operate like a taxi and we are happy to take you (and maybe even your stuff) on whatever errand you've got. Let's have an adventure.... where are we going?  We are open most of the time, driving the car around, day and night. We hope you stop by!",
-        "location": {
-            "string": "J & 6:15",
-            "frontage": "J",
-            "intersection": "6:15",
-            "intersection_type": "&",
-            "dimensions": null
-        },
-        "location_string": "J & 6:15"
-    },
-    {
         "uid": "a1X8X00000RTsHfUAL",
         "year": 2022,
         "name": "Club Bambooze",
@@ -16828,23 +16794,6 @@
             "dimensions": null
         },
         "location_string": "Esplanade & 3:45"
-    },
-    {
-        "uid": "a1X8X00000RTxRkUAL",
-        "year": 2022,
-        "name": "MOON LANDING",
-        "url": null,
-        "contact_email": null,
-        "hometown": "San Francisco",
-        "description": "Come celebrate the new moon and new beginnings, enjoy out-of-this-world snow cones and get a spritzing!",
-        "location": {
-            "string": "I & 5:45",
-            "frontage": "I",
-            "intersection": "5:45",
-            "intersection_type": "&",
-            "dimensions": null
-        },
-        "location_string": "I & 5:45"
     },
     {
         "uid": "a1X8X00000RTpcZUAT",
@@ -29476,5 +29425,141 @@
             "dimensions": null
         },
         "location_string": "C & 5:15"
+    },
+    {
+        "uid": "a1X8X00000RUIE5UAP",
+        "year": 2022,
+        "name": "The Scratching Post",
+        "url": null,
+        "contact_email": null,
+        "hometown": null,
+        "description": null,
+        "location": {
+            "string": null,
+            "frontage": null,
+            "intersection": null,
+            "intersection_type": null,
+            "dimensions": null
+        },
+        "location_string": null
+    },
+    {
+        "uid": "a1X8X00000RTp0zUAD",
+        "year": 2022,
+        "name": "DreamSWAT",
+        "url": null,
+        "contact_email": null,
+        "hometown": "Seattle",
+        "description": "We value open mindset and sexuality - swing by to experience unique DreamHOLE.",
+        "location": {
+            "string": null,
+            "frontage": null,
+            "intersection": null,
+            "intersection_type": null,
+            "dimensions": null
+        },
+        "location_string": null
+    },
+    {
+        "uid": "a1X8X00000RTxRkUAL",
+        "year": 2022,
+        "name": "MOON LANDING",
+        "url": null,
+        "contact_email": null,
+        "hometown": "San Francisco",
+        "description": "Come celebrate the new moon and new beginnings, enjoy out-of-this-world snow cones and get a spritzing!",
+        "location": {
+            "string": "H & 6:15",
+            "frontage": "H",
+            "intersection": "6:15",
+            "intersection_type": "&",
+            "dimensions": null
+        },
+        "location_string": "H & 6:15"
+    },
+    {
+        "uid": "a1X8X00000RUC1oUAH",
+        "year": 2022,
+        "name": "Brainiac",
+        "url": null,
+        "contact_email": null,
+        "hometown": "Portland",
+        "description": "Hop on the Brainiac and take a ride to Somewhere Else! We go to Lots of Places and we might take you there! We operate like a taxi and we are happy to take you (and maybe even your stuff) on whatever errand you've got. Let's have an adventure.... where are we going?  We are open most of the time, driving the car around, day and night. We hope you stop by!",
+        "location": {
+            "string": "H & 6:15",
+            "frontage": "H",
+            "intersection": "6:15",
+            "intersection_type": "&",
+            "dimensions": null
+        },
+        "location_string": "H & 6:15"
+    },
+    {
+        "uid": "a1X8X00000RTrWyUAL",
+        "year": 2022,
+        "name": "Fluffyville",
+        "url": null,
+        "contact_email": null,
+        "hometown": null,
+        "description": null,
+        "location": {
+            "string": null,
+            "frontage": null,
+            "intersection": null,
+            "intersection_type": null,
+            "dimensions": null
+        },
+        "location_string": null
+    },
+    {
+        "uid": "a1X8X00000RTsLhUAL",
+        "year": 2022,
+        "name": "Camp Codename",
+        "url": null,
+        "contact_email": null,
+        "hometown": null,
+        "description": null,
+        "location": {
+            "string": "4:30 & E",
+            "frontage": "4:30",
+            "intersection": "E",
+            "intersection_type": "&",
+            "dimensions": null
+        },
+        "location_string": "4:30 & E"
+    },
+    {
+        "uid": "a1X8X00000U2oYJUAZ",
+        "year": 2022,
+        "name": "Mebuyan Vessel",
+        "url": null,
+        "contact_email": "info@pintoart.org",
+        "hometown": "New York",
+        "description": "The title comes from Mebuyan, a goddess from Filipino mythology, specifically the Bagobo mythology, a large indigenous peoples of southern Mindanao, Philippines. \n\nShe's a goddess of life and death, of the afterlife, traditionally represented as a woman living underground, sitting on a wooden mortar, with breasts covering her entire body. She is said to be nourishing the dead spirits of children in the afterlife, so that they can\ngrow up and continue on their journey to adulthood.\n\nBanua Mebuyan is the mythological town where she lives cares for these spirits. The camp is the HQ for Mebuyan Vessel, a large scale installation in deep playa, who aims to be a nourishing, transformative, and cosmic place for citizens of Black Rock City for their personal and collective growth.",
+        "location": {
+            "string": "F & 9:45",
+            "frontage": "F",
+            "intersection": "9:45",
+            "intersection_type": "&",
+            "dimensions": null
+        },
+        "location_string": "F & 9:45"
+    },
+    {
+        "uid": "a1X8X00000RTtyaUAD",
+        "year": 2022,
+        "name": "Robotronia",
+        "url": null,
+        "contact_email": null,
+        "hometown": "Reno",
+        "description": null,
+        "location": {
+            "string": "3:00 Portal",
+            "frontage": "3:00 Portal",
+            "intersection": null,
+            "intersection_type": null,
+            "dimensions": null
+        },
+        "location_string": "3:00 Portal"
     }
 ]
