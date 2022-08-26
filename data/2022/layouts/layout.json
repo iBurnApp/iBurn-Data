@@ -174,55 +174,55 @@
   ],
   "plazas":[
     {
-      "name":"9:00 Civic Plaza",
+      "name":"9:00 B Plaza",
       "time":"9:00",
       "distance":"b",
       "diameter": 200
     },
     {
-      "name":"3:00 Civic Plaza",
+      "name":"3:00 B Plaza",
       "time":"3:00",
       "distance":"b",
       "diameter": 200
     },
     {
-      "name":"4:30 Civic Plaza",
+      "name":"4:30 B Plaza",
       "time":"4:30",
       "distance":"b",
       "diameter": 200
     },
     {
-      "name":"7:30 Civic Plaza",
+      "name":"7:30 B Plaza",
       "time":"7:30",
       "distance":"b",
       "diameter": 200
     },
     {
-      "name":"3:00 Art Plaza",
+      "name":"3:00 G Plaza",
       "time":"3:00",
       "distance":"g",
       "diameter": 200
     },
     {
-      "name":"4:30 Art Plaza",
+      "name":"4:30 G Plaza",
       "time":"4:30",
       "distance":"g",
       "diameter": 200
     },
     {
-      "name":"7:30 Art Plaza",
+      "name":"7:30 G Plaza",
       "time":"7:30",
       "distance":"g",
       "diameter": 200
     },
     {
-      "name":"9:00 Public Plaza",
+      "name":"9:00 G Plaza",
       "time":"9:00",
       "distance":"g",
       "diameter": 200
     },
     {
-      "name":"6:00 Public Plaza",
+      "name":"6:00 G Plaza",
       "time":"6:00",
       "distance":"g",
       "diameter": 200
