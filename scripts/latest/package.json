@@ -11,7 +11,7 @@
     "request": "^2.60.0",
     "tape": "^4.0.0",
     "togeojson": "^0.12.2",
-    "turf": "^2.0.2",
+    "turf": "^3.0.14",
     "turf-difference": "^2.0.0",
     "turf-meta": "^1.0.2",
     "turf-multilinestring": "^1.0.2",
