@@ -1,0 +1,189 @@
+[
+  {
+    "properties": {
+      "name": "The Man",
+      "ref": "center"
+    },
+    "address": {
+      "time": "12:00",
+      "distance": 0
+    }
+  },
+  {
+    "properties": {
+      "name": "Center Camp",
+      "ref": "centerCamp"
+    },
+    "address": {
+      "time": "6:00",
+      "distance": 3026
+    }
+  },
+  {
+    "properties": {
+      "name": "DPW",
+      "ref": "dpw"
+    },
+    "address": {
+      "time": "5:30",
+      "distance": 6410
+    }
+  },
+  {
+    "properties": {
+      "name": "Services",
+      "ref": "services"
+    },
+    "address": {
+      "time": "6:30",
+      "distance": 6410
+    }
+  },
+  {
+    "properties": {
+      "name": "Black Rock City Airport",
+      "ref": "airport"
+    },
+    "address": {
+      "time": "4:48",
+      "distance": 8160
+    }
+  },
+  {
+    "properties": {
+        "name": "First Aid (Main)",
+        "ref": "EmergencyClinic"
+      },
+    "address": {
+      "time": "5:14",
+      "distance": 2570
+    }
+  },
+  {
+    "properties": {
+      "name": "First Aid (3:00)",
+      "ref": "firstAid"
+    },
+    "address": {
+      "time": "3:01",
+      "distance": 3480
+    }
+  },
+  {
+    "properties": {
+      "name": "First Aid (9:00)",
+      "ref": "firstAid"
+    },
+    "address": {
+      "time": "9:01",
+      "distance": 3480
+    }
+  },
+  {
+    "properties": {
+      "name": "Ranger HQ",
+      "ref": "rangerHQ"
+    },
+    "address": {
+      "time": "5:42",
+      "distance": 2330
+    }
+  },
+  {
+    "properties": {
+      "name": "Ranger Outpost (Berlin)",
+      "ref": "ranger"
+    },
+    "address": {
+      "time": "2:59",
+      "distance": 3480
+    }
+  },
+  {
+    "properties": {
+      "name": "Ranger Outpost (Tokyo)",
+      "ref": "ranger"
+    },
+    "address": {
+      "time": "8:59",
+      "distance": 3480
+    }
+  },
+  {
+    "properties": {
+      "name": "Greeters",
+      "ref": "greeters"
+    },
+    "address": {
+      "time": "6:00",
+      "distance": 6600
+    }
+  },
+  {
+    "properties": {
+      "ref": "ice"
+    },
+    "address": {
+      "time": "2:58",
+      "distance": 4550
+    }
+  },
+  {
+    "properties": {
+      "ref": "ice"
+    },
+    "address": {
+      "time": "6:14",
+      "distance": 2960
+    }
+  },
+  {
+    "properties": {
+      "ref": "ice"
+    },
+    "address": {
+      "time": "8:56",
+      "distance": 4550
+    }
+  },
+  {
+    "properties": {
+      "name": "The Temple",
+      "ref": "temple"
+    },
+    "address": {
+      "time": "12:00",
+      "distance": 2515
+    }
+  },
+  {
+    "properties": {
+      "ref":"bus",
+      "name":"Burner Express Bus"
+    },
+    "address": {
+      "time": "6:08",
+      "distance": 5243
+    }
+  },
+  {
+    "properties": {
+      "ref":"recycle",
+      "name":"Recycle Camp"
+    },
+    "address": {
+      "time": "5:57",
+      "distance": 3350
+    }
+  },
+  {
+    "properties": {
+      "ref":"info",
+      "name":"Playa Info"
+    },
+    "address": {
+      "time": "5:54",
+      "distance": 2590
+    }
+  }
+]

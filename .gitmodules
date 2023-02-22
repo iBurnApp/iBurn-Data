@@ -1,0 +1,3 @@
+[submodule "scripts/BlackRockCityPlanner"]
+	path = scripts/BlackRockCityPlanner
+	url = git@github.com:iBurnApp/BlackRockCityPlanner.git
