@@ -1,0 +1,275 @@
+{
+  "center": {
+    "type": "Feature",
+    "properties": {
+      "ref":"golden_spike",
+      "name":"The Man"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.2035, 40.7864]
+    }
+  },
+  "fence_distance": 8430,
+  "bearing": 45,
+  "road_width": 40,
+  "entrance_road": {
+    "distance": 390,
+    "angle": 108
+  },
+  "dmz": {
+    "distance": 5340,
+    "depth": 200,
+    "segments": [["10:30","11:15"]]
+  },
+  "center_camp":{
+    "distance": 3026,
+    "rod_road_distance":783,
+    "rod_road_name":"Rod’s Ring Road",
+    "cafe_plaza_radius":320,
+    "cafe_radius":110,
+    "six_six_width": 25,
+    "six_six_distance":{
+      "man_facing": 500,
+      "six_facing": 560
+    }
+  },
+  "cStreets":[
+    {
+      "distance":2500,
+      "segments":[["2:00","6:00"],["6:00","10:00"]],
+      "ref":"esplanade",
+      "name":"Esplanade"
+    },
+    {
+      "distance":2940,
+      "segments":[["2:00","6:00"],["6:00","10:00"]],
+      "ref":"a",
+      "name": "Afanc"
+    },
+    {
+      "distance":3230,
+      "segments":[["2:00","5:30"],["6:30","10:00"]],
+      "ref":"b",
+      "name": "Bigfoot"
+    },
+    {
+      "distance":3520,
+      "segments":[["2:00","6:00"],["6:00","10:00"]],
+      "ref":"c",
+      "name": "Chupacabra"
+    },
+    {
+      "distance":3810,
+      "segments":[["2:00","6:00"],["6:00","10:00"]],
+      "ref":"d",
+      "name": "Dingbat"
+    },
+    {
+      "distance":4100,
+      "segments":[["2:00","10:00"]],
+      "ref":"e",
+      "name": "Encantado"
+    },
+    {
+      "distance":4590,
+      "segments":[["2:00","10:00"]],
+      "ref":"f",
+      "name": "Frogbat"
+    },
+    {
+      "distance":4880,
+      "segments":[["2:00","10:00"]],
+      "ref":"g",
+      "name": "Grootslang"
+    },
+    {
+      "distance":5170,
+      "segments":[["2:00","10:00"]],
+      "ref":"h",
+      "name": "Hodag"
+    },
+    {
+      "distance":5460,
+      "segments":[["2:00","10:00"]],
+      "ref":"i",
+      "name": "Igopogo"
+    },
+    {
+      "distance":5650,
+      "segments":[["2:00","10:00"]],
+      "ref":"j",
+      "name": "Jackalope"
+    },
+    {
+      "distance":5845,
+      "segments":[["2:00","10:00"]],
+      "ref":"k",
+      "name": "Kraken",
+      "width": 50
+    }
+  ],
+  "tStreets":[
+    {
+      "refs":["12:00"],
+      "segments":[[0,"esplanade"]]
+    },
+    {
+      "refs":[
+        "6:00"
+      ],
+      "segments":[[0,2907],[2907,"k"]]
+    },
+    {
+      "refs":[
+        "3:00",
+        "9:00"
+      ],
+      "segments":[[0,"k"]]
+    },
+    {
+      "refs":[
+        "2:00",
+        "2:30",
+        "3:30",
+        "4:00",
+        "4:30",
+        "5:00",
+        "7:00",
+        "7:30",
+        "8:00",
+        "8:30",
+        "9:30",
+        "10:00"],
+      "segments":[["esplanade","k"]]
+    },
+    {
+      "refs":[
+        "5:30",
+        "6:30"
+      ],
+      "segments":[["esplanade",6330]]
+    },
+    {
+      "refs":[
+        "2:15",
+        "2:45",
+        "3:15",
+        "3:45",
+        "4:15",
+        "4:45",
+        "5:15",
+        "5:45",
+        "6:15",
+        "6:45",
+        "7:15",
+        "7:45",
+        "8:15",
+        "8:45",
+        "9:15",
+        "9:45"],
+      "segments":[["f","k"]],
+      "width": 15
+    }
+  ],
+  "plazas":[
+    {
+      "name":"9:00 B Plaza",
+      "time":"9:00",
+      "distance":"b",
+      "diameter": 200
+    },
+    {
+      "name":"3:00 B Plaza",
+      "time":"3:00",
+      "distance":"b",
+      "diameter": 200
+    },
+    {
+      "name":"4:30 B Plaza",
+      "time":"4:30",
+      "distance":"b",
+      "diameter": 200
+    },
+    {
+      "name":"7:30 B Plaza",
+      "time":"7:30",
+      "distance":"b",
+      "diameter": 200
+    },
+    {
+      "name":"3:00 G Plaza",
+      "time":"3:00",
+      "distance":"g",
+      "diameter": 200
+    },
+    {
+      "name":"4:30 G Plaza",
+      "time":"4:30",
+      "distance":"g",
+      "diameter": 200
+    },
+    {
+      "name":"7:30 G Plaza",
+      "time":"7:30",
+      "distance":"g",
+      "diameter": 200
+    },
+    {
+      "name":"9:00 G Plaza",
+      "time":"9:00",
+      "distance":"g",
+      "diameter": 200
+    },
+    {
+      "name":"6:00 G Plaza",
+      "time":"6:00",
+      "distance":"g",
+      "diameter": 200
+    },
+    {
+      "name":"The Man Plaza",
+      "time":"12:00",
+      "distance": 0,
+      "diameter": 400
+    }
+  ],
+  "portals":[
+    {
+      "distance":"b",
+      "time":"3:00",
+      "angle":20,
+      "name":"3:00 Portal",
+      "ref":"3portal"
+    },
+    {
+      "distance":"b",
+      "time":"4:30",
+      "angle":20,
+      "name":"4:30 Portal",
+      "ref":"43portal"
+    },
+    {
+      "distance":"b",
+      "time":"6:00",
+      "angle":20,
+      "name":"6:00 Portal",
+      "ref":"6portal"
+    },
+    {
+      "distance":"b",
+      "time":"7:30",
+      "angle":20,
+      "name":"7:30 Portal",
+      "ref":"73portal"
+    },
+    {
+      "distance":"b",
+      "time":"9:00",
+      "angle":20,
+      "name":"9:00 Portal",
+      "ref":"9portal"
+    }
+  ],
+  "runway":{}
+}
