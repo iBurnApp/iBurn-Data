@@ -8,6 +8,12 @@
       "orientation":"city"
     },
     {
+      "bearing":75,
+      "offset":0,
+      "distance":550,
+      "orientation":"city"
+    },
+    {
       "bearing":"3:00",
       "offset":-160,
       "distance":1200,
