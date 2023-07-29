@@ -24,6 +24,11 @@
 		"url": "https://github.com/ssuffian",
 		"blurb": "iBurn Android"
 	},
+    {
+        "name": "Andy McSherry",
+        "url": "https://github.com/andyland",
+        "blurb": "iOS & Android Contributions"
+    },
 	{
 		"name": "PlayaEvents API",
 		"url": "http://playaevents.burningman.org/api/0.2/docs/",
