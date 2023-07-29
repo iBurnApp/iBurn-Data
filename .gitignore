@@ -55,3 +55,6 @@ docs/_build/
 .DS_Store
 
 data/2015/2015/camps.json.js
+
+# In-progress DBs
+iBurn-*.zip
