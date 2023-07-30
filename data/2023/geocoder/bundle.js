@@ -8,10 +8,10 @@ module.exports={
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [-119.20274, 40.78703]
+      "coordinates": [-119.2035, 40.7864]
     }
   },
-  "fence_distance": 8491,
+  "fence_distance": 8430,
   "bearing": 45,
   "road_width": 40,
   "entrance_road": {
@@ -46,67 +46,67 @@ module.exports={
       "distance":2940,
       "segments":[["2:00","6:00"],["6:00","10:00"]],
       "ref":"a",
-      "name": "Apparition"
+      "name": "Afanc"
     },
     {
       "distance":3230,
       "segments":[["2:00","5:30"],["6:30","10:00"]],
       "ref":"b",
-      "name": "Breton"
+      "name": "Bigfoot"
     },
     {
       "distance":3520,
       "segments":[["2:00","6:00"],["6:00","10:00"]],
       "ref":"c",
-      "name": "Cocteau"
+      "name": "Chupacabra"
     },
     {
       "distance":3810,
       "segments":[["2:00","6:00"],["6:00","10:00"]],
       "ref":"d",
-      "name": "Dalí"
+      "name": "Dingbat"
     },
     {
       "distance":4100,
       "segments":[["2:00","10:00"]],
       "ref":"e",
-      "name": "Enigma"
+      "name": "Encantado"
     },
     {
       "distance":4590,
       "segments":[["2:00","10:00"]],
       "ref":"f",
-      "name": "Fugue"
+      "name": "Frogbat"
     },
     {
       "distance":4880,
       "segments":[["2:00","10:00"]],
       "ref":"g",
-      "name": "Glimmer"
+      "name": "Grootslang"
     },
     {
       "distance":5170,
       "segments":[["2:00","10:00"]],
       "ref":"h",
-      "name": "Hypnagogia"
+      "name": "Hodag"
     },
     {
       "distance":5460,
       "segments":[["2:00","10:00"]],
       "ref":"i",
-      "name": "Inception"
+      "name": "Igopogo"
     },
     {
       "distance":5650,
       "segments":[["2:00","10:00"]],
       "ref":"j",
-      "name": "Jarry"
+      "name": "Jackalope"
     },
     {
       "distance":5845,
       "segments":[["2:00","10:00"]],
       "ref":"k",
-      "name": "Kahlo",
+      "name": "Kraken",
       "width": 50
     }
   ],
@@ -9057,7 +9057,7 @@ module.exports = Geocoder;
 },{"./forward.js":94,"./prepare.js":98,"./reverse.js":99}],97:[function(require,module,exports){
 (function (global){(function (){
 var Geocoder = require('./geocoder.js');
-var layoutFile = require('../../../../data/2022/layouts/layout.json');
+var layoutFile = require('../../../../data/2023/layouts/layout.json');
 
 /**
  * This can take a few seconds to setup all the necessary geo files.
@@ -9077,7 +9077,7 @@ global.forwardGeocode = function(coder, locationString) {
 }
 
 }).call(this)}).call(this,typeof global !== "undefined" ? global : typeof self !== "undefined" ? self : typeof window !== "undefined" ? window : {})
-},{"../../../../data/2022/layouts/layout.json":1,"./geocoder.js":96}],98:[function(require,module,exports){
+},{"../../../../data/2023/layouts/layout.json":1,"./geocoder.js":96}],98:[function(require,module,exports){
 var turf = require('turf')
 var polygons = require('../polygons.js');
 var points = require('../points.js');
