@@ -2,6 +2,36 @@
   "size":[50,150],
   "location": [
     {
+      "bearing":30,
+      "offset":0,
+      "distance":7100,
+      "orientation":"city"
+    },
+    {
+      "bearing":60,
+      "offset":0,
+      "distance":7100,
+      "orientation":"city"
+    },
+    {
+      "bearing":"10:45",
+      "offset":0,
+      "distance":5390,
+      "orientation":"center"
+    },
+    {
+      "bearing":"11:00",
+      "offset":0,
+      "distance":5390,
+      "orientation":"center"
+    },
+    {
+      "bearing":"11:15",
+      "offset":0,
+      "distance":5390,
+      "orientation":"center"
+    },
+    {
       "bearing":50,
       "offset":24,
       "distance":3000,

@@ -20,7 +20,7 @@
   "dmz": {
     "distance": 5340,
     "depth": 200,
-    "segments": [["10:30","11:15"]]
+    "segments": [["10:45","11:15"]]
   },
   "center_camp":{
     "distance": 3026,

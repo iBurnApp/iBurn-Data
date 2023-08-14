@@ -52,8 +52,9 @@ Next is to take all the geojson files and cram them into vector tiles.
   -L polygons:geo/polygons.geojson \
   -L streets:geo/streets.geojson \
   -L toilets:geo/toilets.geojson \
+  -L dmz:geo/dmz.geojson \
   -z 14 \
-  -Z 4\
+  -Z 4 \
   -B0
 ```
 
