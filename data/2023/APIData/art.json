@@ -5642,37 +5642,6 @@
         ]
     },
     {
-        "uid": "a2I8X00000hDekzUAC",
-        "year": 2023,
-        "name": "Skyspace - A Mediation pod inspired by James Turrell",
-        "url": "https://www.facebook.com/groups/lovepodsproject",
-        "contact_email": "josephinedeclerck@gmail.com",
-        "hometown": "Paris, France",
-        "description": "Skyspace inspired by James Turrell at Burning Man is an art installation created by Josephine Declerck, consisting of an open sky pod for contemplative meditation. \nThis pod is a safe, clean and private space to experience art and meditation in the desert. From the outside, the pod appears mysterious, blending into the landscape. \nHowever, from the inside, people can see the beauty of the desert while enjoying this meditative moment  while looking at the desert sky.",
-        "artist": "Josephine Declerck",
-        "category": "Open Playa",
-        "program": "Self-Funded",
-        "donation_link": null,
-        "guided_tours": 0,
-        "self_guided_tour_map": 0,
-        "location": {
-            "string": "9:50 1650', Open Playa",
-            "hour": 9,
-            "minute": 50,
-            "distance": 1650,
-            "category": "Open Playa",
-            "gps_latitude": 40.790645471757,
-            "gps_longitude": -119.20554040961
-        },
-        "location_string": "9:50 1650', Open Playa",
-        "images": [
-            {
-                "gallery_ref": 0,
-                "thumbnail_url": "https://burningman.widen.net/content/wgn9bvnwny/jpeg/a2I8X00000hDekzUAC-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx"
-            }
-        ]
-    },
-    {
         "uid": "a2I8X00000hDdAmUAK",
         "year": 2023,
         "name": "Desert Rose",
@@ -10478,6 +10447,37 @@
         ]
     },
     {
+        "uid": "a2I8X00000hDFEVUA4",
+        "year": 2023,
+        "name": "RybaFish",
+        "url": "www.pezgallery.com",
+        "contact_email": "gornushkin@gmail.com",
+        "hometown": "San Diego, CA",
+        "description": "The sculpture depicts a giant 3D fiberglass fish head decorated with riveted leather mosaic and industrial size fisherman's net. The fish head will be suspended in the middle of a giant\nfabricated steel tepee structure. The artwork will be adorned with motion activated LED lighting, laser beams pointed upward into the sky as well as a laydown lounge area below the fish simulating an underwater diving experience.",
+        "artist": "Sergey Gornushkin",
+        "category": "Open Playa",
+        "program": "Self-Funded",
+        "donation_link": null,
+        "guided_tours": 0,
+        "self_guided_tour_map": 0,
+        "location": {
+            "string": "6:20 1840', Open Playa",
+            "hour": 6,
+            "minute": 20,
+            "distance": 1840,
+            "category": "Open Playa",
+            "gps_latitude": 40.783510543696,
+            "gps_longitude": -119.20895070486
+        },
+        "location_string": "6:20 1840', Open Playa",
+        "images": [
+            {
+                "gallery_ref": 0,
+                "thumbnail_url": "https://burningman.widen.net/content/1yvvdaqybx/jpeg/a2I8X00000hDFEVUA4-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx"
+            }
+        ]
+    },
+    {
         "uid": "a2I8X00000hDLZ6UAO",
         "year": 2023,
         "name": "Tip of the Iceberg",
@@ -10509,33 +10509,33 @@
         ]
     },
     {
-        "uid": "a2I8X00000hDFEVUA4",
+        "uid": "a2I8X00000hDekzUAC",
         "year": 2023,
-        "name": "RybaFish",
-        "url": "www.pezgallery.com",
-        "contact_email": "gornushkin@gmail.com",
-        "hometown": "San Diego, CA",
-        "description": "The sculpture depicts a giant 3D fiberglass fish head decorated with riveted leather mosaic and industrial size fisherman's net. The fish head will be suspended in the middle of a giant\nfabricated steel tepee structure. The artwork will be adorned with motion activated LED lighting, laser beams pointed upward into the sky as well as a laydown lounge area below the fish simulating an underwater diving experience.",
-        "artist": "Sergey Gornushkin",
+        "name": "Skyspace - A Mediation pod inspired by James Turrell",
+        "url": "https://www.facebook.com/groups/lovepodsproject",
+        "contact_email": "josephinedeclerck@gmail.com",
+        "hometown": "Paris, France",
+        "description": "Love Pods are 2 art installations created by Josephine Declerck to offer safe, clean and private spaces for rest, meditation and intimacy at Burning Man, which are also real art experiences. Skyspace is located on Open Playa, while Infinity Mirror is located in BED, 6:15 and E.",
+        "artist": "Josephine Declerck",
         "category": "Open Playa",
         "program": "Self-Funded",
         "donation_link": null,
         "guided_tours": 0,
         "self_guided_tour_map": 0,
         "location": {
-            "string": "6:20 1840', Open Playa",
-            "hour": 6,
-            "minute": 20,
-            "distance": 1840,
+            "string": "9:50 1650', Open Playa",
+            "hour": 9,
+            "minute": 50,
+            "distance": 1650,
             "category": "Open Playa",
-            "gps_latitude": 40.783510543696,
-            "gps_longitude": -119.20895070486
+            "gps_latitude": 40.790645471757,
+            "gps_longitude": -119.20554040961
         },
-        "location_string": "6:20 1840', Open Playa",
+        "location_string": "9:50 1650', Open Playa",
         "images": [
             {
                 "gallery_ref": 0,
-                "thumbnail_url": "https://burningman.widen.net/content/1yvvdaqybx/jpeg/a2I8X00000hDFEVUA4-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx"
+                "thumbnail_url": "https://burningman.widen.net/content/wgn9bvnwny/jpeg/a2I8X00000hDekzUAC-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx"
             }
         ]
     }

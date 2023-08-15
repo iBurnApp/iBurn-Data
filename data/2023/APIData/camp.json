@@ -5635,13 +5635,13 @@
         "hometown": "Salt Lake City",
         "description": "Welcome to Camp Cosmo! We are a tribe of global citizens who come together to create a Cosmopolitan playground. We host \"Mahjong\" tournaments on Tuesday and Thursday from 1-4pm with tutorial provided for new bees to show off some beginners' luck! On Monday Wednesday Friday from 2-4pm we host \"Bring Your Cup We Have The Hat- English High Tea\", pastries are served and polaroid photos are taken to capture your moment! You won't find anything else like our \"Eastern well-blended into Western\" vibe on the playa, so come and join us!",
         "location": {
-            "string": "I & 4:45",
-            "frontage": "I",
-            "intersection": "4:45",
+            "string": "None & None",
+            "frontage": null,
+            "intersection": null,
             "intersection_type": "&",
-            "dimensions": "100 x 100"
+            "dimensions": "x"
         },
-        "location_string": "I & 4:45"
+        "location_string": "None & None"
     },
     {
         "uid": "a1X8X00000jIZQnUAO",
@@ -22871,7 +22871,7 @@
         "url": "https://ashramgalactica.com/",
         "contact_email": "info@ashramgalactica.com",
         "hometown": "Venice / Los Angeles",
-        "description": "The Grand Hotel | Your Home Away From Home Away From Home\r\n\r\nLocated Directly Above the Center of the Earth",
+        "description": "The Grand Hotel | Your Home Away From Home Away From Home\n\nLocated Directly Above the Center of the Earth",
         "location": {
             "string": "8:45 & J",
             "frontage": "8:45",
@@ -30768,5 +30768,22 @@
             "dimensions": "50 x 50"
         },
         "location_string": "G & 4:45"
+    },
+    {
+        "uid": "a1X8X00000vT2dRUAS",
+        "year": 2023,
+        "name": "tiny camp",
+        "url": null,
+        "contact_email": null,
+        "hometown": "Oakland",
+        "description": null,
+        "location": {
+            "string": "None & None",
+            "frontage": null,
+            "intersection": null,
+            "intersection_type": "&",
+            "dimensions": "x"
+        },
+        "location_string": "None & None"
     }
 ]
