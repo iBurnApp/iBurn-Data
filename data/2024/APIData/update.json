@@ -1,0 +1,14 @@
+{
+	"art": {
+		"file": "art.json",
+		"updated": "2024-07-15T11:51:02-07:00"
+	},
+	"camps": {
+		"file": "camp.json",
+		"updated": "2024-07-15T11:51:02-07:00"
+	},
+	"events": {
+		"file": "event.json",
+		"updated": "2024-07-15T11:51:02-07:00"
+	}
+}
