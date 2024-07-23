@@ -24,20 +24,18 @@
   },
   "center_camp":{
     "distance": 3026,
-    "rod_road_distance":783,
-    "rod_road_name":"Rod’s Ring Road",
     "cafe_plaza_radius":320,
     "cafe_radius":110,
-    "six_six_width": 25,
-    "six_six_distance":{
-      "man_facing": 500,
-      "six_facing": 560
+    "frontage_arc": {
+      "distance":783,
+      "start_angle":284,
+      "end_angle":76
     }
   },
   "cStreets":[
     {
       "distance":2500,
-      "segments":[["2:00","6:00"],["6:00","10:00"]],
+      "segments":[["2:00","5:36"],["6:24","10:00"]],
       "ref":"esplanade",
       "name":"Esplanade"
     },
