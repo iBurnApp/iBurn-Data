@@ -35,7 +35,7 @@
   "cStreets":[
     {
       "distance":2500,
-      "segments":[["2:00","5:36"],["6:24","10:00"]],
+      "segments":[["2:00","5:45"],["6:14","10:00"]],
       "ref":"esplanade",
       "name":"Esplanade"
     },

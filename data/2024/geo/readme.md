@@ -11,7 +11,7 @@ Look in `scripts/BlackRockCityPlanner` README.md. e.g.
 ```
 $ cd iBurn-Data/scripts/BlackRockCityPlanner
 $ open README.md
-$ node src/cli/generate_all.js -d ../../data/2023
+$ node src/cli/generate_all.js -d ../../data/2024
 ```
 repeat for types `streets, polygons, outline, fence`
 etc...
