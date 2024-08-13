@@ -58,4 +58,19 @@ Next is to take all the geojson files and cram them into vector tiles.
   -B0
 ```
 
+```
+  tippecanoe --output=Map/map.mbtiles -f \
+  -L fence:geo/official/Trash_Fence.geojson\
+  -L outline:geo/official/Street_Outlines.geojson \
+  -L points:geo/points.geojson \
+  -L blocks:geo/official/City_Blocks.geojson \
+  -L plazas:geo/official/Plazas.geojson \
+  -L streets:geo/official/Street_Lines.geojson \
+  -L toilets:geo/official/Toilets.geojson \
+  -L dmz:geo/official/DMZ.geojson \
+  -z 14 \
+  -Z 4 \
+  -B0
+```
+
 4. Now you have vector tiles which you can upload to Mapbox.
