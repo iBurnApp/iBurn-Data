@@ -93,6 +93,25 @@
       }
     },
     {
+        "id": "toilet-icon",
+        "type": "symbol",
+        "source": "composite",
+        "source-layer": "toilets",
+        "minzoom": 14,
+        "layout": {
+          "icon-image": "toilet",
+          "icon-allow-overlap": true,
+          "icon-ignore-placement": true,
+          "icon-size": {
+            "base": 1,
+            "stops": [[0, 0.20], [13, 0.25], [15, 0.5], [22, 1]]
+          }
+        },
+        "paint": {
+            "icon-opacity": 0.8
+        }
+    },
+    {
       "id": "points",
       "type": "symbol",
       "source": "composite",
