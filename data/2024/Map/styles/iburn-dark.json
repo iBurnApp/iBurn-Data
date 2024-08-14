@@ -32,6 +32,24 @@
       "paint": {"fill-color": "#574e26"}
     },
     {
+      "id": "dmz-name",
+      "type": "symbol",
+      "source": "composite",
+      "source-layer": "dmz",
+      "layout": {
+          "text-field": "Deep-Playa Music Zone",
+          "symbol-placement": "line",
+          "text-size": 14,
+          "text-font": ["Open Sans Regular"]
+        },
+        "paint": {
+          "text-halo-color": "#202426",
+          "text-halo-width": 2,
+          "text-color": "#fdf1b9",
+          "text-halo-blur": 1
+        }
+    },
+    {
       "id": "toilets-outline",
       "type": "fill",
       "source": "composite",
