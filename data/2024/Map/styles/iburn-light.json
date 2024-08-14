@@ -97,7 +97,7 @@
         "type": "symbol",
         "source": "composite",
         "source-layer": "toilets",
-        "minzoom": 14,
+        "minzoom": 15,
         "layout": {
           "icon-image": "toilet",
           "icon-allow-overlap": true,
