@@ -97,9 +97,9 @@
       "type": "symbol",
       "source": "composite",
       "source-layer": "points",
-      "filter": ["!in", "ref", "center", "rangerHQ"],
+      "filter": ["!in", "NAME", "The Man"],
       "layout": {
-        "icon-image": "{ref}",
+        "icon-image": "{NAME}",
         "icon-allow-overlap": true,
         "icon-ignore-placement": true,
         "icon-size": {
@@ -115,7 +115,7 @@
       "type": "symbol",
       "source": "composite",
       "source-layer": "points",
-      "filter": ["==", "ref", "center"],
+      "filter": ["==", "NAME", "The Man"],
       "layout": {
         "icon-image": "center",
         "icon-allow-overlap": true,

@@ -48,7 +48,7 @@ Next is to take all the geojson files and cram them into vector tiles.
   tippecanoe --output=Map/map.mbtiles -f \
   -L fence:geo/fence.geojson \
   -L outline:geo/outline.geojson \
-  -L points:geo/points.geojson \
+  -L points:geo/official/CPNs.geojson \
   -L polygons:geo/polygons.geojson \
   -L streets:geo/streets.geojson \
   -L toilets:geo/toilets.geojson \
@@ -56,6 +56,7 @@ Next is to take all the geojson files and cram them into vector tiles.
   -z 14 \
   -Z 4 \
   -B0
+
 ```
 
 ```
