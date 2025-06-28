@@ -87,8 +87,8 @@
     },
     {
       "bearing":"6:00",
-      "offset":90,
-      "distance":["d","e"],
+      "offset":120,
+      "distance": ["c", "d"],
       "orientation":"perp"
     },
     {

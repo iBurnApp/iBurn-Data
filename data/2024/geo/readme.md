@@ -11,7 +11,7 @@ Look in `scripts/BlackRockCityPlanner` README.md. e.g.
 ```
 $ cd iBurn-Data/scripts/BlackRockCityPlanner
 $ open README.md
-$ node src/cli/generate_all.js -d ../../data/2023
+$ node src/cli/generate_all.js -d ../../data/2024
 ```
 repeat for types `streets, polygons, outline, fence`
 etc...
@@ -48,11 +48,27 @@ Next is to take all the geojson files and cram them into vector tiles.
   tippecanoe --output=Map/map.mbtiles -f \
   -L fence:geo/fence.geojson \
   -L outline:geo/outline.geojson \
-  -L points:geo/points.geojson \
+  -L points:geo/official/CPNs.geojson \
   -L polygons:geo/polygons.geojson \
   -L streets:geo/streets.geojson \
   -L toilets:geo/toilets.geojson \
   -L dmz:geo/dmz.geojson \
+  -z 14 \
+  -Z 4 \
+  -B0
+
+```
+
+```
+  tippecanoe --output=Map/map.mbtiles -f \
+  -L fence:geo/official/Trash_Fence.geojson\
+  -L outline:geo/official/Street_Outlines.geojson \
+  -L points:geo/points.geojson \
+  -L blocks:geo/official/City_Blocks.geojson \
+  -L plazas:geo/official/Plazas.geojson \
+  -L streets:geo/official/Street_Lines.geojson \
+  -L toilets:geo/official/Toilets.geojson \
+  -L dmz:geo/official/DMZ.geojson \
   -z 14 \
   -Z 4 \
   -B0
