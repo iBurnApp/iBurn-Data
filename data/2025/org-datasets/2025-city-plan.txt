@@ -44,3 +44,65 @@ For walk-in camping — located between 2:00 and 5:00 — park your vehicles in 
 Note: Walk-in camping is for people who drive their cars into BRC but don’t camp with their cars. You still need a vehicle pass to drive in and park before carrying your gear to walk-in camping.
 
 Download the PDF version (5MB) of the 2025 City Plan for on-screen viewing or printing.
+
+BURNING MAN 2025 LOCATION DATA AND MEASUREMENTS 3.5.2025
+Burning Man location:
+●
+The Man
+○
+●
+40.786958,
+Fence Points
+○
+P1 40.783388,
+-119.202994
+-119.232725
+○
+P2 40.807354,
+-119.216621
+○
+P3 40.803107,
+-119.181667
+○
+P4 40.776557,
+-119.176181
+●
+○
+P5 40.764363,
+-119.207719
+Center of Greeter’s Gap
+○
+40.773894,
+-119.220243
+Elevation: 3904’
+True North/South follows the 4:30 axis
+Promenades are 40’ wide on the 3:00/9:00 and 6:00/12:00 axis, with lantern spires
+approximately every 150’.
+The center of the first road, “Esplanade,” is 2,500’ from the Man. The Esplanade to Atwood
+block is 400’ deep, and blocks Atwood through Ishiguro are 250’ deep. Blocks Ishiguro
+through Kilgore are 150’ deep. Mid-city double blocks between Ellison and Farmer are 450’
+deep. Measured to the road center, the outer road Kilgore is 11,510’ in diameter.
+All clockface-numbered radial avenues are 40 feet wide.
+All alphabetically-named annular streets are 30 feet wide,
+except Ellison and Esplanade, at 40 feet, and Kilgore, at 50 feet.
+Pedestrian and bicycle Community Paths between Farmer and Kilgore are located
+at 3:45, 4:15, 4:45, 5:15, 6:45, 7:15, 7:45, and 8:15 are 20 feet wide.
+Man to the center of The Canopy = 2,999’
+There are five plaza portals to the Esplanade: at 6:00 (Center Camp), 3:00, 4:30, 7:30, and
+9:00. The Esplanade mouth of the portal at Center Camp is 210’
+Plazas are at 3:00, 4:30, 7:30, and 9:00 at Bradbury, centered 3215’ from the Man.
+A ring of mid-city plazas at 3:00, 4:30, 6:00, 7:30, and 9:00 are at Gibson,
+centered 4,825’ from the Man.
+BRC Depot and Sanitation Services are 670’ from Kilgore, center to center.
+Man to Greeter’s station: 6,525’
+The Walk-in Camping area is beyond Kilgore to the Pentagon fence, between lines extended
+from 2:00 and 5:00.
+Man to outer fence pentagon points: 8,337’, each side equals 9,801’
+. The 9.28 mile perimeter
+fence of Black Rock City is 3 miles across and contains 3,794 acres – or 5.93 sq. miles.
+City street grid area, including streets, is ~1320 acres.
+Gate Road 3.7 miles highway to the Greeters.
+To Black Rock Station: 10 miles
+To Gerlach: 13 miles
+To Reno: 120 miles
+To San Francisco: 337 miles
