@@ -68,7 +68,8 @@
       "distance":4060,
       "segments":[["2:00","10:00"]],
       "ref":"e",
-      "name": "Ellison"
+      "name": "Ellison",
+      "width": 40
     },
     {
       "distance":4540,
