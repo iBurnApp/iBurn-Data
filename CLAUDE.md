@@ -17,16 +17,50 @@ cd scripts/BlackRockCityPlanner
 npm install
 
 # Generate all geometric data for a year
-node src/cli/generate_all.js -d ../../data/2024
+node src/cli/generate_all.js -d ../../data/2025
 
 # Geocode API data with coordinates
-node src/cli/api.js -l ../../data/2024/layouts/layout.json -f ../../data/2024/APIData/camp.json -k location_string -o ../../data/2024/APIData/camp-location.json
+node src/cli/api.js -l ../../data/2025/layouts/layout.json -f ../../data/2025/APIData/Resources/camp.json -k location_string -o ../../data/2025/APIData/Resources/camp-location.json
 
 # Update original with geocoded version
-mv ../../data/2024/APIData/camp-location.json ../../data/2024/APIData/camp.json
+mv ../../data/2025/APIData/Resources/camp-location.json ../../data/2025/APIData/Resources/camp.json
 
 # Generate browser geocoder bundle
-browserify src/geocoder/index.js -o ../../data/2024/geocoder/bundle.js
+browserify src/geocoder/index.js -o ../../data/2025/geocoder/bundle.js
+```
+
+### Vector Tile Generation
+Convert GeoJSON files to vector tiles for efficient mobile rendering:
+
+```bash
+# Install tippecanoe (macOS)
+brew install tippecanoe
+
+# Generate vector tiles from all GeoJSON files
+tippecanoe --output=data/2025/Map/Resources/map.mbtiles -f \
+  -L fence:data/2025/geo/fence.geojson \
+  -L outline:data/2025/geo/outline.geojson \
+  -L polygons:data/2025/geo/polygons.geojson \
+  -L streets:data/2025/geo/streets.geojson \
+  -L toilets:data/2025/geo/toilets.geojson \
+  -L dmz:data/2025/geo/dmz.geojson \
+  -z 14 \
+  -Z 4 \
+  -B0
+
+# Alternative with official source geometry (if available)
+tippecanoe --output=data/2025/Map/Resources/map.mbtiles -f \
+  -L fence:data/2025/geo/official/Trash_Fence.geojson \
+  -L outline:data/2025/geo/official/Street_Outlines.geojson \
+  -L points:data/2025/geo/points.geojson \
+  -L blocks:data/2025/geo/official/City_Blocks.geojson \
+  -L plazas:data/2025/geo/official/Plazas.geojson \
+  -L streets:data/2025/geo/official/Street_Lines.geojson \
+  -L toilets:data/2025/geo/official/Toilets.geojson \
+  -L dmz:data/2025/geo/official/DMZ.geojson \
+  -z 14 \
+  -Z 4 \
+  -B0
 ```
 
 ### Testing
@@ -41,12 +75,14 @@ npm test  # Run Node.js geospatial generation tests
 Each year follows this directory pattern:
 ```
 data/YYYY/
-├── APIData/           # JSON data files from Burning Man APIs
-│   ├── art.json      # Art installations with descriptions/locations
-│   ├── camp.json     # Theme camps with coordinates
-│   ├── event.json    # Scheduled events and performances  
-│   ├── points.json   # Points of interest (toilets, medical, etc.)
-│   └── update.json   # Data versioning and update timestamps
+├── APIData/           # Swift Package Manager target for JSON data
+│   ├── iBurn2025APIData.swift # Swift Package Manager source
+│   └── Resources/             # JSON data files from Burning Man APIs
+│       ├── art.json          # Art installations with descriptions/locations
+│       ├── camp.json         # Theme camps with coordinates
+│       ├── event.json        # Scheduled events and performances  
+│       ├── points.json       # Points of interest (toilets, medical, etc.)
+│       └── update.json       # Data versioning and update timestamps
 ├── geo/              # GeoJSON geometric data
 │   ├── streets.geojson     # Street grid (radial time-based + concentric)
 │   ├── polygons.geojson    # Plazas and city districts
@@ -56,10 +92,17 @@ data/YYYY/
 ├── layouts/          # City layout configuration
 │   ├── layout.json         # Street positions, bearings, center coordinates
 │   └── toilet.json         # Toilet placement specifications
-├── Map/              # MapLibre map tiles and styling
-│   ├── map.mbtiles         # Offline vector tiles
-│   └── styles/             # Light/dark map styles (JSON)
-└── MediaFiles/       # Images and audio files for art/camps
+├── Map/              # Swift Package Manager target for map resources
+│   ├── iBurn2025Map.swift  # Swift Package Manager source
+│   └── Resources/          # MapLibre map tiles and styling
+│       ├── map.mbtiles     # Offline vector tiles
+│       ├── glyphs/         # Font glyphs for map text rendering
+│       ├── sprites/        # Map icons and symbols
+│       └── styles/         # Light/dark map styles (JSON)
+└── MediaFiles/       # Swift Package Manager target for media files
+    ├── iBurn2025MediaFiles.swift # Swift Package Manager source
+    └── Resources/                # Images and audio files for art/camps
+        └── *.jpg files           # Art/camp/event images
 ```
 
 ### Key Data Processing

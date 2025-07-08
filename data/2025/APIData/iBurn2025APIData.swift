@@ -41,7 +41,7 @@ public enum iBurn2025APIData {
         
         /// Get the URL for this data file from the bundle
         public var url: URL? {
-            iBurn2025APIData.bundle.url(forResource: rawValue, withExtension: "json")
+            iBurn2025APIData.bundle.url(forResource: rawValue, withExtension: "json", subdirectory: "Resources")
         }
         
         /// Load the data for this file

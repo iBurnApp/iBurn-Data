@@ -22,11 +22,11 @@ public enum iBurn2025Map {
     
     /// Available map resource files
     public enum MapResource: String, CaseIterable {
-        case mbtiles = "map.mbtiles"
-        case darkStyle = "styles/iburn-dark.json"
-        case lightStyle = "styles/iburn-light.json"
-        case spriteJson = "sprites/sprite.json"
-        case sprite2x = "sprites/sprite@2x.png"
+        case mbtiles = "Resources/map.mbtiles"
+        case darkStyle = "Resources/styles/iburn-dark.json"
+        case lightStyle = "Resources/styles/iburn-light.json"
+        case spriteJson = "Resources/sprites/sprite.json"
+        case sprite2x = "Resources/sprites/sprite@2x.png"
         
         /// Get the URL for this map resource from the bundle
         public var url: URL? {
@@ -45,7 +45,7 @@ public enum iBurn2025Map {
         
         /// Get the directory URL for glyphs
         public static var glyphsDirectory: URL? {
-            Bundle.module.url(forResource: "glyphs", withExtension: nil as String?)
+            Bundle.module.url(forResource: "glyphs", withExtension: nil as String?, subdirectory: "Resources")
         }
     }
 }

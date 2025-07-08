@@ -32,13 +32,7 @@ let package = Package(
             dependencies: [],
             path: "data/2025/APIData",
             resources: [
-                .copy("art.json"),
-                .copy("camp.json"),
-                .copy("event.json"),
-                .copy("update.json"),
-                .copy("credits.json"),
-                .copy("dates_info.json"),
-                .copy("points.json")
+                .copy("Resources")
             ]
         ),
         .target(
@@ -46,10 +40,7 @@ let package = Package(
             dependencies: [],
             path: "data/2025/Map",
             resources: [
-                .copy("map.mbtiles"),
-                .copy("glyphs"),
-                .copy("sprites"),
-                .copy("styles")
+                .copy("Resources")
             ]
         ),
         .target(
@@ -57,7 +48,7 @@ let package = Package(
             dependencies: [],
             path: "data/2025/MediaFiles",
             resources: [
-                .process(".")
+                .copy("Resources")
             ]
         ),
         .testTarget(

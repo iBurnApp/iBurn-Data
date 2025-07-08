@@ -74,7 +74,6 @@ final class iBurn2025MediaFilesTests: XCTestCase {
             ("test", "png"),
             ("test", "m4a"),
             ("test", "mp4"),
-            ("test", nil),
             ("", "jpg"),
             ("test", "")
         ]
@@ -83,7 +82,7 @@ final class iBurn2025MediaFilesTests: XCTestCase {
             let url = iBurn2025MediaFiles.url(forResource: name, withExtension: ext)
             // These should all return nil since the resources don't exist,
             // but the function should not crash
-            XCTAssertNil(url, "Non-existent resource should return nil for name: '\(name)', ext: '\(ext ?? "nil")'")
+            XCTAssertNil(url, "Non-existent resource should return nil for name: '\(name)', ext: '\(ext)'")
         }
     }
     
@@ -91,7 +90,7 @@ final class iBurn2025MediaFilesTests: XCTestCase {
     
     func testMediaFilesDirectoryExists() {
         // Test that we can access the MediaFiles directory
-        let testURL = iBurn2025MediaFiles.url(forResource: "test", withExtension: "jpg")
+        let _ = iBurn2025MediaFiles.url(forResource: "test", withExtension: "jpg")
         // Even if nil, this tests that the bundle is accessible
         
         // Get the bundle and check if it has a resource URL
@@ -166,8 +165,8 @@ final class iBurn2025MediaFilesTests: XCTestCase {
         let emptyName = iBurn2025MediaFiles.url(forResource: "", withExtension: "jpg")
         XCTAssertNil(emptyName, "Empty resource name should return nil")
         
-        let nilExtension = iBurn2025MediaFiles.url(forResource: "test", withExtension: nil)
-        XCTAssertNil(nilExtension, "Resource with nil extension should return nil (if file doesn't exist)")
+        let emptyExtension = iBurn2025MediaFiles.url(forResource: "test", withExtension: "")
+        XCTAssertNil(emptyExtension, "Resource with empty extension should return nil (if file doesn't exist)")
     }
     
     // MARK: - Performance Tests
