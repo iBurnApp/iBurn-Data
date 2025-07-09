@@ -36,20 +36,21 @@ Convert GeoJSON files to vector tiles for efficient mobile rendering:
 # Install tippecanoe (macOS)
 brew install tippecanoe
 
-# Generate vector tiles from all GeoJSON files
-tippecanoe --output=data/2025/Map/Resources/map.mbtiles -f \
+# Generate vector tiles from all GeoJSON files (output to Map.bundle subdirectory)
+tippecanoe --output=data/2025/Map/Map.bundle/map.mbtiles -f \
   -L fence:data/2025/geo/fence.geojson \
   -L outline:data/2025/geo/outline.geojson \
   -L polygons:data/2025/geo/polygons.geojson \
   -L streets:data/2025/geo/streets.geojson \
   -L toilets:data/2025/geo/toilets.geojson \
+  -L points:data/2025/geo/points.geojson \
   -L dmz:data/2025/geo/dmz.geojson \
   -z 14 \
   -Z 4 \
   -B0
 
 # Alternative with official source geometry (if available)
-tippecanoe --output=data/2025/Map/Resources/map.mbtiles -f \
+tippecanoe --output=data/2025/Map/Map.bundle/map.mbtiles -f \
   -L fence:data/2025/geo/official/Trash_Fence.geojson \
   -L outline:data/2025/geo/official/Street_Outlines.geojson \
   -L points:data/2025/geo/points.geojson \
@@ -62,6 +63,8 @@ tippecanoe --output=data/2025/Map/Resources/map.mbtiles -f \
   -Z 4 \
   -B0
 ```
+
+**Important**: The `points` layer must be included for POI sprites to display correctly. The POI generation script outputs both `name` and `NAME` properties, with `NAME` being required for MapLibre style compatibility using `{NAME}` placeholders.
 
 ### Testing
 ```bash
@@ -94,7 +97,7 @@ data/YYYY/
 │   └── toilet.json         # Toilet placement specifications
 ├── Map/              # Swift Package Manager target for map resources
 │   ├── iBurn2025Map.swift  # Swift Package Manager source
-│   └── Resources/          # MapLibre map tiles and styling
+│   └── Map.bundle/         # MapLibre map tiles and styling (bundle structure)
 │       ├── map.mbtiles     # Offline vector tiles
 │       ├── glyphs/         # Font glyphs for map text rendering
 │       ├── sprites/        # Map icons and symbols

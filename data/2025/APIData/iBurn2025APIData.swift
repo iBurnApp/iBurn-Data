@@ -26,7 +26,11 @@ public enum iBurn2025APIData {
     
     /// The bundle containing the 2025 API data resources
     public static let bundle: Bundle = {
-        return Bundle.module
+        guard let bundleURL = Bundle.module.url(forResource: "APIData", withExtension: "bundle"),
+              let bundle = Bundle(url: bundleURL) else {
+            fatalError("Could not load APIData.bundle")
+        }
+        return bundle
     }()
     
     /// Available JSON data files
@@ -41,7 +45,7 @@ public enum iBurn2025APIData {
         
         /// Get the URL for this data file from the bundle
         public var url: URL? {
-            iBurn2025APIData.bundle.url(forResource: rawValue, withExtension: "json", subdirectory: "Resources")
+            iBurn2025APIData.bundle.url(forResource: rawValue, withExtension: "json")
         }
         
         /// Load the data for this file

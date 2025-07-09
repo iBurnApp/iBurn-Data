@@ -11,7 +11,7 @@
   },
   {
     "properties": {
-      "name": "Center Camp",
+      "name": "Center Camp Plaza",
       "ref": "centerCamp"
     },
     "address": {
@@ -41,7 +41,7 @@
   },
   {
     "properties": {
-      "name": "Black Rock City Airport",
+      "name": "Airport",
       "ref": "airport"
     },
     "address": {
@@ -51,7 +51,7 @@
   },
   {
     "properties": {
-        "name": "First Aid (Main)",
+        "name": "Rampart",
         "ref": "EmergencyClinic"
       },
     "address": {
@@ -61,7 +61,7 @@
   },
   {
     "properties": {
-      "name": "First Aid (3:00)",
+      "name": "Station 3",
       "ref": "firstAid"
     },
     "address": {
@@ -71,7 +71,7 @@
   },
   {
     "properties": {
-      "name": "First Aid (9:00)",
+      "name": "Station 9",
       "ref": "firstAid"
     },
     "address": {
@@ -91,7 +91,7 @@
   },
   {
     "properties": {
-      "name": "Ranger Outpost (Berlin)",
+      "name": "Ranger Station Berlin",
       "ref": "ranger"
     },
     "address": {
@@ -101,7 +101,7 @@
   },
   {
     "properties": {
-      "name": "Ranger Outpost (Tokyo)",
+      "name": "Ranger Station Tokyo",
       "ref": "ranger"
     },
     "address": {
@@ -121,7 +121,8 @@
   },
   {
     "properties": {
-      "ref": "ice"
+      "ref": "ice",
+      "name": "Ice Cubed Arctica 3"
     },
     "address": {
       "time": "2:58",
@@ -130,7 +131,8 @@
   },
   {
     "properties": {
-      "ref": "ice"
+      "ref": "ice",
+      "name": "Arctica Center Camp"
     },
     "address": {
       "time": "6:14",
@@ -139,7 +141,8 @@
   },
   {
     "properties": {
-      "ref": "ice"
+      "ref": "ice",
+      "name": "Ice Nine Arctica"
     },
     "address": {
       "time": "8:56",
@@ -159,7 +162,7 @@
   {
     "properties": {
       "ref":"bus",
-      "name":"Burner Express Bus"
+      "name":"Burner Express Bus Depot"
     },
     "address": {
       "time": "6:08",

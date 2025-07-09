@@ -32,7 +32,7 @@ let package = Package(
             dependencies: [],
             path: "data/2025/APIData",
             resources: [
-                .copy("Resources")
+                .copy("APIData.bundle")
             ]
         ),
         .target(
@@ -40,7 +40,7 @@ let package = Package(
             dependencies: [],
             path: "data/2025/Map",
             resources: [
-                .copy("Resources")
+                .copy("Map.bundle")
             ]
         ),
         .target(
@@ -48,7 +48,7 @@ let package = Package(
             dependencies: [],
             path: "data/2025/MediaFiles",
             resources: [
-                .copy("Resources")
+                .copy("MediaFiles.bundle")
             ]
         ),
         .testTarget(

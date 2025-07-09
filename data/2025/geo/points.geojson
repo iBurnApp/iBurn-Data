@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "name": "The Man",
-                "ref": "center"
+                "ref": "center",
+                "NAME": "The Man"
             },
             "geometry": {
                 "type": "Point",
@@ -18,8 +19,9 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Center Camp",
-                "ref": "centerCamp"
+                "name": "Center Camp Plaza",
+                "ref": "centerCamp",
+                "NAME": "Center Camp Plaza"
             },
             "geometry": {
                 "type": "Point",
@@ -33,7 +35,8 @@
             "type": "Feature",
             "properties": {
                 "name": "DPW",
-                "ref": "dpw"
+                "ref": "dpw",
+                "NAME": "DPW"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +50,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Services",
-                "ref": "services"
+                "ref": "services",
+                "NAME": "Services"
             },
             "geometry": {
                 "type": "Point",
@@ -60,8 +64,9 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Black Rock City Airport",
-                "ref": "airport"
+                "name": "Airport",
+                "ref": "airport",
+                "NAME": "Airport"
             },
             "geometry": {
                 "type": "Point",
@@ -74,8 +79,9 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "First Aid (Main)",
-                "ref": "EmergencyClinic"
+                "name": "Rampart",
+                "ref": "EmergencyClinic",
+                "NAME": "Rampart"
             },
             "geometry": {
                 "type": "Point",
@@ -88,8 +94,9 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "First Aid (3:00)",
-                "ref": "firstAid"
+                "name": "Station 3",
+                "ref": "firstAid",
+                "NAME": "Station 3"
             },
             "geometry": {
                 "type": "Point",
@@ -102,8 +109,9 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "First Aid (9:00)",
-                "ref": "firstAid"
+                "name": "Station 9",
+                "ref": "firstAid",
+                "NAME": "Station 9"
             },
             "geometry": {
                 "type": "Point",
@@ -117,7 +125,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Ranger HQ",
-                "ref": "rangerHQ"
+                "ref": "rangerHQ",
+                "NAME": "Ranger HQ"
             },
             "geometry": {
                 "type": "Point",
@@ -130,8 +139,9 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Ranger Outpost (Berlin)",
-                "ref": "ranger"
+                "name": "Ranger Station Berlin",
+                "ref": "ranger",
+                "NAME": "Ranger Station Berlin"
             },
             "geometry": {
                 "type": "Point",
@@ -144,8 +154,9 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Ranger Outpost (Tokyo)",
-                "ref": "ranger"
+                "name": "Ranger Station Tokyo",
+                "ref": "ranger",
+                "NAME": "Ranger Station Tokyo"
             },
             "geometry": {
                 "type": "Point",
@@ -159,7 +170,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Greeters",
-                "ref": "greeters"
+                "ref": "greeters",
+                "NAME": "Greeters"
             },
             "geometry": {
                 "type": "Point",
@@ -172,7 +184,9 @@
         {
             "type": "Feature",
             "properties": {
-                "ref": "ice"
+                "ref": "ice",
+                "name": "Ice Cubed Arctica 3",
+                "NAME": "Ice Cubed Arctica 3"
             },
             "geometry": {
                 "type": "Point",
@@ -185,7 +199,9 @@
         {
             "type": "Feature",
             "properties": {
-                "ref": "ice"
+                "ref": "ice",
+                "name": "Arctica Center Camp",
+                "NAME": "Arctica Center Camp"
             },
             "geometry": {
                 "type": "Point",
@@ -198,7 +214,9 @@
         {
             "type": "Feature",
             "properties": {
-                "ref": "ice"
+                "ref": "ice",
+                "name": "Ice Nine Arctica",
+                "NAME": "Ice Nine Arctica"
             },
             "geometry": {
                 "type": "Point",
@@ -212,7 +230,8 @@
             "type": "Feature",
             "properties": {
                 "name": "The Temple",
-                "ref": "temple"
+                "ref": "temple",
+                "NAME": "The Temple"
             },
             "geometry": {
                 "type": "Point",
@@ -226,7 +245,8 @@
             "type": "Feature",
             "properties": {
                 "ref": "bus",
-                "name": "Burner Express Bus"
+                "name": "Burner Express Bus Depot",
+                "NAME": "Burner Express Bus Depot"
             },
             "geometry": {
                 "type": "Point",
@@ -240,7 +260,8 @@
             "type": "Feature",
             "properties": {
                 "ref": "recycle",
-                "name": "Recycle Camp"
+                "name": "Recycle Camp",
+                "NAME": "Recycle Camp"
             },
             "geometry": {
                 "type": "Point",
@@ -254,7 +275,8 @@
             "type": "Feature",
             "properties": {
                 "ref": "info",
-                "name": "Playa Info"
+                "name": "Playa Info",
+                "NAME": "Playa Info"
             },
             "geometry": {
                 "type": "Point",

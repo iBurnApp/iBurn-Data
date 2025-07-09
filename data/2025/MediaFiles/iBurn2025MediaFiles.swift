@@ -21,14 +21,18 @@ public enum iBurn2025MediaFiles {
     
     /// The bundle containing the 2025 media file resources
     public static let bundle: Bundle = {
-        return Bundle.module
+        guard let bundleURL = Bundle.module.url(forResource: "MediaFiles", withExtension: "bundle"),
+              let bundle = Bundle(url: bundleURL) else {
+            fatalError("Could not load MediaFiles.bundle")
+        }
+        return bundle
     }()
     
     /// Load image data for a given file ID
     /// - Parameter fileId: The file ID (without extension)
     /// - Returns: Image data if the file exists
     public static func loadImageData(fileId: String) -> Data? {
-        guard let url = bundle.url(forResource: fileId, withExtension: "jpg", subdirectory: "Resources") else {
+        guard let url = bundle.url(forResource: fileId, withExtension: "jpg") else {
             return nil
         }
         return try? Data(contentsOf: url)
@@ -40,15 +44,13 @@ public enum iBurn2025MediaFiles {
     ///   - extension: The file extension (default: "jpg")
     /// - Returns: URL to the media file if it exists
     public static func url(forResource fileId: String, withExtension ext: String = "jpg") -> URL? {
-        return bundle.url(forResource: fileId, withExtension: ext, subdirectory: "Resources")
+        return bundle.url(forResource: fileId, withExtension: ext)
     }
     
-    /// Get all available media files in the Resources subdirectory
+    /// Get all available media files in the bundle
     /// - Returns: Array of URLs to available media files
     public static func allMediaFiles() -> [URL] {
-        guard let mediaFilesURL = bundle.url(forResource: "Resources", withExtension: nil) else { 
-            return [] 
-        }
+        let mediaFilesURL = bundle.bundleURL
         
         do {
             let contents = try FileManager.default.contentsOfDirectory(
