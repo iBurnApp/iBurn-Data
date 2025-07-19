@@ -70,7 +70,22 @@ tippecanoe --output=data/2025/Map/Resources/map.mbtiles -f \
   -z 14 \
   -Z 4 \
   -B0
+  
+# Generate vector tiles from official BMorg data set
+tippecanoe --output=Map/Map.bundle/map.mbtiles -f \
+  -L fence:../../bmorg/innovate-GIS-data/2025/GeoJSON/trash_fence.geojson \
+  -L outline:../../bmorg/innovate-GIS-data/2025/GeoJSON/street_outlines.geojson \
+  -L points:../../bmorg/innovate-GIS-data/2025/GeoJSON/cpns.geojson \
+  -L blocks:../../bmorg/innovate-GIS-data/2025/GeoJSON/city_blocks.geojson \
+  -L plazas:../../bmorg/innovate-GIS-data/2025/GeoJSON/plazas.geojson \
+  -L streets:../../bmorg/innovate-GIS-data/2025/GeoJSON/street_lines.geojson \
+  -L toilets:geo/toilets.geojson \
+  -L dmz:geo/dmz.geojson \
+  -z 14 \
+  -Z 4 \
+  -B0
 ```
+
 
 ### 4. Create Browser Geocoder
 Generate a browser-compatible geocoder bundle:
