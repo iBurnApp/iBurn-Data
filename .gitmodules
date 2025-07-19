@@ -1,3 +1,6 @@
 [submodule "scripts/BlackRockCityPlanner"]
 	path = scripts/BlackRockCityPlanner
 	url = git@github.com:iBurnApp/BlackRockCityPlanner.git
+[submodule "/Users/chrisbal/Documents/Code/iBurn-iOS/Submodules/iBurn-Data/bmorg/innovate-GIS-data"]
+	path = /Users/chrisbal/Documents/Code/iBurn-iOS/Submodules/iBurn-Data/bmorg/innovate-GIS-data
+	url = https://github.com/burningmantech/innovate-GIS-data
