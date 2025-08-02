@@ -79,7 +79,7 @@ tippecanoe --output=Map/Map.bundle/map.mbtiles -f \
   -L blocks:../../bmorg/innovate-GIS-data/2025/GeoJSON/city_blocks.geojson \
   -L plazas:../../bmorg/innovate-GIS-data/2025/GeoJSON/plazas.geojson \
   -L streets:../../bmorg/innovate-GIS-data/2025/GeoJSON/street_lines.geojson \
-  -L toilets:geo/toilets.geojson \
+  -L toilets:../../bmorg/innovate-GIS-data/2025/GeoJSON/toilets.geojson \
   -L dmz:geo/dmz.geojson \
   -z 14 \
   -Z 4 \
