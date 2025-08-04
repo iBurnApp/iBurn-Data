@@ -82,8 +82,8 @@
             "intersection_type": "@",
             "dimensions": "110+ x 250",
             "exact_location": "Corner - facing man & 10:00",
-            "gps_latitude": 40.78676271187612,
-            "gps_longitude": -119.22071800324771
+            "gps_latitude": 40.786516269322014,
+            "gps_longitude": -119.2146515434869
         },
         "location_string": "7:30 G Plaza @ 4:30",
         "images": [
@@ -125,7 +125,9 @@
             "intersection": "7:30",
             "intersection_type": "@",
             "dimensions": "100 x 100",
-            "exact_location": "Mid-block facing man"
+            "exact_location": "Mid-block facing man",
+            "gps_latitude": 40.78114486465884,
+            "gps_longitude": -119.2118291133306
         },
         "location_string": "Center Camp Plaza @ 7:30",
         "images": [
@@ -899,8 +901,8 @@
             "intersection_type": "@",
             "dimensions": "70+ x 225",
             "exact_location": "Corner - facing man & 2:00",
-            "gps_latitude": 40.77362710618789,
-            "gps_longitude": -119.20332801216033
+            "gps_latitude": 40.778300380407345,
+            "gps_longitude": -119.20353222093726
         },
         "location_string": "4:30 G Plaza @ 8:15",
         "images": [
@@ -1067,8 +1069,8 @@
             "intersection_type": "@",
             "dimensions": "70+ x 200",
             "exact_location": "Corner - facing man & 6:00",
-            "gps_latitude": 40.78706203222675,
-            "gps_longitude": -119.21498580098698
+            "gps_latitude": 40.786788593464784,
+            "gps_longitude": -119.21518983321309
         },
         "location_string": "7:30 B Plaza @ 6:45",
         "images": [
@@ -1184,8 +1186,8 @@
             "intersection_type": "@",
             "dimensions": "50+ x 250",
             "exact_location": "Corner - facing mountain & 2:00",
-            "gps_latitude": 40.77770987141599,
-            "gps_longitude": -119.19097801948841
+            "gps_latitude": 40.78112403691325,
+            "gps_longitude": -119.19452869864098
         },
         "location_string": "3:00 G Plaza @ 11:15",
         "images": [
@@ -1280,8 +1282,8 @@
             "intersection_type": "@",
             "dimensions": "60+ x 200",
             "exact_location": "Corner - facing mountain & 6:00",
-            "gps_latitude": 40.793303615953064,
-            "gps_longitude": -119.21090364536725
+            "gps_latitude": 40.793606503030375,
+            "gps_longitude": -119.2114608926925
         },
         "location_string": "9:00 B Plaza @ 9:45",
         "images": [
@@ -1542,8 +1544,8 @@
             "intersection_type": "@",
             "dimensions": "50+ x 350",
             "exact_location": "Corner - facing man & 6:00",
-            "gps_latitude": 40.777709800170946,
-            "gps_longitude": -119.21567836454268
+            "gps_latitude": 40.777774000220404,
+            "gps_longitude": -119.21588236971427
         },
         "location_string": "6:00 G Plaza @ 8:15",
         "images": [
@@ -1589,8 +1591,8 @@
             "intersection_type": "@",
             "dimensions": "60+ x 200",
             "exact_location": "Corner - facing mountain & 2:00",
-            "gps_latitude": 40.77823621597769,
-            "gps_longitude": -119.20332819466515
+            "gps_latitude": 40.778539126761814,
+            "gps_longitude": -119.20321693921305
         },
         "location_string": "4:30 B Plaza @ 9:45",
         "images": []
@@ -1610,8 +1612,8 @@
             "intersection_type": "@",
             "dimensions": "50+ x 150+",
             "exact_location": "Corner - facing man & 10:00",
-            "gps_latitude": 40.79326970954856,
-            "gps_longitude": -119.21158768693424
+            "gps_latitude": 40.792772827176925,
+            "gps_longitude": -119.2113887149672
         },
         "location_string": "9:00 B Plaza @ 5:00",
         "images": [
@@ -1834,7 +1836,9 @@
             "intersection": "12:30",
             "intersection_type": "@",
             "dimensions": "60 x 60",
-            "exact_location": "Corner - facing mountain & 6:00"
+            "exact_location": "Corner - facing mountain & 6:00",
+            "gps_latitude": 40.781583446802095,
+            "gps_longitude": -119.20966748002306
         },
         "location_string": "Center Camp Plaza @ 12:30",
         "images": [
@@ -1882,8 +1886,8 @@
             "intersection_type": "@",
             "dimensions": "60+ x 200",
             "exact_location": "Corner - facing man & 10:00",
-            "gps_latitude": 40.786852435006566,
-            "gps_longitude": -119.21498560371688
+            "gps_latitude": 40.78654984918182,
+            "gps_longitude": -119.21487450959039
         },
         "location_string": "7:30 B Plaza @ 5:15",
         "images": [
@@ -2100,8 +2104,8 @@
             "intersection_type": "@",
             "dimensions": "40+ x 200",
             "exact_location": "Corner - facing man & 6:00",
-            "gps_latitude": 40.777352151363445,
-            "gps_longitude": -119.21520584147441
+            "gps_latitude": 40.77719761906977,
+            "gps_longitude": -119.21512121833096
         },
         "location_string": "6:00 G Plaza @ 3:45",
         "images": [
@@ -2123,7 +2127,9 @@
             "intersection": "4:45",
             "intersection_type": "@",
             "dimensions": "50 x 150",
-            "exact_location": "Mid-block facing man"
+            "exact_location": "Mid-block facing man",
+            "gps_latitude": 40.780275213198664,
+            "gps_longitude": -119.21082190224249
         },
         "location_string": "Center Camp Plaza @ 4:45",
         "images": [
@@ -2548,8 +2554,8 @@
             "intersection_type": "@",
             "dimensions": "80+ x 150",
             "exact_location": "Corner - facing mountain & 6:00",
-            "gps_latitude": 40.787150433389044,
-            "gps_longitude": -119.22020612235858
+            "gps_latitude": 40.78739855697699,
+            "gps_longitude": -119.2146515434869
         },
         "location_string": "7:30 G Plaza @ 10:30",
         "images": [
@@ -2826,8 +2832,8 @@
             "intersection_type": "@",
             "dimensions": "80+ x 300",
             "exact_location": "Corner - facing mountain & 6:00",
-            "gps_latitude": 40.780981216166246,
-            "gps_longitude": -119.19465782671374
+            "gps_latitude": 40.780602295584195,
+            "gps_longitude": -119.19418891134453
         },
         "location_string": "3:00 B Plaza @ 2:00",
         "images": [
@@ -3624,8 +3630,8 @@
             "intersection_type": "@",
             "dimensions": "40+ x 150",
             "exact_location": "Corner - facing man & 6:00",
-            "gps_latitude": 40.77347900421046,
-            "gps_longitude": -119.20285574348593
+            "gps_latitude": 40.77772399925671,
+            "gps_longitude": -119.20321693647746
         },
         "location_string": "4:30 G Plaza @ 5:15",
         "images": [
@@ -3766,8 +3772,8 @@
             "intersection_type": "@",
             "dimensions": "40+ x 150",
             "exact_location": "Corner - facing mountain & 2:00",
-            "gps_latitude": 40.77396936939005,
-            "gps_longitude": -119.20317512774683
+            "gps_latitude": 40.778557675341155,
+            "gps_longitude": -119.20284322020281
         },
         "location_string": "4:30 G Plaza @ 11:00",
         "images": [
@@ -3788,7 +3794,9 @@
             "intersection": "1:30",
             "intersection_type": "@",
             "dimensions": "60- x 220",
-            "exact_location": "Mid-block facing mountain"
+            "exact_location": "Mid-block facing mountain",
+            "gps_latitude": 40.78114486465884,
+            "gps_longitude": -119.20951228883408
         },
         "location_string": "Center Camp Plaza @ 1:30",
         "images": [
@@ -3856,8 +3864,8 @@
             "intersection_type": "@",
             "dimensions": "30+ x 150",
             "exact_location": "Corner - facing mountain & 6:00",
-            "gps_latitude": 40.78096944929032,
-            "gps_longitude": -119.19489014467074
+            "gps_latitude": 40.78088529055857,
+            "gps_longitude": -119.19421340464747
         },
         "location_string": "3:00 B Plaza @ 12:45",
         "images": [
@@ -4153,8 +4161,8 @@
             "intersection_type": "@",
             "dimensions": "50+ x 100",
             "exact_location": "Corner - facing mountain & 6:00",
-            "gps_latitude": 40.77836888197916,
-            "gps_longitude": -119.20281286023527
+            "gps_latitude": 40.778245738281136,
+            "gps_longitude": -119.20243128477844
         },
         "location_string": "4:30 B Plaza @ 1:00",
         "images": [
@@ -4330,7 +4338,9 @@
             "intersection": "9:00",
             "intersection_type": "@",
             "dimensions": "30 x 100",
-            "exact_location": "Mid-block facing 6:00"
+            "exact_location": "Mid-block facing 6:00",
+            "gps_latitude": 40.781765114322255,
+            "gps_longitude": -119.21148982988753
         },
         "location_string": "Center Camp Plaza @ 9:00",
         "images": [
@@ -4859,8 +4869,8 @@
             "intersection_type": "@",
             "dimensions": "30+ x 250",
             "exact_location": "Corner - facing mountain & 6:00",
-            "gps_latitude": 40.78722819423346,
-            "gps_longitude": -119.2204150239873
+            "gps_latitude": 40.78730739553557,
+            "gps_longitude": -119.21500623538279
         },
         "location_string": "7:30 G Plaza @ 9:15",
         "images": [
@@ -5001,8 +5011,8 @@
             "intersection_type": "@",
             "dimensions": "50+ x 150",
             "exact_location": "Corner - facing man & 6:00",
-            "gps_latitude": 40.78082110233936,
-            "gps_longitude": -119.19441742584621
+            "gps_latitude": 40.78030890940779,
+            "gps_longitude": -119.19452870137691
         },
         "location_string": "3:00 B Plaza @ 3:45",
         "images": [
@@ -5366,8 +5376,8 @@
             "intersection_type": "@",
             "dimensions": "70+ x 200",
             "exact_location": "Corner - facing mountain & 10:00",
-            "gps_latitude": 40.79604471906794,
-            "gps_longitude": -119.21525396378748
+            "gps_latitude": 40.79331311454845,
+            "gps_longitude": -119.21067505998586
         },
         "location_string": "9:00 G Plaza @ 1:00",
         "images": [
@@ -5679,7 +5689,9 @@
             "intersection": "1:45",
             "intersection_type": "@",
             "dimensions": "60+ x 220",
-            "exact_location": "Mid-block facing mountain"
+            "exact_location": "Mid-block facing mountain",
+            "gps_latitude": 40.78103037222125,
+            "gps_longitude": -119.20952220119113
         },
         "location_string": "Center Camp Plaza @ 1:45",
         "images": [
@@ -5746,8 +5758,8 @@
             "intersection_type": "@",
             "dimensions": "60+ x 200",
             "exact_location": "Corner - facing man & 2:00",
-            "gps_latitude": 40.77789411445369,
-            "gps_longitude": -119.20317484047587
+            "gps_latitude": 40.77801738543308,
+            "gps_longitude": -119.20355671328731
         },
         "location_string": "4:30 B Plaza @ 7:00",
         "images": [
@@ -5885,8 +5897,8 @@
             "intersection_type": "@",
             "dimensions": "50+ x 250-",
             "exact_location": "Corner - facing mountain & 10:00",
-            "gps_latitude": 40.792934156429695,
-            "gps_longitude": -119.2111442555951
+            "gps_latitude": 40.79331311454845,
+            "gps_longitude": -119.21067505998586
         },
         "location_string": "9:00 B Plaza @ 1:00",
         "images": [
@@ -5959,8 +5971,8 @@
             "intersection_type": "@",
             "dimensions": "50+ x 250",
             "exact_location": "Corner - facing mountain & 6:00",
-            "gps_latitude": 40.77785813433049,
-            "gps_longitude": -119.21548272319265
+            "gps_latitude": 40.77801274657485,
+            "gps_longitude": -119.21556709048829
         },
         "location_string": "6:00 G Plaza @ 9:45",
         "images": [
@@ -5984,8 +5996,8 @@
             "intersection_type": "@",
             "dimensions": "110+ x 250",
             "exact_location": "Corner - facing man & 6:00",
-            "gps_latitude": 40.787150352794455,
-            "gps_longitude": -119.22071840183354
+            "gps_latitude": 40.78695741168426,
+            "gps_longitude": -119.21523418556916
         },
         "location_string": "7:30 G Plaza @ 7:30",
         "images": [
@@ -6498,7 +6510,9 @@
             "intersection": "9:15",
             "intersection_type": "@",
             "dimensions": "50 x 100",
-            "exact_location": "Corner - facing man & 6:00"
+            "exact_location": "Corner - facing man & 6:00",
+            "gps_latitude": 40.7818407672235,
+            "gps_longitude": -119.2113759051664
         },
         "location_string": "Center Camp Plaza @ 9:15",
         "images": [
@@ -6751,8 +6765,8 @@
             "intersection_type": "@",
             "dimensions": "30+ x 300",
             "exact_location": "Mid-block facing 6:00",
-            "gps_latitude": 40.780716298298366,
-            "gps_longitude": -119.19438965511658
+            "gps_latitude": 40.780275329547976,
+            "gps_longitude": -119.19475164652985
         },
         "location_string": "3:00 B Plaza @ 4:30",
         "images": [
@@ -7851,7 +7865,9 @@
             "intersection": "1:00",
             "intersection_type": "@",
             "dimensions": "50 x 75",
-            "exact_location": "Mid-block facing mountain"
+            "exact_location": "Mid-block facing mountain",
+            "gps_latitude": 40.78137189112033,
+            "gps_longitude": -119.20955175694978
         },
         "location_string": "Center Camp Plaza @ 1:00",
         "images": [
@@ -8502,8 +8518,8 @@
             "intersection_type": "@",
             "dimensions": "40+ x 150",
             "exact_location": "Corner - facing man & 6:00",
-            "gps_latitude": 40.777742061874335,
-            "gps_longitude": -119.1903302364934
+            "gps_latitude": 40.78033443124786,
+            "gps_longitude": -119.19446035453792
         },
         "location_string": "3:00 G Plaza @ 3:30",
         "images": [
@@ -8550,8 +8566,8 @@
             "intersection_type": "@",
             "dimensions": "60+ x 225",
             "exact_location": "Corner - facing man & 2:00",
-            "gps_latitude": 40.77802661876519,
-            "gps_longitude": -119.20332803426811
+            "gps_latitude": 40.778300380407345,
+            "gps_longitude": -119.20353222093726
         },
         "location_string": "4:30 B Plaza @ 8:15",
         "images": [
@@ -8783,7 +8799,9 @@
             "intersection": "6:45",
             "intersection_type": "@",
             "dimensions": "50 x 100-",
-            "exact_location": "Mid-block facing man"
+            "exact_location": "Mid-block facing man",
+            "gps_latitude": 40.78080919037536,
+            "gps_longitude": -119.21174092904012
         },
         "location_string": "Center Camp Plaza @ 6:45",
         "images": [
@@ -9760,7 +9778,9 @@
             "intersection": "7:00",
             "intersection_type": "@",
             "dimensions": "40+ x 250-",
-            "exact_location": "Mid-block facing man"
+            "exact_location": "Mid-block facing man",
+            "gps_latitude": 40.78091783897332,
+            "gps_longitude": -119.21178963756597
         },
         "location_string": "Center Camp Plaza @ 7:00",
         "images": [
@@ -10078,8 +10098,8 @@
             "intersection_type": "@",
             "dimensions": "60+ x 100",
             "exact_location": "Corner - facing man & 10:00",
-            "gps_latitude": 40.7867043527963,
-            "gps_longitude": -119.21478978308247
+            "gps_latitude": 40.78654984918182,
+            "gps_longitude": -119.21442857738337
         },
         "location_string": "7:30 B Plaza @ 3:45",
         "images": [
@@ -10429,8 +10449,8 @@
             "intersection_type": "@",
             "dimensions": "40+ x 300",
             "exact_location": "Corner - facing mountain & 6:00",
-            "gps_latitude": 40.78712402404025,
-            "gps_longitude": -119.21436449312323
+            "gps_latitude": 40.78739478290542,
+            "gps_longitude": -119.21457549293358
         },
         "location_string": "7:30 B Plaza @ 10:45",
         "images": [
@@ -10547,8 +10567,8 @@
             "intersection_type": "@",
             "dimensions": "40+ x 300",
             "exact_location": "Corner - facing man & 2:00",
-            "gps_latitude": 40.773494601863064,
-            "gps_longitude": -119.20317482852415
+            "gps_latitude": 40.77801738543308,
+            "gps_longitude": -119.20355671328731
         },
         "location_string": "4:30 G Plaza @ 7:00",
         "images": [
@@ -10632,7 +10652,9 @@
             "intersection": "5:45",
             "intersection_type": "@",
             "dimensions": "60+ x 150",
-            "exact_location": "Corner - facing man & 6:00"
+            "exact_location": "Corner - facing man & 6:00",
+            "gps_latitude": 40.78044896938508,
+            "gps_longitude": -119.2113758903898
         },
         "location_string": "Center Camp Plaza @ 5:45",
         "images": [
@@ -10892,8 +10914,8 @@
             "intersection_type": "@",
             "dimensions": "60+ x 300",
             "exact_location": "Corner - facing man & 6:00",
-            "gps_latitude": 40.79345191539275,
-            "gps_longitude": -119.21109937867067
+            "gps_latitude": 40.793367756674826,
+            "gps_longitude": -119.21177624595644
         },
         "location_string": "9:00 B Plaza @ 8:15",
         "images": [
@@ -11079,8 +11101,8 @@
             "intersection_type": "@",
             "dimensions": "30+ x 200",
             "exact_location": "Corner - facing man & 6:00",
-            "gps_latitude": 40.78061150512142,
-            "gps_longitude": -119.19441761227947
+            "gps_latitude": 40.78030890940779,
+            "gps_longitude": -119.19497459168278
         },
         "location_string": "3:00 B Plaza @ 5:15",
         "images": [
@@ -11171,8 +11193,8 @@
             "intersection_type": "@",
             "dimensions": "70+ x 250",
             "exact_location": "Corner - facing mountain & 6:00",
-            "gps_latitude": 40.77753412741624,
-            "gps_longitude": -119.21499454888982
+            "gps_latitude": 40.77749100524617,
+            "gps_longitude": -119.21478144421351
         },
         "location_string": "6:00 G Plaza @ 2:00",
         "images": []
@@ -11260,7 +11282,9 @@
             "intersection": "10:45",
             "intersection_type": "@",
             "dimensions": "60- x 150",
-            "exact_location": "Mid-block facing mountain"
+            "exact_location": "Mid-block facing mountain",
+            "gps_latitude": 40.78201452750537,
+            "gps_longitude": -119.21051949596281
         },
         "location_string": "Center Camp Plaza @ 10:45",
         "images": [
@@ -11747,8 +11771,8 @@
             "intersection_type": "@",
             "dimensions": "70+ x 150",
             "exact_location": "Corner - facing mountain & 6:00",
-            "gps_latitude": 40.78721039314163,
-            "gps_longitude": -119.21451304533014
+            "gps_latitude": 40.78736497668803,
+            "gps_longitude": -119.21487451232719
         },
         "location_string": "7:30 B Plaza @ 9:45",
         "images": [
@@ -12246,8 +12270,8 @@
             "intersection_type": "@",
             "dimensions": "70+ x 150+",
             "exact_location": "Corner - facing man & 6:00",
-            "gps_latitude": 40.77359485795509,
-            "gps_longitude": -119.20268064557736
+            "gps_latitude": 40.77770545091015,
+            "gps_longitude": -119.20284322213718
         },
         "location_string": "4:30 G Plaza @ 4:00",
         "images": [
@@ -13527,8 +13551,8 @@
             "intersection_type": "@",
             "dimensions": "50+ x 150",
             "exact_location": "Corner - facing man & 6:00",
-            "gps_latitude": 40.79347044056157,
-            "gps_longitude": -119.21128520193965
+            "gps_latitude": 40.793141357226894,
+            "gps_longitude": -119.21181561419105
         },
         "location_string": "9:00 B Plaza @ 7:15",
         "images": [
@@ -13595,7 +13619,9 @@
             "intersection": "3:30",
             "intersection_type": "@",
             "dimensions": "90- x 200+",
-            "exact_location": "Mid-block facing 6:00"
+            "exact_location": "Mid-block facing 6:00",
+            "gps_latitude": 40.78038522495523,
+            "gps_longitude": -119.21009150158226
         },
         "location_string": "Center Camp Plaza @ 3:30",
         "images": [
@@ -14320,8 +14346,8 @@
             "intersection_type": "@",
             "dimensions": "70+ x 225+",
             "exact_location": "Corner - facing mountain & 2:00",
-            "gps_latitude": 40.77383670340036,
-            "gps_longitude": -119.20332817252188
+            "gps_latitude": 40.778539126761814,
+            "gps_longitude": -119.20321693921305
         },
         "location_string": "4:30 G Plaza @ 9:45",
         "images": [
@@ -14715,8 +14741,8 @@
             "intersection_type": "@",
             "dimensions": "70+ x 250",
             "exact_location": "Corner - facing mountain & 6:00",
-            "gps_latitude": 40.77786992196341,
-            "gps_longitude": -119.19055001535023
+            "gps_latitude": 40.780602295584195,
+            "gps_longitude": -119.19418891134453
         },
         "location_string": "3:00 G Plaza @ 2:00",
         "images": [
@@ -15328,8 +15354,8 @@
             "intersection_type": "@",
             "dimensions": "70+ x 350+",
             "exact_location": "Corner - facing man & 6:00",
-            "gps_latitude": 40.79656248016304,
-            "gps_longitude": -119.21520911697529
+            "gps_latitude": 40.793367756674826,
+            "gps_longitude": -119.21177624595644
         },
         "location_string": "9:00 G Plaza @ 8:15",
         "images": [
@@ -15759,8 +15785,8 @@
             "intersection_type": "@",
             "dimensions": "60+ x 200",
             "exact_location": "Corner - facing man & 2:00",
-            "gps_latitude": 40.777340386051506,
-            "gps_longitude": -119.19055030458367
+            "gps_latitude": 40.780602295584195,
+            "gps_longitude": -119.19531438171516
         },
         "location_string": "3:00 G Plaza @ 7:00",
         "images": [
@@ -16298,8 +16324,8 @@
             "intersection_type": "@",
             "dimensions": "40+ x 250",
             "exact_location": "Corner - facing mountain & 10:00",
-            "gps_latitude": 40.78669190585141,
-            "gps_longitude": -119.22036853764374
+            "gps_latitude": 40.78673684013683,
+            "gps_longitude": -119.21414696231827
         },
         "location_string": "7:30 G Plaza @ 2:30",
         "images": [
@@ -16414,8 +16440,8 @@
             "intersection_type": "@",
             "dimensions": "40+ x 400",
             "exact_location": "Corner - facing man & 6:00",
-            "gps_latitude": 40.796562450611056,
-            "gps_longitude": -119.21548624132183
+            "gps_latitude": 40.7930301198064,
+            "gps_longitude": -119.21177624321878
         },
         "location_string": "9:00 G Plaza @ 6:45",
         "images": []
@@ -16498,8 +16524,8 @@
             "intersection_type": "@",
             "dimensions": "50 x 150+",
             "exact_location": "Corner - facing man & 2:00",
-            "gps_latitude": 40.777367752096545,
-            "gps_longitude": -119.19082473123147
+            "gps_latitude": 40.7809370441899,
+            "gps_longitude": -119.19525618363701
         },
         "location_string": "3:00 G Plaza @ 8:30",
         "images": []
@@ -16631,8 +16657,8 @@
             "intersection_type": "@",
             "dimensions": "40+ x 200",
             "exact_location": "Corner - facing mountain & 6:00",
-            "gps_latitude": 40.777858163867776,
-            "gps_longitude": -119.19078232294012
+            "gps_latitude": 40.78088529055857,
+            "gps_longitude": -119.19421340464747
         },
         "location_string": "3:00 G Plaza @ 12:45",
         "images": [
@@ -17163,7 +17189,9 @@
             "intersection": "4:00",
             "intersection_type": "@",
             "dimensions": "60- x 100",
-            "exact_location": "Corner - facing man & 6:00"
+            "exact_location": "Corner - facing man & 6:00",
+            "gps_latitude": 40.78029759722166,
+            "gps_longitude": -119.21037088575478
         },
         "location_string": "Center Camp Plaza @ 4:00",
         "images": [
@@ -17738,8 +17766,8 @@
             "intersection_type": "@",
             "dimensions": "30+ x 250",
             "exact_location": "Corner - facing mountain & 6:00",
-            "gps_latitude": 40.79644644664334,
-            "gps_longitude": -119.21503398029124
+            "gps_latitude": 40.793580980886816,
+            "gps_longitude": -119.21152925299481
         },
         "location_string": "9:00 G Plaza @ 9:30",
         "images": [
@@ -18123,7 +18151,9 @@
             "intersection": "9:45",
             "intersection_type": "@",
             "dimensions": "30+ x 150",
-            "exact_location": "Mid-block facing mountain"
+            "exact_location": "Mid-block facing mountain",
+            "gps_latitude": 40.781955261058016,
+            "gps_longitude": -119.21111401166633
         },
         "location_string": "Center Camp Plaza @ 9:45",
         "images": [
@@ -18575,8 +18605,8 @@
             "intersection_type": "@",
             "dimensions": "60+ x 200",
             "exact_location": "Corner - facing mountain & 10:00",
-            "gps_latitude": 40.792945883205185,
-            "gps_longitude": -119.21137616845088
+            "gps_latitude": 40.7930301198064,
+            "gps_longitude": -119.21069956256565
         },
         "location_string": "9:00 B Plaza @ 2:15",
         "images": [
@@ -18648,8 +18678,8 @@
             "intersection_type": "@",
             "dimensions": "60+ x 150",
             "exact_location": "Corner - facing mountain & 2:00",
-            "gps_latitude": 40.77750027421163,
-            "gps_longitude": -119.1909778980709
+            "gps_latitude": 40.78112403691325,
+            "gps_longitude": -119.19497459441872
         },
         "location_string": "3:00 G Plaza @ 9:45",
         "images": [
@@ -18930,8 +18960,8 @@
             "intersection_type": "@",
             "dimensions": "50+ x 100",
             "exact_location": "Corner - facing mountain & 2:00",
-            "gps_latitude": 40.78078729385171,
-            "gps_longitude": -119.19510135006927
+            "gps_latitude": 40.781142585492596,
+            "gps_longitude": -119.19460086086491
         },
         "location_string": "3:00 B Plaza @ 11:00",
         "images": [
@@ -19466,8 +19496,8 @@
             "intersection_type": "@",
             "dimensions": "60+ x 100",
             "exact_location": "Corner - facing man & 10:00",
-            "gps_latitude": 40.79312782233596,
-            "gps_longitude": -119.21158756351416
+            "gps_latitude": 40.792772827176925,
+            "gps_longitude": -119.21108709081724
         },
         "location_string": "9:00 B Plaza @ 4:00",
         "images": [
@@ -19575,7 +19605,9 @@
             "intersection": "10:15",
             "intersection_type": "@",
             "dimensions": "30 x 150",
-            "exact_location": "Mid-block facing mountain"
+            "exact_location": "Mid-block facing mountain",
+            "gps_latitude": 40.78201452750537,
+            "gps_longitude": -119.21082190620187
         },
         "location_string": "Center Camp Plaza @ 10:15",
         "images": []
@@ -19780,8 +19812,8 @@
             "intersection_type": "@",
             "dimensions": "40+ x 150-",
             "exact_location": "Corner - facing mountain & 6:00",
-            "gps_latitude": 40.777676016071695,
-            "gps_longitude": -119.2149944695581
+            "gps_latitude": 40.7777193580942,
+            "gps_longitude": -119.21478144227919
         },
         "location_string": "6:00 G Plaza @ 1:00",
         "images": [
@@ -20012,8 +20044,8 @@
             "intersection_type": "@",
             "dimensions": "60+ x 100",
             "exact_location": "Corner - facing mountain & 2:00",
-            "gps_latitude": 40.78061155268492,
-            "gps_longitude": -119.19508570679882
+            "gps_latitude": 40.78112403691325,
+            "gps_longitude": -119.19497459441872
         },
         "location_string": "3:00 B Plaza @ 9:45",
         "images": [
@@ -20630,8 +20662,8 @@
             "intersection_type": "@",
             "dimensions": "60+ x 250",
             "exact_location": "Corner - facing mountain & 6:00",
-            "gps_latitude": 40.77786994522072,
-            "gps_longitude": -119.21525041884271
+            "gps_latitude": 40.77803129515418,
+            "gps_longitude": -119.21519337443944
         },
         "location_string": "6:00 G Plaza @ 11:00",
         "images": [
@@ -20747,7 +20779,9 @@
             "intersection": "9:30",
             "intersection_type": "@",
             "dimensions": "30+ x 130",
-            "exact_location": "Corner - facing mountain & 6:00"
+            "exact_location": "Corner - facing mountain & 6:00",
+            "gps_latitude": 40.781904513050236,
+            "gps_longitude": -119.21124991383076
         },
         "location_string": "Center Camp Plaza @ 9:30",
         "images": [
@@ -21248,8 +21282,8 @@
             "intersection_type": "@",
             "dimensions": "70+ x 250",
             "exact_location": "Corner - facing mountain & 10:00",
-            "gps_latitude": 40.786739364728895,
-            "gps_longitude": -119.22024212795422
+            "gps_latitude": 40.786899830885204,
+            "gps_longitude": -119.21407388648925
         },
         "location_string": "7:30 G Plaza @ 1:45",
         "images": [
@@ -21316,7 +21350,9 @@
             "intersection": "2:45",
             "intersection_type": "@",
             "dimensions": "90 x 200",
-            "exact_location": "Corner - facing man & 10:00"
+            "exact_location": "Corner - facing man & 10:00",
+            "gps_latitude": 40.78061088478365,
+            "gps_longitude": -119.20975167824393
         },
         "location_string": "Center Camp Plaza @ 2:45",
         "images": [
@@ -22223,8 +22259,8 @@
             "intersection_type": "@",
             "dimensions": "80+ x 250",
             "exact_location": "Corner - facing mountain & 6:00",
-            "gps_latitude": 40.79630938857013,
-            "gps_longitude": -119.21498555189363
+            "gps_latitude": 40.79364008331941,
+            "gps_longitude": -119.21123790289221
         },
         "location_string": "9:00 G Plaza @ 10:30",
         "images": [
@@ -22424,8 +22460,8 @@
             "intersection_type": "@",
             "dimensions": "70+ x 400",
             "exact_location": "Corner - facing man & 6:00",
-            "gps_latitude": 40.7773403860515,
-            "gps_longitude": -119.21543769541631
+            "gps_latitude": 40.77717907072322,
+            "gps_longitude": -119.21549492971003
         },
         "location_string": "6:00 G Plaza @ 5:00",
         "images": [
@@ -23036,8 +23072,8 @@
             "intersection_type": "@",
             "dimensions": "40+ x 200",
             "exact_location": "Corner - facing man & 10:00",
-            "gps_latitude": 40.7962045191508,
-            "gps_longitude": -119.21568173818737
+            "gps_latitude": 40.792791375523464,
+            "gps_longitude": -119.2110149158296
         },
         "location_string": "9:00 G Plaza @ 3:45",
         "images": [
@@ -23329,8 +23365,8 @@
             "intersection_type": "@",
             "dimensions": "60+ x 200",
             "exact_location": "Corner - facing man & 6:00",
-            "gps_latitude": 40.77750020295025,
-            "gps_longitude": -119.21567816517461
+            "gps_latitude": 40.77743636335275,
+            "gps_longitude": -119.21588236697875
         },
         "location_string": "6:00 G Plaza @ 6:45",
         "images": []
@@ -23349,8 +23385,8 @@
             "intersection_type": "@",
             "dimensions": "50+ x 150",
             "exact_location": "Corner - facing mountain & 6:00",
-            "gps_latitude": 40.79312787154487,
-            "gps_longitude": -119.21088822177595
+            "gps_latitude": 40.793625051609816,
+            "gps_longitude": -119.21108708888144
         },
         "location_string": "9:00 B Plaza @ 11:00",
         "images": [
@@ -24024,8 +24060,8 @@
             "intersection_type": "@",
             "dimensions": "50+ x 150",
             "exact_location": "Corner - facing man & 2:00",
-            "gps_latitude": 40.78045167916614,
-            "gps_longitude": -119.19465808323531
+            "gps_latitude": 40.780602295584195,
+            "gps_longitude": -119.19531438171516
         },
         "location_string": "3:00 B Plaza @ 7:00",
         "images": []
@@ -24394,7 +24430,9 @@
             "intersection": "11:15",
             "intersection_type": "@",
             "dimensions": "90+ x 135",
-            "exact_location": "Corner - facing mountain & 6:00"
+            "exact_location": "Corner - facing mountain & 6:00",
+            "gps_latitude": 40.781955261058016,
+            "gps_longitude": -119.21022739049835
         },
         "location_string": "Center Camp Plaza @ 11:15",
         "images": [
@@ -24466,7 +24504,9 @@
             "intersection": "10:00",
             "intersection_type": "@",
             "dimensions": "40 x 150",
-            "exact_location": "Mid-block facing mountain"
+            "exact_location": "Mid-block facing mountain",
+            "gps_latitude": 40.78199214290375,
+            "gps_longitude": -119.21097052405882
         },
         "location_string": "Center Camp Plaza @ 10:00",
         "images": [
@@ -24571,8 +24611,8 @@
             "intersection_type": "@",
             "dimensions": "120+ x 200",
             "exact_location": "Corner - facing man & 6:00",
-            "gps_latitude": 40.77793762937302,
-            "gps_longitude": -119.20273819082092
+            "gps_latitude": 40.77769041939688,
+            "gps_longitude": -119.20299400000005
         },
         "location_string": "4:30 B Plaza @ 4:30",
         "images": [
@@ -25064,7 +25104,9 @@
             "intersection": "5:15",
             "intersection_type": "@",
             "dimensions": "50+ x 250",
-            "exact_location": "Mid-block facing man"
+            "exact_location": "Mid-block facing man",
+            "gps_latitude": 40.780334478146976,
+            "gps_longitude": -119.2111140008491
         },
         "location_string": "Center Camp Plaza @ 5:15",
         "images": [
@@ -25155,8 +25197,8 @@
             "intersection_type": "@",
             "dimensions": "40+ x 150+",
             "exact_location": "Corner - facing mountain & 6:00",
-            "gps_latitude": 40.77398501669164,
-            "gps_longitude": -119.20285548502699
+            "gps_latitude": 40.778300380407345,
+            "gps_longitude": -119.20245577906282
         },
         "location_string": "4:30 G Plaza @ 12:45",
         "images": [
@@ -25321,8 +25363,8 @@
             "intersection_type": "@",
             "dimensions": "50+ x 100",
             "exact_location": "Corner - facing man & 6:00",
-            "gps_latitude": 40.78721036525542,
-            "gps_longitude": -119.21479013056089
+            "gps_latitude": 40.78712623033291,
+            "gps_longitude": -119.21518983594989
         },
         "location_string": "7:30 B Plaza @ 8:15",
         "images": [
@@ -25903,8 +25945,8 @@
             "intersection_type": "@",
             "dimensions": "70+ x 150+",
             "exact_location": "Corner - facing mountain & 6:00",
-            "gps_latitude": 40.7738367034004,
-            "gps_longitude": -119.2026598274782
+            "gps_latitude": 40.77796274353966,
+            "gps_longitude": -119.2024557817984
         },
         "location_string": "4:30 G Plaza @ 2:15",
         "images": [
@@ -26301,8 +26343,8 @@
             "intersection_type": "@",
             "dimensions": "50+ x 100",
             "exact_location": "Corner - facing mountain & 2:00",
-            "gps_latitude": 40.778348734805036,
-            "gps_longitude": -119.20321430970831
+            "gps_latitude": 40.77856893297912,
+            "gps_longitude": -119.20291795955207
         },
         "location_string": "4:30 B Plaza @ 10:45",
         "images": [
@@ -26394,7 +26436,9 @@
             "intersection": "6:15",
             "intersection_type": "@",
             "dimensions": "50+ x 200",
-            "exact_location": "Corner - facing man & 6:00"
+            "exact_location": "Corner - facing man & 6:00",
+            "gps_latitude": 40.78061088478365,
+            "gps_longitude": -119.21158972392071
         },
         "location_string": "Center Camp Plaza @ 6:15",
         "images": []
@@ -26710,7 +26754,9 @@
             "intersection": "2:15",
             "intersection_type": "@",
             "dimensions": "50+ x 220",
-            "exact_location": "Corner - facing mountain & 6:00"
+            "exact_location": "Corner - facing mountain & 6:00",
+            "gps_latitude": 40.78080919037536,
+            "gps_longitude": -119.20960047312454
         },
         "location_string": "Center Camp Plaza @ 2:15",
         "images": [
@@ -26910,8 +26956,8 @@
             "intersection_type": "@",
             "dimensions": "60+ x 250",
             "exact_location": "Corner - facing man & 2:00",
-            "gps_latitude": 40.78046343679368,
-            "gps_longitude": -119.19488994892757
+            "gps_latitude": 40.78088529055857,
+            "gps_longitude": -119.19528988841222
         },
         "location_string": "3:00 B Plaza @ 8:15",
         "images": [
@@ -27641,8 +27687,8 @@
             "intersection_type": "@",
             "dimensions": "110+ x 150",
             "exact_location": "Corner - facing mountain & 10:00",
-            "gps_latitude": 40.78676350390225,
-            "gps_longitude": -119.21439566485097
+            "gps_latitude": 40.78695741168426,
+            "gps_longitude": -119.2140689014046
         },
         "location_string": "7:30 B Plaza @ 1:30",
         "images": [
@@ -28220,8 +28266,8 @@
             "intersection_type": "@",
             "dimensions": "60+ x 200+",
             "exact_location": "Corner - facing mountain & 6:00",
-            "gps_latitude": 40.7782362159777,
-            "gps_longitude": -119.2026598053349
+            "gps_latitude": 40.77796274353966,
+            "gps_longitude": -119.2024557817984
         },
         "location_string": "4:30 B Plaza @ 2:15",
         "images": [
@@ -28244,8 +28290,8 @@
             "intersection_type": "@",
             "dimensions": "40+ x 150",
             "exact_location": "Corner - facing mountain & 10:00",
-            "gps_latitude": 40.79607203270543,
-            "gps_longitude": -119.21552847665146
+            "gps_latitude": 40.79297836647845,
+            "gps_longitude": -119.21073327429197
         },
         "location_string": "9:00 G Plaza @ 2:30",
         "images": [
@@ -30724,7 +30770,9 @@
             "intersection": "8:00",
             "intersection_type": "@",
             "dimensions": "190 x 200",
-            "exact_location": "Corner - facing mountain & 6:00"
+            "exact_location": "Corner - facing mountain & 6:00",
+            "gps_latitude": 40.78137189112033,
+            "gps_longitude": -119.21178964521489
         },
         "location_string": "Center Camp Plaza @ 8:00",
         "images": []
@@ -30741,8 +30789,8 @@
             "intersection_type": "@",
             "dimensions": "80+ x 150",
             "exact_location": "Corner - facing man & 10:00",
-            "gps_latitude": 40.79634505675885,
-            "gps_longitude": -119.21570631190075
+            "gps_latitude": 40.79276156968531,
+            "gps_longitude": -119.21131395959253
         },
         "location_string": "9:00 G Plaza @ 4:45",
         "images": []
@@ -30759,8 +30807,8 @@
             "intersection_type": "@",
             "dimensions": "80+ x 150",
             "exact_location": "Corner - facing man & 6:00",
-            "gps_latitude": 40.77746795776443,
-            "gps_longitude": -119.19033050169593
+            "gps_latitude": 40.78033443124786,
+            "gps_longitude": -119.19504293852177
         },
         "location_string": "3:00 G Plaza @ 5:30",
         "images": []

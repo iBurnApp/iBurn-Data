@@ -893,7 +893,7 @@ var Parser = require('./geocodeParser.js');
 var leven = require('levenshtein');
 var Clock = require('../clock.js');
 
-var Geocoder = function(centerPoint, centerCamp, cityBearing, streets, polygons, hardcodedLocations) {
+var Geocoder = function(centerPoint, centerCamp, cityBearing, streets, polygons, hardcodedLocations, layoutFile) {
   this.centerPoint = centerPoint;
   this.centerCamp = centerCamp;
   this.cityBearing = cityBearing;
@@ -903,6 +903,7 @@ var Geocoder = function(centerPoint, centerCamp, cityBearing, streets, polygons,
   if (hardcodedLocations){
     this.hardcodedLocations = hardcodedLocations;
   }
+  this.layoutFile = layoutFile;
   this.features = [];
   this.addFeatures(this.streets);
   this.addFeatures(this.polygons);
@@ -1083,7 +1084,54 @@ function intersectingPoints(features1,features2) {
   return intersections;
 }
 
+Geocoder.prototype.plazaTimeToLatLon = function(plazaName, timeString) {
+  // Check if we have this plaza in hardcoded locations
+  var plazaCenter;
+  var plazaRadius;
+  
+  // Handle Center Camp Plaza specially
+  if (plazaName.toLowerCase().includes('center camp plaza')) {
+    plazaCenter = this.centerCamp;
+    // Use the actual cafe plaza radius from layout
+    if (this.layoutFile && this.layoutFile.center_camp && this.layoutFile.center_camp.cafe_plaza_radius) {
+      plazaRadius = utils.feetToMiles(this.layoutFile.center_camp.cafe_plaza_radius);
+    } else {
+      plazaRadius = utils.feetToMiles(320); // Default based on 2025 layout
+    }
+  } else {
+    // Try to find plaza in features
+    var plazaFeatures = this.fuzzyMatchFeatures(['name', 'ref'], plazaName);
+    if (plazaFeatures.length > 0) {
+      var plaza = plazaFeatures[0];
+      plazaCenter = turf.centroid(plaza);
+      // Calculate approximate radius from polygon
+      var bbox = turf.bbox(plaza);
+      var width = turf.distance([bbox[0], bbox[1]], [bbox[2], bbox[1]]);
+      var height = turf.distance([bbox[0], bbox[1]], [bbox[0], bbox[3]]);
+      plazaRadius = Math.max(width, height) / 2;
+    } else {
+      return undefined;
+    }
+  }
+  
+  // Convert time to bearing
+  var compassDegrees = utils.timeStringToCompassDegress(timeString, this.cityBearing);
+  
+  // Calculate point on plaza perimeter
+  var destination = turf.destination(plazaCenter, plazaRadius, compassDegrees, {units: 'miles'});
+  return destination;
+};
+
 Geocoder.prototype.geocode = function(locationString1,locationString2) {
+  // First check for plaza + time pattern (e.g., "Center Camp Plaza @ 7:30")
+  var plazaMatch = locationString1.match(/^(.*?plaza)\s*[@&]\s*(.+)$/i);
+  if (plazaMatch) {
+    var plazaName = plazaMatch[1].trim();
+    var timeString = plazaMatch[2].trim();
+    return this.plazaTimeToLatLon(plazaName, timeString);
+  }
+  
+  // Check exact hardcoded locations
   if (locationString1 in this.hardcodedLocations) {
     return this.hardcodedLocations[locationString1];
   } else {
@@ -1222,7 +1270,7 @@ var prepare = require('./prepare.js');
 var Geocoder = function(layoutFile) {
   var dict = prepare(layoutFile);
   this.reverseCoder = new reverseGeocoder(dict.center,dict.centerCamp,dict.bearing,dict.reversePolygons,dict.reverseStreets);
-  this.forwardCoder = new forwardGeocoder(dict.center,dict.centerCamp,dict.bearing,dict.forwardStreets,dict.forwardPolygons,dict.hardcodedLocations);
+  this.forwardCoder = new forwardGeocoder(dict.center,dict.centerCamp,dict.bearing,dict.forwardStreets,dict.forwardPolygons,dict.hardcodedLocations,dict.layoutFile);
 };
 
 // Legacy Android (pre 4.4) Javascript bridge only accepts primitives
@@ -1324,7 +1372,8 @@ module.exports = function(layoutFile) {
     "reverseStreets":turf.featureCollection(st),
     "forwardPolygons":polygons.allPolygons(streetPlanner),
     "forwardStreets":allStreets,
-    "hardcodedLocations":hardcodedLocations
+    "hardcodedLocations":hardcodedLocations,
+    "layoutFile":layoutFile
   }
 }
 
