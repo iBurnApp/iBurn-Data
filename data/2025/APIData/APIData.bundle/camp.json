@@ -5780,7 +5780,7 @@
             "intersection": "G",
             "intersection_type": "&",
             "dimensions": "50 x 150",
-            "exact_location": "Mid-block facing 10:00",
+            "exact_location": "Corner - facing man & 10:00",
             "gps_latitude": 40.78033858930056,
             "gps_longitude": -119.21811604237381
         },
@@ -7166,15 +7166,15 @@
         "year": 2025,
         "landmark": "car ports with various bright color shades",
         "location": {
-            "frontage": "2:45",
-            "intersection": "F",
+            "frontage": "E",
+            "intersection": "2:45",
             "intersection_type": "&",
-            "dimensions": "100 x 50",
-            "exact_location": "Corner - facing man & 6:00",
-            "gps_latitude": 40.77937663755148,
-            "gps_longitude": -119.18996065003947
+            "dimensions": "100 x 100",
+            "exact_location": "Mid-block facing mountain",
+            "gps_latitude": 40.7801781671247,
+            "gps_longitude": -119.19133858382148
         },
-        "location_string": "2:45 & F",
+        "location_string": "E & 2:45",
         "images": [
             {
                 "thumbnail_url": "https://burningman.widen.net/content/vyjdladfn7/jpeg/a1XVI000009byCv2AI-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx"
@@ -10468,15 +10468,15 @@
         "description": "Join us as we bring the legendary spirit of the Monkey King to life on the Playa! Our camp is offering immersive culture through drinks, games, music, and interactive art. Our Monkey King Art Car is decorated as the Flower Fruit Mountain like the original story.\n🐵 Totems of Power: Touch-activated totems glow with Sun Wukong's mythical energy—sharing light and spirit with the Playa.\n💧 Flower Fruit Moutain Bar: Providing Cultural Drink/Alcohol to cool down your temperature in dessert!\n🐒 Sunwukong Lair : A Comfortable indoor spot you can rest and enjoy interactivities like Music, Gaming, Story Episode on Projector, and Karaoke. \n🎶 Open-Deck DJ Stage/Art Car: A collaborative music space open to DJs of all styles and backgrounds.\nCome vibe, connect, and be part of the Monkey King experience! 🔥",
         "landmark": "Oue monkey king lit up on top of our art car",
         "location": {
-            "frontage": "F",
-            "intersection": "6:15",
+            "frontage": "C",
+            "intersection": "5:45",
             "intersection_type": "&",
             "dimensions": "100 x 100",
             "exact_location": "Mid-block facing man",
-            "gps_latitude": 40.77937663755147,
-            "gps_longitude": -119.21602734996057
+            "gps_latitude": 40.77934369172886,
+            "gps_longitude": -119.21070209359837
         },
-        "location_string": "F & 6:15",
+        "location_string": "C & 5:45",
         "images": []
     },
     {
@@ -12502,14 +12502,14 @@
         "landmark": "Yellow flags & balloons and Yellow Balloon sign",
         "location": {
             "frontage": "6:30",
-            "intersection": "G",
+            "intersection": "F",
             "intersection_type": "&",
             "dimensions": "150 x 200",
             "exact_location": "Corner - facing mountain & 10:00",
-            "gps_latitude": 40.78033858930056,
-            "gps_longitude": -119.21811604237381
+            "gps_latitude": 40.780729567506505,
+            "gps_longitude": -119.21722285274319
         },
-        "location_string": "6:30 & G",
+        "location_string": "6:30 & F",
         "images": [
             {
                 "thumbnail_url": "https://burningman.widen.net/content/gc5x6cwy5s/jpeg/a1XVI000009m9Gj2AI-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx"
@@ -13337,14 +13337,14 @@
         "landmark": "40 foot furniture van and large circus tent.",
         "location": {
             "frontage": "6:30",
-            "intersection": "H",
+            "intersection": "G",
             "intersection_type": "&",
             "dimensions": "50 x 150",
             "exact_location": "Mid-block facing 10:00",
-            "gps_latitude": 40.779961331162106,
-            "gps_longitude": -119.2189778885131
+            "gps_latitude": 40.78033858930056,
+            "gps_longitude": -119.21811604237381
         },
-        "location_string": "6:30 & H",
+        "location_string": "6:30 & G",
         "images": [
             {
                 "thumbnail_url": "https://burningman.widen.net/content/j59nytjujb/jpeg/a1XVI000009mMAj2AM-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx"
@@ -15994,7 +15994,7 @@
             "intersection": "G",
             "intersection_type": "&",
             "dimensions": "100 x 200",
-            "exact_location": "Corner - facing man & 10:00",
+            "exact_location": "Corner - facing mountain & 10:00",
             "gps_latitude": 40.78033858930056,
             "gps_longitude": -119.21811604237381
         },
@@ -17508,15 +17508,15 @@
         "description": "Love to play, dance, and monkey around. Our lounge will be spinning tunes for every taste throughout the day. We love playing music throughout the day, with a more intimate experience on our 20x30 dance floor and 600‐watt sound.  Monday is the our 11th annual Super Hero Underwear Monkey Party with tasty monkey juice at the Monkey Bar (alcoholic or not). Throughout the week, we will keep the playa charged up with our fruit charging stations and entertained by playing Monkey Mayhem. Tuesday and Thursday morning/early afternoon dance/hangout parties. With a large community shade structure we invite anyone to stop by and chill for a bit, get out of the sun, and meet new friends, any time of the day.",
         "landmark": "Pink Monkey Flags",
         "location": {
-            "frontage": "8:30",
-            "intersection": "F",
+            "frontage": "8:00",
+            "intersection": "B",
             "intersection_type": "&",
             "dimensions": "100 x 100",
-            "exact_location": "Mid-block facing 6:00",
-            "gps_latitude": 40.793174156248654,
-            "gps_longitude": -119.21723354729865
+            "exact_location": "Corner - facing mountain & 6:00",
+            "gps_latitude": 40.78923767369127,
+            "gps_longitude": -119.2142560756963
         },
-        "location_string": "8:30 & F",
+        "location_string": "8:00 & B",
         "images": [
             {
                 "thumbnail_url": "https://burningman.widen.net/content/da9wv2lwis/jpeg/a1XVI000009qW3R2AU-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx"
@@ -23095,7 +23095,7 @@
             "frontage": "6:00 Portal",
             "intersection": null,
             "intersection_type": null,
-            "dimensions": "100 x 150",
+            "dimensions": "100 x 200",
             "exact_location": "Mid-block facing 6:00",
             "gps_latitude": 40.78176453869889,
             "gps_longitude": -119.2098508756989
@@ -25763,14 +25763,14 @@
         "landmark": "inflatable logo and kite installation",
         "location": {
             "frontage": "6:30",
-            "intersection": "H",
+            "intersection": "G",
             "intersection_type": "&",
             "dimensions": "100 x 100",
-            "exact_location": "Corner - facing man & 10:00",
-            "gps_latitude": 40.779961331162106,
-            "gps_longitude": -119.2189778885131
+            "exact_location": "Mid-block facing 10:00",
+            "gps_latitude": 40.78033858930056,
+            "gps_longitude": -119.21811604237381
         },
-        "location_string": "6:30 & H",
+        "location_string": "6:30 & G",
         "images": []
     },
     {
