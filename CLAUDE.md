@@ -9,24 +9,38 @@ iBurn-Data is a data repository containing yearly festival datasets, geospatial 
 ## Development Commands
 
 ### Data Generation Workflow
+
+#### Complete API Data Update
 ```bash
-# Navigate to BlackRockCityPlanner for geometry generation
+# Navigate to BlackRockCityPlanner
 cd scripts/BlackRockCityPlanner
 
 # Install dependencies
 npm install
 
-# Generate all geometric data for a year
+# 1. Fetch latest data from Burning Man API and geocode camps
+# Get API key from api.burningman.org
+export BMORG_API_KEY=your-api-key-here
+
+node src/cli/fetch_and_geocode.js \
+  --year 2025 \
+  --layout ../../data/2025/layouts/layout.json \
+  --output ../../data/2025/APIData/APIData.bundle
+
+# 2. Generate all geometric data for the year
 node src/cli/generate_all.js -d ../../data/2025
 
+# 3. Generate browser geocoder bundle
+browserify src/geocoder/index.js -o ../../data/2025/geocoder/bundle.js
+```
+
+#### Manual Geocoding (if needed)
+```bash
 # Geocode API data with coordinates
 node src/cli/api.js -l ../../data/2025/layouts/layout.json -f ../../data/2025/APIData/Resources/camp.json -k location_string -o ../../data/2025/APIData/Resources/camp-location.json
 
 # Update original with geocoded version
 mv ../../data/2025/APIData/Resources/camp-location.json ../../data/2025/APIData/Resources/camp.json
-
-# Generate browser geocoder bundle
-browserify src/geocoder/index.js -o ../../data/2025/geocoder/bundle.js
 ```
 
 ### Vector Tile Generation
