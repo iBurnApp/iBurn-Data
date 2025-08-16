@@ -3253,25 +3253,6 @@
     ]
   },
   {
-    "uid": "a1XVI000009Ceiw2AC",
-    "name": "Camp Prism Effect",
-    "year": 2025,
-    "hometown": "San Diego",
-    "description": "Welcome to Camp Kaleidoscope, where corporate surrealism meets playful absurdity. Step through the portal and enter a waiting room unlike any other, a liminal space filled with HR posters that seem oddly cryptic, a receptionist who may or may not actually help you, and a series of nonsensical instructions that hint at something much bigger. While you wait, you'll have the chance to engage in an assortment of odd office games designed to prepare you for your inevitable meeting, though the rules remain unclear.",
-    "landmark": "Kaleidoscope portal with Neon sign",
-    "location": {
-      "frontage": "F",
-      "intersection": "4:15",
-      "intersection_type": "&",
-      "dimensions": "100 x 100",
-      "exact_location": "Corner - facing man & 2:00",
-      "gps_latitude": 40.774619561321174,
-      "gps_longitude": -119.2008509210681
-    },
-    "location_string": "F & 4:15",
-    "images": []
-  },
-  {
     "uid": "a1XVI000009CfIL2A0",
     "name": "Kuker Camp",
     "year": 2025,
@@ -4161,29 +4142,6 @@
     },
     "location_string": "2:30 & E",
     "images": []
-  },
-  {
-    "uid": "a1XVI000009LmMD2A0",
-    "name": "Burners without Boundaries",
-    "year": 2025,
-    "hometown": "Santa Cruz",
-    "description": "Welcome to Burners Without Boundaries, where borders are absurd, rules are inconsistent, and the only thing we enforce is radical fun. Our camp invites you to challenge the barriers—both real and imagined—that shape our world and ourselves.",
-    "landmark": "A large wood backlit sign that spells \"CHILL\"",
-    "location": {
-      "frontage": "4:30 B Plaza",
-      "intersection": "1:00",
-      "intersection_type": "@",
-      "dimensions": "50+ x 100",
-      "exact_location": "Corner - facing mountain & 6:00",
-      "gps_latitude": 40.778202508636824,
-      "gps_longitude": -119.20264434519946
-    },
-    "location_string": "4:30 B Plaza @ 1:00",
-    "images": [
-      {
-        "thumbnail_url": "https://burningman.widen.net/content/bzxuazanrc/jpeg/a1XVI000009LmMD2A0-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx"
-      }
-    ]
   },
   {
     "uid": "a1XVI000009Lz9l2AC",
@@ -7148,15 +7106,15 @@
     "description": "We are a salty group of river rats who got eddied out for far too long and have lost our way.... We dally, role play, keep people from getting where they want to go, lure them in with bait, take them fishing, compete in games and generally keep them going in circles. Where were you going? No one knows... got eddied out a while back!",
     "landmark": "river raft with a skeleton in it, orange camp flag",
     "location": {
-      "frontage": "6:15",
-      "intersection": "G",
+      "frontage": "6:00",
+      "intersection": "F",
       "intersection_type": "&",
       "dimensions": "50 x 150",
-      "exact_location": "Mid-block facing 6:00",
-      "gps_latitude": 40.778900732070106,
-      "gps_longitude": -119.2168454934973
+      "exact_location": "Corner - facing man & 10:00",
+      "gps_latitude": 40.77815355114421,
+      "gps_longitude": -119.21460908081258
     },
-    "location_string": "6:15 & G",
+    "location_string": "6:00 & F",
     "images": [
       {
         "thumbnail_url": "https://burningman.widen.net/content/hcd0vzirmq/jpeg/a1XVI000009br4z2AA-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx"
@@ -17614,15 +17572,15 @@
     "description": "Come by and say hello to learn how to play pétanque and enjoy a drink of pastis.\nSpending time with us will definitely feels like visiting the south region of France and will let you discover the charming accent of Marseille, ambience from a fresh summer with light cicadas noise and slow local music playing.",
     "landmark": "Carport with all the colored fabrics!",
     "location": {
-      "frontage": "F",
-      "intersection": "5:45",
+      "frontage": "C",
+      "intersection": "6:15",
       "intersection_type": "&",
-      "dimensions": "50 x 50",
-      "exact_location": "Mid-block facing man",
-      "gps_latitude": 40.77708121217276,
-      "gps_longitude": -119.21299244008314
+      "dimensions": "50 x 75",
+      "exact_location": "Mid-block facing mountain",
+      "gps_latitude": 40.781113292180414,
+      "gps_longitude": -119.21304181435356
     },
-    "location_string": "F & 5:45",
+    "location_string": "C & 6:15",
     "images": [
       {
         "thumbnail_url": "https://burningman.widen.net/content/qdo8qakcsk/jpeg/a1XVI000009qXCP2A2-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx"
@@ -18342,7 +18300,7 @@
       "frontage": "2:00",
       "intersection": "K",
       "intersection_type": "&",
-      "dimensions": "455 x 165",
+      "dimensions": "530 x 165",
       "exact_location": "Corner - facing man & 2:00",
       "gps_latitude": 40.78286667928279,
       "gps_longitude": -119.18287259632258
@@ -21636,15 +21594,15 @@
     "description": "Here at Playa Circuit Boogie we use circuits and science to spark ideas and bring strangers together, all while jamming out to groovy tunes and enjoying a cold beverage from our bar. Come learn the basics of soldering and circuit building; ride away with your very own light-up pendant and the skills to make an even better one next year. And bring us your broken electronics during repair hours, we'll try our best to get them working.",
     "landmark": "Orange, purple, and red triangular flags",
     "location": {
-      "frontage": "G",
-      "intersection": "4:45",
-      "intersection_type": "&",
-      "dimensions": "100 x 100",
-      "exact_location": "Mid-block facing mountain",
-      "gps_latitude": 40.7738450126233,
-      "gps_longitude": -119.2052716112694
+      "frontage": "4:30 B Plaza",
+      "intersection": "1:00",
+      "intersection_type": "@",
+      "dimensions": "50+ x 100",
+      "exact_location": "Corner - facing mountain & 6:00",
+      "gps_latitude": 40.778202508636824,
+      "gps_longitude": -119.20264434519946
     },
-    "location_string": "G & 4:45",
+    "location_string": "4:30 B Plaza @ 1:00",
     "images": [
       {
         "thumbnail_url": "https://burningman.widen.net/content/hnilipiyyy/jpeg/a1XVI000009skJ02AI-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx"
@@ -29309,15 +29267,15 @@
     "year": 2025,
     "landmark": "Fire Pit, Hourglass or Kaya sign",
     "location": {
-      "frontage": "D",
-      "intersection": "5:15",
+      "frontage": "I",
+      "intersection": "2:15",
       "intersection_type": "&",
-      "dimensions": "100 x 100",
-      "exact_location": "Mid-block facing mountain",
-      "gps_latitude": 40.7773838906532,
-      "gps_longitude": -119.20822602792356
+      "dimensions": "100 x 150",
+      "exact_location": "Mid-block facing man",
+      "gps_latitude": 40.78130686287143,
+      "gps_longitude": -119.18500426149691
     },
-    "location_string": "D & 5:15",
+    "location_string": "I & 2:15",
     "images": []
   },
   {
@@ -29814,8 +29772,9 @@
     "uid": "a1XVI00000AKPhF2AX",
     "name": "Haven",
     "year": 2025,
+    "contact_email": "haven-leads-list@burningman.org",
     "hometown": "Black Rock City",
-    "description": "Haven, 6:30 and A: The Black Rock Rangers are honored to provide participants with harm reduction support while Zendo takes the year off from Black Rock City. If you're experiencing a different conscious or emotional state, and you can't be at peace in your own camp or out in the City, come to Haven. We offer a chill space with friendly, trained volunteers that want to help you through your experience.",
+    "description": "The Haven by Zendo Project is a new supportive space in Black Rock City for Zendo Project to provide harm reduction and peer support services. The Haven is available to support participants who need help transforming difficult psychedelic experiences - and other complex emotions - into opportunities for learning and growth.\r\n\r\nLocated at 6:30 between Esplanade and A, The Haven will be open from Monday, August 26 at 6pm through Monday, September 1 at 12pm.",
     "landmark": "Large Yurt on 6:30 between 'A' and Esplanade",
     "location": {
       "frontage": "6:30",
