@@ -3153,14 +3153,14 @@
     "uid": "a2IVI0000016q4z2AA",
     "name": "One Tin Soldier",
     "year": 2025,
-    "url": "http://www.onetinsolder.art",
+    "url": "http://www.onetinsoldier.art",
     "contact_email": "misfittoyscrew@gmail.com",
     "hometown": "Bolinas, CA",
     "description": "As you walk from the city deep into the playa, these objects slowly come into view, rising from the desert. Lost. Incomplete. A series of giant children's toys...the closer you get, the smaller you feel. Everything looms large, as if you were shrinking, or it, growing. \r\n\r\nAs you draw near, the worn, weathered features and faded primary colors become clear. Past the giant children's blocks spelling \"LOVE\"  a monumental stack of four alphabet blocks invite you to climb and play. And then...old metal jax lay scattered, piled high. A giant yo-yo buried in the dust. And finally facing east towards the rising sun, a 24' tall mounted, faceless wooden soldier stands guard, its reins a swing, welcoming you to ride with him. \r\n\r\nWelcome to One Tin Soldier…",
     "artist": "Mark Deem and the Misfit Toys",
     "category": "Open Playa",
     "program": "Honorarium",
-    "donation_link": "http://www.onetinsoldier.art",
+    "donation_link": "https://hcb.hackclub.com/donations/start/the-misfit-toys",
     "location": {
       "hour": 12,
       "minute": 34,
@@ -3492,14 +3492,14 @@
     "program": "Honorarium",
     "donation_link": "https://www.gofundme.com/f/kauyumariceremonial",
     "location": {
-      "hour": 12,
-      "minute": 30,
-      "distance": 2040,
+      "hour": 11,
+      "minute": 54,
+      "distance": 1130,
       "category": "Open Playa",
-      "gps_latitude": 40.78975174131674,
-      "gps_longitude": -119.19660566182252
+      "gps_latitude": 40.78925773481297,
+      "gps_longitude": -119.20026023641782
     },
-    "location_string": "12:30 2040', Open Playa",
+    "location_string": "11:54 1130', Open Playa",
     "images": [
       {
         "thumbnail_url": "https://burningman.widen.net/content/fmsqumfatr/jpeg/a2IVI0000016tin2AA-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
@@ -3523,13 +3523,13 @@
     "donation_link": "http://2025wings.com",
     "location": {
       "hour": 6,
-      "minute": 25,
-      "distance": 2530,
+      "minute": 18,
+      "distance": 2400,
       "category": "ARTery",
-      "gps_latitude": 40.78323438724511,
-      "gps_longitude": -119.21070886515182
+      "gps_latitude": 40.783094041939556,
+      "gps_longitude": -119.21001401157328
     },
-    "location_string": "6:25 2530', ARTery",
+    "location_string": "6:18 2400', ARTery",
     "images": [
       {
         "thumbnail_url": "https://burningman.widen.net/content/qmm7iqxcoh/jpeg/a2IVI0000016tkP2AQ-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
@@ -5083,13 +5083,13 @@
     "donation_link": null,
     "location": {
       "hour": 11,
-      "minute": 57,
-      "distance": 8300,
+      "minute": 58,
+      "distance": 8200,
       "category": "Open Playa",
-      "gps_latitude": 40.8034445003697,
-      "gps_longitude": -119.18233257424082
+      "gps_latitude": 40.80311039962274,
+      "gps_longitude": -119.18239459297176
     },
-    "location_string": "11:57 8300', Open Playa",
+    "location_string": "11:58 8200', Open Playa",
     "images": [
       {
         "thumbnail_url": "https://burningman.widen.net/content/w3jmpvi4ux/jpeg/a2IVI0000019CW12AM-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
@@ -6073,13 +6073,13 @@
     "donation_link": null,
     "location": {
       "hour": 1,
-      "minute": 46,
-      "distance": 3685,
+      "minute": 52,
+      "distance": 3700,
       "category": "Open Playa",
-      "gps_latitude": 40.78555527773699,
-      "gps_longitude": -119.18979745455863
+      "gps_latitude": 40.78502644321284,
+      "gps_longitude": -119.1898593015513
     },
-    "location_string": "1:46 3685', Open Playa",
+    "location_string": "1:52 3700', Open Playa",
     "images": [
       {
         "thumbnail_url": "https://burningman.widen.net/content/j3kdxzytpw/jpeg/a2IVI000001BmIT2A0-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
@@ -6103,13 +6103,13 @@
     "donation_link": null,
     "location": {
       "hour": 12,
-      "minute": 25,
-      "distance": 1745,
+      "minute": 35,
+      "distance": 1900,
       "category": "Open Playa",
-      "gps_latitude": 40.789525963126664,
-      "gps_longitude": -119.19767237345393
+      "gps_latitude": 40.789361046274614,
+      "gps_longitude": -119.19689985711852
     },
-    "location_string": "12:25 1745', Open Playa",
+    "location_string": "12:35 1900', Open Playa",
     "images": [
       {
         "thumbnail_url": "https://burningman.widen.net/content/fisyr74rvt/jpeg/a2IVI000001C2IP2A0-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
@@ -6840,6 +6840,36 @@
     "self_guided_tour_map": false
   },
   {
+    "uid": "a2IVI000001EgGX2A0",
+    "name": "Spin Your ASS - fun with angular momentum",
+    "year": 2025,
+    "url": "http://weltha.com",
+    "contact_email": "craigweltha@gmail.com",
+    "hometown": "Ames, IA & New York, NY",
+    "description": "My project looks like 6 metal disks on 6 wooden triangles--it's not much to look at.  Each spinning platform is surrounded by a circle of plastic cones, and the entire installation is wrapped by a circle of larger cones.  Each cone has a light in it.",
+    "artist": "Craig Weltha",
+    "category": "Open Playa",
+    "program": "Self-Funded",
+    "donation_link": null,
+    "location": {
+      "hour": 8,
+      "minute": 33,
+      "distance": 2370,
+      "category": "Open Playa",
+      "gps_latitude": 40.790347126272025,
+      "gps_longitude": -119.21030306328832
+    },
+    "location_string": "8:33 2370', Open Playa",
+    "images": [
+      {
+        "thumbnail_url": "https://burningman.widen.net/content/cwwqyuarhb/jpeg/a2IVI000001EgGX2A0-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
+        "gallery_ref": null
+      }
+    ],
+    "guided_tours": false,
+    "self_guided_tour_map": false
+  },
+  {
     "uid": "a2IVI000001F2tl2AC",
     "name": "Chosen Family",
     "year": 2025,
@@ -6983,36 +7013,6 @@
     "images": [
       {
         "thumbnail_url": "https://burningman.widen.net/content/b2j4u1bylk/jpeg/a2IVI000001FpmP2AS-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
-        "gallery_ref": null
-      }
-    ],
-    "guided_tours": false,
-    "self_guided_tour_map": false
-  },
-  {
-    "uid": "a2IVI000001Fqk52AC",
-    "name": "The Circle of Light",
-    "year": 2025,
-    "url": "http://www.erez-art.co.il",
-    "contact_email": "yorambarsela@gmail.com",
-    "hometown": "Tel-Aviv, Israel",
-    "description": "Around the Tree of Hope, seven winged creature sculptures will be mounted on airplane seats. Each sculpture measures about nine by twelve feet. The Tree of Hope, located at the center of the site. Participants will be invited to weave their dreams and hearts' wishes around its trunk, creating together a vibrant and powerful prayer that bridges hearts and cultures across space.",
-    "artist": "Erez Blushtein",
-    "category": "Open Playa",
-    "program": "Self-Funded",
-    "donation_link": null,
-    "location": {
-      "hour": 1,
-      "minute": 18,
-      "distance": 3950,
-      "category": "Open Playa",
-      "gps_latitude": 40.78809006791059,
-      "gps_longitude": -119.18878793013027
-    },
-    "location_string": "1:18 3950', Open Playa",
-    "images": [
-      {
-        "thumbnail_url": "https://burningman.widen.net/content/etunulqiuq/jpeg/a2IVI000001Fqk52AC-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
         "gallery_ref": null
       }
     ],
@@ -8370,36 +8370,6 @@
     "self_guided_tour_map": false
   },
   {
-    "uid": "a2IVI000001LCSD2A4",
-    "name": "Phantasmagoria",
-    "year": 2025,
-    "url": null,
-    "contact_email": "juangep@gmail.com",
-    "hometown": "Mexico City, Mexico",
-    "description": "Phantasmagoria: \r\na sequence of real or imaginary images like that seen in a dream.\r\n\r\nWe are sharing a sensorial piece aimed at looking at the stars and being an oasis on the playa.",
-    "artist": "Tigree",
-    "category": "Open Playa",
-    "program": "Self-Funded",
-    "donation_link": null,
-    "location": {
-      "hour": 10,
-      "minute": 30,
-      "distance": 1800,
-      "category": "Open Playa",
-      "gps_latitude": 40.791886516926034,
-      "gps_longitude": -119.20299546849101
-    },
-    "location_string": "10:30 1800', Open Playa",
-    "images": [
-      {
-        "thumbnail_url": "https://burningman.widen.net/content/56dap5bqi1/jpeg/a2IVI000001LCSD2A4-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
-        "gallery_ref": null
-      }
-    ],
-    "guided_tours": false,
-    "self_guided_tour_map": false
-  },
-  {
     "uid": "a2IVI000001LEiX2AW",
     "name": "Perspective",
     "year": 2025,
@@ -8953,13 +8923,13 @@
     "donation_link": null,
     "location": {
       "hour": 6,
-      "minute": 25,
-      "distance": 2530,
+      "minute": 15,
+      "distance": 2400,
       "category": "ARTery",
-      "gps_latitude": 40.78323438724511,
-      "gps_longitude": -119.21070886515182
+      "gps_latitude": 40.78295623139766,
+      "gps_longitude": -119.20987801710419
     },
-    "location_string": "6:25 2530', ARTery",
+    "location_string": "6:15 2400', ARTery",
     "images": [
       {
         "thumbnail_url": "https://burningman.widen.net/content/hgy6jd7ljn/jpeg/a2IVI000001PQZp2AO-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
@@ -9073,13 +9043,13 @@
     "donation_link": null,
     "location": {
       "hour": 6,
-      "minute": 25,
-      "distance": 2530,
+      "minute": 20,
+      "distance": 2450,
       "category": "ARTery",
-      "gps_latitude": 40.78323438724511,
-      "gps_longitude": -119.21070886515182
+      "gps_latitude": 40.78310883378061,
+      "gps_longitude": -119.21025008268147
     },
-    "location_string": "6:25 2530', ARTery",
+    "location_string": "6:20 2450', ARTery",
     "images": [
       {
         "thumbnail_url": "https://burningman.widen.net/content/8x8q0miift/jpeg/a2IVI000001RnFN2A0-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
@@ -9282,14 +9252,14 @@
     "program": "ManPavGrant",
     "donation_link": "https://www.radiantbotanics.life/",
     "location": {
-      "hour": 4,
+      "hour": 7,
       "minute": 0,
       "distance": 50,
       "category": "Man Pavilion",
-      "gps_latitude": 40.786825769600654,
-      "gps_longitude": -119.20294716222756
+      "gps_latitude": 40.786922536870065,
+      "gps_longitude": -119.20316864360699
     },
-    "location_string": "4:00 50', Man Pavilion",
+    "location_string": "7:00 50', Man Pavilion",
     "images": [
       {
         "thumbnail_url": "https://burningman.widen.net/content/qjfeidx6pm/jpeg/a2IVI000001Xo5V2AS-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
@@ -9343,13 +9313,13 @@
     "donation_link": null,
     "location": {
       "hour": 6,
-      "minute": 25,
-      "distance": 2530,
+      "minute": 19,
+      "distance": 2420,
       "category": "ARTery",
-      "gps_latitude": 40.78323438724511,
-      "gps_longitude": -119.21070886515182
+      "gps_latitude": 40.78310875827207,
+      "gps_longitude": -119.21011714418721
     },
-    "location_string": "6:25 2530', ARTery",
+    "location_string": "6:19 2420', ARTery",
     "images": [
       {
         "thumbnail_url": "https://burningman.widen.net/content/htdqtgiaia/jpeg/a2IVI000001YIrZ2AW-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
@@ -9492,20 +9462,120 @@
     "program": "ManPavGrant",
     "donation_link": null,
     "location": {
-      "hour": 7,
+      "hour": 4,
       "minute": 0,
       "distance": 50,
       "category": "Man Pavilion",
-      "gps_latitude": 40.786922536870065,
-      "gps_longitude": -119.20316864360699
+      "gps_latitude": 40.786825769600654,
+      "gps_longitude": -119.20294716222756
     },
-    "location_string": "7:00 50', Man Pavilion",
+    "location_string": "4:00 50', Man Pavilion",
     "images": [
       {
         "thumbnail_url": "https://burningman.widen.net/content/6bh6y0dfbt/jpeg/a2IVI000001dj372AA-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
         "gallery_ref": null
       }
     ],
+    "guided_tours": false,
+    "self_guided_tour_map": false
+  },
+  {
+    "uid": "a2IVI000001kTUf2AM",
+    "name": "Accessible",
+    "year": 2025,
+    "url": null,
+    "contact_email": "laurabiking@gmail.com",
+    "hometown": "San Francisco, CA",
+    "description": "This art is an accessible trash fence. \nIt is made for people who would have difficulty getting to the trash fence. \nIt is an homage to the daft punk joke.\nThere will be mini-sunrise sets. \n\nIt evokes the magic of the trash fence, without the heroic quest to get there.",
+    "artist": "Laura Salcido",
+    "category": null,
+    "program": "Self-Funded",
+    "donation_link": null,
+    "location": {
+      "hour": 6,
+      "minute": 40,
+      "distance": 1700,
+      "category": null,
+      "gps_latitude": 40.78498974877631,
+      "gps_longitude": -119.20856497832985
+    },
+    "location_string": "6:40 1700'",
+    "images": [],
+    "guided_tours": false,
+    "self_guided_tour_map": false
+  },
+  {
+    "uid": "a2IVI000001m3fl2AA",
+    "name": "The Prison Of Yourself",
+    "year": 2025,
+    "url": null,
+    "contact_email": "molickajoanna@yahoo.com",
+    "hometown": "Chicago, IL",
+    "description": "Trauma and struggles can leave us feeling trapped, unable to see ourselves as we truly are. This space invites you to step inside, face your distorted reflections, and try to name what's holding you back. Leave your words here, and in time they will be set free to the fire.",
+    "artist": "jo",
+    "category": null,
+    "program": "Self-Funded",
+    "donation_link": null,
+    "location": {
+      "hour": 3,
+      "minute": 20,
+      "distance": 2300,
+      "category": "ARTery",
+      "gps_latitude": 40.78180006606611,
+      "gps_longitude": -119.19822210705024
+    },
+    "location_string": "3:20 2300', ARTery",
+    "images": [],
+    "guided_tours": false,
+    "self_guided_tour_map": false
+  },
+  {
+    "uid": "a2IVI000001m3kb2AA",
+    "name": "Chaotick",
+    "year": 2025,
+    "url": "https://www.facebook.com/EmbersChaotick",
+    "contact_email": null,
+    "hometown": "Reno, NV",
+    "description": "A clock inspired rotating ball of fire, originally created by Ember. It represents playa ingenuity and controlled chaos. The essential mechanism behind its working is the controlled bit of sway from the tether pole and the physics of a swinging ball. It also represents the relativity of time. Burners arrive at the art piece intent on watching for mere minutes, but get sucked into the time vortex that Chaotick easily creates and end up staying much longer feeling as though time is moving slowly. This is a piece for people to watch and become entranced. Seating allows for shared space and burner interaction with other burners. This piece gives a more meditative vibe and a sense of calm in opposite balance of the intensity of the Burn.",
+    "artist": "Gregarious",
+    "category": null,
+    "program": "Self-Funded",
+    "donation_link": null,
+    "location": {
+      "hour": null,
+      "minute": null,
+      "distance": null,
+      "category": null,
+      "gps_latitude": 0,
+      "gps_longitude": 0
+    },
+    "location_string": null,
+    "images": [],
+    "guided_tours": false,
+    "self_guided_tour_map": false
+  },
+  {
+    "uid": "a2IVI000001mACb2AM",
+    "name": "Relic",
+    "year": 2025,
+    "url": null,
+    "contact_email": null,
+    "hometown": "Washington, DC",
+    "description": "Relic invites the viewer to contemplate the fragility and ephemerality of our hopes, dreams, joys, and expectations of our past, present, and future. Standing in deep playa, its light is intended to draw participants toward it and, once within reading range, to pause and consider their current moment, both on playa and off.",
+    "artist": "Zachariah Walls",
+    "category": null,
+    "program": "Self-Funded",
+    "donation_link": null,
+    "location": {
+      "hour": null,
+      "minute": null,
+      "distance": null,
+      "category": null,
+      "gps_latitude": 0,
+      "gps_longitude": 0
+    },
+    "location_string": null,
+    "images": [],
     "guided_tours": false,
     "self_guided_tour_map": false
   }

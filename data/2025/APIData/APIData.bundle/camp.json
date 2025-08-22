@@ -3186,28 +3186,6 @@
     "images": []
   },
   {
-    "uid": "a1XVI000009CcfR2AS",
-    "name": "Schnitzel Camp",
-    "year": 2025,
-    "description": "\"Schnitzel - camp\" serving best Schnitzel on playa! Watch out for the crazy food truck!",
-    "landmark": "\"Schnitzel Camp\" flag",
-    "location": {
-      "frontage": "C",
-      "intersection": "7:15",
-      "intersection_type": "&",
-      "dimensions": "50 x 100",
-      "exact_location": "Mid-block facing man",
-      "gps_latitude": 40.78570053714591,
-      "gps_longitude": -119.21555568217663
-    },
-    "location_string": "C & 7:15",
-    "images": [
-      {
-        "thumbnail_url": "https://burningman.widen.net/content/wchzlktafh/jpeg/a1XVI000009CcfR2AS-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx"
-      }
-    ]
-  },
-  {
     "uid": "a1XVI000009Cdq12AC",
     "name": "Spoonful of Friends",
     "year": 2025,
@@ -12610,7 +12588,7 @@
       "frontage": "9:00",
       "intersection": "H",
       "intersection_type": "&",
-      "dimensions": "250 x 300",
+      "dimensions": "250 x 350",
       "exact_location": "Corner - facing man & 10:00",
       "gps_latitude": 40.79683773258154,
       "gps_longitude": -119.21605778954499
@@ -13085,29 +13063,6 @@
     },
     "location_string": "A & 2:45",
     "images": []
-  },
-  {
-    "uid": "a1XVI000009mLmX2AU",
-    "name": "Light Cone",
-    "year": 2025,
-    "hometown": "Hawaii, Big Island",
-    "description": "We bring this recreation spot to healing your body mind & soul by foot and sound bath surrounding the pure essential oils mister fountains.",
-    "landmark": "2 White Tents & 1 large canopy, lit at night",
-    "location": {
-      "frontage": "G",
-      "intersection": "3:15",
-      "intersection_type": "&",
-      "dimensions": "100 x 150",
-      "exact_location": "Mid-block facing mountain",
-      "gps_latitude": 40.77646121037393,
-      "gps_longitude": -119.19236792156465
-    },
-    "location_string": "G & 3:15",
-    "images": [
-      {
-        "thumbnail_url": "https://burningman.widen.net/content/kjhyohadr0/jpeg/a1XVI000009mLmX2AU-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx"
-      }
-    ]
   },
   {
     "uid": "a1XVI000009mLo92AE",
@@ -17599,7 +17554,7 @@
       "frontage": "2:00",
       "intersection": "I",
       "intersection_type": "&",
-      "dimensions": "150 x 200",
+      "dimensions": "150+ x 200",
       "exact_location": "Corner - facing mountain & 2:00",
       "gps_latitude": 40.78313326622022,
       "gps_longitude": -119.18418368967211
@@ -19228,26 +19183,6 @@
     "images": []
   },
   {
-    "uid": "a1XVI000009qkXp2AI",
-    "name": "RNDZVS",
-    "year": 2025,
-    "contact_email": "info@rndzvs.org",
-    "hometown": "Denver",
-    "description": "RNDZVS (ren-dez-vus) is an abridged version of the word Rendezvous, which at its core is a meeting place for friends. Come have a relaxing rendezvous during the day and refresh yourself from the playa elements. Stay for the night, bring your debauchery, and see what happens when the camp shifts to its alter ego, RNDZVS.",
-    "landmark": "Neon Rendezvous/RNDZVS Sign",
-    "location": {
-      "frontage": "D",
-      "intersection": "3:45",
-      "intersection_type": "&",
-      "dimensions": "100- x 150",
-      "exact_location": "Mid-block facing man",
-      "gps_latitude": 40.777383890653205,
-      "gps_longitude": -119.19776197207646
-    },
-    "location_string": "D & 3:45",
-    "images": []
-  },
-  {
     "uid": "a1XVI000009qtG92AI",
     "name": "Navigate to YES",
     "year": 2025,
@@ -20232,7 +20167,7 @@
       "frontage": "E",
       "intersection": "9:45",
       "intersection_type": "&",
-      "dimensions": "100 x 100",
+      "dimensions": "150 x 100",
       "exact_location": "Mid-block facing mountain",
       "gps_latitude": 40.79723823649425,
       "gps_longitude": -119.20862420559
@@ -25333,7 +25268,7 @@
       "frontage": "E",
       "intersection": "9:45",
       "intersection_type": "&",
-      "dimensions": "100 x 100",
+      "dimensions": "125 x 100",
       "exact_location": "Mid-block facing mountain",
       "gps_latitude": 40.79723823649425,
       "gps_longitude": -119.20862420559
@@ -26465,15 +26400,15 @@
     "description": "Determine your fate with a spin of the Safari Wheel. Photo ops, animal hunts, and other dusty games",
     "landmark": "Lions & Giraffes, Camp Safari & Safari Bar Signage",
     "location": {
-      "frontage": "F",
-      "intersection": "5:15",
+      "frontage": "5:30",
+      "intersection": "B",
       "intersection_type": "&",
-      "dimensions": "50 x 100",
+      "dimensions": "50 x 150",
       "exact_location": "Corner - facing man & 6:00",
-      "gps_latitude": 40.77545895905846,
-      "gps_longitude": -119.20927795823789
+      "gps_latitude": 40.779312160003784,
+      "gps_longitude": -119.20881782728766
     },
-    "location_string": "F & 5:15",
+    "location_string": "5:30 & B",
     "images": [
       {
         "thumbnail_url": "https://burningman.widen.net/content/35nvobjvpg/jpeg/a1XVI000009tcDx2AI-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx"
@@ -27940,21 +27875,22 @@
     ]
   },
   {
-    "uid": "a1XVI000009tvBl2AI",
-    "name": "Slackers",
+    "uid": "a1XVI000009tv5J2AQ",
+    "name": "Tree Of Life",
     "year": 2025,
-    "hometown": "Albuquerque",
-    "landmark": "10ft+ triangular wooden structures with hammocks",
+    "url": "https://thetreeoflife.world/en",
+    "description": "Tree of Life is a symbol of the infinite human connection — through time, nature, culture, and technology. We are not separate; we are one living body, united by billions of ancestors, future lives, and one breath in the now. Our camp explores the sacred union of masculine and feminine energies — the dance of emotion, thought, and soul that births new realities.\n\nTree of Life hosts an AI oracle, infused with ancestral wisdom, guiding those seeking purpose, strength, or their other half. We invite you to co-create a space where spirit meets science — and life continues through love, unity, and transformation.",
+    "landmark": "Big light tree, 2 stage of man and woman, temple",
     "location": {
-      "frontage": "D",
-      "intersection": "3:15",
+      "frontage": "F",
+      "intersection": "7:45",
       "intersection_type": "&",
-      "dimensions": "50 x 150",
-      "exact_location": "Mid-block facing man",
-      "gps_latitude": 40.7787345600151,
-      "gps_longitude": -119.19466927202119
+      "dimensions": "100 x 150",
+      "exact_location": "Mid-block facing mountain",
+      "gps_latitude": 40.788575587195226,
+      "gps_longitude": -119.21929100787206
     },
-    "location_string": "D & 3:15",
+    "location_string": "F & 7:45",
     "images": []
   },
   {
@@ -29268,14 +29204,14 @@
     "landmark": "Fire Pit, Hourglass or Kaya sign",
     "location": {
       "frontage": "I",
-      "intersection": "2:15",
+      "intersection": "9:45",
       "intersection_type": "&",
       "dimensions": "100 x 150",
       "exact_location": "Mid-block facing man",
-      "gps_latitude": 40.78130686287143,
-      "gps_longitude": -119.18500426149691
+      "gps_latitude": 40.80058063536371,
+      "gps_longitude": -119.21045474643499
     },
-    "location_string": "I & 2:15",
+    "location_string": "I & 9:45",
     "images": []
   },
   {
