@@ -99,6 +99,7 @@
       "id": "camp-labels-big",
       "type": "line",
       "source": "camp-labels",
+      "minzoom": 17,
       "layout": {
         "visibility": "visible",
         "line-join": "round",
