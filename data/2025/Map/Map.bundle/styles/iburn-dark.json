@@ -84,6 +84,7 @@
       "id": "camp-boundaries",
       "type": "line",
       "source": "camp-boundaries",
+      "minzoom": 15,
       "layout": {
         "visibility": "visible",
         "line-join": "round",
