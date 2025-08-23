@@ -13,7 +13,15 @@
   "bearing": 0,
   "pitch": 3.5,
   "sources": {
-    "composite": {"url": "mbtiles://{{mbtiles_path}}", "type": "vector"}
+    "composite": {"url": "mbtiles://{{mbtiles_path}}", "type": "vector"},
+    "camp-boundaries": {
+      "type": "geojson",
+      "data": "asset://iBurnData_iBurn2025Map.bundle/Map.bundle/camp_outlines.geojson"
+    },
+    "camp-labels": {
+      "type": "geojson",
+      "data": "asset://iBurnData_iBurn2025Map.bundle/Map.bundle/camp_labels.geojson"
+    }
   },
   "glyphs": "asset://iBurnData_iBurn2025Map.bundle/Map.bundle/glyphs/{fontstack}/{range}.pbf",
   "layers": [
@@ -71,6 +79,36 @@
       "source-layer": "outline",
       "layout": {"visibility": "visible"},
       "paint": {"fill-color": "#574e26"}
+    },
+    {
+      "id": "camp-boundaries",
+      "type": "line",
+      "source": "camp-boundaries",
+      "layout": {
+        "visibility": "visible",
+        "line-join": "round",
+        "line-cap": "round"
+      },
+      "paint": {
+        "line-color": "#9B8DB0",
+        "line-width": 1.5,
+        "line-opacity": 0.7
+      }
+    },
+    {
+      "id": "camp-labels-big",
+      "type": "line",
+      "source": "camp-labels",
+      "layout": {
+        "visibility": "visible",
+        "line-join": "round",
+        "line-cap": "round"
+      },
+      "paint": {
+        "line-color": "#D4D4D4",
+        "line-width": 2,
+        "line-opacity": 0.9
+      }
     },
     {
       "id": "streets",
