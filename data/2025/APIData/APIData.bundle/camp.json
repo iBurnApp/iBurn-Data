@@ -30448,31 +30448,6 @@
     "images": []
   },
   {
-    "uid": "a1XVI00000ANh3K2AT",
-    "name": "Mooner Landing",
-    "year": 2025,
-    "url": "https://photos.app.goo.gl/glnLZJdsu8V8nyy62",
-    "contact_email": "moonbuggymutant@gmail.com",
-    "hometown": "Los Angeles",
-    "description": "A landing pad for Moonbuggy, the rising crescent moon that glows as bright as the celestial orb in the sky. Get lunar inside the moon, cosmonaut the day away in a space helmet, and defy gravity on the trampoline.",
-    "landmark": "A big trampoline",
-    "location": {
-      "frontage": "G",
-      "intersection": "8:45",
-      "intersection_type": "&",
-      "dimensions": "50 x 100",
-      "exact_location": "Mid-block facing man",
-      "gps_latitude": 40.79500344924318,
-      "gps_longitude": -119.21685915093234
-    },
-    "location_string": "G & 8:45",
-    "images": [
-      {
-        "thumbnail_url": "https://burningman.widen.net/content/gjqmlwarb2/jpeg/a1XVI00000ANh3K2AT-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx"
-      }
-    ]
-  },
-  {
     "uid": "a1XVI00000ANlID2A1",
     "name": "Swizzle Me Timbers",
     "year": 2025,
