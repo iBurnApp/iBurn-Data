@@ -38,6 +38,7 @@ public enum iBurn2025APIData {
         case art = "art"
         case camp = "camp"
         case event = "event"
+        case mv = "mv"
         case update = "update"
         case credits = "credits"
         case datesInfo = "dates_info"
