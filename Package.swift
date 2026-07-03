@@ -11,16 +11,16 @@ let package = Package(
     ],
     products: [
         .library(
-            name: "iBurn2025APIData",
-            targets: ["iBurn2025APIData"]
+            name: "iBurn2026APIData",
+            targets: ["iBurn2026APIData"]
         ),
         .library(
-            name: "iBurn2025Map",
-            targets: ["iBurn2025Map"]
+            name: "iBurn2026Map",
+            targets: ["iBurn2026Map"]
         ),
         .library(
-            name: "iBurn2025MediaFiles",
-            targets: ["iBurn2025MediaFiles"]
+            name: "iBurn2026MediaFiles",
+            targets: ["iBurn2026MediaFiles"]
         ),
     ],
     dependencies: [
@@ -28,40 +28,40 @@ let package = Package(
     ],
     targets: [
         .target(
-            name: "iBurn2025APIData",
+            name: "iBurn2026APIData",
             dependencies: [],
-            path: "data/2025/APIData",
+            path: "data/2026/APIData",
             resources: [
                 .copy("APIData.bundle")
             ]
         ),
         .target(
-            name: "iBurn2025Map",
+            name: "iBurn2026Map",
             dependencies: [],
-            path: "data/2025/Map",
+            path: "data/2026/Map",
             resources: [
                 .copy("Map.bundle")
             ]
         ),
         .target(
-            name: "iBurn2025MediaFiles",
+            name: "iBurn2026MediaFiles",
             dependencies: [],
-            path: "data/2025/MediaFiles",
+            path: "data/2026/MediaFiles",
             resources: [
                 .copy("MediaFiles.bundle")
             ]
         ),
         .testTarget(
-            name: "iBurn2025APIDataTests",
-            dependencies: ["iBurn2025APIData"]
+            name: "iBurn2026APIDataTests",
+            dependencies: ["iBurn2026APIData"]
         ),
         .testTarget(
-            name: "iBurn2025MapTests",
-            dependencies: ["iBurn2025Map"]
+            name: "iBurn2026MapTests",
+            dependencies: ["iBurn2026Map"]
         ),
         .testTarget(
-            name: "iBurn2025MediaFilesTests",
-            dependencies: ["iBurn2025MediaFiles"]
+            name: "iBurn2026MediaFilesTests",
+            dependencies: ["iBurn2026MediaFiles"]
         ),
     ]
 )
