@@ -71,16 +71,20 @@ tippecanoe --output=data/2025/Map/Resources/map.mbtiles -f \
   -Z 4 \
   -B0
   
-# Generate vector tiles from official BMorg data set
+# Generate vector tiles from official BMorg data set (run from data/YYYY/)
+# NOTE (2026): official street_lines.geojson only has letter names (A, B, ... ESP).
+# First rewrite `name` using the letter→name mapping from layouts/layout.json cStreets
+# (A→Ararat, B→Bodhi, ..., ESP→Esplanade) into a temp copy, and pass that as the
+# streets layer so street labels show the real names.
 tippecanoe --output=Map/Map.bundle/map.mbtiles -f \
-  -L fence:../../bmorg/innovate-GIS-data/2025/GeoJSON/trash_fence.geojson \
-  -L outline:../../bmorg/innovate-GIS-data/2025/GeoJSON/street_outlines.geojson \
-  -L points:../../bmorg/innovate-GIS-data/2025/GeoJSON/cpns.geojson \
-  -L blocks:../../bmorg/innovate-GIS-data/2025/GeoJSON/city_blocks.geojson \
-  -L plazas:../../bmorg/innovate-GIS-data/2025/GeoJSON/plazas.geojson \
-  -L streets:../../bmorg/innovate-GIS-data/2025/GeoJSON/street_lines.geojson \
-  -L toilets:../../bmorg/innovate-GIS-data/2025/GeoJSON/toilets.geojson \
-  -L dmz:geo/dmz.geojson \
+  -L fence:../../bmorg/innovate-GIS-data/2026/GeoJSON/trash_fence.geojson \
+  -L outline:../../bmorg/innovate-GIS-data/2026/GeoJSON/street_outlines.geojson \
+  -L points:../../bmorg/innovate-GIS-data/2026/GeoJSON/cpns.geojson \
+  -L blocks:../../bmorg/innovate-GIS-data/2026/GeoJSON/city_blocks.geojson \
+  -L plazas:../../bmorg/innovate-GIS-data/2026/GeoJSON/plazas.geojson \
+  -L streets:/path/to/street_lines_renamed.geojson \
+  -L toilets:../../bmorg/innovate-GIS-data/2026/GeoJSON/toilets.geojson \
+  -L dmz:../../bmorg/innovate-GIS-data/2026/GeoJSON/dmz.geojson \
   -z 14 \
   -Z 4 \
   -B0

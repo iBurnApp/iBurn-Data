@@ -63,16 +63,20 @@ tippecanoe --output=data/2025/Map/Map.bundle/map.mbtiles -f \
   -Z 4 \
   -B0
 
-# Alternative with official source geometry (if available)
-tippecanoe --output=data/2025/Map/Map.bundle/map.mbtiles -f \
-  -L fence:data/2025/geo/official/Trash_Fence.geojson \
-  -L outline:data/2025/geo/official/Street_Outlines.geojson \
-  -L points:data/2025/geo/points.geojson \
-  -L blocks:data/2025/geo/official/City_Blocks.geojson \
-  -L plazas:data/2025/geo/official/Plazas.geojson \
-  -L streets:data/2025/geo/official/Street_Lines.geojson \
-  -L toilets:data/2025/geo/official/Toilets.geojson \
-  -L dmz:data/2025/geo/official/DMZ.geojson \
+# Alternative with official source geometry from bmorg/innovate-GIS-data (preferred when available)
+# NOTE (2026): official street_lines.geojson only carries letter names (A, B, ... ESP).
+# Rewrite the `name` property using the letter→name mapping in layouts/layout.json
+# cStreets (A→Ararat, ..., ESP→Esplanade) into a temp copy first, and pass that as
+# the streets layer so street labels show the real names.
+tippecanoe --output=data/2026/Map/Map.bundle/map.mbtiles -f \
+  -L fence:bmorg/innovate-GIS-data/2026/GeoJSON/trash_fence.geojson \
+  -L outline:bmorg/innovate-GIS-data/2026/GeoJSON/street_outlines.geojson \
+  -L points:bmorg/innovate-GIS-data/2026/GeoJSON/cpns.geojson \
+  -L blocks:bmorg/innovate-GIS-data/2026/GeoJSON/city_blocks.geojson \
+  -L plazas:bmorg/innovate-GIS-data/2026/GeoJSON/plazas.geojson \
+  -L streets:/path/to/street_lines_renamed.geojson \
+  -L toilets:bmorg/innovate-GIS-data/2026/GeoJSON/toilets.geojson \
+  -L dmz:bmorg/innovate-GIS-data/2026/GeoJSON/dmz.geojson \
   -z 14 \
   -Z 4 \
   -B0
