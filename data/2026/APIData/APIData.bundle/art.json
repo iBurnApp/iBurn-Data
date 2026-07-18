@@ -533,9 +533,9 @@
     "year": 2026,
     "url": null,
     "contact_email": "gansky89@gmail.com",
-    "hometown": "Ivano-Ftankivsk. Ukrainian",
+    "hometown": "Reno",
     "description": "This sculpture captures the eternal bond between mother and child, celebrating the strength, tenderness, and unwavering support of motherhood. It stands as a monument to the foundational role of care in our society. Everything begins inside.",
-    "artist": "Oleksandr Hanskyi",
+    "artist": "Weld Queen and Oleksandr Hanskyi",
     "category": "Open Playa",
     "program": "Self-Funded",
     "donation_link": null,
@@ -1011,14 +1011,14 @@
     "uid": "a2IVI000002chQz2AI",
     "name": "Fire Circle",
     "year": 2026,
-    "url": null,
+    "url": "https://www.instagram.com/the.fire.circle?igsh=NTc4MTIwNjQ2YQ==",
     "contact_email": "sean@kompani.works",
     "hometown": "Bozeman, MT, United States",
     "description": "Fire Circle honors the birthplace of congregation. From dusk until dawn, a sacred fire will provide a haven for warmth, intimate gatherings, and restorative programming.",
     "artist": "Nik Tenney / Sean Burrow / Lily Pickering / Tom Kay",
     "category": "Open Playa",
     "program": "Self-Funded",
-    "donation_link": "https://linktr.ee/fire.circle",
+    "donation_link": "https://www.every.org/firecircle",
     "location": null,
     "location_string": null,
     "images": [
@@ -1035,7 +1035,7 @@
     "uid": "a2IVI000002chxF2AQ",
     "name": "CORREFOC",
     "year": 2026,
-    "url": "https://www.instagram.com/_miguelarraiz_/",
+    "url": "https://correfoc.art/",
     "contact_email": "daniel@dnebot.com",
     "hometown": "Valencia, Spain",
     "description": "Correfoc is a freestanding sculptural installation approximately 26 feet tall, conceived as a stylized human silhouette inspired by Mediterranean fire rituals. Built in wood and finished in a vibrant red tone, the piece stands as a striking landmark in the desert landscape. At night, subtle lighting enhances its silhouette and amplifies the presence of surrounding fire performances. The work explores the human silhouette as an ancestral symbol, where fire, ritual, and collective movement converge into a shared, ephemeral presence. Correfoc is envisioned as a daily gathering point for the fire dancers of Burning Man. During a special event, a traditional fire dance will unfold around the sculpture prior to its burning, linking Mediterranean traditions with the transformative culture of Burning Man.",
@@ -1054,6 +1054,30 @@
     "guided_tours": false,
     "self_guided_tour_map": true,
     "needs_volunteers": true
+  },
+  {
+    "uid": "a2IVI000002ciN32AI",
+    "name": "#MUXALOVE",
+    "year": 2026,
+    "url": "https://Libertee.art/muxalove",
+    "contact_email": "misha@libertee.art",
+    "hometown": "Yerevan, Armenia",
+    "description": "#MUXALOVE stands as a monumental 25-meter (82-foot) tall Venus Flytrap, reimagining the Axis Mundi as a biological pillar of transformation. This surreal installation features a massive kinetic head with jaws that rhythmically open and close, establishing a living presence against the desert horizon. The entire structure is internally illuminated with vibrant LED systems, casting a striking silhouette across the Playa. Representing a \"Divine Devourer,\" the piece symbolizes a portal connecting the terrestrial and celestial through the process of consumption. It embodies the death of the ego as a prerequisite for spiritual rebirth, exploring the raw power of nature and the cyclic necessity of shedding the old self.",
+    "artist": "Misha Libertee",
+    "category": "Open Playa",
+    "program": "Self-Funded",
+    "donation_link": null,
+    "location": null,
+    "location_string": null,
+    "images": [
+      {
+        "thumbnail_url": "https://burningman.widen.net/content/jmqsr3lntk/jpeg/a2IVI000002ciN32AI-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
+        "gallery_ref": null
+      }
+    ],
+    "guided_tours": false,
+    "self_guided_tour_map": false,
+    "needs_volunteers": false
   },
   {
     "uid": "a2IVI000002cklR2AQ",
@@ -1306,7 +1330,7 @@
     "artist": "David Oliver",
     "category": "Open Playa",
     "program": "Honorarium",
-    "donation_link": null,
+    "donation_link": "https://fnd.us/02jF90?ref=sh_2DVCte",
     "location": null,
     "location_string": null,
     "images": [
@@ -2122,7 +2146,7 @@
     "artist": "Leeroy New, Luca Parolari, and Sherif Koyes",
     "category": "Open Playa",
     "program": "Honorarium",
-    "donation_link": null,
+    "donation_link": "https://www.gofundme.com/f/support-mebuyan-pulse-at-burning-man-2026",
     "location": null,
     "location_string": null,
     "images": [
@@ -2229,7 +2253,7 @@
     ],
     "guided_tours": false,
     "self_guided_tour_map": true,
-    "needs_volunteers": false
+    "needs_volunteers": true
   },
   {
     "uid": "a2IVI000002e9Y52AI",
@@ -2451,7 +2475,7 @@
     "uid": "a2IVI000002eBV32AM",
     "name": "Bless My Meat",
     "year": 2026,
-    "url": null,
+    "url": "https://www.blessmymeat.church/",
     "contact_email": null,
     "hometown": "Nevada City, CA, United States",
     "description": "Bless My Meat is a swine shrine that stands in deep playa beneath a celestial arc of throbbing pink LEDs. Exhalted upon a pink pedestal is Pinky, a crocheted pig with red cat eyes, shark teeth, and pointed witchy shoes. Across from her, a small altar bears the phrase \"Present Your Meat for Blessing.\" A button on the altar sounds different \"meat blessings,\" all created and recorded by fellow Burners. The installation blends ritual with absurdity and transforms a stuffed porker into a plush prophet. Through humor, sound, and light, Pinky explores the sacred and the profane by celebrating our individual interpretations of \"meat\" and the irreverent yet transcendent communal spirit of Black Rock City.",
@@ -2494,30 +2518,6 @@
     "guided_tours": false,
     "self_guided_tour_map": true,
     "needs_volunteers": false
-  },
-  {
-    "uid": "a2IVI000002eBy52AE",
-    "name": "Open Arms",
-    "year": 2026,
-    "url": null,
-    "contact_email": "jorgeemtzc@gmail.com",
-    "hometown": "El Paso, TX, United States",
-    "description": "A sculptural installation emerges in the desert as a contemplative space exploring transformation, presence, and the passage of time. Abstracted human forms and layered surfaces create a visual language of vulnerability and resilience. The work reflects the emotional landscapes of solitude, reflection, and connection, echoing the idea of memento mori and the impermanence of life. Light, shadow, and texture shift throughout the day, revealing subtle details and changing perspectives. The installation symbolizes the human journey through uncertainty, memory, and renewal, transforming the desert landscape into a quiet moment of introspection and shared humanity.",
-    "artist": "Jorge E. Martinez",
-    "category": "Open Playa",
-    "program": "Honorarium",
-    "donation_link": null,
-    "location": null,
-    "location_string": null,
-    "images": [
-      {
-        "thumbnail_url": "https://burningman.widen.net/content/ivm6voj7c3/jpeg/a2IVI000002eBy52AE-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
-        "gallery_ref": null
-      }
-    ],
-    "guided_tours": false,
-    "self_guided_tour_map": true,
-    "needs_volunteers": true
   },
   {
     "uid": "a2IVI000002eCMI2A2",
@@ -2890,7 +2890,7 @@
     "artist": "Jacob Hanshaw and Looking Up Arts",
     "category": "Open Playa",
     "program": "Honorarium",
-    "donation_link": "https://www.kickstarter.com/projects/lookinguparts/confessional-alter-burning-man-2026-by-looking-up-arts",
+    "donation_link": "https://www.lookingup.art/donate",
     "location": null,
     "location_string": null,
     "images": [
@@ -2944,30 +2944,6 @@
     "images": [
       {
         "thumbnail_url": "https://burningman.widen.net/content/wtetv3u1ht/jpeg/a2IVI000002eHoz2AE-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
-        "gallery_ref": null
-      }
-    ],
-    "guided_tours": false,
-    "self_guided_tour_map": true,
-    "needs_volunteers": false
-  },
-  {
-    "uid": "a2IVI000002eHqb2AE",
-    "name": "The Wishing Tree",
-    "year": 2026,
-    "url": null,
-    "contact_email": null,
-    "hometown": "Rockford, IL, United States",
-    "description": "The Wishing Tree is a glowing sculpture whose branches bloom with suspended lanterns that sway gently in the wind. By day the tree appears like a desert mirage; by night, participants make wishes to activate softly pulsing lights that travel through the illuminated trunk and canopy. As lanterns fill with light, the tree becomes a constellation of collective hopes; an Axis Mundi where personal intentions rise skyward, transforming the sculpture into a radiant beacon for reflection, healing, and shared possibility.",
-    "artist": "Rockford Revelry",
-    "category": "Open Playa",
-    "program": "Honorarium",
-    "donation_link": null,
-    "location": null,
-    "location_string": null,
-    "images": [
-      {
-        "thumbnail_url": "https://burningman.widen.net/content/fc9mygak6n/jpeg/a2IVI000002eHqb2AE-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
         "gallery_ref": null
       }
     ],
@@ -3102,7 +3078,7 @@
     "url": "https://www.mr-and-mrs-ferguson.com/penny-the-goose-burning-man-2015",
     "contact_email": "mrs@mr-and-mrs-ferguson.com",
     "hometown": "Alameda, CA, United States",
-    "description": "An exalted, shining, copper goose that seen from distance will draw observers to discover that this goose's feathers are made up from layered penny coins from Canada and the United States. This is the return of a much loved art installation from 2015 that is completely rebuilt with the concrete skin method we use with our penny bears. The penny feather pattern will give tribute to the better relationship Canada and the United States have long known. \r\nThis is a return of a much loved art installation from 2015 but completely rebuilt with concrete as we have had with our penny bears. The feather pattern will be unique and give tribute to what is the true and kind relationship that Canada and the United States have long known.",
+    "description": "An exalted, shining, copper goose that seen from distance will draw observers to discover that this goose's feathers are made up from layered penny coins from Canada and the United States. This is the return of a much loved art installation from 2015 that is completely rebuilt with the concrete skin method we use with our penny bears. The penny feather pattern will give tribute to the better relationship Canada and the United States have long known. This is a return of a much loved art installation from 2015 but completely rebuilt with concrete as we have had with our penny bears.",
     "artist": "Mr and Mrs Ferguson",
     "category": "Open Playa",
     "program": "Honorarium",
@@ -3223,8 +3199,8 @@
     "contact_email": "artinsessionnow@gmail.com",
     "hometown": "Florida, Colorado & Pennsylvania",
     "description": "The Mural Maze is an immersive installation composed of large-scale, three-sided mural structures arranged to create an open, flowing environment. Each piece stands independently, and together they form a maze-like experience that reveals new perspectives with every turn. The murals feature vibrant color, layered imagery, and diverse artistic voices, exploring themes of connection, transformation, and self discovery. As participants move through the space, shifting sight lines and compositions create a visual journey that reflects the complexity and beauty of the human experience.",
-    "artist": "Mural Maze Collective and Art in Session",
-    "category": null,
+    "artist": "Mural Maze Collective & Art in Session",
+    "category": "Open Playa",
     "program": "Self-Funded",
     "donation_link": null,
     "location": null,
@@ -3845,7 +3821,7 @@
     "year": 2026,
     "url": null,
     "contact_email": "raysironworks101@gmail.com",
-    "hometown": "Topanga Cannon, CA, United States",
+    "hometown": "Topanga Canyon, CA, United States",
     "description": "A colorful large open stage area with a central covered pool with a deposit area is visible. There is a hanging face-type art sculpture on poles. There are shaded elemental-looking art seats and interactive elements surrounding the center area. The vibe is to rest and reflect.  The center area has a water feature for some sounds to be heard.",
     "artist": "Raymond Mroczkowski",
     "category": "Open Playa",
@@ -4180,13 +4156,13 @@
     "name": "Hero Armor",
     "year": 2026,
     "url": "https://matobago.github.io/hero-armor/",
-    "contact_email": null,
+    "contact_email": "heroarmor.art@gmail.com",
     "hometown": "Kharkiv, Ukraine | Rotterdam, Netherlands | San Francisco, CA",
     "description": "They chose courage. We carry the memory.\r\nThis art object commemorates those who left civilian life to defend the freedom of Ukraine and its people. It embodies a warrior-defender, originally developed by 3D artist Zakhar Zakharov based on a concept by Thomas Wievegg. In 2022, Zakhar left to defend his homeland and did not return.\r\n\r\nThe installation manifests a futuristic guardian in blue and yellow, symbolizing courage, memory, and resilience. The figure stands on an illuminated octagonal base resembling tree roots, expressing connection to family, community, and homeland. Together, they form an axis mundi—an enduring structure that carries forward memory and the human spirit.",
     "artist": "Zakhar Zakharov and Team",
     "category": "Open Playa",
     "program": "Self-Funded",
-    "donation_link": null,
+    "donation_link": "https://giving.gofundme.com/campaign/815678/donate",
     "location": null,
     "location_string": null,
     "images": [
@@ -4282,7 +4258,7 @@
     "artist": "Adam Keeton",
     "category": "Open Playa",
     "program": "Self-Funded",
-    "donation_link": null,
+    "donation_link": "https://www.gofundme.com/f/help-arcturus-breathe",
     "location": null,
     "location_string": null,
     "images": [
@@ -4422,7 +4398,7 @@
     "url": "https://tumblr.com/duende2026",
     "contact_email": "duendeatburningman@gmail.com",
     "hometown": "Oakland, CA, United States",
-    "description": "Duende is drawn from Spanish folklore which refers to the mysterious force that evokes awe and emotional intensity. Duende represents that sudden joy of recognition, the moment when authentic beauty becomes suddenly apparent; the spark of wonder that cannot be manufactured or denied.\r\n\r\nValerie Mallory has been exhibiting work at Burning Man for 10 years and has been participating at Burning Man as a volunteer for 20 years",
+    "description": "Duende is drawn from Spanish folklore which refers to the mysterious force that evokes awe and emotional intensity. Duende represents that sudden joy of recognition, the moment when authentic beauty becomes suddenly apparent; the spark of wonder that cannot be manufactured or denied.\r\n\r\nValerie Mallory has been exhibiting work at Burning Man for 10 years and has been participating at Burning Man as a volunteer for 20 years.",
     "artist": "Valerie Mallory",
     "category": "Open Playa",
     "program": "Self-Funded",
@@ -4632,30 +4608,6 @@
     "needs_volunteers": false
   },
   {
-    "uid": "a2IVI000002iWuH2AU",
-    "name": "Lovebirds",
-    "year": 2026,
-    "url": null,
-    "contact_email": null,
-    "hometown": "Tacoma, WA, United States",
-    "description": "A table and some chairs. Birds. A telephone. Do the birds talk? Does the phone work? Wait, is that a map painted on the table..?",
-    "artist": "Rebecca Littleton",
-    "category": "Open Playa",
-    "program": "Self-Funded",
-    "donation_link": null,
-    "location": null,
-    "location_string": null,
-    "images": [
-      {
-        "thumbnail_url": "https://burningman.widen.net/content/qemve64jse/jpeg/a2IVI000002iWuH2AU-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
-        "gallery_ref": null
-      }
-    ],
-    "guided_tours": false,
-    "self_guided_tour_map": false,
-    "needs_volunteers": false
-  },
-  {
     "uid": "a2IVI000002iemz2AA",
     "name": "Parabola Mundi",
     "year": 2026,
@@ -4735,7 +4687,7 @@
     "contact_email": "craftyrwc@comcast.net",
     "hometown": "Bryn Mawr, PA & Park City, UT",
     "description": "Here Between There is an interactive installation exploring human connection in the absence of digital signal. \nTwo steel hearts define the space: one wrapped in obsolete cords, dense and tangled, reflecting how technology connects yet can also entangle and distance; the other open, gradually woven with ribbons over time. The ribbons extend connection outward, linking participants through shared gesture and presence.\nA metal message board bears the cut-out words \"Leave a Trace Here / To Be Found,\" its surface marked and erased daily in chalk. Drawing from pre-digital message boards once used by travelers, the work forms a quiet center between here and there, where connection shifts from mediated signal to shared presence.",
-    "artist": "The Crafty Carp - Robyn Carp",
+    "artist": "The Crafty Carp - Robyn Carp & Steel Ranch",
     "category": "Open Playa",
     "program": "Self-Funded",
     "donation_link": null,
@@ -5904,30 +5856,6 @@
     "needs_volunteers": false
   },
   {
-    "uid": "a2IVI000002qJ8f2AE",
-    "name": "Event Horizon",
-    "year": 2026,
-    "url": "https://eventhorizon.art",
-    "contact_email": "ben@eventhorizon.art",
-    "hometown": "San Francisco, CA, United States",
-    "description": "Event Horizon is a three-story tall, audio-reactive LED kinetic sculpture evoking a sense of cosmic beauty. Five concentric rings chaotically spin like a gyroscope 30 ft in the air, covered by over a mile of LEDs which illuminate the darkness of Black Rock City. Beneath the rings is a partially enclosed space surrounded by shimmering walls of light - a space to reflect, a space to wonder, or a space to dance. The entire sculpture is also audio reactive: when it hears a nearby musical presence like an art car, it converts into a cosmological dance floor that pulses to the beat!",
-    "artist": "Ben Bartlett",
-    "category": null,
-    "program": "Self-Funded",
-    "donation_link": "https://www.eventhorizon.art/donate",
-    "location": null,
-    "location_string": null,
-    "images": [
-      {
-        "thumbnail_url": "https://burningman.widen.net/content/haqcmm8if9/jpeg/a2IVI000002qJ8f2AE-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
-        "gallery_ref": null
-      }
-    ],
-    "guided_tours": false,
-    "self_guided_tour_map": false,
-    "needs_volunteers": false
-  },
-  {
     "uid": "a2IVI000002qTMX2A2",
     "name": "Surfwheel 2.0",
     "year": 2026,
@@ -6480,30 +6408,6 @@
     "needs_volunteers": false
   },
   {
-    "uid": "a2IVI000002tX5R2AU",
-    "name": "Clank",
-    "year": 2026,
-    "url": null,
-    "contact_email": "chathman@exploratorium.edu",
-    "hometown": "Oakland, CA, United States",
-    "description": "Clank is a kinetic geared sculpture that explores mechanical movement, sound, and whimsy.",
-    "artist": "Chelsey Hathman",
-    "category": "Open Playa",
-    "program": "Self-Funded",
-    "donation_link": null,
-    "location": null,
-    "location_string": null,
-    "images": [
-      {
-        "thumbnail_url": "https://burningman.widen.net/content/nbpkskkf2t/jpeg/a2IVI000002tX5R2AU-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
-        "gallery_ref": null
-      }
-    ],
-    "guided_tours": false,
-    "self_guided_tour_map": false,
-    "needs_volunteers": false
-  },
-  {
     "uid": "a2IVI000002tmsT2AQ",
     "name": "The Singularity Tree",
     "year": 2026,
@@ -6512,7 +6416,7 @@
     "hometown": "Reno, NV, United States",
     "description": "The Singularity Tree is a towering, cyber-organic solar punk structure pulsing with light and energy. Metallic branches stretch skyward, adorned with glowing LED vines that simulate flowing data. A central core emits a cascade of shimmering particles, creating a sense of movement and connection. Inspired by the moment where humanity and technology converge, the installation symbolizes the merging of natural and digital consciousness. As light flows through its form, it evokes a future where intelligence, emotion, and machine coalesce into one living system. \n\nThe Tree marks the next chapter of human evolution. \n\nAxis Mundi.",
     "artist": "Choo Choo Camp",
-    "category": null,
+    "category": "Open Playa",
     "program": "Self-Funded",
     "donation_link": null,
     "location": null,
@@ -6562,7 +6466,7 @@
     "artist": "Gabrielle Marie",
     "category": "Open Playa",
     "program": "Self-Funded",
-    "donation_link": null,
+    "donation_link": "https://www.gofundme.com/f/help-bring-the-luma-lotus-to-burning-man-2026?attribution_id=sl:88c24d43-3c57-4d32-8d05-2d32b6f7d368&lang=en_US&ts=1783191000&utm_campaign=fp_sharesheet&utm_content=amp20_control&utm_medium=customer&utm_source=copy_link",
     "location": null,
     "location_string": null,
     "images": [
@@ -6584,7 +6488,7 @@
     "hometown": "South Lake Tahoe, CA, United States",
     "description": "Dreams Never Get Old is a reflective camera sculpture that transforms the viewer into the subject through an oversized mirrored lens. Inspired by grief, memory, and the human desire to feel seen, the installation explores self-image and emotional reflection through a familiar object reimagined at monumental scale. The open backside of the structure creates a sheltered interior space for quiet connection, contemplation, and shared presence. By turning the act of observation back onto the observer, the piece blurs the line between artwork and participant, capturing fleeting moments of humanity, vulnerability, and belonging.",
     "artist": "Marina Rich",
-    "category": null,
+    "category": "Open Playa",
     "program": "Self-Funded",
     "donation_link": "https://gofund.me/5b2101e71",
     "location": null,
@@ -6616,30 +6520,6 @@
     "images": [
       {
         "thumbnail_url": "https://burningman.widen.net/content/qtblzyjem2/jpeg/a2IVI000002u4J72AI-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
-        "gallery_ref": null
-      }
-    ],
-    "guided_tours": false,
-    "self_guided_tour_map": false,
-    "needs_volunteers": false
-  },
-  {
-    "uid": "a2IVI000002u4xR2AQ",
-    "name": "This is not the laser you're looking for",
-    "year": 2026,
-    "url": null,
-    "contact_email": null,
-    "hometown": "Los Angeles, CA, United States",
-    "description": "Sometimes the wrong place, is exactly the right place to be, at Burning Man.",
-    "artist": "Buring Globe",
-    "category": null,
-    "program": "Self-Funded",
-    "donation_link": null,
-    "location": null,
-    "location_string": null,
-    "images": [
-      {
-        "thumbnail_url": "https://burningman.widen.net/content/vpfuvmiwxb/jpeg/a2IVI000002u4xR2AQ-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
         "gallery_ref": null
       }
     ],
@@ -6967,7 +6847,7 @@
     "contact_email": "hello@monaartfund.org",
     "hometown": "Berkeley, CA & Chengdu, China",
     "description": "Mona Moon explores emotional softness within extreme environments. The art piece is inspired in part by the ancient Chinese romantic yet tragic story of Chang'e and the Jade Bunny: Chang'e and her lover are separated when she is forced to drink an elixir of immortality and ascends to the moon. Only once a year the two lovers are able to see each other. In Chinese culture, when two lovers or family members are far away from each other, they will often look at the moon together in longing, and hopeful emotional connectedness.\nThe purple Mona Bunny represents companionship, sensitivity, and the need for warmth and connection during moments of longing. The Mona Moon Marriage March will invite you to vow or renew your vows with your soulmate.",
-    "artist": "Miao He and Bowei Wang",
+    "artist": "Miao He, Ricardo Solar and Bowei Wang",
     "category": "Open Playa",
     "program": "Self-Funded",
     "donation_link": "http://monaartfund.org",
@@ -7011,12 +6891,12 @@
     "uid": "a2IVI000002uKm52AE",
     "name": "Everywhere Nowhere Express",
     "year": 2026,
-    "url": "https://www.everynoexpress.com",
+    "url": null,
     "contact_email": null,
     "hometown": "El Cerrito, CA, United States",
-    "description": "Everywhere Nowhere Express is a large, 3-D train ticket that participants can enter. From the outside, the towering ticket structure signals both departure and arrival, stamped with destinations that are paradoxes: Everywhere. Nowhere. Now.\n\nStep inside and the experience transforms. The interior becomes a whimsical train car inviting participants to settle in and feel the particular magic of being in transit. Not yet there. No longer here. Just the ride itself.",
+    "description": "Everywhere Nowhere Express is a large, 3-D train ticket that participants can enter. From the outside, the towering ticket structure signals both departure and arrival, stamped with destinations that are paradoxes: Everywhere. Nowhere. Now.\n\nStep onboard and the experience transforms. The platform becomes a whimsical invitation for participants to settle in and feel the particular magic of being in transit. Not yet there. No longer here. Just the ride itself.",
     "artist": "Gabe Kim & Kristle Henry",
-    "category": null,
+    "category": "Open Playa",
     "program": "Self-Funded",
     "donation_link": null,
     "location": null,
@@ -7467,7 +7347,7 @@
     "hometown": "Almaty, Kazakhstan",
     "description": "Tengri Oasis is represented by a monumental reclining camel inspired by the nomadic cultures of Central Asia. Its three humps are formed by the exposed wooden frameworks of traditional yurts, transformed into transparent sculptural elements that reveal the geometry and craftsmanship of nomadic architecture. Three Altybaqan swings stand beside the camel, referencing a traditional space for gathering, storytelling, and celebration. Rooted in the values of freedom, hospitality, and connection to nature, the installation reimagines the ancient nomadic journey as an Axis Mundi—a symbolic link between earth and sky, movement and stillness, individual experience and collective belonging.",
     "artist": "Tengri Camp",
-    "category": null,
+    "category": "Open Playa",
     "program": "Self-Funded",
     "donation_link": null,
     "location": null,
@@ -7475,30 +7355,6 @@
     "images": [
       {
         "thumbnail_url": "https://burningman.widen.net/content/yzfcf0t7jv/jpeg/a2IVI0000031wuf2AA-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
-        "gallery_ref": null
-      }
-    ],
-    "guided_tours": false,
-    "self_guided_tour_map": false,
-    "needs_volunteers": false
-  },
-  {
-    "uid": "a2IVI0000031xVl2AI",
-    "name": "TEST Walk-in Tiny Cute Artwork",
-    "year": 2026,
-    "url": null,
-    "contact_email": "cheese@cheesypoofs.org",
-    "hometown": "Testerville, CA, United States",
-    "description": "Describe what your project looks like and its meaning.\nLimit your description to 750 characters.\nUse the third person, present tense.\nDo not give commands or invite people to do things.Describe what your project looks like and its meaning.\nLimit your description to 750 characters.\nUse the third person, present tense.\nDo not give commands or invite people to do things.",
-    "artist": "Tinyart Collective",
-    "category": null,
-    "program": "Self-Funded",
-    "donation_link": null,
-    "location": null,
-    "location_string": null,
-    "images": [
-      {
-        "thumbnail_url": "https://burningman.widen.net/content/j3cpc5qw64/jpeg/a2IVI0000031xVl2AI-Final.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
         "gallery_ref": null
       }
     ],
@@ -7593,25 +7449,6 @@
     "needs_volunteers": false
   },
   {
-    "uid": "a2IVI0000032gEL2AY",
-    "name": "WG Test Walk-In 2026",
-    "year": 2026,
-    "url": "http://www.testwalk-inart.com",
-    "contact_email": "public@email.com",
-    "hometown": "San Francisco, CA, United States",
-    "description": "Public Description of Installation *\nDescribe what your project looks like and its meaning.\nLimit your description to 750 characters.\nUse the third person, present tense.\nDo not give commands or invite people to do things.",
-    "artist": "Artist Attribution",
-    "category": null,
-    "program": "Self-Funded",
-    "donation_link": null,
-    "location": null,
-    "location_string": null,
-    "images": [],
-    "guided_tours": false,
-    "self_guided_tour_map": false,
-    "needs_volunteers": false
-  },
-  {
     "uid": "a2IVI0000032gFx2AI",
     "name": "WG Test CC Canopy Walk-In",
     "year": 2026,
@@ -7637,9 +7474,9 @@
     "url": "https://festival.si.edu/2026/of-the-people/we-hold-these-truths",
     "contact_email": null,
     "hometown": "Washington, DC, United States",
-    "description": "This mobile community recording activity moves through Black Rock City, showing up at camps, events, on the open playa, and by the Artery. The title comes from one of the most recognizable lines in the Declaration of Independence, which marks its 250th anniversary in 2026. This project records short conversations about gathering, community, history, and shared futures in this unique moment and place. Grounded in exchange and collective reflection, it contributes to an evolving record documented by the Smithsonian, exploring the truths communities negotiate and share, while affirming citizenship as a practice of participation, responsibility, and care.",
+    "description": "This mobile community recording activity moves through Black Rock City, showing up at camps, events, on the open playa, and by the ARTery. The title comes from one of the most recognizable lines in the Declaration of Independence, which marks its 250th anniversary in 2026. This project records short conversations about gathering, community, history, and shared futures in this unique moment and place. Grounded in exchange and collective reflection, it contributes to an evolving record documented by the Smithsonian, exploring the truths communities negotiate and share, while affirming citizenship as a practice of participation, responsibility, and care.",
     "artist": "Smithsonian Folklife Festival",
-    "category": null,
+    "category": "Open Playa",
     "program": "Self-Funded",
     "donation_link": null,
     "location": null,
@@ -7658,8 +7495,8 @@
     "uid": "a2IVI00000347lx2AA",
     "name": "The Only Way Out Is In",
     "year": 2026,
-    "url": "https://desertflamingodesign.com/",
-    "contact_email": "desertflamingodesign@gmail.com",
+    "url": null,
+    "contact_email": null,
     "hometown": "Dallas, Austin, Joshua Tree",
     "description": "The Only Way Out Is In is a tunnel of seven nested rainbow arches with\na circular mirror at its center. Crystal prisms hang from each arch, scattering light across\nthe playa. Seven questions of self-reflection are mounted inside, asking visitors to look\ninward and consider their past year\nits storms and its rainbows. At night, the LED-lit\narches glow across the open playa. It is a meditation on transition: a reminder that every\nstorm passes, and that it is our strife that makes the rainbow possible.",
     "artist": "Desert Flamingo",
@@ -7671,6 +7508,174 @@
     "images": [
       {
         "thumbnail_url": "https://burningman.widen.net/content/ipkex017hf/jpeg/a2IVI00000347lx2AA-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
+        "gallery_ref": null
+      }
+    ],
+    "guided_tours": false,
+    "self_guided_tour_map": false,
+    "needs_volunteers": false
+  },
+  {
+    "uid": "a2IVI0000035fQb2AI",
+    "name": "Chroma Commons at the ARTery",
+    "year": 2026,
+    "url": "https://www.cameronannemason.com/",
+    "contact_email": "cameronannemason@gmail.com",
+    "hometown": "Seattle, WA, United States",
+    "description": "In a temporary city in a constant state of metamorphosis, Chroma Commons creates a sense of place using ephemeral materials: Silk, color, and air. Simple yet dramatic, this moving color field activates the ARTery. Look closer and the silks reveal subtle texture and hues gradating along the color wheel. The slightest breeze creates a kinetic environment and provides changing views.",
+    "artist": "Dusty Nation, Lead Artist Cameron Anne Mason",
+    "category": "Open Playa",
+    "program": "Self-Funded",
+    "donation_link": null,
+    "location": null,
+    "location_string": null,
+    "images": [
+      {
+        "thumbnail_url": "https://burningman.widen.net/content/8lbo1helrk/jpeg/a2IVI0000035fQb2AI-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
+        "gallery_ref": null
+      }
+    ],
+    "guided_tours": false,
+    "self_guided_tour_map": false,
+    "needs_volunteers": false
+  },
+  {
+    "uid": "a2IVI0000036Koj2AE",
+    "name": "Aunisoma",
+    "year": 2026,
+    "url": "https://www.daveclay.com/aunisoma",
+    "contact_email": "art@daveclay.com",
+    "hometown": "Seattle, WA, United States",
+    "description": "Our perception of reality is colored not only by our own emotions but through others and by the external world. How we understand something at one moment may not be the same in the next moment. We all live together in a multi-colored world that is often out of our control. This piece aims to embrace all that beautiful chaos of all these beautiful people into something to be celebrated, allowing ourselves to be curious, explore, and adapt to the ever-changing internal and external realities.",
+    "artist": "Dave Clay",
+    "category": null,
+    "program": "Self-Funded",
+    "donation_link": null,
+    "location": null,
+    "location_string": null,
+    "images": [
+      {
+        "thumbnail_url": "https://burningman.widen.net/content/mmswgl8hse/jpeg/a2IVI0000036Koj2AE-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
+        "gallery_ref": null
+      }
+    ],
+    "guided_tours": false,
+    "self_guided_tour_map": false,
+    "needs_volunteers": false
+  },
+  {
+    "uid": "a2IVI0000036sqP2AQ",
+    "name": "Moroccan ParTea",
+    "year": 2026,
+    "url": null,
+    "contact_email": "hindizdesign@gmail.com",
+    "hometown": "Kenitra Marrakech",
+    "description": "My installation art is to honor my Fellow Moroccans and the Moroccan hospitality; to honor their  generosity and their beautiful hearts. \nA Moroccan citizen welcomes everyone with open arms and open hearts no matter their age gender, religion, race, color  none of that matters, a mint Tea is always offered from the heart and with pure love.  \nhi",
+    "artist": "Hind Baghdadi",
+    "category": null,
+    "program": "Self-Funded",
+    "donation_link": null,
+    "location": null,
+    "location_string": null,
+    "images": [
+      {
+        "thumbnail_url": "https://burningman.widen.net/content/dmvxqyelep/jpeg/a2IVI0000036sqP2AQ-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
+        "gallery_ref": null
+      }
+    ],
+    "guided_tours": false,
+    "self_guided_tour_map": false,
+    "needs_volunteers": false
+  },
+  {
+    "uid": "a2IVI0000037FF72AM",
+    "name": "Earth Guardians of Cryptometria Tree",
+    "year": 2026,
+    "url": null,
+    "contact_email": "leyalegra@gmail.com",
+    "hometown": "Bacalar, Quintana Roo, Mexico",
+    "description": "The installation consists of two nature beings that are the guardians of Cryptomeria tree.\nOne is a flower being with leaves and the other one is a mushroom being both connected by mycelium through their feet between each other and the Cryptometria tree honoring the underground network of connection that facilitates communication and resource sharing between trees, plants and mushrooms, manifesting the intrinsic connection threes have within themselves and the mushrooms and plants having all together synergy between them. Being used also as a metaphor as well to manifest the intrinsic connection we also have with Mother Earth and between each other as living beings through an invisible thread.",
+    "artist": "Leyla Brashka",
+    "category": null,
+    "program": "ManPavGrant",
+    "donation_link": null,
+    "location": null,
+    "location_string": null,
+    "images": [
+      {
+        "thumbnail_url": "https://burningman.widen.net/content/d5frybstqj/jpeg/a2IVI0000037FF72AM-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
+        "gallery_ref": null
+      }
+    ],
+    "guided_tours": false,
+    "self_guided_tour_map": false,
+    "needs_volunteers": false
+  },
+  {
+    "uid": "a2IVI0000037TDF2A2",
+    "name": "Still Point, or \"At the still point of the turning world.\"",
+    "year": 2026,
+    "url": null,
+    "contact_email": "imogensartworks@gmail.com",
+    "hometown": "Portland, OR, United States",
+    "description": "Still Point traces the correspondence between macrocosm and microcosm, revealing patterns that recur throughout Life and the value we ascribe them. The installation consists of two mixed-media panels, each approximately 12 by 8–10 feet, combining painting, collage, and gold leaf. One panel contains enlarged animal, bacterial, and plant cells, where cycles of birth, growth, movement, and dissolution unfold alongside fragments of human experience. The other presents an angelic figure juxtaposed against the solar system, her form divided into scenes of memory, value, and meaning-making. Together, the works contemplate scale and intimacy, transience and continuity, the reflective still point of conscious existence.",
+    "artist": "Imogen Speer",
+    "category": null,
+    "program": "ManPavGrant",
+    "donation_link": null,
+    "location": null,
+    "location_string": null,
+    "images": [
+      {
+        "thumbnail_url": "https://burningman.widen.net/content/oekpxaji39/jpeg/a2IVI0000037TDF2A2-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
+        "gallery_ref": null
+      }
+    ],
+    "guided_tours": false,
+    "self_guided_tour_map": false,
+    "needs_volunteers": false
+  },
+  {
+    "uid": "a2IVI0000037U9J2AU",
+    "name": "Resonance",
+    "year": 2026,
+    "url": null,
+    "contact_email": "ray@raylenegorum.com",
+    "hometown": "Bay Area, CA, United States",
+    "description": "Resonance is a suspended pendant of forty layered panels whose shifting linework evokes ripples, tree rings, and waves of sound. Derived from the geometry of Black Rock City, the layered forms transform the city's familiar plan into a visible record of time as it approaches its 40th Burn. As participants move through the Man, the layers align and separate, revealing changing relationships between the vibrating patterns and framed views beyond. Looking back toward the city through the pendant's center, past and present briefly converge. Suspended beneath Cryptomeria, the work reflects the theme of Axis Mundi by connecting forty years of collective creation through the continual making and remaking of Black Rock City.",
+    "artist": "Raylene Gorum",
+    "category": null,
+    "program": "ManPavGrant",
+    "donation_link": null,
+    "location": null,
+    "location_string": null,
+    "images": [
+      {
+        "thumbnail_url": "https://burningman.widen.net/content/0jnk4hszet/jpeg/a2IVI0000037U9J2AU-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
+        "gallery_ref": null
+      }
+    ],
+    "guided_tours": false,
+    "self_guided_tour_map": false,
+    "needs_volunteers": false
+  },
+  {
+    "uid": "a2IVI0000038Cez2AE",
+    "name": "Emergence",
+    "year": 2026,
+    "url": "https://www.juliajerome.com",
+    "contact_email": "the.rawhide.reckoning@gmail.com",
+    "hometown": "Oakland, CA, United States",
+    "description": "Inside a sealed case hangs a sheet of translucent material. It flows like fabric though it is solid, glows like amber, and catches light like glass.\n\nIt is skin.\n\nMade by dissolving animal hide and allowing it to dry, the material reorganizes itself in response to heat, humidity, gravity, and the presence of other objects in its environment.\n\nEmergence draws on the idea that complex patterns arise from countless simple interactions. Just as collagen molecules become skin, and nebulas give birth to stars, this material forms something entirely new. Everything is a temporary arrangement of matter, continually dissolving and becoming. What will your matter become next?",
+    "artist": "Julia Jerome",
+    "category": null,
+    "program": "Self-Funded",
+    "donation_link": null,
+    "location": null,
+    "location_string": null,
+    "images": [
+      {
+        "thumbnail_url": "https://burningman.widen.net/content/6lieb4dqlq/jpeg/a2IVI0000038Cez2AE-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
         "gallery_ref": null
       }
     ],
