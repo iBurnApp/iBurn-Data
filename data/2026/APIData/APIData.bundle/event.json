@@ -62286,84 +62286,6 @@
     ]
   },
   {
-    "uid": "9FRMw6nGTXNEHXSWVfFT",
-    "title": "Techno Tease",
-    "event_id": 57584,
-    "description": "Schlick + Moxie bring their techno fueled pole dance spectacle to Afterglow!",
-    "event_type": {
-      "label": "Music/Party",
-      "abbr": "prty"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "9FRMw6nGTXNEHXSWVfFT-techno-tease",
-    "hosted_by_camp": "a1XVI00000FMJeT2AX",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": false,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-09-01T22:00:00-07:00",
-        "end_time": "2026-09-01T23:00:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "bw9EEyPhdJhq3kvH3u2m",
-    "title": "Happy Meower",
-    "event_id": 57565,
-    "description": "Stop by in your favorite feline ensamble and enjoy a refreshing cat cocktail",
-    "event_type": {
-      "label": "Beverages",
-      "abbr": "tea"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "bw9EEyPhdJhq3kvH3u2m-happy-meower",
-    "hosted_by_camp": "a1XVI00000FMem92AD",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": true,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-09-05T16:00:00-07:00",
-        "end_time": "2026-09-05T18:00:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "j364HaSVoB4VJRCKtPpT",
-    "title": "Body Gifting and Exploration",
-    "event_id": 57585,
-    "description": "Designated zone to indicate your body is open to be explored! All adults welcome",
-    "event_type": {
-      "label": "Mature Audiences",
-      "abbr": "adlt"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "j364HaSVoB4VJRCKtPpT-body-gifting-and-exploration",
-    "hosted_by_camp": "a1XVI00000FMJeT2AX",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": false,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-09-04T10:00:00-07:00",
-        "end_time": "2026-09-04T12:00:00-07:00"
-      }
-    ]
-  },
-  {
     "uid": "r9zNFchMBBMheJP65cE5",
     "title": "Love Party",
     "event_id": 57573,
@@ -63154,6 +63076,270 @@
       {
         "start_time": "2026-09-04T08:00:00-07:00",
         "end_time": "2026-09-04T20:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "9FRMw6nGTXNEHXSWVfFT",
+    "title": "Techno Tease",
+    "event_id": 57584,
+    "description": "Schlick + Moxie bring their techno fueled pole dance spectacle to Afterglow!",
+    "event_type": {
+      "label": "Music/Party",
+      "abbr": "prty"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "9FRMw6nGTXNEHXSWVfFT-techno-tease",
+    "hosted_by_camp": "a1XVI00000FMJeT2AX",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": false,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-09-01T22:00:00-07:00",
+        "end_time": "2026-09-01T23:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "bw9EEyPhdJhq3kvH3u2m",
+    "title": "Happy Meower",
+    "event_id": 57565,
+    "description": "Stop by in your favorite feline ensamble and enjoy a refreshing cat cocktail",
+    "event_type": {
+      "label": "Beverages",
+      "abbr": "tea"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "bw9EEyPhdJhq3kvH3u2m-happy-meower",
+    "hosted_by_camp": "a1XVI00000FMem92AD",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": true,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-09-05T16:00:00-07:00",
+        "end_time": "2026-09-05T18:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "j364HaSVoB4VJRCKtPpT",
+    "title": "Body Gifting and Exploration",
+    "event_id": 57585,
+    "description": "Designated zone to indicate your body is open to be explored! All adults welcome",
+    "event_type": {
+      "label": "Mature Audiences",
+      "abbr": "adlt"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "j364HaSVoB4VJRCKtPpT-body-gifting-and-exploration",
+    "hosted_by_camp": "a1XVI00000FMJeT2AX",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": false,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-09-04T10:00:00-07:00",
+        "end_time": "2026-09-04T12:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "kLhvnyMAMgUGueKGFjwv",
+    "title": "Stag F*cks Black Rock Casino: Seeing RED",
+    "event_id": 57638,
+    "description": "Full House or Royal Flush - Bets are paid in hugs, and dust!",
+    "event_type": {
+      "label": "Other",
+      "abbr": "othr"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "kLhvnyMAMgUGueKGFjwv-stag-fcks-black-rock-casino-seeing-red",
+    "hosted_by_camp": "a1XVI00000FKnVN2A1",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": false,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-09-03T13:00:00-07:00",
+        "end_time": "2026-09-03T16:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "zAjy2BtBu4maShhP56y8",
+    "title": "Book Burning with Bucket",
+    "event_id": 57639,
+    "description": "Radical Immediacy Ritual. We’re burning one book, the one that you brought",
+    "event_type": {
+      "label": "Class/Workshop",
+      "abbr": "work"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "zAjy2BtBu4maShhP56y8-book-burning-with-bucket",
+    "hosted_by_camp": "a1XVI00000FM0aD2AT",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": false,
+    "url": null,
+    "all_day": false,
+    "contact": "starfist.brc@gmail.com",
+    "occurrence_set": [
+      {
+        "start_time": "2026-08-31T21:00:00-07:00",
+        "end_time": "2026-08-31T22:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "ctDoHoBEPdRoY7xihPGS",
+    "title": "Ignite the Fire within",
+    "event_id": 57640,
+    "description": "Awaken your energy & joy through Kundalini, breath, movement & sound",
+    "event_type": {
+      "label": "Class/Workshop",
+      "abbr": "work"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "ctDoHoBEPdRoY7xihPGS-ignite-the-fire-within",
+    "hosted_by_camp": "a1XVI00000FP9Vh2AL",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": false,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-09-01T13:00:00-07:00",
+        "end_time": "2026-09-01T14:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "NUPKPpmNyMdPqeYA2iMe",
+    "title": "The Art of Connection",
+    "event_id": 57641,
+    "description": "Come solo or together. Experience connection through breath, presence & sound",
+    "event_type": {
+      "label": "Class/Workshop",
+      "abbr": "work"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "NUPKPpmNyMdPqeYA2iMe-the-art-of-connection",
+    "hosted_by_camp": "a1XVI00000FP9Vh2AL",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": false,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-09-02T10:00:00-07:00",
+        "end_time": "2026-09-02T11:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "buaQ5rR2vWhSMxQYBoL4",
+    "title": "Old-Time String-Band Jam",
+    "event_id": 57642,
+    "description": "Grab your acoustic instrument and come play along at our burn town hoedown.",
+    "event_type": {
+      "label": "Music/Party",
+      "abbr": "prty"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "buaQ5rR2vWhSMxQYBoL4-old-time-string-band-jam",
+    "hosted_by_camp": "a1XVI00000FLXYF2A5",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": false,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-09-02T09:00:00-07:00",
+        "end_time": "2026-09-02T11:00:00-07:00"
+      },
+      {
+        "start_time": "2026-09-03T09:00:00-07:00",
+        "end_time": "2026-09-03T11:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "SXJaDQGTvUzocPza4Bum",
+    "title": "Bacon, Booze & Beats @ The Baconeers!",
+    "event_id": 57650,
+    "description": "Come shake your ass to the best 90s & 2000s Hip Hop & Break-Beats! And BACON!!!",
+    "event_type": {
+      "label": "Music/Party",
+      "abbr": "prty"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "SXJaDQGTvUzocPza4Bum-bacon-booze-beats-the-baconeers",
+    "hosted_by_camp": "a1XVI00000FMjdl2AD",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": true,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-09-03T14:00:00-07:00",
+        "end_time": "2026-09-03T17:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "RhHDVKwCNoHZ7s94spfe",
+    "title": "Bacon, Booze & Beats @ The Baconeers!",
+    "event_id": 57649,
+    "description": "Come shake your ass to the best 90s & 2000s Hip Hop & Break-Beats! And BACON!!!",
+    "event_type": {
+      "label": "Music/Party",
+      "abbr": "prty"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "RhHDVKwCNoHZ7s94spfe-bacon-booze-beats-the-baconeers",
+    "hosted_by_camp": "a1XVI00000FMjdl2AD",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": false,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-09-01T14:00:00-07:00",
+        "end_time": "2026-09-01T17:00:00-07:00"
       }
     ]
   },
@@ -64022,70 +64208,18 @@
     ]
   },
   {
-    "uid": "kLhvnyMAMgUGueKGFjwv",
-    "title": "Stag F*cks Black Rock Casino: Seeing RED",
-    "event_id": 57638,
-    "description": "Full House or Royal Flush - Bets are paid in hugs, and dust!",
-    "event_type": {
-      "label": "Other",
-      "abbr": "othr"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "kLhvnyMAMgUGueKGFjwv-stag-fcks-black-rock-casino-seeing-red",
-    "hosted_by_camp": "a1XVI00000FKnVN2A1",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": false,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-09-03T13:00:00-07:00",
-        "end_time": "2026-09-03T16:00:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "zAjy2BtBu4maShhP56y8",
-    "title": "Book Burning with Bucket",
-    "event_id": 57639,
-    "description": "Radical Immediacy Ritual. We’re burning one book, the one that you brought",
+    "uid": "GEP3zJx8fBzFf5qqcD9c",
+    "title": "Shiva loves Shakti - Hatha Yoga Flow",
+    "event_id": 57666,
+    "description": "Heart centered yoga practice balancing the polarities for your highest good",
     "event_type": {
       "label": "Class/Workshop",
       "abbr": "work"
     },
     "year": 2026,
     "print_description": "",
-    "slug": "zAjy2BtBu4maShhP56y8-book-burning-with-bucket",
-    "hosted_by_camp": "a1XVI00000FM0aD2AT",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": false,
-    "url": null,
-    "all_day": false,
-    "contact": "starfist.brc@gmail.com",
-    "occurrence_set": [
-      {
-        "start_time": "2026-08-31T21:00:00-07:00",
-        "end_time": "2026-08-31T22:00:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "ctDoHoBEPdRoY7xihPGS",
-    "title": "Ignite the Fire within",
-    "event_id": 57640,
-    "description": "Awaken your energy & joy through Kundalini, breath, movement & sound",
-    "event_type": {
-      "label": "Class/Workshop",
-      "abbr": "work"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "ctDoHoBEPdRoY7xihPGS-ignite-the-fire-within",
-    "hosted_by_camp": "a1XVI00000FP9Vh2AL",
+    "slug": "GEP3zJx8fBzFf5qqcD9c-shiva-loves-shakti-hatha-yoga-flow",
+    "hosted_by_camp": "a1XVI00000FC89F2AT",
     "located_at_art": null,
     "other_location": "",
     "check_location": false,
@@ -64094,116 +64228,8 @@
     "contact": null,
     "occurrence_set": [
       {
-        "start_time": "2026-09-01T13:00:00-07:00",
-        "end_time": "2026-09-01T14:00:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "NUPKPpmNyMdPqeYA2iMe",
-    "title": "The Art of Connection",
-    "event_id": 57641,
-    "description": "Come solo or together. Experience connection through breath, presence & sound",
-    "event_type": {
-      "label": "Class/Workshop",
-      "abbr": "work"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "NUPKPpmNyMdPqeYA2iMe-the-art-of-connection",
-    "hosted_by_camp": "a1XVI00000FP9Vh2AL",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": false,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-09-02T10:00:00-07:00",
-        "end_time": "2026-09-02T11:00:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "buaQ5rR2vWhSMxQYBoL4",
-    "title": "Old-Time String-Band Jam",
-    "event_id": 57642,
-    "description": "Grab your acoustic instrument and come play along at our burn town hoedown.",
-    "event_type": {
-      "label": "Music/Party",
-      "abbr": "prty"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "buaQ5rR2vWhSMxQYBoL4-old-time-string-band-jam",
-    "hosted_by_camp": "a1XVI00000FLXYF2A5",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": false,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-09-02T09:00:00-07:00",
-        "end_time": "2026-09-02T11:00:00-07:00"
-      },
-      {
-        "start_time": "2026-09-03T09:00:00-07:00",
-        "end_time": "2026-09-03T11:00:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "SXJaDQGTvUzocPza4Bum",
-    "title": "Bacon, Booze & Beats @ The Baconeers!",
-    "event_id": 57650,
-    "description": "Come shake your ass to the best 90s & 2000s Hip Hop & Break-Beats! And BACON!!!",
-    "event_type": {
-      "label": "Music/Party",
-      "abbr": "prty"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "SXJaDQGTvUzocPza4Bum-bacon-booze-beats-the-baconeers",
-    "hosted_by_camp": "a1XVI00000FMjdl2AD",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": true,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-09-03T14:00:00-07:00",
-        "end_time": "2026-09-03T17:00:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "RhHDVKwCNoHZ7s94spfe",
-    "title": "Bacon, Booze & Beats @ The Baconeers!",
-    "event_id": 57649,
-    "description": "Come shake your ass to the best 90s & 2000s Hip Hop & Break-Beats! And BACON!!!",
-    "event_type": {
-      "label": "Music/Party",
-      "abbr": "prty"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "RhHDVKwCNoHZ7s94spfe-bacon-booze-beats-the-baconeers",
-    "hosted_by_camp": "a1XVI00000FMjdl2AD",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": false,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-09-01T14:00:00-07:00",
-        "end_time": "2026-09-01T17:00:00-07:00"
+        "start_time": "2026-09-04T10:00:00-07:00",
+        "end_time": "2026-09-04T11:00:00-07:00"
       }
     ]
   },
@@ -64810,818 +64836,6 @@
       {
         "start_time": "2026-08-31T12:00:00-07:00",
         "end_time": "2026-08-31T15:00:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "GEP3zJx8fBzFf5qqcD9c",
-    "title": "Shiva loves Shakti - Hatha Yoga Flow",
-    "event_id": 57666,
-    "description": "Heart centered yoga practice balancing the polarities for your highest good",
-    "event_type": {
-      "label": "Class/Workshop",
-      "abbr": "work"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "GEP3zJx8fBzFf5qqcD9c-shiva-loves-shakti-hatha-yoga-flow",
-    "hosted_by_camp": "a1XVI00000FC89F2AT",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": false,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-09-04T10:00:00-07:00",
-        "end_time": "2026-09-04T11:00:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "y4vehUa8neQdwWUq6kbk",
-    "title": "Blue Monday Open Bar",
-    "event_id": 57667,
-    "description": "Celebrate Blue Monday with Stag Camp's Open Bar!",
-    "event_type": {
-      "label": "Beverages",
-      "abbr": "tea"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "y4vehUa8neQdwWUq6kbk-blue-monday-open-bar",
-    "hosted_by_camp": "a1XVI00000FKnVN2A1",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": false,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-08-31T15:00:00-07:00",
-        "end_time": "2026-08-31T17:00:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "jM5cZ2tvUSDYz7ZEXwi9",
-    "title": "Rubaritas Tickle me Pink!",
-    "event_id": 57668,
-    "description": "Join the one & only Jessica Airlines as she serves up her legendary Rhubarb-rita",
-    "event_type": {
-      "label": "Beverages",
-      "abbr": "tea"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "jM5cZ2tvUSDYz7ZEXwi9-rubaritas-tickle-me-pink",
-    "hosted_by_camp": "a1XVI00000FKnVN2A1",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": false,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-09-01T12:00:00-07:00",
-        "end_time": "2026-09-01T15:00:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "xLPiTVuuVf4JmTX7NCQU",
-    "title": "AI, Art & the Creative Self",
-    "event_id": 57673,
-    "description": "Positive AI art lab-not an anti-AI debate. Experienced creators: bring laptops.",
-    "event_type": {
-      "label": "Class/Workshop",
-      "abbr": "work"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "xLPiTVuuVf4JmTX7NCQU-ai-art-the-creative-self",
-    "hosted_by_camp": "a1XVI00000FIvSD2A1",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": false,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-09-02T19:30:00-07:00",
-        "end_time": "2026-09-02T21:00:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "3ufGQQJKQ4x6kdcmZmwA",
-    "title": "Burn Reset Breathwork",
-    "event_id": 57671,
-    "description": "Guided breathwork with music & community. Bring mat or blanket. Relax deeply!",
-    "event_type": {
-      "label": "Class/Workshop",
-      "abbr": "work"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "3ufGQQJKQ4x6kdcmZmwA-burn-reset-breathwork",
-    "hosted_by_camp": "a1XVI00000FIvSD2A1",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": false,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-09-01T09:00:00-07:00",
-        "end_time": "2026-09-01T10:00:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "kcdHw7kdK3Wz7FKqqUxL",
-    "title": "Conscious Connected Breathwork",
-    "event_id": 57674,
-    "description": "Guided breathwork with music & community. Bring mat or blanket. Relax deeply!",
-    "event_type": {
-      "label": "Class/Workshop",
-      "abbr": "work"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "kcdHw7kdK3Wz7FKqqUxL-conscious-connected-breathwork",
-    "hosted_by_camp": "a1XVI00000FIvSD2A1",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": false,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-09-03T09:00:00-07:00",
-        "end_time": "2026-09-03T10:00:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "9j97SkBUD2Cp4tYX9g28",
-    "title": "Rhythmic Hip Hop",
-    "event_id": 57672,
-    "description": "An energetic dance class blending jazz & hip hop movement with music & rhythm.",
-    "event_type": {
-      "label": "Class/Workshop",
-      "abbr": "work"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "9j97SkBUD2Cp4tYX9g28-rhythmic-hip-hop",
-    "hosted_by_camp": "a1XVI00000FIvSD2A1",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": false,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-09-01T10:00:00-07:00",
-        "end_time": "2026-09-01T11:00:00-07:00"
-      },
-      {
-        "start_time": "2026-09-03T10:00:00-07:00",
-        "end_time": "2026-09-03T11:00:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "Bmxa59meozZLUtnjY4j2",
-    "title": "Bike Repair and Cold Brew Coffee",
-    "event_id": 57669,
-    "description": "Come by to get some coffee and let us fix your broken bike!",
-    "event_type": {
-      "label": "Other",
-      "abbr": "othr"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "Bmxa59meozZLUtnjY4j2-bike-repair-and-cold-brew-coffee",
-    "hosted_by_camp": "a1XVI00000FKRrS2AX",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": true,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-08-31T10:00:00-07:00",
-        "end_time": "2026-08-31T14:00:00-07:00"
-      },
-      {
-        "start_time": "2026-09-01T10:00:00-07:00",
-        "end_time": "2026-09-01T14:00:00-07:00"
-      },
-      {
-        "start_time": "2026-09-02T10:00:00-07:00",
-        "end_time": "2026-09-02T14:00:00-07:00"
-      },
-      {
-        "start_time": "2026-09-03T10:00:00-07:00",
-        "end_time": "2026-09-03T14:00:00-07:00"
-      },
-      {
-        "start_time": "2026-09-04T10:00:00-07:00",
-        "end_time": "2026-09-04T14:00:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "hvcCkV6yvRmyyLrSvpSh",
-    "title": "Hatha Soundbatha Yoga Flow",
-    "event_id": 57664,
-    "description": "Raise your frequency with classic asana, breathwork and sound bowls",
-    "event_type": {
-      "label": "Class/Workshop",
-      "abbr": "work"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "hvcCkV6yvRmyyLrSvpSh-hatha-soundbatha-yoga-flow",
-    "hosted_by_camp": "a1XVI00000FC89F2AT",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": false,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-09-01T11:00:00-07:00",
-        "end_time": "2026-09-01T11:15:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "FDj9WWxrirwRpSknrB9D",
-    "title": "One-on-One Healing",
-    "event_id": 57680,
-    "description": "We channel spirit to help you clean out energy, rescue lost soul bits.",
-    "event_type": {
-      "label": "Other",
-      "abbr": "othr"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "FDj9WWxrirwRpSknrB9D-one-on-one-healing",
-    "hosted_by_camp": "a1XVI00000FMdtJ2AT",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": false,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-09-01T16:00:00-07:00",
-        "end_time": "2026-09-01T18:00:00-07:00"
-      },
-      {
-        "start_time": "2026-09-02T16:00:00-07:00",
-        "end_time": "2026-09-02T18:00:00-07:00"
-      },
-      {
-        "start_time": "2026-09-03T16:00:00-07:00",
-        "end_time": "2026-09-03T18:00:00-07:00"
-      },
-      {
-        "start_time": "2026-09-04T16:00:00-07:00",
-        "end_time": "2026-09-04T18:00:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "Xcgb66nV4tQg2TsJj7TJ",
-    "title": "Find Your Power Animal",
-    "event_id": 57679,
-    "description": "Learn to connect with your power animal on a medicine-free drum journey.",
-    "event_type": {
-      "label": "Other",
-      "abbr": "othr"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "Xcgb66nV4tQg2TsJj7TJ-find-your-power-animal",
-    "hosted_by_camp": "a1XVI00000FMdtJ2AT",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": false,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-09-01T11:00:00-07:00",
-        "end_time": "2026-09-01T13:00:00-07:00"
-      },
-      {
-        "start_time": "2026-09-02T11:00:00-07:00",
-        "end_time": "2026-09-02T13:00:00-07:00"
-      },
-      {
-        "start_time": "2026-09-03T11:00:00-07:00",
-        "end_time": "2026-09-03T13:00:00-07:00"
-      },
-      {
-        "start_time": "2026-09-04T11:00:00-07:00",
-        "end_time": "2026-09-04T13:00:00-07:00"
-      },
-      {
-        "start_time": "2026-09-05T11:00:00-07:00",
-        "end_time": "2026-09-05T13:00:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "pnwaBVDRkmVfMmNLqi7Z",
-    "title": "Beginning Anew",
-    "event_id": 57685,
-    "description": "A mindful practice for holding difficult conversations.",
-    "event_type": {
-      "label": "Class/Workshop",
-      "abbr": "work"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "pnwaBVDRkmVfMmNLqi7Z-beginning-anew",
-    "hosted_by_camp": "a1XVI00000FKbyr2AD",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": true,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-09-04T11:30:00-07:00",
-        "end_time": "2026-09-04T12:30:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "EX7JPSWWL7F8bPWAVfGj",
-    "title": "The Oracle's Hour: Tarot Readings",
-    "event_id": 57689,
-    "description": "The cards are calling, take a seat, where fate and starlight finally meet",
-    "event_type": {
-      "label": "Class/Workshop",
-      "abbr": "work"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "EX7JPSWWL7F8bPWAVfGj-the-oracles-hour-tarot-readings",
-    "hosted_by_camp": "a1XVI00000FKnqL2AT",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": false,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-08-31T14:00:00-07:00",
-        "end_time": "2026-08-31T16:00:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "gTvaqigyAxYgUiwRrzc7",
-    "title": "Unlock Lucid Dreaming",
-    "event_id": 57686,
-    "description": "go super-lucid yo, special present for your burn, first-come first-serve",
-    "event_type": {
-      "label": "Class/Workshop",
-      "abbr": "work"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "gTvaqigyAxYgUiwRrzc7-unlock-lucid-dreaming",
-    "hosted_by_camp": "a1XVI00000FKnqL2AT",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": false,
-    "url": null,
-    "all_day": false,
-    "contact": "shannon.wu11@gmail.com",
-    "occurrence_set": [
-      {
-        "start_time": "2026-08-31T17:00:00-07:00",
-        "end_time": "2026-08-31T18:00:00-07:00"
-      },
-      {
-        "start_time": "2026-09-02T17:00:00-07:00",
-        "end_time": "2026-09-02T18:00:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "t6mDCdZpLX2BWdotih6S",
-    "title": "MASH",
-    "event_id": 57678,
-    "description": "Enjoy the laughs with your old friends on the MASH TV show.",
-    "event_type": {
-      "label": "Other",
-      "abbr": "othr"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "t6mDCdZpLX2BWdotih6S-mash",
-    "hosted_by_camp": "a1XVI00000FKdXd2AL",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": false,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-08-31T18:00:00-07:00",
-        "end_time": "2026-08-31T23:45:00-07:00"
-      },
-      {
-        "start_time": "2026-09-01T18:00:00-07:00",
-        "end_time": "2026-09-01T23:45:00-07:00"
-      },
-      {
-        "start_time": "2026-09-02T18:00:00-07:00",
-        "end_time": "2026-09-02T23:45:00-07:00"
-      },
-      {
-        "start_time": "2026-09-03T18:00:00-07:00",
-        "end_time": "2026-09-03T23:45:00-07:00"
-      },
-      {
-        "start_time": "2026-09-04T18:00:00-07:00",
-        "end_time": "2026-09-04T23:45:00-07:00"
-      },
-      {
-        "start_time": "2026-09-05T18:00:00-07:00",
-        "end_time": "2026-09-05T23:45:00-07:00"
-      },
-      {
-        "start_time": "2026-09-06T18:00:00-07:00",
-        "end_time": "2026-09-06T23:45:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "H4kpQJu8NxtuD6Tc3FLp",
-    "title": "Shamanic Extraction Healing Circle",
-    "event_id": 57681,
-    "description": "Your Power Animal helps clear a client's blocked energies. PA is a prerequisite.",
-    "event_type": {
-      "label": "Other",
-      "abbr": "othr"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "H4kpQJu8NxtuD6Tc3FLp-shamanic-extraction-healing-circle",
-    "hosted_by_camp": "a1XVI00000FMdtJ2AT",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": false,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-09-02T11:00:00-07:00",
-        "end_time": "2026-09-02T13:00:00-07:00"
-      },
-      {
-        "start_time": "2026-09-04T11:00:00-07:00",
-        "end_time": "2026-09-04T13:00:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "rvAYeGJRmXmtaMa6624M",
-    "title": "Shamanic Soul Retrieval Healing Circle",
-    "event_id": 57682,
-    "description": "Your Power Animal retrieves your client's lost soul parts. PA is prerequisite.",
-    "event_type": {
-      "label": "Other",
-      "abbr": "othr"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "rvAYeGJRmXmtaMa6624M-shamanic-soul-retrieval-healing-circle",
-    "hosted_by_camp": "a1XVI00000FMdtJ2AT",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": true,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-09-03T11:00:00-07:00",
-        "end_time": "2026-09-03T13:00:00-07:00"
-      },
-      {
-        "start_time": "2026-09-05T11:00:00-07:00",
-        "end_time": "2026-09-05T13:00:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "7SXbjHgtPKvxrqf9nzw2",
-    "title": "Shaman's Death and Rebirth Ritual",
-    "event_id": 57683,
-    "description": "Pachamama takes you. We’ll mourn and guard the body. What arises from the dust?",
-    "event_type": {
-      "label": "Other",
-      "abbr": "othr"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "7SXbjHgtPKvxrqf9nzw2-shamans-death-and-rebirth-ritual",
-    "hosted_by_camp": null,
-    "located_at_art": null,
-    "other_location": "Just beyond the Temple, where Deep Playa begins.",
-    "check_location": false,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-09-03T19:30:00-07:00",
-        "end_time": "2026-09-03T21:00:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "GdcCuM4wkAaNAa4QfU2Q",
-    "title": "Jade Boiler Room",
-    "event_id": 57691,
-    "description": "dj sets brewed under nine moons",
-    "event_type": {
-      "label": "Music/Party",
-      "abbr": "prty"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "GdcCuM4wkAaNAa4QfU2Q-jade-boiler-room",
-    "hosted_by_camp": "a1XVI00000FKnqL2AT",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": false,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-09-03T18:00:00-07:00",
-        "end_time": "2026-09-03T20:30:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "knhAngSHaH9VkJseFHxU",
-    "title": "Asstrology Fortune Telling",
-    "event_id": 57670,
-    "description": "A spank, a welt, your fortune expertly told from the rising redness.",
-    "event_type": {
-      "label": "Mature Audiences",
-      "abbr": "adlt"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "knhAngSHaH9VkJseFHxU-asstrology-fortune-telling",
-    "hosted_by_camp": "a1XVI00000FIvSD2A1",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": false,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-08-31T13:00:00-07:00",
-        "end_time": "2026-08-31T15:00:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "qd7xFgbRhzy4rCAQg8p3",
-    "title": "Rope Man Art",
-    "event_id": 57684,
-    "description": "Make a rope man from climbing rope. 40th Anniversary edition.",
-    "event_type": {
-      "label": "Arts & Crafts",
-      "abbr": "arts"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "qd7xFgbRhzy4rCAQg8p3-rope-man-art",
-    "hosted_by_camp": "a1XVI00000FMasD2AT",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": false,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-09-01T10:00:00-07:00",
-        "end_time": "2026-09-01T12:00:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "VZKaqfsArd9ztNncFhjc",
-    "title": "celestial tea house",
-    "event_id": 57688,
-    "description": "beneath the dome where dragons dream, come sip a cup of starlit tea",
-    "event_type": {
-      "label": "Beverages",
-      "abbr": "tea"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "VZKaqfsArd9ztNncFhjc-celestial-tea-house",
-    "hosted_by_camp": "a1XVI00000FKnqL2AT",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": false,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-08-31T14:00:00-07:00",
-        "end_time": "2026-08-31T16:00:00-07:00"
-      },
-      {
-        "start_time": "2026-09-01T14:00:00-07:00",
-        "end_time": "2026-09-01T16:00:00-07:00"
-      },
-      {
-        "start_time": "2026-09-02T14:00:00-07:00",
-        "end_time": "2026-09-02T16:00:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "94ocBaQwWbrPgNUWhWLs",
-    "title": "Happy Hour with the Elephant Toesies",
-    "event_id": 57676,
-    "description": "Join us at Camp Elephant Toe for Happy Hour and view Alladin's Lamp up close.",
-    "event_type": {
-      "label": "Beverages",
-      "abbr": "tea"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "94ocBaQwWbrPgNUWhWLs-happy-hour-with-the-elephant-toesies",
-    "hosted_by_camp": "a1XVI00000FBhx32AD",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": true,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-09-01T18:00:00-07:00",
-        "end_time": "2026-09-01T20:00:00-07:00"
-      },
-      {
-        "start_time": "2026-09-02T18:00:00-07:00",
-        "end_time": "2026-09-02T20:00:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "KErpryGjBhAnu4yz7nCT",
-    "title": "Ice Cold Lemonade",
-    "event_id": 57687,
-    "description": "Join us for ice cold Lemonade in the heat of the afternoon!",
-    "event_type": {
-      "label": "Beverages",
-      "abbr": "tea"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "KErpryGjBhAnu4yz7nCT-ice-cold-lemonade",
-    "hosted_by_camp": "a1XVI00000FMFFt2AP",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": true,
-    "url": null,
-    "all_day": false,
-    "contact": "greg@rowellbrokaw.com",
-    "occurrence_set": [
-      {
-        "start_time": "2026-08-31T14:00:00-07:00",
-        "end_time": "2026-08-31T15:30:00-07:00"
-      },
-      {
-        "start_time": "2026-09-01T14:00:00-07:00",
-        "end_time": "2026-09-01T15:30:00-07:00"
-      },
-      {
-        "start_time": "2026-09-02T14:00:00-07:00",
-        "end_time": "2026-09-02T15:30:00-07:00"
-      },
-      {
-        "start_time": "2026-09-03T14:00:00-07:00",
-        "end_time": "2026-09-03T15:30:00-07:00"
-      },
-      {
-        "start_time": "2026-09-04T14:00:00-07:00",
-        "end_time": "2026-09-04T15:30:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "yNaDGaTEdgB4rweFwxWZ",
-    "title": "Rosie's Bar",
-    "event_id": 57677,
-    "description": "Come enjoy the shade and the conversation at Rosie's Bar.",
-    "event_type": {
-      "label": "Beverages",
-      "abbr": "tea"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "yNaDGaTEdgB4rweFwxWZ-rosies-bar",
-    "hosted_by_camp": "a1XVI00000FKdXd2AL",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": false,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-08-31T12:00:00-07:00",
-        "end_time": "2026-08-31T18:00:00-07:00"
-      },
-      {
-        "start_time": "2026-09-01T12:00:00-07:00",
-        "end_time": "2026-09-01T18:00:00-07:00"
-      },
-      {
-        "start_time": "2026-09-02T12:00:00-07:00",
-        "end_time": "2026-09-02T18:00:00-07:00"
-      },
-      {
-        "start_time": "2026-09-03T12:00:00-07:00",
-        "end_time": "2026-09-03T18:00:00-07:00"
-      },
-      {
-        "start_time": "2026-09-04T12:00:00-07:00",
-        "end_time": "2026-09-04T18:00:00-07:00"
-      },
-      {
-        "start_time": "2026-09-05T12:00:00-07:00",
-        "end_time": "2026-09-05T18:00:00-07:00"
-      },
-      {
-        "start_time": "2026-09-06T12:00:00-07:00",
-        "end_time": "2026-09-06T18:00:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "neT5QSSxJN8DZUBVQgVh",
-    "title": "Karaoke!",
-    "event_id": 57720,
-    "description": "Sing like nobody’s watching. Talent Optional. Commitment Mandatory.",
-    "event_type": {
-      "label": "Music/Party",
-      "abbr": "prty"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "neT5QSSxJN8DZUBVQgVh-karaoke",
-    "hosted_by_camp": "a1XVI00000FMPOv2AP",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": false,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-09-01T20:00:00-07:00",
-        "end_time": "2026-09-01T22:00:00-07:00"
       }
     ]
   },
@@ -66542,6 +65756,1078 @@
     ]
   },
   {
+    "uid": "qXqoVHcebzZggSpLiBzd",
+    "title": "Fabulous F’ing Friday",
+    "event_id": 57750,
+    "description": "We’re best friends now, so let’s celebrate over a final Michelada",
+    "event_type": {
+      "label": "Beverages",
+      "abbr": "tea"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "qXqoVHcebzZggSpLiBzd-fabulous-fing-friday",
+    "hosted_by_camp": "a1XVI00000FLJDV2A5",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": false,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-09-04T10:00:00-07:00",
+        "end_time": "2026-09-04T12:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "UceD36b7xSasyKLr2vuV",
+    "title": "Michelada Mania Monday",
+    "event_id": 57746,
+    "description": "Gifting ice cold Micheladas, upbeat music and casual playa games",
+    "event_type": {
+      "label": "Beverages",
+      "abbr": "tea"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "UceD36b7xSasyKLr2vuV-michelada-mania-monday",
+    "hosted_by_camp": "a1XVI00000FLJDV2A5",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": false,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-08-31T10:00:00-07:00",
+        "end_time": "2026-08-31T12:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "2irvsPn7DCwwQWyU22td",
+    "title": "Two Two, Tutu, Tango Tuesday",
+    "event_id": 57747,
+    "description": "Friends, tutus, dancing, and Micheladas under the shade",
+    "event_type": {
+      "label": "Beverages",
+      "abbr": "tea"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "2irvsPn7DCwwQWyU22td-two-two-tutu-tango-tuesday",
+    "hosted_by_camp": "a1XVI00000FLJDV2A5",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": false,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-09-01T10:00:00-07:00",
+        "end_time": "2026-09-01T12:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "P5kYj6hCYgysYzz8TcmT",
+    "title": "What Just Happened Wednesday",
+    "event_id": 57748,
+    "description": "Hang out and be happy with a Michelada and our handsome bartenders",
+    "event_type": {
+      "label": "Beverages",
+      "abbr": "tea"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "P5kYj6hCYgysYzz8TcmT-what-just-happened-wednesday",
+    "hosted_by_camp": "a1XVI00000FLJDV2A5",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": false,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-09-02T10:00:00-07:00",
+        "end_time": "2026-09-02T12:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "95pzFqRnQhPp5kgTagz7",
+    "title": "Learn to Draw Comics With a Comic Pro",
+    "event_id": 57751,
+    "description": "Ever wanted to draw your own comics? Learn how with a my little pony artist",
+    "event_type": {
+      "label": "Kids Activities",
+      "abbr": "kid"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "95pzFqRnQhPp5kgTagz7-learn-to-draw-comics-with-a-comic-pro",
+    "hosted_by_camp": null,
+    "located_at_art": null,
+    "other_location": "Center Camp",
+    "check_location": false,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-09-02T10:00:00-07:00",
+        "end_time": "2026-09-02T11:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "k3Kamb82hYYD3Tmpr2kN",
+    "title": "Today is Nevada Day!",
+    "event_id": 57749,
+    "description": "Not really but let’s celebrate our home on the playa by creating Nevada pendants",
+    "event_type": {
+      "label": "Arts & Crafts",
+      "abbr": "arts"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "k3Kamb82hYYD3Tmpr2kN-today-is-nevada-day",
+    "hosted_by_camp": "a1XVI00000FLJDV2A5",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": false,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-09-03T11:00:00-07:00",
+        "end_time": "2026-09-03T13:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "CnGRu9qSMjHhCXSwtA3r",
+    "title": "Divine Feminine Party",
+    "event_id": 57753,
+    "description": "Celebrate the joy of aging and the divine feminine. Snacks, drinks, and photos.",
+    "event_type": {
+      "label": "Music/Party",
+      "abbr": "prty"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "CnGRu9qSMjHhCXSwtA3r-divine-feminine-party",
+    "hosted_by_camp": null,
+    "located_at_art": "a2IVI000002dzaL2AQ",
+    "other_location": "",
+    "check_location": false,
+    "url": null,
+    "all_day": false,
+    "contact": "sophikravitz@gmail.com",
+    "occurrence_set": [
+      {
+        "start_time": "2026-09-01T20:45:00-07:00",
+        "end_time": "2026-09-01T22:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "GGVmvSuuRe7iyJffWxyx",
+    "title": "Divine Feminine Party",
+    "event_id": 57752,
+    "description": "Celebrate the joy of aging and the divine feminine. Snacks, drinks, and photos.",
+    "event_type": {
+      "label": "Music/Party",
+      "abbr": "prty"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "GGVmvSuuRe7iyJffWxyx-divine-feminine-party",
+    "hosted_by_camp": null,
+    "located_at_art": "a2IVI000002dzaL2AQ",
+    "other_location": "",
+    "check_location": false,
+    "url": null,
+    "all_day": false,
+    "contact": "sophikravitz@gmail.com",
+    "occurrence_set": [
+      {
+        "start_time": "2026-09-01T20:45:00-07:00",
+        "end_time": "2026-09-01T22:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "9hL5GbbQVBLmDr8g86rK",
+    "title": "Marshmallow Golf!",
+    "event_id": 57754,
+    "description": "Grab a club, roast your competitive spirit, and hang out @ Hole #19",
+    "event_type": {
+      "label": "Other",
+      "abbr": "othr"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "9hL5GbbQVBLmDr8g86rK-marshmallow-golf",
+    "hosted_by_camp": "a1XVI00000FG91t2AD",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": false,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-09-05T13:00:00-07:00",
+        "end_time": "2026-09-05T15:30:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "eZEAxnS8q9gq6rFybBx7",
+    "title": "CLOUDY AF TAKE OVER",
+    "event_id": 57756,
+    "description": "Cloudy Af Takeover! Our friends take over the bar and stage.",
+    "event_type": {
+      "label": "Music/Party",
+      "abbr": "prty"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "eZEAxnS8q9gq6rFybBx7-cloudy-af-take-over",
+    "hosted_by_camp": "a1XVI00000FK3h32AD",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": true,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-08-31T20:00:00-07:00",
+        "end_time": "2026-08-31T20:15:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "Bm9nDL7smc942jnPnges",
+    "title": "Mi F.U. Barrio",
+    "event_id": 57755,
+    "description": "Mi F.U. Barrio: Top Mexico DJs, micheladas & margaritas!",
+    "event_type": {
+      "label": "Music/Party",
+      "abbr": "prty"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "Bm9nDL7smc942jnPnges-mi-fu-barrio",
+    "hosted_by_camp": "a1XVI00000FK3h32AD",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": true,
+    "url": null,
+    "all_day": false,
+    "contact": "isita.irving@gmail.com",
+    "occurrence_set": [
+      {
+        "start_time": "2026-09-03T15:00:00-07:00",
+        "end_time": "2026-09-03T22:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "y4vehUa8neQdwWUq6kbk",
+    "title": "Blue Monday Open Bar",
+    "event_id": 57667,
+    "description": "Celebrate Blue Monday with Stag Camp's Open Bar!",
+    "event_type": {
+      "label": "Beverages",
+      "abbr": "tea"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "y4vehUa8neQdwWUq6kbk-blue-monday-open-bar",
+    "hosted_by_camp": "a1XVI00000FKnVN2A1",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": false,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-08-31T15:00:00-07:00",
+        "end_time": "2026-08-31T17:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "jM5cZ2tvUSDYz7ZEXwi9",
+    "title": "Rubaritas Tickle me Pink!",
+    "event_id": 57668,
+    "description": "Join the one & only Jessica Airlines as she serves up her legendary Rhubarb-rita",
+    "event_type": {
+      "label": "Beverages",
+      "abbr": "tea"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "jM5cZ2tvUSDYz7ZEXwi9-rubaritas-tickle-me-pink",
+    "hosted_by_camp": "a1XVI00000FKnVN2A1",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": false,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-09-01T12:00:00-07:00",
+        "end_time": "2026-09-01T15:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "xLPiTVuuVf4JmTX7NCQU",
+    "title": "AI, Art & the Creative Self",
+    "event_id": 57673,
+    "description": "Positive AI art lab-not an anti-AI debate. Experienced creators: bring laptops.",
+    "event_type": {
+      "label": "Class/Workshop",
+      "abbr": "work"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "xLPiTVuuVf4JmTX7NCQU-ai-art-the-creative-self",
+    "hosted_by_camp": "a1XVI00000FIvSD2A1",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": false,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-09-02T19:30:00-07:00",
+        "end_time": "2026-09-02T21:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "3ufGQQJKQ4x6kdcmZmwA",
+    "title": "Burn Reset Breathwork",
+    "event_id": 57671,
+    "description": "Guided breathwork with music & community. Bring mat or blanket. Relax deeply!",
+    "event_type": {
+      "label": "Class/Workshop",
+      "abbr": "work"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "3ufGQQJKQ4x6kdcmZmwA-burn-reset-breathwork",
+    "hosted_by_camp": "a1XVI00000FIvSD2A1",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": false,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-09-01T09:00:00-07:00",
+        "end_time": "2026-09-01T10:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "kcdHw7kdK3Wz7FKqqUxL",
+    "title": "Conscious Connected Breathwork",
+    "event_id": 57674,
+    "description": "Guided breathwork with music & community. Bring mat or blanket. Relax deeply!",
+    "event_type": {
+      "label": "Class/Workshop",
+      "abbr": "work"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "kcdHw7kdK3Wz7FKqqUxL-conscious-connected-breathwork",
+    "hosted_by_camp": "a1XVI00000FIvSD2A1",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": false,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-09-03T09:00:00-07:00",
+        "end_time": "2026-09-03T10:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "9j97SkBUD2Cp4tYX9g28",
+    "title": "Rhythmic Hip Hop",
+    "event_id": 57672,
+    "description": "An energetic dance class blending jazz & hip hop movement with music & rhythm.",
+    "event_type": {
+      "label": "Class/Workshop",
+      "abbr": "work"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "9j97SkBUD2Cp4tYX9g28-rhythmic-hip-hop",
+    "hosted_by_camp": "a1XVI00000FIvSD2A1",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": false,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-09-01T10:00:00-07:00",
+        "end_time": "2026-09-01T11:00:00-07:00"
+      },
+      {
+        "start_time": "2026-09-03T10:00:00-07:00",
+        "end_time": "2026-09-03T11:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "Bmxa59meozZLUtnjY4j2",
+    "title": "Bike Repair and Cold Brew Coffee",
+    "event_id": 57669,
+    "description": "Come by to get some coffee and let us fix your broken bike!",
+    "event_type": {
+      "label": "Other",
+      "abbr": "othr"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "Bmxa59meozZLUtnjY4j2-bike-repair-and-cold-brew-coffee",
+    "hosted_by_camp": "a1XVI00000FKRrS2AX",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": true,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-08-31T10:00:00-07:00",
+        "end_time": "2026-08-31T14:00:00-07:00"
+      },
+      {
+        "start_time": "2026-09-01T10:00:00-07:00",
+        "end_time": "2026-09-01T14:00:00-07:00"
+      },
+      {
+        "start_time": "2026-09-02T10:00:00-07:00",
+        "end_time": "2026-09-02T14:00:00-07:00"
+      },
+      {
+        "start_time": "2026-09-03T10:00:00-07:00",
+        "end_time": "2026-09-03T14:00:00-07:00"
+      },
+      {
+        "start_time": "2026-09-04T10:00:00-07:00",
+        "end_time": "2026-09-04T14:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "hvcCkV6yvRmyyLrSvpSh",
+    "title": "Hatha Soundbatha Yoga Flow",
+    "event_id": 57664,
+    "description": "Raise your frequency with classic asana, breathwork and sound bowls",
+    "event_type": {
+      "label": "Class/Workshop",
+      "abbr": "work"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "hvcCkV6yvRmyyLrSvpSh-hatha-soundbatha-yoga-flow",
+    "hosted_by_camp": "a1XVI00000FC89F2AT",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": false,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-09-01T11:00:00-07:00",
+        "end_time": "2026-09-01T11:15:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "FDj9WWxrirwRpSknrB9D",
+    "title": "One-on-One Healing",
+    "event_id": 57680,
+    "description": "We channel spirit to help you clean out energy, rescue lost soul bits.",
+    "event_type": {
+      "label": "Other",
+      "abbr": "othr"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "FDj9WWxrirwRpSknrB9D-one-on-one-healing",
+    "hosted_by_camp": "a1XVI00000FMdtJ2AT",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": false,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-09-01T16:00:00-07:00",
+        "end_time": "2026-09-01T18:00:00-07:00"
+      },
+      {
+        "start_time": "2026-09-02T16:00:00-07:00",
+        "end_time": "2026-09-02T18:00:00-07:00"
+      },
+      {
+        "start_time": "2026-09-03T16:00:00-07:00",
+        "end_time": "2026-09-03T18:00:00-07:00"
+      },
+      {
+        "start_time": "2026-09-04T16:00:00-07:00",
+        "end_time": "2026-09-04T18:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "Xcgb66nV4tQg2TsJj7TJ",
+    "title": "Find Your Power Animal",
+    "event_id": 57679,
+    "description": "Learn to connect with your power animal on a medicine-free drum journey.",
+    "event_type": {
+      "label": "Other",
+      "abbr": "othr"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "Xcgb66nV4tQg2TsJj7TJ-find-your-power-animal",
+    "hosted_by_camp": "a1XVI00000FMdtJ2AT",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": false,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-09-01T11:00:00-07:00",
+        "end_time": "2026-09-01T13:00:00-07:00"
+      },
+      {
+        "start_time": "2026-09-02T11:00:00-07:00",
+        "end_time": "2026-09-02T13:00:00-07:00"
+      },
+      {
+        "start_time": "2026-09-03T11:00:00-07:00",
+        "end_time": "2026-09-03T13:00:00-07:00"
+      },
+      {
+        "start_time": "2026-09-04T11:00:00-07:00",
+        "end_time": "2026-09-04T13:00:00-07:00"
+      },
+      {
+        "start_time": "2026-09-05T11:00:00-07:00",
+        "end_time": "2026-09-05T13:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "pnwaBVDRkmVfMmNLqi7Z",
+    "title": "Beginning Anew",
+    "event_id": 57685,
+    "description": "A mindful practice for holding difficult conversations.",
+    "event_type": {
+      "label": "Class/Workshop",
+      "abbr": "work"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "pnwaBVDRkmVfMmNLqi7Z-beginning-anew",
+    "hosted_by_camp": "a1XVI00000FKbyr2AD",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": true,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-09-04T11:30:00-07:00",
+        "end_time": "2026-09-04T12:30:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "EX7JPSWWL7F8bPWAVfGj",
+    "title": "The Oracle's Hour: Tarot Readings",
+    "event_id": 57689,
+    "description": "The cards are calling, take a seat, where fate and starlight finally meet",
+    "event_type": {
+      "label": "Class/Workshop",
+      "abbr": "work"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "EX7JPSWWL7F8bPWAVfGj-the-oracles-hour-tarot-readings",
+    "hosted_by_camp": "a1XVI00000FKnqL2AT",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": false,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-08-31T14:00:00-07:00",
+        "end_time": "2026-08-31T16:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "gTvaqigyAxYgUiwRrzc7",
+    "title": "Unlock Lucid Dreaming",
+    "event_id": 57686,
+    "description": "go super-lucid yo, special present for your burn, first-come first-serve",
+    "event_type": {
+      "label": "Class/Workshop",
+      "abbr": "work"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "gTvaqigyAxYgUiwRrzc7-unlock-lucid-dreaming",
+    "hosted_by_camp": "a1XVI00000FKnqL2AT",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": false,
+    "url": null,
+    "all_day": false,
+    "contact": "shannon.wu11@gmail.com",
+    "occurrence_set": [
+      {
+        "start_time": "2026-08-31T17:00:00-07:00",
+        "end_time": "2026-08-31T18:00:00-07:00"
+      },
+      {
+        "start_time": "2026-09-02T17:00:00-07:00",
+        "end_time": "2026-09-02T18:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "t6mDCdZpLX2BWdotih6S",
+    "title": "MASH",
+    "event_id": 57678,
+    "description": "Enjoy the laughs with your old friends on the MASH TV show.",
+    "event_type": {
+      "label": "Other",
+      "abbr": "othr"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "t6mDCdZpLX2BWdotih6S-mash",
+    "hosted_by_camp": "a1XVI00000FKdXd2AL",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": false,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-08-31T18:00:00-07:00",
+        "end_time": "2026-08-31T23:45:00-07:00"
+      },
+      {
+        "start_time": "2026-09-01T18:00:00-07:00",
+        "end_time": "2026-09-01T23:45:00-07:00"
+      },
+      {
+        "start_time": "2026-09-02T18:00:00-07:00",
+        "end_time": "2026-09-02T23:45:00-07:00"
+      },
+      {
+        "start_time": "2026-09-03T18:00:00-07:00",
+        "end_time": "2026-09-03T23:45:00-07:00"
+      },
+      {
+        "start_time": "2026-09-04T18:00:00-07:00",
+        "end_time": "2026-09-04T23:45:00-07:00"
+      },
+      {
+        "start_time": "2026-09-05T18:00:00-07:00",
+        "end_time": "2026-09-05T23:45:00-07:00"
+      },
+      {
+        "start_time": "2026-09-06T18:00:00-07:00",
+        "end_time": "2026-09-06T23:45:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "H4kpQJu8NxtuD6Tc3FLp",
+    "title": "Shamanic Extraction Healing Circle",
+    "event_id": 57681,
+    "description": "Your Power Animal helps clear a client's blocked energies. PA is a prerequisite.",
+    "event_type": {
+      "label": "Other",
+      "abbr": "othr"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "H4kpQJu8NxtuD6Tc3FLp-shamanic-extraction-healing-circle",
+    "hosted_by_camp": "a1XVI00000FMdtJ2AT",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": false,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-09-02T11:00:00-07:00",
+        "end_time": "2026-09-02T13:00:00-07:00"
+      },
+      {
+        "start_time": "2026-09-04T11:00:00-07:00",
+        "end_time": "2026-09-04T13:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "rvAYeGJRmXmtaMa6624M",
+    "title": "Shamanic Soul Retrieval Healing Circle",
+    "event_id": 57682,
+    "description": "Your Power Animal retrieves your client's lost soul parts. PA is prerequisite.",
+    "event_type": {
+      "label": "Other",
+      "abbr": "othr"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "rvAYeGJRmXmtaMa6624M-shamanic-soul-retrieval-healing-circle",
+    "hosted_by_camp": "a1XVI00000FMdtJ2AT",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": true,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-09-03T11:00:00-07:00",
+        "end_time": "2026-09-03T13:00:00-07:00"
+      },
+      {
+        "start_time": "2026-09-05T11:00:00-07:00",
+        "end_time": "2026-09-05T13:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "7SXbjHgtPKvxrqf9nzw2",
+    "title": "Shaman's Death and Rebirth Ritual",
+    "event_id": 57683,
+    "description": "Pachamama takes you. We’ll mourn and guard the body. What arises from the dust?",
+    "event_type": {
+      "label": "Other",
+      "abbr": "othr"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "7SXbjHgtPKvxrqf9nzw2-shamans-death-and-rebirth-ritual",
+    "hosted_by_camp": null,
+    "located_at_art": null,
+    "other_location": "Just beyond the Temple, where Deep Playa begins.",
+    "check_location": false,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-09-03T19:30:00-07:00",
+        "end_time": "2026-09-03T21:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "GdcCuM4wkAaNAa4QfU2Q",
+    "title": "Jade Boiler Room",
+    "event_id": 57691,
+    "description": "dj sets brewed under nine moons",
+    "event_type": {
+      "label": "Music/Party",
+      "abbr": "prty"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "GdcCuM4wkAaNAa4QfU2Q-jade-boiler-room",
+    "hosted_by_camp": "a1XVI00000FKnqL2AT",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": false,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-09-03T18:00:00-07:00",
+        "end_time": "2026-09-03T20:30:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "knhAngSHaH9VkJseFHxU",
+    "title": "Asstrology Fortune Telling",
+    "event_id": 57670,
+    "description": "A spank, a welt, your fortune expertly told from the rising redness.",
+    "event_type": {
+      "label": "Mature Audiences",
+      "abbr": "adlt"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "knhAngSHaH9VkJseFHxU-asstrology-fortune-telling",
+    "hosted_by_camp": "a1XVI00000FIvSD2A1",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": false,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-08-31T13:00:00-07:00",
+        "end_time": "2026-08-31T15:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "qd7xFgbRhzy4rCAQg8p3",
+    "title": "Rope Man Art",
+    "event_id": 57684,
+    "description": "Make a rope man from climbing rope. 40th Anniversary edition.",
+    "event_type": {
+      "label": "Arts & Crafts",
+      "abbr": "arts"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "qd7xFgbRhzy4rCAQg8p3-rope-man-art",
+    "hosted_by_camp": "a1XVI00000FMasD2AT",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": false,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-09-01T10:00:00-07:00",
+        "end_time": "2026-09-01T12:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "VZKaqfsArd9ztNncFhjc",
+    "title": "celestial tea house",
+    "event_id": 57688,
+    "description": "beneath the dome where dragons dream, come sip a cup of starlit tea",
+    "event_type": {
+      "label": "Beverages",
+      "abbr": "tea"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "VZKaqfsArd9ztNncFhjc-celestial-tea-house",
+    "hosted_by_camp": "a1XVI00000FKnqL2AT",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": false,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-08-31T14:00:00-07:00",
+        "end_time": "2026-08-31T16:00:00-07:00"
+      },
+      {
+        "start_time": "2026-09-01T14:00:00-07:00",
+        "end_time": "2026-09-01T16:00:00-07:00"
+      },
+      {
+        "start_time": "2026-09-02T14:00:00-07:00",
+        "end_time": "2026-09-02T16:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "94ocBaQwWbrPgNUWhWLs",
+    "title": "Happy Hour with the Elephant Toesies",
+    "event_id": 57676,
+    "description": "Join us at Camp Elephant Toe for Happy Hour and view Alladin's Lamp up close.",
+    "event_type": {
+      "label": "Beverages",
+      "abbr": "tea"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "94ocBaQwWbrPgNUWhWLs-happy-hour-with-the-elephant-toesies",
+    "hosted_by_camp": "a1XVI00000FBhx32AD",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": true,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-09-01T18:00:00-07:00",
+        "end_time": "2026-09-01T20:00:00-07:00"
+      },
+      {
+        "start_time": "2026-09-02T18:00:00-07:00",
+        "end_time": "2026-09-02T20:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "KErpryGjBhAnu4yz7nCT",
+    "title": "Ice Cold Lemonade",
+    "event_id": 57687,
+    "description": "Join us for ice cold Lemonade in the heat of the afternoon!",
+    "event_type": {
+      "label": "Beverages",
+      "abbr": "tea"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "KErpryGjBhAnu4yz7nCT-ice-cold-lemonade",
+    "hosted_by_camp": "a1XVI00000FMFFt2AP",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": true,
+    "url": null,
+    "all_day": false,
+    "contact": "greg@rowellbrokaw.com",
+    "occurrence_set": [
+      {
+        "start_time": "2026-08-31T14:00:00-07:00",
+        "end_time": "2026-08-31T15:30:00-07:00"
+      },
+      {
+        "start_time": "2026-09-01T14:00:00-07:00",
+        "end_time": "2026-09-01T15:30:00-07:00"
+      },
+      {
+        "start_time": "2026-09-02T14:00:00-07:00",
+        "end_time": "2026-09-02T15:30:00-07:00"
+      },
+      {
+        "start_time": "2026-09-03T14:00:00-07:00",
+        "end_time": "2026-09-03T15:30:00-07:00"
+      },
+      {
+        "start_time": "2026-09-04T14:00:00-07:00",
+        "end_time": "2026-09-04T15:30:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "yNaDGaTEdgB4rweFwxWZ",
+    "title": "Rosie's Bar",
+    "event_id": 57677,
+    "description": "Come enjoy the shade and the conversation at Rosie's Bar.",
+    "event_type": {
+      "label": "Beverages",
+      "abbr": "tea"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "yNaDGaTEdgB4rweFwxWZ-rosies-bar",
+    "hosted_by_camp": "a1XVI00000FKdXd2AL",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": false,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-08-31T12:00:00-07:00",
+        "end_time": "2026-08-31T18:00:00-07:00"
+      },
+      {
+        "start_time": "2026-09-01T12:00:00-07:00",
+        "end_time": "2026-09-01T18:00:00-07:00"
+      },
+      {
+        "start_time": "2026-09-02T12:00:00-07:00",
+        "end_time": "2026-09-02T18:00:00-07:00"
+      },
+      {
+        "start_time": "2026-09-03T12:00:00-07:00",
+        "end_time": "2026-09-03T18:00:00-07:00"
+      },
+      {
+        "start_time": "2026-09-04T12:00:00-07:00",
+        "end_time": "2026-09-04T18:00:00-07:00"
+      },
+      {
+        "start_time": "2026-09-05T12:00:00-07:00",
+        "end_time": "2026-09-05T18:00:00-07:00"
+      },
+      {
+        "start_time": "2026-09-06T12:00:00-07:00",
+        "end_time": "2026-09-06T18:00:00-07:00"
+      }
+    ]
+  },
+  {
+    "uid": "neT5QSSxJN8DZUBVQgVh",
+    "title": "Karaoke!",
+    "event_id": 57720,
+    "description": "Sing like nobody’s watching. Talent Optional. Commitment Mandatory.",
+    "event_type": {
+      "label": "Music/Party",
+      "abbr": "prty"
+    },
+    "year": 2026,
+    "print_description": "",
+    "slug": "neT5QSSxJN8DZUBVQgVh-karaoke",
+    "hosted_by_camp": "a1XVI00000FMPOv2AP",
+    "located_at_art": null,
+    "other_location": "",
+    "check_location": false,
+    "url": null,
+    "all_day": false,
+    "contact": null,
+    "occurrence_set": [
+      {
+        "start_time": "2026-09-01T20:00:00-07:00",
+        "end_time": "2026-09-01T22:00:00-07:00"
+      }
+    ]
+  },
+  {
     "uid": "sqfmnxVai5GqBFG6LJNk",
     "title": "Death Cafe: A Grief Gathering",
     "event_id": 57724,
@@ -67368,292 +67654,6 @@
       {
         "start_time": "2026-08-31T12:00:00-07:00",
         "end_time": "2026-08-31T14:00:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "qXqoVHcebzZggSpLiBzd",
-    "title": "Fabulous F’ing Friday",
-    "event_id": 57750,
-    "description": "We’re best friends now, so let’s celebrate over a final Michelada",
-    "event_type": {
-      "label": "Beverages",
-      "abbr": "tea"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "qXqoVHcebzZggSpLiBzd-fabulous-fing-friday",
-    "hosted_by_camp": "a1XVI00000FLJDV2A5",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": false,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-09-04T10:00:00-07:00",
-        "end_time": "2026-09-04T12:00:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "UceD36b7xSasyKLr2vuV",
-    "title": "Michelada Mania Monday",
-    "event_id": 57746,
-    "description": "Gifting ice cold Micheladas, upbeat music and casual playa games",
-    "event_type": {
-      "label": "Beverages",
-      "abbr": "tea"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "UceD36b7xSasyKLr2vuV-michelada-mania-monday",
-    "hosted_by_camp": "a1XVI00000FLJDV2A5",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": false,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-08-31T10:00:00-07:00",
-        "end_time": "2026-08-31T12:00:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "2irvsPn7DCwwQWyU22td",
-    "title": "Two Two, Tutu, Tango Tuesday",
-    "event_id": 57747,
-    "description": "Friends, tutus, dancing, and Micheladas under the shade",
-    "event_type": {
-      "label": "Beverages",
-      "abbr": "tea"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "2irvsPn7DCwwQWyU22td-two-two-tutu-tango-tuesday",
-    "hosted_by_camp": "a1XVI00000FLJDV2A5",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": false,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-09-01T10:00:00-07:00",
-        "end_time": "2026-09-01T12:00:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "P5kYj6hCYgysYzz8TcmT",
-    "title": "What Just Happened Wednesday",
-    "event_id": 57748,
-    "description": "Hang out and be happy with a Michelada and our handsome bartenders",
-    "event_type": {
-      "label": "Beverages",
-      "abbr": "tea"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "P5kYj6hCYgysYzz8TcmT-what-just-happened-wednesday",
-    "hosted_by_camp": "a1XVI00000FLJDV2A5",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": false,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-09-02T10:00:00-07:00",
-        "end_time": "2026-09-02T12:00:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "95pzFqRnQhPp5kgTagz7",
-    "title": "Learn to Draw Comics With a Comic Pro",
-    "event_id": 57751,
-    "description": "Ever wanted to draw your own comics? Learn how with a my little pony artist",
-    "event_type": {
-      "label": "Kids Activities",
-      "abbr": "kid"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "95pzFqRnQhPp5kgTagz7-learn-to-draw-comics-with-a-comic-pro",
-    "hosted_by_camp": null,
-    "located_at_art": null,
-    "other_location": "Center Camp",
-    "check_location": false,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-09-02T10:00:00-07:00",
-        "end_time": "2026-09-02T11:00:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "k3Kamb82hYYD3Tmpr2kN",
-    "title": "Today is Nevada Day!",
-    "event_id": 57749,
-    "description": "Not really but let’s celebrate our home on the playa by creating Nevada pendants",
-    "event_type": {
-      "label": "Arts & Crafts",
-      "abbr": "arts"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "k3Kamb82hYYD3Tmpr2kN-today-is-nevada-day",
-    "hosted_by_camp": "a1XVI00000FLJDV2A5",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": false,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-09-03T11:00:00-07:00",
-        "end_time": "2026-09-03T13:00:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "CnGRu9qSMjHhCXSwtA3r",
-    "title": "Divine Feminine Party",
-    "event_id": 57753,
-    "description": "Celebrate the joy of aging and the divine feminine. Snacks, drinks, and photos.",
-    "event_type": {
-      "label": "Music/Party",
-      "abbr": "prty"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "CnGRu9qSMjHhCXSwtA3r-divine-feminine-party",
-    "hosted_by_camp": null,
-    "located_at_art": "a2IVI000002dzaL2AQ",
-    "other_location": "",
-    "check_location": false,
-    "url": null,
-    "all_day": false,
-    "contact": "sophikravitz@gmail.com",
-    "occurrence_set": [
-      {
-        "start_time": "2026-09-01T20:45:00-07:00",
-        "end_time": "2026-09-01T22:00:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "GGVmvSuuRe7iyJffWxyx",
-    "title": "Divine Feminine Party",
-    "event_id": 57752,
-    "description": "Celebrate the joy of aging and the divine feminine. Snacks, drinks, and photos.",
-    "event_type": {
-      "label": "Music/Party",
-      "abbr": "prty"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "GGVmvSuuRe7iyJffWxyx-divine-feminine-party",
-    "hosted_by_camp": null,
-    "located_at_art": "a2IVI000002dzaL2AQ",
-    "other_location": "",
-    "check_location": false,
-    "url": null,
-    "all_day": false,
-    "contact": "sophikravitz@gmail.com",
-    "occurrence_set": [
-      {
-        "start_time": "2026-09-01T20:45:00-07:00",
-        "end_time": "2026-09-01T22:00:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "9hL5GbbQVBLmDr8g86rK",
-    "title": "Marshmallow Golf!",
-    "event_id": 57754,
-    "description": "Grab a club, roast your competitive spirit, and hang out @ Hole #19",
-    "event_type": {
-      "label": "Other",
-      "abbr": "othr"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "9hL5GbbQVBLmDr8g86rK-marshmallow-golf",
-    "hosted_by_camp": "a1XVI00000FG91t2AD",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": false,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-09-05T13:00:00-07:00",
-        "end_time": "2026-09-05T15:30:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "eZEAxnS8q9gq6rFybBx7",
-    "title": "CLOUDY AF TAKE OVER",
-    "event_id": 57756,
-    "description": "Cloudy Af Takeover! Our friends take over the bar and stage.",
-    "event_type": {
-      "label": "Music/Party",
-      "abbr": "prty"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "eZEAxnS8q9gq6rFybBx7-cloudy-af-take-over",
-    "hosted_by_camp": "a1XVI00000FK3h32AD",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": true,
-    "url": null,
-    "all_day": false,
-    "contact": null,
-    "occurrence_set": [
-      {
-        "start_time": "2026-08-31T20:00:00-07:00",
-        "end_time": "2026-08-31T20:15:00-07:00"
-      }
-    ]
-  },
-  {
-    "uid": "Bm9nDL7smc942jnPnges",
-    "title": "Mi F.U. Barrio",
-    "event_id": 57755,
-    "description": "Mi F.U. Barrio: Top Mexico DJs, micheladas & margaritas!",
-    "event_type": {
-      "label": "Music/Party",
-      "abbr": "prty"
-    },
-    "year": 2026,
-    "print_description": "",
-    "slug": "Bm9nDL7smc942jnPnges-mi-fu-barrio",
-    "hosted_by_camp": "a1XVI00000FK3h32AD",
-    "located_at_art": null,
-    "other_location": "",
-    "check_location": true,
-    "url": null,
-    "all_day": false,
-    "contact": "isita.irving@gmail.com",
-    "occurrence_set": [
-      {
-        "start_time": "2026-09-03T15:00:00-07:00",
-        "end_time": "2026-09-03T22:00:00-07:00"
       }
     ]
   }
