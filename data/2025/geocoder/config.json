@@ -1,0 +1,23 @@
+{
+  "year": 2025,
+  "bearing": 45,
+  "center_cpn": "The Man",
+  "street_names": {
+    "ESP": "Esplanade",
+    "A": "Atwood",
+    "B": "Bradbury",
+    "C": "Cherryh",
+    "D": "Dick",
+    "E": "Ellison",
+    "F": "Farmer",
+    "G": "Gibson",
+    "H": "Herbert",
+    "I": "Ishiguro",
+    "J": "Jemisin",
+    "K": "Kilgore"
+  },
+  "retired_streets": [],
+  "gap_landmark_cpn": "Center Camp",
+  "gap_landmark_radius_ft": 1200,
+  "default_plaza_radius_ft": 175
+}

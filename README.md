@@ -97,7 +97,9 @@ Generate a browser-compatible geocoder bundle:
 
 ```bash
 cd scripts/BlackRockCityPlanner
-browserify src/geocoder/index.js -o ../../data/2026/geocoder/bundle.js
+node src/cli/build_geocoder_data.js --data-root ../../ --year 2026 \
+  --output ../../data/2026/geocoder/geocoder-data.json
+browserify src/orggeocoder/index.js -o ../../data/2026/geocoder/bundle.js
 ```
 
 ## Directory Structure

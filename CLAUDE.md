@@ -30,8 +30,11 @@ node src/cli/fetch_and_geocode.js \
 # 2. Generate all geometric data for the year
 node src/cli/generate_all.js -d ../../data/2026
 
-# 3. Generate browser geocoder bundle
-browserify src/geocoder/index.js -o ../../data/2026/geocoder/bundle.js
+# 3. Build the geocoder bundle from BMorg's official GeoJSON
+#    (step 3a packages the org data + config; 3b bundles it for the apps)
+node src/cli/build_geocoder_data.js --data-root ../../ --year 2026 \
+  --output ../../data/2026/geocoder/geocoder-data.json
+browserify src/orggeocoder/index.js -o ../../data/2026/geocoder/bundle.js
 ```
 
 #### Manual Geocoding (if needed)
