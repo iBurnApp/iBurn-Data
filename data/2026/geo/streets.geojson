@@ -1220,7 +1220,7 @@
             "type": "Feature",
             "properties": {
                 "ref": "c",
-                "name": "Chomolungma",
+                "name": "Ceiba",
                 "type": "arc"
             },
             "geometry": {
@@ -7080,8 +7080,7 @@
         {
             "type": "Feature",
             "properties": {
-                "ref": "frontage_arc",
-                "name": "Rod's Road"
+                "ref": "frontage_arc"
             },
             "geometry": {
                 "type": "LineString",

@@ -38,8 +38,7 @@ module.exports={
     "frontage_arc": {
       "distance": 783,
       "start_angle": 284,
-      "end_angle": 76,
-      "name": "Rod's Road"
+      "end_angle": 76
     }
   },
   "cStreets": [
@@ -102,7 +101,7 @@ module.exports={
         ]
       ],
       "ref": "c",
-      "name": "Chomolungma"
+      "name": "Ceiba"
     },
     {
       "distance": 3775,
