@@ -38,7 +38,8 @@ module.exports={
     "frontage_arc": {
       "distance": 783,
       "start_angle": 284,
-      "end_angle": 76
+      "end_angle": 76,
+      "name": "Rod's Road"
     }
   },
   "cStreets": [
@@ -746,6 +747,9 @@ CenterCampStreetPlanner.prototype.getFrontageRoad = function() {
     var properties = {
         "ref": "frontage_arc"
     };
+    if (this.centerCampInfo.frontage_arc.name) {
+        properties.name = this.centerCampInfo.frontage_arc.name;
+    }
     return turf.lineString(first_points.concat(second_points),properties);
 };
 
@@ -1580,7 +1584,7 @@ var reverseGeocoder = function(cityCenter,centerCampCenter,cityBearing,polygons,
   this.cityBearing = cityBearing;
   this.streets = streets.features;
   this.arcStreets = this.streets.filter(function(item){
-    return item.properties.type !== 'radial';
+    return item.properties.type !== 'radial' && item.properties.name;
   });
   this.centerPlaza = utils.filter(polygons.features,'ref','centerPlaza')[0];
   this.cafe = utils.filter(polygons.features,'ref','cafe')[0];
@@ -1612,7 +1616,7 @@ reverseGeocoder.prototype.geocode = function(lat, lon) {
 
 reverseGeocoder.prototype.timeForStreet = function(point,street) {
   var center = this.cityCenter;
-  if (street.properties.ref === '66' || street.properties.ref === 'rod' || street.properties.ref === 'centerCampPlazaRoad') {
+  if (street.properties.ref === '66' || street.properties.ref === 'rod' || street.properties.ref === 'centerCampPlazaRoad' || street.properties.ref === 'frontage_arc') {
     center = this.centerCampCenter
   }
 

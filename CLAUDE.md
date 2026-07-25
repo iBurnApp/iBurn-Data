@@ -23,24 +23,24 @@ npm install
 export BMORG_API_KEY=your-api-key-here
 
 node src/cli/fetch_and_geocode.js \
-  --year 2025 \
-  --layout ../../data/2025/layouts/layout.json \
-  --output ../../data/2025/APIData/APIData.bundle
+  --year 2026 \
+  --layout ../../data/2026/layouts/layout.json \
+  --output ../../data/2026/APIData/APIData.bundle
 
 # 2. Generate all geometric data for the year
-node src/cli/generate_all.js -d ../../data/2025
+node src/cli/generate_all.js -d ../../data/2026
 
 # 3. Generate browser geocoder bundle
-browserify src/geocoder/index.js -o ../../data/2025/geocoder/bundle.js
+browserify src/geocoder/index.js -o ../../data/2026/geocoder/bundle.js
 ```
 
 #### Manual Geocoding (if needed)
 ```bash
 # Geocode API data with coordinates
-node src/cli/api.js -l ../../data/2025/layouts/layout.json -f ../../data/2025/APIData/Resources/camp.json -k location_string -o ../../data/2025/APIData/Resources/camp-location.json
+node src/cli/api.js -l ../../data/2026/layouts/layout.json -f ../../data/2026/APIData/Resources/camp.json -k location_string -o ../../data/2026/APIData/Resources/camp-location.json
 
 # Update original with geocoded version
-mv ../../data/2025/APIData/Resources/camp-location.json ../../data/2025/APIData/Resources/camp.json
+mv ../../data/2026/APIData/Resources/camp-location.json ../../data/2026/APIData/Resources/camp.json
 ```
 
 ### Vector Tile Generation
@@ -51,14 +51,14 @@ Convert GeoJSON files to vector tiles for efficient mobile rendering:
 brew install tippecanoe
 
 # Generate vector tiles from all GeoJSON files (output to Map.bundle subdirectory)
-tippecanoe --output=data/2025/Map/Map.bundle/map.mbtiles -f \
-  -L fence:data/2025/geo/fence.geojson \
-  -L outline:data/2025/geo/outline.geojson \
-  -L polygons:data/2025/geo/polygons.geojson \
-  -L streets:data/2025/geo/streets.geojson \
-  -L toilets:data/2025/geo/toilets.geojson \
-  -L points:data/2025/geo/points.geojson \
-  -L dmz:data/2025/geo/dmz.geojson \
+tippecanoe --output=data/2026/Map/Map.bundle/map.mbtiles -f \
+  -L fence:data/2026/geo/fence.geojson \
+  -L outline:data/2026/geo/outline.geojson \
+  -L polygons:data/2026/geo/polygons.geojson \
+  -L streets:data/2026/geo/streets.geojson \
+  -L toilets:data/2026/geo/toilets.geojson \
+  -L points:data/2026/geo/points.geojson \
+  -L dmz:data/2026/geo/dmz.geojson \
   -z 14 \
   -Z 4 \
   -B0
@@ -102,7 +102,7 @@ Each year follows this directory pattern:
 ```
 data/YYYY/
 ├── APIData/           # Swift Package Manager target for JSON data
-│   ├── iBurn2025APIData.swift # Swift Package Manager source
+│   ├── iBurn2026APIData.swift # Swift Package Manager source
 │   └── Resources/             # JSON data files from Burning Man APIs
 │       ├── art.json          # Art installations with descriptions/locations
 │       ├── camp.json         # Theme camps with coordinates
@@ -119,14 +119,14 @@ data/YYYY/
 │   ├── layout.json         # Street positions, bearings, center coordinates
 │   └── toilet.json         # Toilet placement specifications
 ├── Map/              # Swift Package Manager target for map resources
-│   ├── iBurn2025Map.swift  # Swift Package Manager source
+│   ├── iBurn2026Map.swift  # Swift Package Manager source
 │   └── Map.bundle/         # MapLibre map tiles and styling (bundle structure)
 │       ├── map.mbtiles     # Offline vector tiles
 │       ├── glyphs/         # Font glyphs for map text rendering
 │       ├── sprites/        # Map icons and symbols
 │       └── styles/         # Light/dark map styles (JSON)
 └── MediaFiles/       # Swift Package Manager target for media files
-    ├── iBurn2025MediaFiles.swift # Swift Package Manager source
+    ├── iBurn2026MediaFiles.swift # Swift Package Manager source
     └── Resources/                # Images and audio files for art/camps
         └── *.jpg files           # Art/camp/event images
 ```

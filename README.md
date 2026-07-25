@@ -15,9 +15,9 @@ dependencies: [
 ```
 
 ### Available Targets
-- `iBurn2025APIData` - JSON data files (art, camps, events, points, updates)
-- `iBurn2025Map` - Map tiles, styles, and glyphs for offline rendering
-- `iBurn2025MediaFiles` - Images and media assets for art installations and camps
+- `iBurn2026APIData` - JSON data files (art, camps, events, points, updates)
+- `iBurn2026Map` - Map tiles, styles, and glyphs for offline rendering
+- `iBurn2026MediaFiles` - Images and media assets for art installations and camps
 
 ## Data Processing Workflow
 
@@ -29,14 +29,14 @@ cd scripts/BlackRockCityPlanner
 npm install
 
 # Generate all geometric data for the year
-node src/cli/generate_all.js -d ../../data/2025
+node src/cli/generate_all.js -d ../../data/2026
 
 # This creates:
-# - data/2025/geo/streets.geojson (radial time-based streets)
-# - data/2025/geo/polygons.geojson (plazas and districts)
-# - data/2025/geo/fence.geojson (perimeter boundary)
-# - data/2025/geo/outline.geojson (city outline)
-# - data/2025/geo/toilets.geojson (facility locations)
+# - data/2026/geo/streets.geojson (radial time-based streets)
+# - data/2026/geo/polygons.geojson (plazas and districts)
+# - data/2026/geo/fence.geojson (perimeter boundary)
+# - data/2026/geo/outline.geojson (city outline)
+# - data/2026/geo/toilets.geojson (facility locations)
 ```
 
 ### 2. Geocode API Data
@@ -44,10 +44,10 @@ Add coordinates to camps, art, and events using the generated layout:
 
 ```bash
 # Geocode camps with coordinates
-node src/cli/api.js -l ../../data/2025/layouts/layout.json -f ../../data/2025/APIData/Resources/camp.json -k location_string -o ../../data/2025/APIData/Resources/camp-location.json
+node src/cli/api.js -l ../../data/2026/layouts/layout.json -f ../../data/2026/APIData/Resources/camp.json -k location_string -o ../../data/2026/APIData/Resources/camp-location.json
 
 # Replace original with geocoded version
-mv ../../data/2025/APIData/Resources/camp-location.json ../../data/2025/APIData/Resources/camp.json
+mv ../../data/2026/APIData/Resources/camp-location.json ../../data/2026/APIData/Resources/camp.json
 
 # Repeat for art and events as needed
 ```
@@ -60,13 +60,13 @@ Convert GeoJSON files to vector tiles for efficient mobile rendering:
 brew install tippecanoe
 
 # Generate vector tiles from all GeoJSON files
-tippecanoe --output=data/2025/Map/Resources/map.mbtiles -f \
-  -L fence:data/2025/geo/fence.geojson \
-  -L outline:data/2025/geo/outline.geojson \
-  -L polygons:data/2025/geo/polygons.geojson \
-  -L streets:data/2025/geo/streets.geojson \
-  -L toilets:data/2025/geo/toilets.geojson \
-  -L dmz:data/2025/geo/dmz.geojson \
+tippecanoe --output=data/2026/Map/Resources/map.mbtiles -f \
+  -L fence:data/2026/geo/fence.geojson \
+  -L outline:data/2026/geo/outline.geojson \
+  -L polygons:data/2026/geo/polygons.geojson \
+  -L streets:data/2026/geo/streets.geojson \
+  -L toilets:data/2026/geo/toilets.geojson \
+  -L dmz:data/2026/geo/dmz.geojson \
   -z 14 \
   -Z 4 \
   -B0
@@ -97,15 +97,15 @@ Generate a browser-compatible geocoder bundle:
 
 ```bash
 cd scripts/BlackRockCityPlanner
-browserify src/geocoder/index.js -o ../../data/2025/geocoder/bundle.js
+browserify src/geocoder/index.js -o ../../data/2026/geocoder/bundle.js
 ```
 
 ## Directory Structure
 
 ```
-data/2025/
+data/2026/
 ├── APIData/
-│   ├── iBurn2025APIData.swift     # Swift Package target
+│   ├── iBurn2026APIData.swift     # Swift Package target
 │   └── Resources/                 # JSON data files
 │       ├── art.json              # Art installations
 │       ├── camp.json             # Theme camps
@@ -113,13 +113,13 @@ data/2025/
 │       ├── points.json           # Points of interest
 │       └── update.json           # Update timestamps
 ├── Map/
-│   ├── iBurn2025Map.swift         # Swift Package target
+│   ├── iBurn2026Map.swift         # Swift Package target
 │   └── Resources/                 # Map tiles and styles
 │       ├── map.mbtiles           # Vector tiles
 │       ├── glyphs/               # Font glyphs
 │       └── styles/               # Light/dark map styles
 ├── MediaFiles/
-│   ├── iBurn2025MediaFiles.swift  # Swift Package target
+│   ├── iBurn2026MediaFiles.swift  # Swift Package target
 │   └── Resources/                 # Images and media
 │       ├── art_images/           # Art installation photos
 │       └── camp_images/          # Camp photos
