@@ -77,10 +77,15 @@ tippecanoe --output=data/2026/Map/Map.bundle/map.mbtiles -f \
   -L streets:/path/to/street_lines_renamed.geojson \
   -L toilets:bmorg/innovate-GIS-data/2026/GeoJSON/toilets.geojson \
   -L dmz:bmorg/innovate-GIS-data/2026/GeoJSON/dmz.geojson \
+  -L gate_road:bmorg/innovate-GIS-data/2026/GeoJSON/gate_road.geojson \
   -z 14 \
   -Z 4 \
   -B0
 ```
+
+**Note**: `gate_road` extends the tile bounds ~4 km southwest of the fence (the
+approach road from the highway). Its features carry only `FID` — no name — so the
+`gate-road` style layer draws an unlabelled line.
 
 **Important**: The `points` layer must be included for POI sprites to display correctly. The POI generation script outputs both `name` and `NAME` properties, with `NAME` being required for MapLibre style compatibility using `{NAME}` placeholders.
 

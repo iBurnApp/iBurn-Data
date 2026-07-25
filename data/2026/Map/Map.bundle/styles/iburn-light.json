@@ -81,6 +81,17 @@
       "paint": {"fill-color": "#C3B8AB"}
     },
     {
+      "id": "gate-road",
+      "type": "line",
+      "source": "composite",
+      "source-layer": "gate_road",
+      "layout": {"visibility": "visible", "line-join": "round", "line-cap": "round"},
+      "paint": {
+        "line-color": "#C3B8AB",
+        "line-width": {"base": 1.4, "stops": [[8, 0.5], [12, 1.5], [14, 3], [17, 8], [22, 20]]}
+      }
+    },
+    {
       "id": "camp-boundaries",
       "type": "line",
       "source": "camp-boundaries",

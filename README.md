@@ -85,6 +85,7 @@ tippecanoe --output=Map/Map.bundle/map.mbtiles -f \
   -L streets:/path/to/street_lines_renamed.geojson \
   -L toilets:../../bmorg/innovate-GIS-data/2026/GeoJSON/toilets.geojson \
   -L dmz:../../bmorg/innovate-GIS-data/2026/GeoJSON/dmz.geojson \
+  -L gate_road:../../bmorg/innovate-GIS-data/2026/GeoJSON/gate_road.geojson \
   -z 14 \
   -Z 4 \
   -B0
