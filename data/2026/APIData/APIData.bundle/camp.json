@@ -357,6 +357,16 @@
     "images": []
   },
   {
+    "uid": "a1XVI00000FBhXF2A1",
+    "name": "Westlandia",
+    "year": 2026,
+    "hometown": "Sacramento",
+    "description": "We are a home to Abu the Horsefly, an art car inspired by Studio Ghibli animated movies. Abu bridges the worlds of humans and nature, and teaches us that only together we can make a difference.",
+    "landmark": "Bright White  \"Westlandia\" sign on rooftop",
+    "accepting_campers": false,
+    "images": []
+  },
+  {
     "uid": "a1XVI00000FBhdh2AD",
     "name": "Camp Why is My Mouth Tingling",
     "year": 2026,
@@ -3621,7 +3631,7 @@
     "url": "https://www.instagram.com/totally80sdisco?igsh=emVjeHIxOXl1c242&utm_source=qr",
     "contact_email": "bodybyprecious@gmail.com",
     "hometown": "San Francisco, CA",
-    "description": "Totally 80s Disco Inferno is here to knock your socks off. Come build your booty, legs, arms, the whole package, with Jane Fonda style Pilates, Pretty Pretty Pilates, and yoga. We'll also have a Disco Inferno dance party and Neon Night. During the day we'll have an open gym with cold water and fruit, and at night a cozy cuddle puddle tent where people can wind down",
+    "description": "Welcome to your one-stop shop for fitness on the playa!\r\n\r\nOur camp will be offering a variety of fun and interesting classes throughout the week at different times. So whether you’re a morning, midday, or evening fitness person, we’ve got you.\r\n\r\nWe’ll have Pilates, dance classes, themed workouts, and plenty of opportunities to move your body. Come by, shake some ass, and leave feeling good.\r\n\r\nWe’ll also have open gym throughout the week, plus a nighttime decompression area—aka the Calm Down Corner—filled with plushies, neon lights, and a cozy place to relax.\r\n\r\nHope to see you there!",
     "landmark": "Large camp sign in neon colours",
     "accepting_campers": true,
     "images": [
@@ -3826,7 +3836,7 @@
     "year": 2026,
     "contact_email": "insomnophiliacamp@gmail.com",
     "hometown": "Seattle",
-    "description": "The Temple of Insomnotter has returned to the playa. Come pay homage to Pachi, the river otter who walks between worlds ? water and land, waking and dream, earthly and celestial. Witness the sacred arc of birth, ministry, death, and resurrection across the week. Whether you arrive by chance or by calling, you are expected. Come drink from the flowing river of Pachi.",
+    "description": "Insomnophilia is erecting the House of Pachi for Axis Mundi. Welcoming back the river otter who walks between worlds — water and land, waking and dream, earthly and celestial. for Axis Mundi. Witness the sacred arc of birth, ministry, daily communion, death, and resurrection across the week. Whether you arrive by chance or by calling, you are expected. Come worship, confess, pray, dance, and drink from the flowing river of Pachi.",
     "landmark": "10' shade structure with four purple flags",
     "accepting_campers": false,
     "images": [
@@ -3870,8 +3880,8 @@
     "year": 2026,
     "contact_email": "tmbiker@msn.com",
     "hometown": "Long Beach, CA",
-    "description": "Welcome to the Department of Radical Self-Projection a future-bureaucratic agency temporarily stationed in Black Rock City to credential citizens for the world of Tomorrow, Today. At our futuristic field office, participants are interviewed, pose for a quantum mugshot, and receive their laminated Playa SurReal ID: a license for the soul they're becoming. Get certified by our Licensing Specialists by day, and return at night to witness the Orb of Source Identity a luminous, timeline-jumping relic. The Department of Radical Self-Projection proudly recognizes radical self-expression across all dimensions, timelines, and realities.",
-    "landmark": "9 foot tall glowing Orb in front",
+    "description": "Are we human or are we squirrel? Come on down to Acorn Oasis to meet like-minded folks, lose your nuts in carnival games, and feast your eyes on some legendary squirrels. We'll keep our nuts warm for you.",
+    "landmark": "9' glowing Orb/Acorn",
     "accepting_campers": true,
     "images": [
       {
@@ -5946,7 +5956,6 @@
     "uid": "a1XVI00000FLJlN2AX",
     "name": "NetsaH",
     "year": 2026,
-    "url": "https://www.instagram.com/netsah_project/",
     "hometown": "Tel Aviv",
     "description": "Explorers and curious souls, every shared energy is etched into eternity.",
     "landmark": "Large structure with a military camouflage roof",
@@ -9090,16 +9099,6 @@
     ]
   },
   {
-    "uid": "a1XVI00000FMLTN2A5",
-    "name": "Mobility Munchers",
-    "year": 2026,
-    "hometown": "Boston",
-    "description": "Mobility Munchers is a diverse and inclusive camp along a variety of dimensions, yet specifically an advocate for PWD overlapping with those who like culinary artistry. Find us for finger sandwiches and Vermont maple syrup + food for your mind and health along the way. \n\nWe embrace the spirit of YaY. \nYaY is an enthusiastic affirmative that can not be said without smiling. \nIf it is not a YaY, it might as well be a nay. \nEmbrace the YaY.",
-    "landmark": "Sculptural Aluminet Shade+RaceCar Trailer+CampSign",
-    "accepting_campers": false,
-    "images": []
-  },
-  {
     "uid": "a1XVI00000FMLef2AH",
     "name": "Soft Landing",
     "year": 2026,
@@ -9526,17 +9525,6 @@
         "thumbnail_url": "https://burningman.widen.net/content/c4mg14bqnx/jpeg/a1XVI00000FMMnd2AH-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx"
       }
     ]
-  },
-  {
-    "uid": "a1XVI00000FMMpG2AX",
-    "name": "iBurn/Burning Man Earth",
-    "year": 2026,
-    "url": "https://iburnapp.com",
-    "hometown": "San Francisco",
-    "description": "Gifted download of the iBurn App! Your best resource to navigate the activities, theme camps, art installations, and scheduled events on the playa -- all without wifi -- it's GPS enabled! Download the 2026 version of the gifted (free) iBurn app pre-event, or swing by our camp to download. It's like having an elf read you the What/Where/When in a dust storm! 42,000 Burners used iBurn last year -- make sure you are one of them.",
-    "landmark": "Painted blue bus parked along the street",
-    "accepting_campers": false,
-    "images": []
   },
   {
     "uid": "a1XVI00000FMMqr2AH",
@@ -10050,7 +10038,7 @@
     "url": "https://www.JailOfHedone.com",
     "hometown": "San Carlos",
     "description": "A lush red lounge and stage devoted to Hedone, the Goddess of Sensual Pleasure. Guests are \"charged\" with ridiculous crimes, tried in a theatrical court, and sentenced to spin our giant Wheel of Fate for playful, consensual \"punishments\". Expect the finest DJs, engaging theatrical performances, a misted dance floor, along with a stripper pole, a comfy sea of couches and pillows, and a bar serving ice water, refreshing cocktails, and horseradish?infused vodka, 4?7 pm daily.",
-    "landmark": "Stage decorated with red cloth + Wheel of Fortune",
+    "landmark": "Lit Greek temple w/ camp flag",
     "accepting_campers": true,
     "images": [
       {
@@ -10962,11 +10950,17 @@
     "uid": "a1XVI00000FMSY52AP",
     "name": "Stampede!",
     "year": 2026,
+    "url": "https://www.instagram.com/stampede_camp/",
+    "contact_email": "kaitlyn@huntermediapr.com",
     "hometown": "Phoenix",
     "description": "A movement and connection-driven space inviting you off your bike and into the herd. Step into a shaded lounge for yoga, breathwork, and playful, consent-forward interaction. Explore aerial, join spontaneous group moments, or simply land and connect. Come find your stripes.",
     "landmark": "Zebra tapestries, 25ft aerial rig, zebra trailer",
     "accepting_campers": false,
-    "images": []
+    "images": [
+      {
+        "thumbnail_url": "https://burningman.widen.net/content/k8djv3uskb/jpeg/a1XVI00000FMSY52AP-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx"
+      }
+    ]
   },
   {
     "uid": "a1XVI00000FMSbJ2AX",
@@ -11415,22 +11409,6 @@
     ]
   },
   {
-    "uid": "a1XVI00000FMZEb2AP",
-    "name": "Burning Man Bike Course",
-    "year": 2026,
-    "url": "https://www.facebook.com/p/Bike-Course-100068891094983/",
-    "contact_email": "bman@ackmedia.com",
-    "hometown": "Truckee",
-    "description": "Come test your skills on the Burning Man Bike Course! A bicycle obstacle course and pump track for all ages, abilities, genders, and sexual preferences. Look for our morning \"Kids Only\" hours and our world famous Nitro Circus Biketakular Demo and Competition!",
-    "landmark": "pump track",
-    "accepting_campers": false,
-    "images": [
-      {
-        "thumbnail_url": "https://burningman.widen.net/content/jpmdaebcui/jpeg/a1XVI00000FMZEb2AP-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx"
-      }
-    ]
-  },
-  {
     "uid": "a1XVI00000FMZzP2AX",
     "name": "Caravan D'Light",
     "year": 2026,
@@ -11684,18 +11662,6 @@
         "thumbnail_url": "https://burningman.widen.net/content/tyhfqnvcre/jpeg/a1XVI00000FMePZ2A1-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx"
       }
     ]
-  },
-  {
-    "uid": "a1XVI00000FMeXd2AL",
-    "name": "Turtle Camp",
-    "year": 2026,
-    "url": "https://www.samogdenart.com/burn/simontheturtle",
-    "contact_email": "sam@samogdenart.com",
-    "hometown": "Las Vegas, NV",
-    "description": "A quiet shady spot where SIMON the TURTLE can rest between playa cruises. Come visit SIMON in his \"TURTLE CLURB\", and cruise the playa in the luxury of SIMON's plushy turtle shell!",
-    "landmark": "Giant Glowing Turtle! and the Turtle Clurb sign!",
-    "accepting_campers": false,
-    "images": []
   },
   {
     "uid": "a1XVI00000FMem92AD",
@@ -11995,20 +11961,6 @@
     "landmark": "large dome with tiger on it",
     "accepting_campers": false,
     "images": []
-  },
-  {
-    "uid": "a1XVI00000FMiBR2A1",
-    "name": "WeHaul",
-    "year": 2026,
-    "hometown": "Salt Lake City",
-    "description": "Your cool suburban friends who have the best living room and throw some cool parties if you're willing to commute to the edge of town. Welcoming weirdos who want to express themselves in as many ways as they can, misfit toys on the lookout for lost dreams in need of a new home, encouraging community, whimsy and a safe space to experience being alive! Occasionally known to be overrun by puppets and their leader, the Pink Secretary. WeHaul - Move yourself and rave!",
-    "landmark": "\"WeHaul\" sign, 15' masted shade sail tent",
-    "accepting_campers": false,
-    "images": [
-      {
-        "thumbnail_url": "https://burningman.widen.net/content/h93rinyczm/jpeg/a1XVI00000FMiBR2A1-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx"
-      }
-    ]
   },
   {
     "uid": "a1XVI00000FMiGH2A1",
@@ -13099,17 +13051,6 @@
     "description": "A pleasant place to be.",
     "landmark": "Pleasant Camp sign next to our shaded lounge",
     "accepting_campers": false,
-    "images": []
-  },
-  {
-    "uid": "a1XVI00000FOQYb2AP",
-    "name": "Temple of Temperance",
-    "year": 2026,
-    "url": "http://templeoftemperance.com",
-    "hometown": "Austin",
-    "description": "We are a new camp with old roots, devoted to restoring the Red Tent as a space for cyclical awareness, connection, and care. Our offerings explore the feminine cycle through daily workshops, embodied practice, and shared experience. \n\nInspired by the principles of temperance, we work with fire as a force to be shaped and wielded, not spent. Honouring timing, intention, and responsibility. Like a well-forged blade, strength comes through balance: heat, patience, and refinement. \n\nThis is a space to release what no longer serves, to reconnect with self and community, and to participate in a more conscious, grounded way of being on playa.",
-    "landmark": "Red stretch tent with camp logo flags",
-    "accepting_campers": true,
     "images": []
   },
   {
@@ -15582,18 +15523,6 @@
     ]
   },
   {
-    "uid": "a1XVI00000FaYCD2A3",
-    "name": "Oontz Pouch",
-    "year": 2026,
-    "landmark": "Circus Tent",
-    "accepting_campers": false,
-    "images": [
-      {
-        "thumbnail_url": "https://burningman.widen.net/content/eglunqcbvu/jpeg/a1XVI00000FaYCD2A3-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx"
-      }
-    ]
-  },
-  {
     "uid": "a1XVI00000FaYKH2A3",
     "name": "Playa Peace Project",
     "year": 2026,
@@ -15700,10 +15629,16 @@
     "uid": "a1XVI00000FcpAX2AZ",
     "name": "Navigate to YES",
     "year": 2026,
+    "url": "https://www.navigatetoyes.com/",
+    "contact_email": "yes@dewhirst.net",
     "description": "Find your destiny on playa with our GPS - Global Persuasion System",
     "landmark": "Navigate to YES neon sign and phone booth",
     "accepting_campers": true,
-    "images": []
+    "images": [
+      {
+        "thumbnail_url": "https://burningman.widen.net/content/h5jafo523e/jpeg/a1XVI00000FcpAX2AZ-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx"
+      }
+    ]
   },
   {
     "uid": "a1XVI00000Fcqxp2AB",
@@ -16124,7 +16059,7 @@
     "name": "Booboos Gaagoos",
     "year": 2026,
     "hometown": "Seattle",
-    "description": "Pull up a seat and cool down at the playa's friendliest non alcoholic watering hole. We pour cold zero proof drinks with mellow chillout tunes (or hard techno) and a comfy place to rest your dusty bones. Whenever you need a shady moment between adventures, you are always welcome.",
+    "description": "Step right up to the Inaugural Officially Certified Peer-Reviewed Burning Man Awards, the most rigorous celebration of playa excellence in the known universe. Our panel of wildly unqualified judges reviews your finest achievements, from heroic dust storm survival to best abandoned bike rescue, and awards genuine medals of entirely dubious authority. Pull up a seat, plead your case, and claim the recognition you legally deserve.",
     "landmark": "Zebra flags",
     "accepting_campers": false,
     "images": []
@@ -16142,6 +16077,22 @@
     "images": [
       {
         "thumbnail_url": "https://burningman.widen.net/content/y6kgaxnipn/jpeg/a1XVI00000FwV9F2AV-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx"
+      }
+    ]
+  },
+  {
+    "uid": "a1XVI00000FzNWv2AN",
+    "name": "Playa Pete's Plaza",
+    "year": 2026,
+    "url": "https://www.facebook.com/groups/MonacoBRC/",
+    "contact_email": "gbarron@hiwheel.com",
+    "hometown": "Alameda",
+    "description": "We built a ship that doesn't float to sail on a lake that isn't there.",
+    "landmark": "Statue holding Playa Pete’s Plaza flag",
+    "accepting_campers": true,
+    "images": [
+      {
+        "thumbnail_url": "https://burningman.widen.net/content/eoytmqvs2p/jpeg/a1XVI00000FzNWv2AN-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx"
       }
     ]
   },
