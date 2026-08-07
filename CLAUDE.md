@@ -46,6 +46,37 @@ node src/cli/api.js -l ../../data/2026/layouts/layout.json -f ../../data/2026/AP
 mv ../../data/2026/APIData/Resources/camp-location.json ../../data/2026/APIData/Resources/camp.json
 ```
 
+### Location Fixtures (mock placement for pre-drop testing)
+
+BMorg embargoes placement until ~1 week before the event, so most of the summer the
+current year's camp/art locations are null. To exercise location features anyway:
+
+```bash
+# Fabricate plausible locations from last year's real placement:
+#   camps name-matched to last year (GPS translated by the Man-coordinate delta),
+#   art name-matched or sampled from last year's GPS cloud,
+#   update.json timestamps bumped so the app re-imports over a restored seed.
+# --map-fixtures also copies last year's camp_outlines/camp_labels geojson into Map.bundle.
+node scripts/mock_locations.js apply --map-fixtures
+
+# Put everything back (git checkout of the touched files + sentinel removal):
+node scripts/mock_locations.js revert
+```
+
+`apply` writes a `MOCK_LOCATIONS` sentinel into `APIData.bundle`. While it exists,
+**`playa-seed` refuses to build seeds, `iBurnTests/MockDataShipGuardTests` fails, and
+the deploy workflow's "Refuse mock placement data" step fails** — so mock data can't
+ship in the production seed or JSON. Do NOT commit the mocked bundle; `git status`
+in this repo shows the modified files while fixtures are applied.
+
+Do not add extra top-level keys to `update.json`: the legacy Yap importer
+(`BRCDataImporter loadUpdatesFromData:`) treats every key as a `{file, updated}`
+entry and crashes the app at launch on anything else.
+
+The real placement geojson (`camp_outlines.geojson` / `camp_labels.geojson`) is
+generated from the camp placement PDF via https://github.com/jspolsky/brcMapTools
+close to the event, then dropped into `data/<year>/Map/Map.bundle/`.
+
 ### Vector Tile Generation
 Convert GeoJSON files to vector tiles for efficient mobile rendering:
 
