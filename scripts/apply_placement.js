@@ -20,24 +20,49 @@
 //      value the API already supplied is never overwritten. Where the API and the drop
 //      disagree the API wins and the conflict is logged. (In the 2026-08-09 data every
 //      textual field agrees, so this only ever fills genuine holes.)
-//   2. Backfills `location.gps_latitude`/`gps_longitude` from that drop's centroid for
-//      camps that have no GPS — i.e. the handful `fetch_and_geocode.js` could not
-//      geocode from their address. See --gps-source to prefer the drop instead.
-//      GPS never comes from the polygon export, so swapping outline sources cannot
-//      move a camp's pin.
+//   2. Sets `location.gps_latitude`/`gps_longitude` — the camp's map pin. See
+//      --gps-source below; by default the pin is the centroid of the camp's own
+//      footprint, which is exactly the point its map label is drawn at.
 //   3. Bumps `update.json`'s `camps.updated` so the app re-imports over any older seed
 //      — but only when camp.json actually changed, which keeps re-runs no-ops.
 //   4. Regenerates `Map.bundle/camp_outlines.geojson` (Polygon features) and
 //      `Map.bundle/camp_labels.geojson` (Point features), both carrying
 //      `properties: {uid, name}` so the map can label and identify each camp. Each
 //      label sits at the area-weighted centroid of the polygon actually shipped for
-//      that camp, falling back to the drop's centroid when no polygon exists.
+//      that camp, falling back to the drop's entrance centroid when no polygon exists.
 //      Names always come from `camp.json`, so the map agrees with the app's text.
+//
+// GPS sources (--gps-source, default `auto`):
+//
+//   auto      polygon centroid -> address geocode -> entrance centroid.
+//             The polygon centroid is the *same* value written to camp_labels.geojson
+//             for that camp — literally the same array, so the pin and the map label
+//             can never drift apart. Camps with no footprint keep whatever
+//             `fetch_and_geocode.js` placed them at, and only camps with neither fall
+//             back to the drop's entrance guess.
+//   geocoder  address geocode -> entrance centroid. What the app shipped before
+//             footprints existed: a point on the nearest street intersection, so every
+//             camp on a corner lands on the same coordinate as its neighbours and the
+//             app has to fan the pins out around a circle to make them tappable.
+//   entrance  entrance centroid -> address geocode. The PDF-derived drop's guess at
+//             where the camp faces the street.
+//
+// FUTURE (not implemented): the pin we actually want is the middle of the camp's
+// street frontage, on the road side of the footprint — that is where a burner walks up
+// to the camp, whereas the area centroid can sit deep inside a large lot. The
+// `entrance` source approximates this, but the PDF-derived guesses are not yet
+// trustworthy enough to default to (a handful sit hundreds of metres out). Deriving
+// frontage from the shipped polygons plus the street grid would supersede both.
+//
+// Note that `geocoder` and `entrance` read whatever GPS `camp.json` currently holds, so
+// running them after `auto` compares against the previous run's output, not against the
+// geocoder. Reset with `git checkout` (or re-run `fetch_and_geocode.js`) first.
 //
 // The script is idempotent: running it twice yields byte-identical files.
 //
 // Usage (from Submodules/iBurn-Data):
-//   node scripts/apply_placement.js [--year 2026] [--gps-source geocoder|centroid]
+//   node scripts/apply_placement.js [--year 2026]
+//                                   [--gps-source auto|geocoder|entrance]
 //                                   [--dry-run] [--verbose]
 //
 // Paths can be overridden individually with --placement / --polygons / --camps /
@@ -63,9 +88,14 @@ if (flag('--help') || flag('-h')) {
 const year = opt('--year', '2026');
 const dryRun = flag('--dry-run');
 const verbose = flag('--verbose');
-const gpsSource = opt('--gps-source', 'geocoder');
-if (gpsSource !== 'geocoder' && gpsSource !== 'centroid') {
-  console.error(`Error: --gps-source must be "geocoder" or "centroid" (got "${gpsSource}")`);
+const GPS_SOURCES = {
+  auto: 'polygon centroid (address geocode, then entrance centroid, as fallbacks)',
+  geocoder: 'address geocode (entrance centroid as fallback)',
+  entrance: 'entrance centroid (address geocode as fallback)'
+};
+const gpsSource = opt('--gps-source', 'auto');
+if (!Object.prototype.hasOwnProperty.call(GPS_SOURCES, gpsSource)) {
+  console.error(`Error: --gps-source must be one of ${Object.keys(GPS_SOURCES).join(', ')} (got "${gpsSource}")`);
   process.exit(1);
 }
 
@@ -231,6 +261,27 @@ function polygonCentroid(rings) {
   return n ? [round(sx / n), round(sy / n)] : null;
 }
 
+/**
+ * Metres between two [lon, lat] points, equirectangular. Over the few hundred metres a
+ * pin can move inside Black Rock City the error against a great-circle distance is far
+ * below the precision anyone reads these numbers at.
+ */
+function metresBetween(a, b) {
+  const M_PER_DEG_LAT = 111320;
+  const meanLat = ((a[1] + b[1]) / 2) * Math.PI / 180;
+  const dx = (a[0] - b[0]) * M_PER_DEG_LAT * Math.cos(meanLat);
+  const dy = (a[1] - b[1]) * M_PER_DEG_LAT;
+  return Math.sqrt((dx * dx) + (dy * dy));
+}
+
+function quantile(sorted, q) {
+  if (!sorted.length) return 0;
+  const i = (sorted.length - 1) * q;
+  const lo = Math.floor(i);
+  const hi = Math.ceil(i);
+  return sorted[lo] + ((sorted[hi] - sorted[lo]) * (i - lo));
+}
+
 /** uid -> rings, from the direct placement export. Empty when it is absent/disabled. */
 function loadDirectPolygons(warnings) {
   if (polygonsPath === 'none') return new Map();
@@ -263,6 +314,22 @@ function featureCollection(features) {
   return { type: 'FeatureCollection', features };
 }
 
+/**
+ * How many camps a map user could actually tell apart by pin position. The address
+ * geocoder resolves to street intersections, so hundreds of camps share a coordinate
+ * and the app has to fan co-located pins onto a circle; footprint centroids are
+ * per-camp, so this number should land just under the count of placed camps.
+ */
+function distinctGpsCount(camps) {
+  const seen = new Set();
+  for (const camp of camps) {
+    const l = camp.location || {};
+    if (isEmpty(l.gps_latitude) || isEmpty(l.gps_longitude)) continue;
+    seen.add(`${l.gps_latitude},${l.gps_longitude}`);
+  }
+  return seen.size;
+}
+
 function main() {
   const placement = loadJSON(placementPath);
   const camps = loadJSON(campsPath);
@@ -273,12 +340,13 @@ function main() {
 
   const warnings = [];
   const directPolygons = loadDirectPolygons(warnings);
+  const distinctGpsBefore = distinctGpsCount(camps);
 
   console.log(`Applying ${year} placement`);
   console.log(`  placement: ${placementPath} (${placement.length} records)`);
   console.log(`  polygons:  ${polygonsPath === 'none' ? '(disabled)' : `${polygonsPath} (${directPolygons.size} polygons)`}`);
   console.log(`  camps:     ${campsPath} (${camps.length} camps)`);
-  console.log(`  gps source: ${gpsSource === 'centroid' ? 'drop centroid (API geocode as fallback)' : 'address geocode (drop centroid as fallback)'}`);
+  console.log(`  gps source: ${gpsSource} — ${GPS_SOURCES[gpsSource]}`);
   if (dryRun) console.log('  (dry run — no files written)');
 
   const byUid = new Map();
@@ -291,8 +359,10 @@ function main() {
   const stats = {
     matched: 0, unmatchedCamps: 0, filledFields: 0, filledGps: 0,
     replacedGps: 0, noGps: 0, outlines: 0, labels: 0, noGeometry: 0,
-    directOutlines: 0, fallbackOutlines: 0, polygonLabels: 0, centroidLabels: 0
+    directOutlines: 0, fallbackOutlines: 0, polygonLabels: 0, centroidLabels: 0,
+    gpsFromPolygon: 0, gpsFromGeocoder: 0, gpsFromEntrance: 0
   };
+  const movements = [];
 
   // Driven off camp.json so a camp the API dropped can never leak back in through the
   // map layers, and so feature order is stable across runs.
@@ -300,7 +370,7 @@ function main() {
   const labelFeatures = [];
 
   for (const camp of camps) {
-    const record = byUid.get(camp.uid);
+    const record = byUid.get(camp.uid) || null;
     // Outlines prefer the direct export; the PDF-derived border only covers for uids
     // the export omits. Labels then follow whichever polygon actually ships.
     const directRings = directPolygons.get(camp.uid) || null;
@@ -308,62 +378,35 @@ function main() {
     if (!record) {
       stats.unmatchedCamps++;
       if (verbose) console.log(`  no placement record for ${camp.name} (${camp.uid})`);
-      if (directRings) {
-        stats.directOutlines++;
-        stats.polygonLabels++;
-        const props = { uid: camp.uid, name: camp.name };
-        outlineFeatures.push({ type: 'Feature', properties: props, geometry: { type: 'Polygon', coordinates: directRings } });
-        const anchor = polygonCentroid(directRings);
-        if (anchor) labelFeatures.push({ type: 'Feature', properties: props, geometry: { type: 'Point', coordinates: anchor } });
-      } else {
-        stats.noGeometry++;
-      }
-      continue;
-    }
-    stats.matched++;
+    } else {
+      stats.matched++;
 
-    if (isEmpty(camp.location_string) && !isEmpty(record.location_string)) {
-      camp.location_string = record.location_string;
-      stats.filledFields++;
-    } else if (!isEmpty(camp.location_string) && !isEmpty(record.location_string)
-               && camp.location_string !== record.location_string) {
-      conflicts.push(`${camp.name}: location_string API "${camp.location_string}" vs drop "${record.location_string}" (kept API)`);
-    }
-
-    const src = record.location || {};
-    if (!camp.location) camp.location = {};
-    for (const field of LOCATION_FIELDS) {
-      if (isEmpty(src[field])) continue;
-      if (isEmpty(camp.location[field])) {
-        camp.location[field] = src[field];
+      if (isEmpty(camp.location_string) && !isEmpty(record.location_string)) {
+        camp.location_string = record.location_string;
         stats.filledFields++;
-      } else if (camp.location[field] !== src[field]) {
-        conflicts.push(`${camp.name}: location.${field} API "${camp.location[field]}" vs drop "${src[field]}" (kept API)`);
+      } else if (!isEmpty(camp.location_string) && !isEmpty(record.location_string)
+                 && camp.location_string !== record.location_string) {
+        conflicts.push(`${camp.name}: location_string API "${camp.location_string}" vs drop "${record.location_string}" (kept API)`);
+      }
+
+      const src = record.location || {};
+      if (!camp.location) camp.location = {};
+      for (const field of LOCATION_FIELDS) {
+        if (isEmpty(src[field])) continue;
+        if (isEmpty(camp.location[field])) {
+          camp.location[field] = src[field];
+          stats.filledFields++;
+        } else if (camp.location[field] !== src[field]) {
+          conflicts.push(`${camp.name}: location.${field} API "${camp.location[field]}" vs drop "${src[field]}" (kept API)`);
+        }
       }
     }
 
-    const centroid = centroidOf(record, warnings);
-    const border = borderOf(record, warnings);
-    const hasGps = !isEmpty(camp.location.gps_latitude) && !isEmpty(camp.location.gps_longitude);
-    if (centroid && (!hasGps || gpsSource === 'centroid')) {
-      // camp.json orders gps after the address fields; assigning in place keeps that.
-      const changed = camp.location.gps_latitude !== centroid[1] || camp.location.gps_longitude !== centroid[0];
-      camp.location.gps_latitude = centroid[1];
-      camp.location.gps_longitude = centroid[0];
-      if (changed) {
-        if (hasGps) stats.replacedGps++;
-        else stats.filledGps++;
-      }
-    } else if (!hasGps && !centroid) {
-      stats.noGps++;
-      if (verbose) console.log(`  no GPS for ${camp.name} (no geocode, no centroid)`);
-    }
-
-    // An empty location object is noise; camps with nothing placed shouldn't grow one.
-    if (Object.keys(camp.location).length === 0) delete camp.location;
+    const entrance = record ? centroidOf(record, warnings) : null;
+    const border = record ? borderOf(record, warnings) : null;
+    const outline = directRings || border;
 
     const properties = { uid: camp.uid, name: camp.name };
-    const outline = directRings || border;
     if (outline) {
       if (directRings) stats.directOutlines++; else stats.fallbackOutlines++;
       outlineFeatures.push({ type: 'Feature', properties, geometry: { type: 'Polygon', coordinates: outline } });
@@ -371,16 +414,69 @@ function main() {
     // Anchor the label in the middle of the footprint that ships, so the name sits on
     // the camp the map draws. Only camps with no polygon at all fall back to the
     // drop's entrance centroid.
-    const anchor = outline ? polygonCentroid(outline) : centroid;
+    const polygonAnchor = outline ? polygonCentroid(outline) : null;
+    const anchor = polygonAnchor || entrance;
     if (anchor) {
-      if (outline) stats.polygonLabels++; else stats.centroidLabels++;
+      if (polygonAnchor) stats.polygonLabels++; else stats.centroidLabels++;
       labelFeatures.push({ type: 'Feature', properties, geometry: { type: 'Point', coordinates: anchor } });
+    } else {
+      stats.noGeometry++;
     }
-    if (!outline && !anchor) stats.noGeometry++;
+
+    // GPS. `polygonAnchor` is the very array written into camp_labels.geojson above, so
+    // under the default source the pin and the label are the same point by construction
+    // — no parallel computation to drift, no rounding to re-derive.
+    const existing = camp.location
+      && !isEmpty(camp.location.gps_latitude) && !isEmpty(camp.location.gps_longitude)
+      ? [camp.location.gps_longitude, camp.location.gps_latitude]
+      : null;
+    const ordered = gpsSource === 'geocoder' ? [[existing, 'geocoder'], [entrance, 'entrance']]
+      : gpsSource === 'entrance' ? [[entrance, 'entrance'], [existing, 'geocoder']]
+        : [[polygonAnchor, 'polygon'], [existing, 'geocoder'], [entrance, 'entrance']];
+    const picked = ordered.find(([point]) => point) || null;
+
+    if (picked) {
+      const [gps, from] = picked;
+      if (from === 'polygon') stats.gpsFromPolygon++;
+      else if (from === 'geocoder') stats.gpsFromGeocoder++;
+      else stats.gpsFromEntrance++;
+      if (!camp.location) camp.location = {};
+      // camp.json orders gps after the address fields; assigning in place keeps that.
+      const changed = camp.location.gps_latitude !== gps[1] || camp.location.gps_longitude !== gps[0];
+      camp.location.gps_latitude = gps[1];
+      camp.location.gps_longitude = gps[0];
+      if (changed) {
+        if (existing) {
+          stats.replacedGps++;
+          movements.push(metresBetween(existing, gps));
+        } else {
+          stats.filledGps++;
+        }
+      }
+    } else {
+      stats.noGps++;
+      if (verbose) console.log(`  no GPS for ${camp.name} (no polygon, no geocode, no entrance centroid)`);
+    }
+
+    // An empty location object is noise; camps with nothing placed shouldn't grow one.
+    if (camp.location && Object.keys(camp.location).length === 0) delete camp.location;
   }
 
   stats.outlines = outlineFeatures.length;
   stats.labels = labelFeatures.length;
+
+  // Every source is bbox-checked on the way in, but this is the one thing a bad run
+  // would ship straight into the app's map and Nearby distances, so re-check the
+  // values actually being written rather than trusting the paths that produced them.
+  for (const camp of camps) {
+    const l = camp.location || {};
+    if (isEmpty(l.gps_latitude) && isEmpty(l.gps_longitude)) continue;
+    if (!inBBox(l.gps_longitude, l.gps_latitude)) {
+      console.error(`Error: ${camp.name} (${camp.uid}) has GPS outside Black Rock City `
+        + `[${l.gps_longitude}, ${l.gps_latitude}] — refusing to write`);
+      process.exit(1);
+    }
+  }
 
   const campUids = new Set(camps.map((c) => c.uid));
   const unmatchedPlacement = placement.filter((r) => !campUids.has(r.uid));
@@ -423,10 +519,21 @@ function main() {
   console.log(`Camps without placement:    ${stats.unmatchedCamps}`);
   console.log(`Placement uids not in API:  ${unmatchedPlacement.length}`);
   console.log(`Placement fields filled:    ${stats.filledFields}`);
-  console.log(`GPS filled from centroid:   ${stats.filledGps}`);
-  if (stats.replacedGps) console.log(`GPS replaced by centroid:   ${stats.replacedGps}`);
+  console.log(`GPS from polygon centroid:  ${stats.gpsFromPolygon}`);
+  console.log(`GPS from address geocode:   ${stats.gpsFromGeocoder}`);
+  console.log(`GPS from entrance centroid: ${stats.gpsFromEntrance}`);
+  console.log(`  newly placed:             ${stats.filledGps}`);
+  console.log(`  moved from a prior point: ${stats.replacedGps}`);
   console.log(`Camps still without GPS:    ${stats.noGps}`);
   console.log(`Camps without any geometry: ${stats.noGeometry}`);
+  console.log(`Distinct GPS coordinates:   ${distinctGpsCount(camps)} (was ${distinctGpsBefore})`);
+  if (movements.length) {
+    const sorted = movements.slice().sort((a, b) => a - b);
+    const m = (n) => `${n.toFixed(0)} m`;
+    console.log(`Pin movement (${movements.length} camps):     `
+      + `median ${m(quantile(sorted, 0.5))}, p90 ${m(quantile(sorted, 0.9))}, `
+      + `max ${m(sorted[sorted.length - 1])}, mean ${m(sorted.reduce((a, b) => a + b, 0) / sorted.length)}`);
+  }
   console.log(`Outline features:           ${stats.outlines} -> ${outlinesPath}`);
   console.log(`  from direct export:       ${stats.directOutlines}`);
   console.log(`  from PDF-derived border:  ${stats.fallbackOutlines}`);
