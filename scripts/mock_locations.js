@@ -20,8 +20,8 @@
 //
 // Optionally (--map-fixtures) last year's camp_outlines/camp_labels geojson is
 // copied into the current year's Map.bundle to exercise the embargo-gated
-// boundary layers. (The real files are generated from the placement PDF via
-// https://github.com/jspolsky/brcMapTools closer to the event.)
+// boundary layers. (The real files are generated closer to the event by
+// scripts/apply_placement.js from the vendored placement drops.)
 //
 // Usage (from Submodules/iBurn-Data):
 //   node scripts/mock_locations.js apply [--map-fixtures] [--year 2026] [--ref-year 2025]

@@ -74,8 +74,9 @@ Do not add extra top-level keys to `update.json`: the legacy Yap importer
 entry and crashes the app at launch on anything else.
 
 The real placement geojson (`camp_outlines.geojson` / `camp_labels.geojson`) is
-generated from the camp placement PDF via https://github.com/jspolsky/brcMapTools
-close to the event, then dropped into `data/<year>/Map/Map.bundle/`.
+generated close to the event by `scripts/apply_placement.js` from the placement
+drops vendored in `data/<year>/placement/` (see its README), then written into
+`data/<year>/Map/Map.bundle/`.
 
 ### Vector Tile Generation
 Convert GeoJSON files to vector tiles for efficient mobile rendering:
