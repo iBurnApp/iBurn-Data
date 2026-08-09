@@ -1,0 +1,1926 @@
+{
+  "version": 1,
+  "corrections": [
+    {
+      "type": "add_polygons_done"
+    },
+    {
+      "type": "golden_spike",
+      "point": [
+        2174.9779495385646,
+        2486.832864382969
+      ]
+    },
+    {
+      "type": "map_scale",
+      "unitsPerFoot": 0.35814710758352436
+    },
+    {
+      "type": "spike_lat_lon",
+      "lat": 40.783242,
+      "lon": -119.207871
+    },
+    {
+      "type": "redraw_polygon",
+      "polygonKey": "4508,3256,4566,3343",
+      "newCmds": [
+        [
+          "M",
+          2254.2659000000003,
+          1671.5740999999998
+        ],
+        [
+          "L",
+          2243.9050145518045,
+          1637.7438781140859
+        ],
+        [
+          "L",
+          2269.2154,
+          1628.5023999999999
+        ],
+        [
+          "L",
+          2270.3663560185187,
+          1629.8052680555556
+        ],
+        [
+          "L",
+          2283.2415,
+          1660.9337
+        ],
+        [
+          "Z"
+        ]
+      ]
+    },
+    {
+      "type": "redraw_polygon",
+      "polygonKey": "4451,3098,4675,3321",
+      "newCmds": [
+        [
+          "M",
+          2226.0572569444444,
+          1578.4017925925928
+        ],
+        [
+          "L",
+          2279.6494,
+          1549.2354
+        ],
+        [
+          "L",
+          2337.6034,
+          1629.5174000000002
+        ],
+        [
+          "L",
+          2283.2415,
+          1660.9337
+        ],
+        [
+          "L",
+          2270.3663560185187,
+          1629.8052680555556
+        ],
+        [
+          "L",
+          2269.2154,
+          1628.5023999999999
+        ],
+        [
+          "L",
+          2243.9050145518045,
+          1637.7438781140859
+        ],
+        [
+          "Z"
+        ]
+      ]
+    },
+    {
+      "type": "redraw_polygon",
+      "polygonKey": "4561,3066,4732,3258",
+      "newCmds": [
+        [
+          "M",
+          2368.6304833333334,
+          1602.500788888889
+        ],
+        [
+          "L",
+          2390.1934,
+          1577.8324000000002
+        ],
+        [
+          "L",
+          2312.4629,
+          1516.4434
+        ],
+        [
+          "L",
+          2298.3613,
+          1533.1172
+        ],
+        [
+          "Z"
+        ]
+      ]
+    },
+    {
+      "type": "redraw_polygon",
+      "polygonKey": "4402,3153,4474,3241",
+      "newCmds": [
+        [
+          "M",
+          2206.064832266201,
+          1620.856459447894
+        ],
+        [
+          "L",
+          2236.8179,
+          1614.0506
+        ],
+        [
+          "L",
+          2225.9958960785584,
+          1577.7067336685636
+        ],
+        [
+          "L",
+          2200.311535495624,
+          1583.460030439141
+        ],
+        [
+          "Z"
+        ]
+      ]
+    },
+    {
+      "type": "redraw_polygon",
+      "polygonKey": "4601,3033,4780,3205",
+      "newCmds": [
+        [
+          "M",
+          2298.3613,
+          1533.1172
+        ],
+        [
+          "L",
+          2368.6304833333334,
+          1602.500788888889
+        ],
+        [
+          "L",
+          2390.1934,
+          1577.8324000000002
+        ],
+        [
+          "L",
+          2312.4629,
+          1516.4434
+        ],
+        [
+          "Z"
+        ]
+      ]
+    },
+    {
+      "type": "redraw_polygon",
+      "polygonKey": "4239,3020,4321,3165",
+      "newCmds": [
+        [
+          "M",
+          2098.1117999999997,
+          1565.4818
+        ],
+        [
+          "L",
+          2118.8372840512225,
+          1574.1811579161817
+        ],
+        [
+          "L",
+          2139.3014970896393,
+          1579.9314326542494
+        ],
+        [
+          "L",
+          2151.7348,
+          1582.4469
+        ],
+        [
+          "L",
+          2160.2655,
+          1522.4566
+        ],
+        [
+          "L",
+          2143.5296402793947,
+          1518.3696678114088
+        ],
+        [
+          "L",
+          2134.9042281722936,
+          1515.8327818975554
+        ],
+        [
+          "L",
+          2127.124444703143,
+          1512.2811416181607
+        ],
+        [
+          "L",
+          2123.6321,
+          1510.31
+        ],
+        [
+          "Z"
+        ]
+      ]
+    },
+    {
+      "type": "redraw_polygon",
+      "polygonKey": "4634,2968,4845,3155",
+      "newCmds": [
+        [
+          "M",
+          2312.4629,
+          1516.4434
+        ],
+        [
+          "L",
+          2390.5432,
+          1577.4346
+        ],
+        [
+          "L",
+          2422.5522,
+          1524.0256
+        ],
+        [
+          "L",
+          2333.3057,
+          1483.8906
+        ],
+        [
+          "Z"
+        ]
+      ]
+    },
+    {
+      "type": "redraw_polygon",
+      "polygonKey": "4196,2975,4264,3131",
+      "newCmds": [
+        [
+          "M",
+          2098.1117999999997,
+          1565.4818
+        ],
+        [
+          "L",
+          2078.3957,
+          1552.841
+        ],
+        [
+          "L",
+          2122.8072,
+          1488.8715
+        ],
+        [
+          "L",
+          2132.5296,
+          1494.7525
+        ],
+        [
+          "Z"
+        ]
+      ]
+    },
+    {
+      "type": "redraw_polygon",
+      "polygonKey": "3905,3008,4063,3127",
+      "newCmds": [
+        [
+          "M",
+          1975.2717,
+          1593.0506
+        ],
+        [
+          "L",
+          1948.9899,
+          1560.4343
+        ],
+        [
+          "L",
+          2031.3903999999998,
+          1505.5708000000002
+        ],
+        [
+          "L",
+          2047.0576999999998,
+          1526.0656
+        ],
+        [
+          "Z"
+        ]
+      ]
+    },
+    {
+      "type": "redraw_polygon",
+      "polygonKey": "4157,2950,4246,3106",
+      "newCmds": [
+        [
+          "M",
+          2078.3957,
+          1552.841
+        ],
+        [
+          "L",
+          2122.8072,
+          1488.8715
+        ],
+        [
+          "L",
+          2109.341709259259,
+          1477.5352222222223
+        ],
+        [
+          "L",
+          2052.9772276484287,
+          1532.7105779976719
+        ],
+        [
+          "L",
+          2062.2055559371365,
+          1541.3960634458676
+        ],
+        [
+          "L",
+          2072.3386222933646,
+          1549.1768108265428
+        ],
+        [
+          "Z"
+        ]
+      ]
+    },
+    {
+      "type": "redraw_polygon",
+      "polygonKey": "4672,2906,4879,3047",
+      "newCmds": [
+        [
+          "M",
+          2333.3057,
+          1483.8906
+        ],
+        [
+          "L",
+          2422.5522,
+          1524.0256
+        ],
+        [
+          "L",
+          2439.3399,
+          1475.0196
+        ],
+        [
+          "L",
+          2342.6914,
+          1452.8486
+        ],
+        [
+          "Z"
+        ]
+      ]
+    },
+    {
+      "type": "redraw_polygon",
+      "polygonKey": "4138,2932,4214,3003",
+      "newCmds": [
+        [
+          "M",
+          2109.341709259259,
+          1477.5352222222223
+        ],
+        [
+          "L",
+          2101.0942,
+          1466.0771
+        ],
+        [
+          "L",
+          2037.3459449553743,
+          1513.432573368851
+        ],
+        [
+          "L",
+          2052.9772276484287,
+          1532.7105779976719
+        ],
+        [
+          "Z"
+        ]
+      ]
+    },
+    {
+      "type": "redraw_polygon",
+      "polygonKey": "4116,2905,4199,2980",
+      "newCmds": [
+        [
+          "M",
+          2101.0942,
+          1466.0771
+        ],
+        [
+          "L",
+          2037.3459449553743,
+          1513.432573368851
+        ],
+        [
+          "L",
+          2028.9366144678943,
+          1502.3341708128514
+        ],
+        [
+          "L",
+          2023.3621717677036,
+          1492.0335701711947
+        ],
+        [
+          "L",
+          2095.5875597962613,
+          1457.3750786004439
+        ],
+        [
+          "Z"
+        ]
+      ]
+    },
+    {
+      "type": "redraw_polygon",
+      "polygonKey": "4061,2886,4178,2930",
+      "newCmds": [
+        [
+          "M",
+          2095.5875597962613,
+          1457.3750786004439
+        ],
+        [
+          "L",
+          2023.3621717677036,
+          1492.0335701711947
+        ],
+        [
+          "L",
+          2016.8424724097788,
+          1477.8083151338765
+        ],
+        [
+          "L",
+          2012.33088451688,
+          1466.8711323632128
+        ],
+        [
+          "L",
+          2008.9619,
+          1453.6974
+        ],
+        [
+          "L",
+          2088.9937,
+          1442.9473
+        ],
+        [
+          "Z"
+        ]
+      ]
+    },
+    {
+      "type": "redraw_polygon",
+      "polygonKey": "4534,2800,4689,2857",
+      "newCmds": [
+        [
+          "M",
+          2266.4493078989353,
+          1433.7983607985166
+        ],
+        [
+          "L",
+          2268.968843103523,
+          1416.7015147673865
+        ],
+        [
+          "L",
+          2268.2920999999997,
+          1401.5135
+        ],
+        [
+          "L",
+          2331.2245999999996,
+          1408.7585
+        ],
+        [
+          "L",
+          2356.792641663433,
+          1412.2023447591941
+        ],
+        [
+          "L",
+          2351.3048,
+          1444.5881
+        ],
+        [
+          "Z"
+        ]
+      ]
+    },
+    {
+      "type": "redraw_polygon",
+      "polygonKey": "4674,2701,4715,2766",
+      "newCmds": [
+        [
+          "M",
+          2331.2245999999996,
+          1408.7585
+        ],
+        [
+          "L",
+          2356.792641663433,
+          1412.2023447591941
+        ],
+        [
+          "L",
+          2365.584930093316,
+          1357.250339148155
+        ],
+        [
+          "L",
+          2338.8808,
+          1351.9535
+        ],
+        [
+          "Z"
+        ]
+      ]
+    },
+    {
+      "type": "redraw_polygon",
+      "polygonKey": "4720,2583,4965,2734",
+      "newCmds": [
+        [
+          "M",
+          2360.634,
+          1344.441
+        ],
+        [
+          "L",
+          2413.53005250291,
+          1353.986324388824
+        ],
+        [
+          "L",
+          2468.3914,
+          1367.2386
+        ],
+        [
+          "L",
+          2482.3379999999997,
+          1315.3381000000002
+        ],
+        [
+          "L",
+          2428.8997474970893,
+          1302.7540077415597
+        ],
+        [
+          "L",
+          2368.9325,
+          1291.321
+        ],
+        [
+          "Z"
+        ]
+      ]
+    },
+    {
+      "type": "redraw_polygon",
+      "polygonKey": "4737,2510,4845,2601",
+      "newCmds": [
+        [
+          "M",
+          2369.4784,
+          1291.4094
+        ],
+        [
+          "L",
+          2440.268,
+          1305.1016
+        ],
+        [
+          "L",
+          2448.657,
+          1270.2771000000002
+        ],
+        [
+          "L",
+          2375.3359,
+          1256.0644
+        ],
+        [
+          "Z"
+        ]
+      ]
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "7595,6595,7817,6887",
+      "name": "The Melon Motel"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "1029,6661,1164,6829",
+      "name": "D'JUNGLE"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "7588,6632,7686,6732",
+      "name": "The G Spot"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "864,6556,1011,6708",
+      "name": "Golden Gate Project"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "994,6594,1092,6694",
+      "name": "D.F.C.B.(Don't Fckn' Care Bear)"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "7622,6530,7737,6664",
+      "name": "Navigate to YES"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "8125,6140,8276,6296",
+      "name": "Live Laugh Love Lounge"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "1998,6086,2164,6271",
+      "name": "Camp Byte This"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "8163,6022,8311,6174",
+      "name": "Johnny Tacomas at The Last Resort"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "387,6017,536,6169",
+      "name": "Big Unicorn Energy"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2054,5917,2152,6021",
+      "name": "Twats Your Gender?"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "1838,5921,1934,6021",
+      "name": "Team Human Base Camp"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6694,5816,6821,5925",
+      "name": "Camp Reno Nation"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "7720,6541,7851,6642",
+      "name": "Navigate to YES"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "1291,6006,1514,6251",
+      "name": "G"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "1056,5967,1148,6061",
+      "name": "The Lonely Reef"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "7091,5922,7251,6041",
+      "name": "ARMÉ - Army of Love"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "430,5918,484,6001",
+      "name": "Seashell Cartel"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6269,5876,6366,5975",
+      "name": "Amateur Hour Playa Pub"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "1715,5860,1807,5952",
+      "name": "Black Rock City Shipyard"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "1785,5765,1938,5947",
+      "name": "THICC VIBEZ"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "1912,5813,2005,5908",
+      "name": "Heartkeepers"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2300,5787,2430,5903",
+      "name": "Humble Be Art cars"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6487,5771,6590,5888",
+      "name": "Guano Loco Lounge"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2208,5533,2371,5753",
+      "name": "Pranksters in the Pines"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2014,5585,2151,5728",
+      "name": "Camp 6 Minutes"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6354,5536,6491,5680",
+      "name": "METAL MIMI Camp"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "1173,5623,1251,5678",
+      "name": "The Shuttle Home"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6783,5431,6893,5631",
+      "name": "Stars And Bikes"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6693,5533,6776,5607",
+      "name": "The Balls Depot"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2471,5453,2642,5605",
+      "name": "Burning Man Bike Course"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6321,5521,6367,5572",
+      "name": "The Dusty Nuts Tavern"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "1137,5371,1368,5557",
+      "name": "Playa Peace Project"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6893,5369,7012,5464",
+      "name": "Lookout! The Camp"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6823,5358,6906,5445",
+      "name": "WeHaul"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "703,4985,910,5433",
+      "name": "Pink Mammoth"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "1257,5170,1451,5376",
+      "name": "Hammered and Sickled"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "7040,5276,7138,5360",
+      "name": "Dragon Axis Disco"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "7257,4990,7417,5299",
+      "name": "Skinny Kitty Teahouse"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6846,5211,6943,5296",
+      "name": "Camp Peace of Ass"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6644,5205,6742,5289",
+      "name": "Bag o' Dicks"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "1019,5203,1093,5245",
+      "name": "Isla Holbox"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6698,4993,6843,5223",
+      "name": "Lovin' Oven"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "7484,5069,7594,5154",
+      "name": "Blood & Sugar"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "7412,4990,7488,5148",
+      "name": "The Market"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "7615,4990,7761,5138",
+      "name": "Titicaca"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "7613,5098,7651,5137",
+      "name": "Camp Blowjob"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6350,5003,6442,5076",
+      "name": "Glowskull Asylum Int'l"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "1158,4985,1213,5066",
+      "name": "Steam Bath Project"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "8345,4805,8456,4962",
+      "name": "Organic Fruit & Veggie Camp"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "1656,4877,1729,4957",
+      "name": "Temple of Temperance"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "1319,4804,1431,4957",
+      "name": "Hotel Lobby"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6553,4921,6607,4957",
+      "name": "Molotov Cocktail"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2258,4871,2296,4944",
+      "name": "Best Year Yet"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2294,4746,2413,4941",
+      "name": "Weird Steel"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "813,4680,894,4907",
+      "name": "SlöMóth"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2266,4742,2306,4788",
+      "name": "Wild Free Spirit"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "7475,4674,7589,4763",
+      "name": "The Glorious Wet Spot"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "7053,4700,7145,4746",
+      "name": "The Last Starfighters"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "7049,4664,7142,4710",
+      "name": "The Key Camp"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "1873,4607,1990,4697",
+      "name": "The Hash House"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "994,4545,1109,4631",
+      "name": "Servants of the Secret Fire"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2367,4472,2603,4627",
+      "name": "Mystikal Misfits"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "7592,4554,7667,4599",
+      "name": "Camp Kühloff"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2297,4528,2376,4585",
+      "name": "Do not confuse here"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2206,4514,2283,4567",
+      "name": "Flying Pegasus"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2375,4463,2430,4552",
+      "name": "Death Guild Thunderdon't"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2213,4420,2305,4530",
+      "name": "Slutty Microphone"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2183,4411,2236,4495",
+      "name": "ASTRO SHACK JaVa JoINt"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2113,4392,2201,4487",
+      "name": "Black Hole Literary Society"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6801,4394,6879,4446",
+      "name": "Siren's Cove"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6659,4343,6782,4443",
+      "name": "Temple O'Flying Spaghetti Monster"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2278,4328,2334,4411",
+      "name": "Pussy Day Spa"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2209,4270,2311,4401",
+      "name": "Sparkle Camels Costume Bazaar"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6423,4262,6527,4395",
+      "name": "Happy Hour"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "1532,4236,1603,4323",
+      "name": "DUST STARS COLLECTIVE"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6755,4218,6845,4310",
+      "name": "Sobremesa"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6492,4250,6539,4300",
+      "name": "Fast & Bi-Curious"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6384,4135,6513,4247",
+      "name": "Camp NOT a Cult!"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6744,4182,6824,4239",
+      "name": "Pops and Drops"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2418,4092,2582,4226",
+      "name": "Anti Data Modern Time"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6515,4118,6642,4224",
+      "name": "Oontz Pouch"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "1427,3954,1585,4201",
+      "name": "Twisted Swan Celtic pub"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6489,4048,6616,4156",
+      "name": "Fatwatt"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6602,4057,6690,4136",
+      "name": "BLACK ROCK ADVENTURES BUS STOP!"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6475,4013,6588,4089",
+      "name": "BRCvr presents BurnerSphere"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6905,4023,7002,4087",
+      "name": "Phonic Bloom"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "1603,3953,1708,4084",
+      "name": "Shiny's Keepers"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6574,3985,6669,4083",
+      "name": "Mutant Ninja Burners"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6976,3957,7086,4058",
+      "name": "Playa Pinups and Fine Art Fatales"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6893,3988,6989,4053",
+      "name": "ROCA"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "1551,3978,1597,4025",
+      "name": "Wasted Sunshine"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "5938,3886,6031,4005",
+      "name": "So Far So Good"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6362,3758,6607,3990",
+      "name": "Bao Chicka Wow Wow"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6766,3926,6847,3989",
+      "name": "Vibe Check"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6950,3885,7060,3988",
+      "name": "BRCSPCA (anti-human society)"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "5968,3846,6093,3988",
+      "name": "Kamp Kaos"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2382,3874,2451,3960",
+      "name": "Camp (Can't) Stop"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2319,3838,2420,3943",
+      "name": "Camp Emergency"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "1999,3825,2096,3924",
+      "name": "Camp Bare Tentacles"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "1470,3748,1664,3921",
+      "name": "Disco Space Shuttle"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6667,3781,6800,3898",
+      "name": "Dome Sweet Dome"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2032,3791,2113,3857",
+      "name": "noMADart"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2292,3671,2411,3802",
+      "name": "The Pearly Gate"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6050,3675,6153,3778",
+      "name": "planet wood collective"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6005,3591,6113,3718",
+      "name": "Our Own Devices"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "7014,3361,7301,3695",
+      "name": "La Calaca Village"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "5933,3500,6089,3658",
+      "name": "Uli Baba & the Horny Thieves"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6064,3515,6170,3624",
+      "name": "Blazing Death Ship"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "3000,3502,3095,3591",
+      "name": "Inflatable Wildlife"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6402,3456,6533,3579",
+      "name": "Turtle Camp"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2973,3475,3071,3567",
+      "name": "Deep C"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "1109,4670,1225,4798",
+      "name": "MiM0SA Sunrise"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6750,3468,6820,3551",
+      "name": "Art Haus"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2892,3367,3056,3544",
+      "name": "Fire Camp"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6781,3449,6851,3533",
+      "name": "Discrace"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2087,3477,2139,3530",
+      "name": "Bat Haus"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6511,3447,6593,3520",
+      "name": "nippity Doo Dah"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6226,3396,6329,3500",
+      "name": "Pinky Swears"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6539,3301,6730,3494",
+      "name": "No Drama Camp"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2287,3367,2379,3456",
+      "name": "Rum Amok"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6689,3353,6791,3455",
+      "name": "Joyism MVSC"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2093,3370,2143,3420",
+      "name": "Simian Akademy"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2322,3323,2414,3417",
+      "name": "Totally 80s Disco Aerobic Inferno"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2416,3333,2499,3416",
+      "name": "Camp O-Wow"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2784,3324,2916,3412",
+      "name": "Dome on the Range"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2020,3134,2253,3400",
+      "name": "Gaudium Genus Aureus"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6495,3212,6625,3366",
+      "name": "Saints and Sinners"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2249,3223,2383,3352",
+      "name": "Juicy Rootz"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "7136,3229,7236,3329",
+      "name": "Uncle Larry's Misguided Burners"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2301,3106,2485,3293",
+      "name": "Pink Lightning"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2704,3051,2921,3286",
+      "name": "Bubble Lounge"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "5919,3122,6078,3286",
+      "name": "Flat Tire Cafe"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2459,3180,2537,3257",
+      "name": "Betty's Bike Shop"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "1843,3021,2078,3254",
+      "name": "Camp Wood"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "3063,3141,3156,3251",
+      "name": "UniverseCity"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2197,3146,2299,3248",
+      "name": "Zeta zone"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "3093,3056,3282,3229",
+      "name": "7 Sirens Cove"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6024,3147,6104,3227",
+      "name": "HAPPINESS AND JOY TOUR MASSAGE"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "5457,2996,5715,3217",
+      "name": "Fresh Squeezed!"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2988,3105,3083,3217",
+      "name": "Quarks and Recreation"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "5672,3131,5747,3212",
+      "name": "French Manila"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "4597,3033,4780,3205",
+      "name": "Temple Guardians"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2835,3153,2886,3204",
+      "name": "Mural Maze Support Camp"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6773,2983,6951,3202",
+      "name": "Side Boob"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2626,3145,2679,3197",
+      "name": "Camp Darling"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2655,3093,2760,3197",
+      "name": "Paralunatics"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2245,3091,2347,3193",
+      "name": "Bioluminati (Bike Mutation)"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2863,3130,2914,3181",
+      "name": "Tossed and Sauced"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "5967,3095,6048,3173",
+      "name": "PhoCureBurn"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "3021,3070,3111,3163",
+      "name": "MacGyvers' Union"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2892,3108,2943,3158",
+      "name": "HYPERSPACE"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "5900,3057,5990,3149",
+      "name": "Playa Circuit Boogie"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2713,3042,2818,3146",
+      "name": "You Look Amazing"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6282,3014,6409,3143",
+      "name": "Stoop City"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2899,3057,2971,3136",
+      "name": "Joey Glowey Bar"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "3253,2952,3474,3135",
+      "name": "Sharkey's Bar and Lounge"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6332,2938,6514,3122",
+      "name": "Lotus Dome & Café"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "5643,2964,5796,3117",
+      "name": "The Sultry Lodge"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "5856,3020,5946,3112",
+      "name": "Camp PtP - Papillio Ovum"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2772,3018,2847,3097",
+      "name": "Mouse House"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6736,2935,6914,3093",
+      "name": "Kumaya"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6633,2871,6876,3092",
+      "name": "Crepes and Tonic"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2833,2947,2959,3079",
+      "name": "Camp Sweaty Betty"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2803,2994,2877,3074",
+      "name": "Playa Delicacies Cooking School"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2989,2913,3182,3072",
+      "name": "Suspended Animation"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "4075,2932,4219,3065",
+      "name": "Cereal Thrillers"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6236,2993,6287,3044",
+      "name": "Hydration Station"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "7005,2883,7160,3039",
+      "name": "Wrongo Wrongo"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2702,2932,2806,3035",
+      "name": "OHF- One Human Family"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6158,2879,6325,3019",
+      "name": "The Airship"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "5703,2906,5807,3008",
+      "name": "Aah Wonder"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2603,2847,2762,3004",
+      "name": "The New Barbarians"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2315,2810,2498,2993",
+      "name": "Casa de la Rumba"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "4018,2886,4191,2984",
+      "name": "Pandora's Lounge & Fix-it Shoppe"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6917,2907,6996,2980",
+      "name": "The Shrimp Ranch"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "3028,2882,3146,2972",
+      "name": "Branding & Booze"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6847,2819,6973,2951",
+      "name": "Toxic Disco Clam"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6097,2831,6217,2946",
+      "name": "Maybe You Should Talk To Someone"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2993,2820,3128,2942",
+      "name": "The Carrot Club"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "3638,2762,3772,2899",
+      "name": "LAF Lazy-Ass Fuckers"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "4003,2810,4085,2886",
+      "name": "Wally's Cowboy Kitchen"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2917,2779,3018,2882",
+      "name": "Reno Housewives"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6901,2750,7033,2877",
+      "name": "Harmonic Convergence Camp"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2696,2799,2780,2877",
+      "name": "Oh mi Gato Rat Cafe!"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6798,2714,6956,2865",
+      "name": "Homeslice"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "5270,2751,5348,2864",
+      "name": "Camp Condundrum"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "5653,2792,5735,2862",
+      "name": "Camp Safari"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "7054,2757,7155,2858",
+      "name": "Art Support for Bass Snail"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2759,2764,2849,2857",
+      "name": "Dicey Side Quests"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2981,2759,3050,2841",
+      "name": "It's Only Natural"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "3627,2785,3676,2834",
+      "name": "Burning Man T-Shirt Factory"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "7031,2728,7110,2802",
+      "name": "Camp Why is My Mouth Tingling"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "5265,2670,5342,2784",
+      "name": "Impromptu Tomato"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6983,2672,7087,2774",
+      "name": "Camp Why is my Mouth Tingling"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6931,2720,6983,2773",
+      "name": "Hooter Tooterville"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "3608,2655,3739,2772",
+      "name": "Mansonian Institute 4 Urban Study"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "1928,2646,2031,2751",
+      "name": "DragonCamp Armory"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6906,2691,6958,2744",
+      "name": "RedNeck Regal Theatre"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "1900,2587,2006,2727",
+      "name": "Giraffè Caffè"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6528,2612,6637,2719",
+      "name": "Sake To Me"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "5722,2475,5942,2705",
+      "name": "Habitat for Insanity"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "4437,2553,4553,2667",
+      "name": "Black Rock City Passport Office"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "4153,2593,4195,2667",
+      "name": "Pickleback Oasis"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6470,2557,6578,2664",
+      "name": "Pink Squirrel"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "4188,2553,4266,2664",
+      "name": "Playa Jazz Cafe"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "1967,2470,2111,2626",
+      "name": "No Holes Barred Comedy Club"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "5121,2512,5217,2604",
+      "name": "Hookers & Peggers Naughty Cafe"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "4665,2501,4751,2583",
+      "name": "Camp Shark Cage"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "4202,2481,4263,2556",
+      "name": "Snow Cone Zone"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "1762,2453,1847,2525",
+      "name": "Drawn Inn"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "1736,2428,1813,2507",
+      "name": "Camp Babe"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "1710,2403,1788,2482",
+      "name": "Orgy Bus Camp"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6716,2411,6790,2473",
+      "name": "Candyland"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6740,2307,6921,2471",
+      "name": "People of Color Camp"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "4514,2356,4598,2470",
+      "name": "Camp Truth or Dare"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "3801,2317,3914,2440",
+      "name": "Black Rock Public Library"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2867,2268,3032,2433",
+      "name": "Future Turtles"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "3902,2310,3952,2387",
+      "name": "Harmonic Drift"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "5069,2251,5204,2385",
+      "name": "Yellow Bike Project"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "1838,2278,1942,2381",
+      "name": "Mobility Munchers"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6306,2299,6379,2378",
+      "name": "Camp Fucking Magical"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2849,2321,2900,2371",
+      "name": "Through the Looking Gl.ass"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6909,2318,6961,2371",
+      "name": "Dogs N Recreation"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6276,2274,6349,2356",
+      "name": "Rooftop Frose"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6319,2189,6444,2321",
+      "name": "Cocoon Society"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "3489,2180,3617,2315",
+      "name": "Camp TeaPunk"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "3824,2229,3873,2306",
+      "name": "Solid City"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "3854,2182,3944,2300",
+      "name": "Someplace Cozy"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "3933,2212,3980,2288",
+      "name": "The Alphabet Cookout"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "3967,2185,4051,2283",
+      "name": "Vivarium"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "3635,2233,3680,2277",
+      "name": "Playa Art Park Support"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6124,2169,6226,2273",
+      "name": "Mechanical Garden"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "3617,2138,3788,2268",
+      "name": "The Hand Lovers Lounge"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "4192,2224,4230,2262",
+      "name": "Ray's Fix It"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2777,2177,2865,2250",
+      "name": "Queertirement"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6093,2149,6163,2229",
+      "name": "Owl and the Pussycat"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "2742,2095,2883,2216",
+      "name": "Yes Please"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6061,2159,6112,2210",
+      "name": "Read Write Draw Camp"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "6030,2140,6080,2190",
+      "name": "A-PLAYA-MASK"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "4366,2079,4482,2189",
+      "name": "Camp Orange Heart"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "4261,2078,4338,2151",
+      "name": "Camp Scone Fucker"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "5909,2039,6009,2138",
+      "name": "Alchemy Stop"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "5876,2021,5943,2102",
+      "name": "The Shittest Camp"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "5811,1986,5910,2084",
+      "name": "Norms Garage"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "4366,1905,4425,1979",
+      "name": "Camp Just Ahead"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "4366,1799,4427,1907",
+      "name": "Society for Temporal Preservation"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "3526,1819,3599,1886",
+      "name": "Camp PlayApology"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "4367,1727,4428,1800",
+      "name": "Drink and Drive-In"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "3792,1670,3876,1752",
+      "name": "Cosplay Central"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "3866,1664,3912,1740",
+      "name": "Star Jelly"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "4656,1649,4700,1724",
+      "name": "iBurn / Burning Man Earth"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "3474,1621,3566,1709",
+      "name": "Camp Elephant Toe"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "4146,1527,4310,1674",
+      "name": "Black Rock Sauna Society"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "4626,1539,4712,1653",
+      "name": "MidNight Caff Cove"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "3450,1531,3543,1619",
+      "name": "Dinosaur King"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "3527,1513,3624,1600",
+      "name": "Battle Born Burners"
+    },
+    {
+      "type": "name_override",
+      "polygonKey": "4972,1491,5062,1576",
+      "name": "Camp ASL Support Services HUB"
+    }
+  ]
+}
