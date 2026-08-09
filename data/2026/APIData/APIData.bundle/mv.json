@@ -6917,28 +6917,6 @@
     ]
   },
   {
-    "uid": "a6BVI000000TH0f2AG",
-    "name": "The Purple Pearl",
-    "year": 2026,
-    "url": null,
-    "donation_link": null,
-    "contact_email": "amorrisdressage@gmail.com",
-    "hometown": "Leadville",
-    "description": "The Purple Pearl is a giant sea clam that holds six passengers as she galivants across the Playa. She is white in the daytime but has a technicolor nighttime glow that brings joy to all creatures in Black Rock City. She is more than just a mode of transportation but an epic travelling sea creature to be viewed near and far.",
-    "artist": "Rodeo Annie and Mr. Mojo",
-    "images": [
-      {
-        "thumbnail_url": "http://surveygizmoresponseuploads.s3.amazonaws.com/fileuploads/101590/6047425/37-7cc4687258b480cb1d88750c8a76c185_IMG_7909.JPG"
-      }
-    ],
-    "tags": [
-      "Giant Clam",
-      "Starfish",
-      "Articulating Shell",
-      "Psychedelic"
-    ]
-  },
-  {
     "uid": "a6BVI000000TH2H2AW",
     "name": "Playa Laundromat",
     "year": 2026,
@@ -7482,29 +7460,6 @@
       "Wings",
       "House",
       "Illuminated"
-    ]
-  },
-  {
-    "uid": "a6BVI000000UIif2AG",
-    "name": "Playa One",
-    "year": 2026,
-    "url": null,
-    "donation_link": null,
-    "contact_email": null,
-    "hometown": "Gerlach NV",
-    "description": "Come fly with us — Playa One is a full size airplane rolling across the desert, with three levels of dancing, a DJ booth, and good vibes for everyone. All aboard, no ticket required",
-    "artist": "Playa One",
-    "images": [
-      {
-        "thumbnail_url": "http://surveygizmoresponseuploads.s3.amazonaws.com/fileuploads/101590/6047425/37-c22cc3b72e8c21b689b6997c2e9a9987_PlayaOneDay.jpeg"
-      }
-    ],
-    "tags": [
-      "Aluminum",
-      "Presidential",
-      "Wings",
-      "Airplane",
-      "Sound System"
     ]
   },
   {
@@ -9659,27 +9614,6 @@
     ]
   },
   {
-    "uid": "a6BVI000000VziL2AS",
-    "name": "Iridescence",
-    "year": 2026,
-    "url": null,
-    "donation_link": null,
-    "contact_email": null,
-    "hometown": "San Rafael, CA",
-    "description": null,
-    "artist": "Iridescence by NumbSkulls",
-    "images": [
-      {
-        "thumbnail_url": "http://surveygizmoresponseuploads.s3.amazonaws.com/fileuploads/101590/6047425/211-53ecc289257176ebdd804776bf0449f3_IMG_4910.jpeg"
-      }
-    ],
-    "tags": [
-      "Rainbow",
-      "Clouds",
-      "Trsndporter"
-    ]
-  },
-  {
     "uid": "a6BVI000000Vzjx2AC",
     "name": "Sparkle Pony Xpress",
     "year": 2026,
@@ -11093,6 +11027,51 @@
       "Building",
       "Saloon",
       "Reddish-brown"
+    ]
+  },
+  {
+    "uid": "a6BVI000000n47J2AQ",
+    "name": "Fuzzy Bunny Head",
+    "year": 2026,
+    "url": null,
+    "donation_link": null,
+    "contact_email": "TheRealFuzzyBunny@gmail.com",
+    "hometown": "Phoenix",
+    "description": "The Bunny is a Warm & Fuzzy, welcoming, soft, comfortable, place to meet new and wonderful strangers, while exploring Black Rock City and the unknown.",
+    "artist": "Fuzzy Bunny Art Car by Fuzzy Bunny & AZ Burners",
+    "images": [
+      {
+        "thumbnail_url": "http://surveygizmoresponseuploads.s3.amazonaws.com/fileuploads/101590/6047425/25-9cf44cfbe53077ca590aba26c22d0851_BunnyAtNight1.png"
+      }
+    ],
+    "tags": [
+      "Fuzzy",
+      "Bunny",
+      "Inviting",
+      "Soft",
+      "Colorful"
+    ]
+  },
+  {
+    "uid": "a6BVI000000nDYn2AM",
+    "name": "The Purple Pearl",
+    "year": 2026,
+    "url": null,
+    "donation_link": null,
+    "contact_email": "amorrisdressage@gmail.com",
+    "hometown": "Leadville",
+    "description": "The Purple Pearl is a giant sea clam that holds six passengers as she galivants across the Playa. She is white in the daytime but has a technicolor nighttime glow that brings joy to all creatures in Black Rock City. She is more than just a mode of transportation but an epic travelling sea creature to be viewed near and far.",
+    "artist": "Annie Morris and Jeff Sadler",
+    "images": [
+      {
+        "thumbnail_url": "http://surveygizmoresponseuploads.s3.amazonaws.com/fileuploads/101590/6047425/37-1f192ef765e7790b2905ae5fa7e9b2fd_IMG_7909.JPG"
+      }
+    ],
+    "tags": [
+      "Giant Clam",
+      "Starfish",
+      "Articulating Shell",
+      "Psychedelic"
     ]
   }
 ]
