@@ -70,10 +70,25 @@ node scripts/apply_placement.js --year 2026
 ```
 
 See `scripts/apply_placement.js` for the merge policy (fill-only against the API) and the
-generated outputs (`camp.json` GPS backfill, `Map.bundle/camp_outlines.geojson`,
+generated outputs (`camp.json` GPS, `Map.bundle/camp_outlines.geojson`,
 `Map.bundle/camp_labels.geojson`). Outlines prefer `public_camps.geojson` and fall back
 to the extracted borders; each label sits at the area-weighted centroid of the polygon
 actually shipped. The script is idempotent.
+
+**Camp GPS is that same centroid.** The app's pin for a camp is written from the very
+value its label is drawn at, so the two can never disagree. The alternative — the offline
+address geocoder — resolves to street intersections, which gave 1184 placed camps only 365
+distinct coordinates and left the app fanning co-located pins around a circle; centroids
+give all 1184 a coordinate of their own. `--gps-source geocoder|entrance` still exist for
+comparison runs. Camps with no polygon (8) keep their address geocode, or have no GPS at
+all if the geocoder could not place them either (7).
+
+**Where this should end up:** the pin a burner actually wants is the middle of the camp's
+street frontage, on the road side — you walk up to a camp from the street, whereas an area
+centroid can sit deep inside a large lot. The PDF extraction's entrance centroids
+approximate that, but a handful are hundreds of metres out, so they are not trustworthy
+enough to default to. Deriving frontage from the shipped polygons plus the street grid
+would supersede both.
 
 ## Note on the 2026 BMorg API
 
