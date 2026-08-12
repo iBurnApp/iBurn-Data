@@ -5618,20 +5618,6 @@
     {
       "type": "Feature",
       "properties": {
-        "uid": "a1XVI00000FKrIr2AL",
-        "name": "Tantra Temple"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.219867,
-          40.786786
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "uid": "a1XVI00000FKrqj2AD",
         "name": "LOBE"
       },
@@ -13732,20 +13718,6 @@
         "coordinates": [
           -119.201639,
           40.774317
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "uid": "a1XVI00000FPQWY2A5",
-        "name": "Crepes and Tonic"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.206423,
-          40.77134
         ]
       }
     },

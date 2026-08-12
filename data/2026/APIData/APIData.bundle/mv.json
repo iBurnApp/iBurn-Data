@@ -1,5 +1,27 @@
 [
   {
+    "uid": "a6BVI000000GbJl2AK",
+    "name": "Fun Across",
+    "year": 2026,
+    "url": "https://wordplaycafe.org/mutant-vehicle/",
+    "donation_link": "https://wordplaycafe.org/support",
+    "contact_email": "letsplay@wordplaycafe.org",
+    "hometown": "Palo Alto, CA",
+    "description": "Fun Across is a giant crossword puzzle that travels around the playa and gives out custom Burning Man word games to participants.",
+    "artist": "Hilary Somers and the Pencil Team",
+    "images": [
+      {
+        "thumbnail_url": "https://burningman.widen.net/content/t1c4njxqyy/png/a3OVI00000CPjr32AD.png?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx"
+      }
+    ],
+    "tags": [
+      "Crossword",
+      "Black",
+      "White",
+      "Words"
+    ]
+  },
+  {
     "uid": "a6BVI000000Le0r2AC",
     "name": "Moebius Omnibus",
     "year": 2026,
@@ -8340,29 +8362,6 @@
     ]
   },
   {
-    "uid": "a6BVI000000VesP2AS",
-    "name": "Cuddle Shuttle Reborn!",
-    "year": 2026,
-    "url": null,
-    "donation_link": null,
-    "contact_email": null,
-    "hometown": "Hot Stuff",
-    "description": "The Cuddle Shuttle Reborn will rise like a phoenix from its ashes and live a long and full life on the playa. Taking the\nthings that we loved about the old vehicle and pushing them forward into a newer slicker operation that will be able to\nspread more love to the playa and beyond. The dance floors of our home camp Hot Stuff are legendary and we want to\nbe able to take them out onto the Black Rock City Playa!",
-    "artist": "Robert Fung",
-    "images": [
-      {
-        "thumbnail_url": "http://surveygizmoresponseuploads.s3.amazonaws.com/fileuploads/101590/6047425/162-9f94f30815f811e999427918abe7d118_Cuddle_Shuttle_2026_1.png"
-      }
-    ],
-    "tags": [
-      "Metal",
-      "Jumbled",
-      "Zig Zag",
-      "Cage",
-      "Eargasm"
-    ]
-  },
-  {
     "uid": "a6BVI000000VfEz2AK",
     "name": "Stargazer",
     "year": 2026,
@@ -11072,6 +11071,27 @@
       "Starfish",
       "Articulating Shell",
       "Psychedelic"
+    ]
+  },
+  {
+    "uid": "a6BVI000000nSMX2A2",
+    "name": "The Love Bunny",
+    "year": 2026,
+    "url": null,
+    "donation_link": null,
+    "contact_email": "sasha2@jensen-partners.com",
+    "hometown": "Reno, NV",
+    "description": "Love Bunny celebrates the metamorphosis that comes with the dawn's renewed light; Love Bunny is famous for delivering sustenance in the early hours of the morning and rescuing Burners from long haul walks across the Playa.",
+    "artist": "The LoveBunny Art Car by Artist The Bunny Crew",
+    "images": [
+      {
+        "thumbnail_url": "http://surveygizmoresponseuploads.s3.amazonaws.com/fileuploads/101590/6047425/66-1a7b3c6db8e3e360381ad2c51baf589f_2.jpeg"
+      }
+    ],
+    "tags": [
+      "Rabbit",
+      "Fluffy",
+      "Multicolor"
     ]
   }
 ]

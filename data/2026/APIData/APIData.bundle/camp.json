@@ -8010,14 +8010,14 @@
     "accepting_campers": false,
     "location": {
       "frontage": "G",
-      "intersection": "5:00",
+      "intersection": "4:45",
       "intersection_type": "&",
       "dimensions": "75 x 100",
       "exact_location": "Mid-block facing man",
       "gps_latitude": 40.769838,
       "gps_longitude": -119.208645
     },
-    "location_string": "G & 5:00",
+    "location_string": "G & 4:45",
     "images": []
   },
   {
@@ -9602,26 +9602,6 @@
         "thumbnail_url": "https://burningman.widen.net/content/wyffnakboh/jpeg/a1XVI00000FKr5x2AD-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx"
       }
     ]
-  },
-  {
-    "uid": "a1XVI00000FKrIr2AL",
-    "name": "Tantra Temple",
-    "year": 2026,
-    "hometown": "Bali",
-    "description": "A welcoming space dedicated to presence, connection, mindfulness and embodied awareness. We offer a calm environment where participants can slow down, breathe, and explore authentic human interaction in a respectful, consent-based setting.\n\nThroughout the week we host interactive experiences including tantra presence practices, ecstatic dance gatherings, conscious touch and tantric bodywork introductions, tea ceremonies, and tarot reflection sessions. \n\nOur central lounge tent is filled with carpets, cushions, and soft lighting, creating a comfortable space to relax, participate, or simply share tea and conversation. All offerings are gifts to the community and welcome burners of all backgrounds and experience levels.",
-    "landmark": "Tantra temple neon sign above the entrance",
-    "accepting_campers": true,
-    "location": {
-      "frontage": "C",
-      "intersection": "8:15",
-      "intersection_type": "&",
-      "dimensions": "100 x 100",
-      "exact_location": "Mid-block facing man",
-      "gps_latitude": 40.786786,
-      "gps_longitude": -119.219867
-    },
-    "location_string": "C & 8:15",
-    "images": []
   },
   {
     "uid": "a1XVI00000FKrqj2AD",
@@ -17396,7 +17376,7 @@
       "frontage": "J",
       "intersection": "8:45",
       "intersection_type": "&",
-      "dimensions": "125+ x 150",
+      "dimensions": "150 x 150",
       "exact_location": "Mid-block facing man",
       "gps_latitude": 40.792114,
       "gps_longitude": -119.224646
@@ -23402,31 +23382,6 @@
     ]
   },
   {
-    "uid": "a1XVI00000FPQWY2A5",
-    "name": "Crepes and Tonic",
-    "year": 2026,
-    "url": "https://www.instagram.com/crepesandtonic/",
-    "hometown": "Chicago",
-    "description": "Follow the music and you'll find us. We serve crępes and a perfected tonic ritual, but that's not really why people come. It's about the vibe, the people, and those unplanned moments that turn into something bigger. Expect dancing, connection, and a space that pulls you in and doesn't let go. Come for a minute, stay for hours",
-    "landmark": "Two white tents, DJ booth, french flag, lit",
-    "accepting_campers": true,
-    "location": {
-      "frontage": "F",
-      "intersection": "4:15",
-      "intersection_type": "&",
-      "dimensions": "100 x 350",
-      "exact_location": "Mid-block facing mountain",
-      "gps_latitude": 40.77134,
-      "gps_longitude": -119.206423
-    },
-    "location_string": "F & 4:15",
-    "images": [
-      {
-        "thumbnail_url": "https://burningman.widen.net/content/iun35dvyez/jpeg/a1XVI00000FPQWY2A5-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx"
-      }
-    ]
-  },
-  {
     "uid": "a1XVI00000FPSQH2A5",
     "name": "Rootist Lounge",
     "year": 2026,
@@ -25634,6 +25589,26 @@
       "gps_longitude": -119.221059
     },
     "location_string": "D & 7:45",
+    "images": []
+  },
+  {
+    "uid": "a1XVI00000FTuSn2AL",
+    "name": "Yaass Daddy!",
+    "year": 2026,
+    "hometown": "Seattle",
+    "description": "Art support camp for Canis Minor",
+    "landmark": "Pink Yaass Daddy! sign",
+    "accepting_campers": false,
+    "location": {
+      "frontage": "B",
+      "intersection": "7:45",
+      "intersection_type": "&",
+      "dimensions": "50 x 100",
+      "exact_location": "Mid-block facing mountain",
+      "gps_latitude": 40.78439429349372,
+      "gps_longitude": -119.21939467557056
+    },
+    "location_string": "B & 7:45",
     "images": []
   },
   {

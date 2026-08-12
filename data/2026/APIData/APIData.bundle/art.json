@@ -9686,7 +9686,7 @@
     "hometown": "Seattle, WA, United States",
     "description": "Our perception of reality is colored not only by our own emotions but through others and by the external world. How we understand something at one moment may not be the same in the next moment. We all live together in a multi-colored world that is often out of our control. This piece aims to embrace all that beautiful chaos of all these beautiful people into something to be celebrated, allowing ourselves to be curious, explore, and adapt to the ever-changing internal and external realities.",
     "artist": "Dave Clay",
-    "category": null,
+    "category": "Open Playa",
     "program": "Self-Funded",
     "donation_link": null,
     "location": {
@@ -10027,18 +10027,18 @@
     "hometown": "Black Rock City, NV, NV, United States",
     "description": "Welcome to The Fireside Circle! An ancient yet simple fire pit to gather around, to sit and tell stories with your new best friends that you haven't met yet, and get warm on the open playa. \n\nThe firewood is set and ready for you to tend the fire.\n \nRemember to keep the Black Rock Desert clean and beautiful. \n\nLeave No Trace.",
     "artist": "DA",
-    "category": null,
+    "category": "Open Playa",
     "program": "Self-Funded",
     "donation_link": null,
     "location": {
-      "hour": null,
-      "minute": null,
-      "distance": null,
-      "category": null,
-      "gps_latitude": 0,
-      "gps_longitude": 0
+      "hour": 12,
+      "minute": 0,
+      "distance": 7225,
+      "category": "Open Playa",
+      "gps_latitude": 40.79726251308928,
+      "gps_longitude": -119.189437495453
     },
-    "location_string": null,
+    "location_string": "12:00 7225', Open Playa",
     "images": [
       {
         "thumbnail_url": "https://burningman.widen.net/content/voorqe7ooi/jpeg/a2IVI000003AIht2AG-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
@@ -10174,37 +10174,6 @@
     "needs_volunteers": false
   },
   {
-    "uid": "a2IVI000003Cyeb2AC",
-    "name": "Oh Ice Is!",
-    "year": 2026,
-    "url": null,
-    "contact_email": "starchild@burningman.org",
-    "hometown": "gerlach, NV, United States",
-    "description": "The canvas-enclosed, lighting truss structure is equipped with split air units powered by solar panels that cast shade over the central gathering space. Oh-Ice-Is at capacity will hold up to 60 people comfortably or up to 100 depending on the standing/ seating layout. Visual interest will be generated inside of the space via projection of sustainability-minded art on the canvas walls. Burning Man Project's solar team is responsible for the build, teardown, and annual maintenance of the space. The cost for licensing for the projection art inside will be the responsibility of the donor team.",
-    "artist": "Matthew Deluge",
-    "category": null,
-    "program": "Self-Funded",
-    "donation_link": null,
-    "location": {
-      "hour": null,
-      "minute": null,
-      "distance": null,
-      "category": null,
-      "gps_latitude": 0,
-      "gps_longitude": 0
-    },
-    "location_string": null,
-    "images": [
-      {
-        "thumbnail_url": "https://burningman.widen.net/content/awnvgdrie9/jpeg/a2IVI000003Cyeb2AC-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
-        "gallery_ref": null
-      }
-    ],
-    "guided_tours": false,
-    "self_guided_tour_map": false,
-    "needs_volunteers": false
-  },
-  {
     "uid": "a2IVI000003D3Pq2AK",
     "name": "What the Eyes Cannot See, the Soul Remembers",
     "year": 2026,
@@ -10213,8 +10182,8 @@
     "hometown": "Oakland, CA, United States",
     "description": "What the Eyes Cannot See, the Soul Remembers\n\nTwo canvas installations at one of the entrances to the Man Pavilion at Burning Man 2026.\n\nThe work explores the idea of invisible songs, ancestral memory, and the connection between the seen and unseen worlds. It invites us to imagine what exists beyond what the eyes can perceive—memories, sounds, spirits, and ancestral knowledge that continue to live within us.",
     "artist": "Adrian Arias",
-    "category": null,
-    "program": "Self-Funded",
+    "category": "Open Playa",
+    "program": "ManPavGrant",
     "donation_link": null,
     "location": {
       "hour": null,
@@ -10244,8 +10213,8 @@
     "hometown": "Los Angeles, CA, United States",
     "description": "\"Ari\" explores the journey between birth and death, two moments we experience alone. Between them is life, shaped by the people, places, and experiences that connect us.\n\nInspired by the 2026 theme, Axis Mundi, the tunnel acts as a passage between these points. As participants move through its changing scale and repeating patterns, individual paths overlap within a shared structure. The pattern represents the invisible connections between us and how our lives influence one another.\n\nEach person enters and exits alone, but the space between is experienced together. The work reflects a simple idea: our beginnings and endings may be solitary, but everything in between is interconnected.",
     "artist": "Lefty OUT There",
-    "category": null,
-    "program": "Self-Funded",
+    "category": "Open Playa",
+    "program": "ManPavGrant",
     "donation_link": null,
     "location": {
       "hour": null,
