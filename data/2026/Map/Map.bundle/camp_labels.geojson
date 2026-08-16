@@ -12478,20 +12478,6 @@
     {
       "type": "Feature",
       "properties": {
-        "uid": "a1XVI00000FMlnd2AD",
-        "name": "Club 40 at Cafe Calm"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.210604,
-          40.770764
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "uid": "a1XVI00000FMlxJ2AT",
         "name": "Water Temple"
       },
@@ -14320,20 +14306,6 @@
         "coordinates": [
           -119.225991,
           40.783444
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "uid": "a1XVI00000FSO0L2AX",
-        "name": "D'JUNGLE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.213155,
-          40.79686
         ]
       }
     },
@@ -16294,20 +16266,6 @@
         "coordinates": [
           -119.216166,
           40.794696
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "uid": "a1XVI00000FmisX2AR",
-        "name": "The Cage"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.18951,
-          40.777854
         ]
       }
     },

@@ -3408,15 +3408,15 @@
     "landmark": "Two Large flags w/ Swan logo and Forest House",
     "accepting_campers": false,
     "location": {
-      "frontage": "F",
-      "intersection": "2:45",
+      "frontage": "2:30",
+      "intersection": "F",
       "intersection_type": "&",
-      "dimensions": "400 x 250-",
-      "exact_location": "Mid-block facing mountain",
+      "dimensions": "250 x 400",
+      "exact_location": "Corner - facing man & 2:00",
       "gps_latitude": 40.775559,
       "gps_longitude": -119.195525
     },
-    "location_string": "F & 2:45",
+    "location_string": "2:30 & F",
     "images": []
   },
   {
@@ -5588,7 +5588,7 @@
       "frontage": "E",
       "intersection": "4:15",
       "intersection_type": "&",
-      "dimensions": "150 x 100",
+      "dimensions": "100 x 225",
       "exact_location": "Mid-block facing man",
       "gps_latitude": 40.771954,
       "gps_longitude": -119.206592
@@ -5768,15 +5768,15 @@
     "landmark": "a pink disco dome",
     "accepting_campers": false,
     "location": {
-      "frontage": "E",
+      "frontage": "C",
       "intersection": "8:15",
       "intersection_type": "&",
       "dimensions": "50 x 100",
-      "exact_location": "Mid-block facing mountain",
+      "exact_location": "Mid-block facing man",
       "gps_latitude": 40.787704,
       "gps_longitude": -119.221046
     },
-    "location_string": "E & 8:15",
+    "location_string": "C & 8:15",
     "images": []
   },
   {
@@ -9236,7 +9236,7 @@
       "frontage": "10:00",
       "intersection": "H",
       "intersection_type": "&",
-      "dimensions": "150+ x 325",
+      "dimensions": "150+ x 400",
       "exact_location": "Corner - facing mountain & 10:00",
       "gps_latitude": 40.796271,
       "gps_longitude": -119.213289
@@ -16581,7 +16581,7 @@
       "frontage": "4:30",
       "intersection": "E",
       "intersection_type": "&",
-      "dimensions": "300 x 250+",
+      "dimensions": "300 x 300",
       "exact_location": "Corner - facing man & 6:00",
       "gps_latitude": 40.771628,
       "gps_longitude": -119.20726
@@ -21251,30 +21251,6 @@
     ]
   },
   {
-    "uid": "a1XVI00000FMlnd2AD",
-    "name": "Club 40 at Cafe Calm",
-    "year": 2026,
-    "hometown": "London",
-    "description": "Come Celebrate the Man's 40th Birthday, and Ours!\n\nStep into the roaring forties. Step into an intimate desert oasis and escape the dust to celebrate the historic fortieth anniversary of the Man. We are bringing the ultimate living room vibe to the playa complete with comfortable couches, giant stuffed animals, and refreshing daily smoothies or pina coladas. Join our family for morning yoga sessions or stop by later to dance to curated ambient and house beats from our favorite international DJs. Removed from pretension, this welcoming haven is the perfect place to recharge, reminisce, and connect with amazing people. Come shake off the dust and raise a glass with us during three massive fortieth birthday celebrations under our shady canopy.",
-    "landmark": "Big flag off tire wheel with red flashing light",
-    "accepting_campers": false,
-    "location": {
-      "frontage": "F",
-      "intersection": "4:45",
-      "intersection_type": "&",
-      "dimensions": "75 x 100",
-      "exact_location": "Mid-block facing man",
-      "gps_latitude": 40.770764,
-      "gps_longitude": -119.210604
-    },
-    "location_string": "F & 4:45",
-    "images": [
-      {
-        "thumbnail_url": "https://burningman.widen.net/content/xplsxunfzg/jpeg/a1XVI00000FMlnd2AD-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx"
-      }
-    ]
-  },
-  {
     "uid": "a1XVI00000FMlxJ2AT",
     "name": "Water Temple",
     "year": 2026,
@@ -24387,28 +24363,6 @@
     ]
   },
   {
-    "uid": "a1XVI00000FSO0L2AX",
-    "name": "D'JUNGLE",
-    "year": 2026,
-    "url": "https://www.instagram.com/djungle_ofc/",
-    "contact_email": "infodjunglecamp@djungle.info",
-    "hometown": "Tulum & Los Angeles",
-    "description": "D'JUNGLE is a day-to-night camp blending wellness, music, and social connection in a multi-zone jungle-inspired environment.\r\nBy day, the camp operates as an open wellness space offering yoga, meditation, consciousness talks, healing sessions, and massage experiences - inviting participants to slow down, reconnect, and recharge.\r\nBy night, D'JUNGLE transforms into a vibrant cocktail lounge and music gathering with curated DJ programming, immersive lighting, and a welcoming social atmosphere.\r\nAcross the esplanade, our multi-level metal stage hosts large-scale DJ sets while creating elevated spaces for sunrise and sunset moments overlooking open playa.\r\nD'JUNGLE invites participants to move between reflection and celebration - to rest, connect, dance, and share meaningful experiences.",
-    "landmark": "DJUNGLE LED SIGN",
-    "accepting_campers": true,
-    "location": {
-      "frontage": "A",
-      "intersection": "9:45",
-      "intersection_type": "&",
-      "dimensions": "150 x 100",
-      "exact_location": "Mid-block facing mountain",
-      "gps_latitude": 40.79686,
-      "gps_longitude": -119.213155
-    },
-    "location_string": "A & 9:45",
-    "images": []
-  },
-  {
     "uid": "a1XVI00000FSXmn2AH",
     "name": "Arctica Ice Sales",
     "year": 2026,
@@ -26588,7 +26542,7 @@
       "intersection": "2:45",
       "intersection_type": "&",
       "dimensions": "150 x 150",
-      "exact_location": "Mid-block facing man",
+      "exact_location": "Mid-block facing mountain",
       "gps_latitude": 40.774965,
       "gps_longitude": -119.19518
     },
@@ -27114,12 +27068,12 @@
       "gps_latitude": 40.778326,
       "gps_longitude": -119.194247
     },
-    "location_string": "E & 2:15",
     "images": [
       {
         "thumbnail_url": "https://burningman.widen.net/content/3ozs1zrjhx/jpeg/a1XVI00000Fcqxp2AB-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx"
       }
-    ]
+    ],
+    "location_string": "E & 2:15"
   },
   {
     "uid": "a1XVI00000FdM9h2AF",
@@ -27546,27 +27500,6 @@
     "images": []
   },
   {
-    "uid": "a1XVI00000FmisX2AR",
-    "name": "The Cage",
-    "year": 2026,
-    "contact_email": "juanjosetinajero@gmail.com",
-    "hometown": "Guadalajara",
-    "description": "A young and energetic community focused on fitness, wellness and music. The camp hosts daily training and recovery sessions led by professional athletes, alongside nighttime DJ experiences inside The Cage, a three floor immersive stage featuring sound and lighting.",
-    "landmark": "3-story cube with red lights",
-    "accepting_campers": true,
-    "location": {
-      "frontage": "2:15",
-      "intersection": "I",
-      "intersection_type": "&",
-      "dimensions": "100 x 200",
-      "exact_location": "Corner - facing man & 6:00",
-      "gps_latitude": 40.777854,
-      "gps_longitude": -119.18951
-    },
-    "location_string": "2:15 & I",
-    "images": []
-  },
-  {
     "uid": "a1XVI00000FnyFJ2AZ",
     "name": "Wild Tribe",
     "year": 2026,
@@ -27769,7 +27702,7 @@
       "intersection": "F",
       "intersection_type": "&",
       "dimensions": "100 x 150",
-      "exact_location": "Corner - facing man & 2:00",
+      "exact_location": "Corner - facing man & 6:00",
       "gps_latitude": 40.775335,
       "gps_longitude": -119.194895
     },

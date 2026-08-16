@@ -2422,29 +2422,6 @@
     ]
   },
   {
-    "uid": "a6BVI000000MfR72AK",
-    "name": "Kodo: Mecha Shogun",
-    "year": 2026,
-    "url": null,
-    "donation_link": null,
-    "contact_email": null,
-    "hometown": "Portland",
-    "description": "Kodō – The Mecha Shogun leads an army of sound-synced warriors—on a mission to bring balance through sonics, and create harmonious cosmic rhythms.",
-    "artist": "Kodō: Mecha Shogun by Darin Gardner",
-    "images": [
-      {
-        "thumbnail_url": "https://burningman.widen.net/content/lfwdexv30q/jpeg/a3OVI00000D9lt42AB.jpeg?w=328&keep=c&crop=yes&color=cccccc&quality=100&u=r3rtjx"
-      }
-    ],
-    "tags": [
-      "Mecha",
-      "Anime",
-      "Shogun",
-      "Transformer",
-      "Machine Warrior"
-    ]
-  },
-  {
     "uid": "a6BVI000000MfSj2AK",
     "name": "Clyde the Ghost",
     "year": 2026,
@@ -5055,29 +5032,6 @@
       "Playatech",
       "playhouse",
       "regal"
-    ]
-  },
-  {
-    "uid": "a6BVI000000PDA92AO",
-    "name": "Sky Ting",
-    "year": 2026,
-    "url": null,
-    "donation_link": "https://fundraising.fracturedatlas.org/skyting",
-    "contact_email": "tallybower@gmail.com",
-    "hometown": "Bolinas California",
-    "description": "SkyTing is crewed by a group of humans from 1000 years in the future who bring advanced understanding of frequency, community, and the possibility of thriving queer community in the face of ecological collapse. Our rituals bring us face to face with our human need to grieve and celebrate with each other and the earth.",
-    "artist": "SkyTing Crew",
-    "images": [
-      {
-        "thumbnail_url": "https://burningman.widen.net/content/ossq64vryz/jpeg/a3OVI00000DWI8n2AH.jpeg?w=328&keep=c&crop=yes&color=cccccc&quality=100&u=r3rtjx"
-      }
-    ],
-    "tags": [
-      "diesel-punk",
-      "airship",
-      "psychedelic",
-      "blue",
-      "shiny"
     ]
   },
   {
@@ -11092,6 +11046,29 @@
       "Rabbit",
       "Fluffy",
       "Multicolor"
+    ]
+  },
+  {
+    "uid": "a6BVI000000nfgL2AQ",
+    "name": "SuperMod-PediQuad / Pakeyu's Solar Car",
+    "year": 2026,
+    "url": "https://flic.kr/s/aHsmCJbap5",
+    "donation_link": null,
+    "contact_email": null,
+    "hometown": "Reno, NV",
+    "description": "the SMPQ is a fully solar powered / electric assisted taxi originally designed as an abstract octopus with flowing tentacles that are now covered in flowers & vines allowing the passengers to be transported through an environment of nature.\n\nThe SMPQ ultimately offers a unique silent floating experience as a passenger within, and as a visual spectacle to passerbyers from afar. it runs ALL day long powered by the sun alone, and stores enough energy in the modified battery array to continue all through the night... shuffling strangers to centercamp, a party deep deep playa, the infirmary, home or to find safety with a friend... \n\nalways going to & form every corner of the playa. we have met many a new friend as a result!!!",
+    "artist": "Pakeyu's Solar Car by Mike Carp",
+    "images": [
+      {
+        "thumbnail_url": "http://surveygizmoresponseuploads.s3.amazonaws.com/fileuploads/101590/6047425/15-059a6e6e6c200454c600ddb08256506d_76550027-996d-4a04-9082-a84519ae8b76.jpeg"
+      }
+    ],
+    "tags": [
+      "Pink",
+      "Furry",
+      "Cozy",
+      "Wings",
+      "Solar"
     ]
   }
 ]
