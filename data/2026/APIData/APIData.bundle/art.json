@@ -214,7 +214,7 @@
     ],
     "guided_tours": false,
     "self_guided_tour_map": false,
-    "needs_volunteers": true
+    "needs_volunteers": false
   },
   {
     "uid": "a2IVI000002X2Uv2AK",
@@ -3655,7 +3655,7 @@
     ],
     "guided_tours": false,
     "self_guided_tour_map": true,
-    "needs_volunteers": true
+    "needs_volunteers": false
   },
   {
     "uid": "a2IVI000002eHaT2AU",
@@ -4895,7 +4895,7 @@
     ],
     "guided_tours": false,
     "self_guided_tour_map": true,
-    "needs_volunteers": true
+    "needs_volunteers": false
   },
   {
     "uid": "a2IVI000002hAxR2AU",
@@ -9932,7 +9932,7 @@
     "url": null,
     "contact_email": null,
     "hometown": "Oakland, CA, United States",
-    "description": "The elementals are tree spirits that help guide your messages to the cosmos. Each element, water, fire, earth, and wind, is an ancient entity that will ask something of you. Water asks: What wants to flow for you? Fire asks: What are you letting go? Wind asks: What are you calling in? Earth asks you to ground together. Each spirit is accompanied with an acoustic element that helps your message reach the cosmos.",
+    "description": "Golden Hour is a moment of whimsy. You are invited to rest, surrounded by larger-than-life musical insects. Tap, play, and strum to create a symphony with this marshland orchestra.",
     "artist": "Chelsey Hathman & Sterling Fortaliza",
     "category": "Open Playa",
     "program": "ManPavGrant",
@@ -10273,10 +10273,10 @@
     "url": "https://ianrowen.com/art",
     "contact_email": "ianian@burningman.org",
     "hometown": "Kyushu, Taiwan, Alaska",
-    "description": "Cryptomerian Calligraphy\n\n塵の環 幹の芯より 天を突く (Chiri no wa / miki no shin yori / ten o tsuku):\n\nA ring of dust, pillar piercing the heavens\n\n(original brush paintings with bark fragments of ancient Jōmon Sugi Cryptomeria Japonica from Yakushima, Kyushu)",
+    "description": "Cryptomerian Calligraphy\r\n\r\n塵の環 幹の芯より 天を突く (Chiri no wa / miki no shin yori / ten o tsuku):\r\n\r\nA ring of dust, pillar piercing the heavens\r\n\r\nOriginal brush paintings with bark fragments of ancient Jōmon Sugi Cryptomeria Japonica tree from Yakushima, Kyushu.",
     "artist": "Ian Rowen & Naoko Matsunaga",
-    "category": null,
-    "program": "Self-Funded",
+    "category": "Open Playa",
+    "program": "ManPavGrant",
     "donation_link": null,
     "location": {
       "hour": null,
@@ -10306,8 +10306,8 @@
     "hometown": "Furulund, Sweden",
     "description": "Christina Sporrong and Christian Ristow are working in tandem on a total of 12 large panels that will be installed within the Man pavilions' center column. The images will narrate a story relating to the themes of nature, humanity, and cosmos.",
     "artist": "Christina Sporrong & Christian Ristow",
-    "category": null,
-    "program": "Self-Funded",
+    "category": "Open Playa",
+    "program": "ManPavGrant",
     "donation_link": null,
     "location": {
       "hour": null,

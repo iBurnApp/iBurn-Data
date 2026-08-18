@@ -1,27 +1,5 @@
 [
   {
-    "uid": "a6BVI000000GbJl2AK",
-    "name": "Fun Across",
-    "year": 2026,
-    "url": "https://wordplaycafe.org/mutant-vehicle/",
-    "donation_link": "https://wordplaycafe.org/support",
-    "contact_email": "letsplay@wordplaycafe.org",
-    "hometown": "Palo Alto, CA",
-    "description": "Fun Across is a giant crossword puzzle that travels around the playa and gives out custom Burning Man word games to participants.",
-    "artist": "Hilary Somers and the Pencil Team",
-    "images": [
-      {
-        "thumbnail_url": "https://burningman.widen.net/content/t1c4njxqyy/png/a3OVI00000CPjr32AD.png?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx"
-      }
-    ],
-    "tags": [
-      "Crossword",
-      "Black",
-      "White",
-      "Words"
-    ]
-  },
-  {
     "uid": "a6BVI000000Le0r2AC",
     "name": "Moebius Omnibus",
     "year": 2026,
@@ -6136,6 +6114,29 @@
       "Eyeball",
       "Slug",
       "Fire"
+    ]
+  },
+  {
+    "uid": "a6BVI000000Re1N2AS",
+    "name": "The Lighthouse",
+    "year": 2026,
+    "url": null,
+    "donation_link": null,
+    "contact_email": null,
+    "hometown": null,
+    "description": "The Lighthouse is a beacon to weary burners, entertaining with music and lights at night and serving Cuban coffee at sunrise.",
+    "artist": "The Lighthouse by Havana Nights Camp",
+    "images": [
+      {
+        "thumbnail_url": "https://burningman.widen.net/content/wnzpszk0kk/png/a3OVI00000DmKjK2AV.png?w=1000&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx"
+      }
+    ],
+    "tags": [
+      "Lighthouse",
+      "Tower",
+      "Water",
+      "Rocks",
+      "Beacon"
     ]
   },
   {
