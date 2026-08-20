@@ -1636,7 +1636,7 @@
   },
   {
     "uid": "a6BVI000000MD0D2AW",
-    "name": "Cuddles the Otter",
+    "name": "The Last Giant Otter",
     "year": 2026,
     "url": null,
     "donation_link": null,
@@ -4476,29 +4476,6 @@
     ]
   },
   {
-    "uid": "a6BVI000000ONmf2AG",
-    "name": "The Whomp Wagon",
-    "year": 2026,
-    "url": "https://whompwagon.com/",
-    "donation_link": "https://whompwagon.com/support",
-    "contact_email": "pat@paverproducts.com",
-    "hometown": "Reno",
-    "description": "The Whomp Wagon was created as a platform where musicians of all genres can perform and share their gift for everyone. Burning Man changed our lives for the better and forever! The Whomp Wagon is our way of giving back to the BURNING MAN community!",
-    "artist": "Whomp Wagon Creator Patrick Conners & Whomp Crew",
-    "images": [
-      {
-        "thumbnail_url": "https://burningman.widen.net/content/oyadplwplk/jpeg/a3OVI00000DQXww2AH.jpeg?w=328&keep=c&crop=yes&color=cccccc&quality=100&u=r3rtjx"
-      }
-    ],
-    "tags": [
-      "Large",
-      "Wagon",
-      "Music",
-      "Fire",
-      "Family"
-    ]
-  },
-  {
     "uid": "a6BVI000000ONpt2AG",
     "name": "REDEMPTION",
     "year": 2026,
@@ -5664,29 +5641,6 @@
       "Illuminated",
       "Fairytale",
       "MadMaxx"
-    ]
-  },
-  {
-    "uid": "a6BVI000000Qfif2AC",
-    "name": "Bobbie the Polar Bear",
-    "year": 2026,
-    "url": null,
-    "donation_link": null,
-    "contact_email": null,
-    "hometown": "Phoenix, AZ",
-    "description": "We built Bobby the Polar Bear to share our art with the community and bring something new and fun to Black Rock City. Bobby is the ultimate party animal who would love to contribute to all the parties that exist on the Playa. He also loves to give people polar bear rides on his back.",
-    "artist": "The Polar Bears",
-    "images": [
-      {
-        "thumbnail_url": "http://surveygizmoresponseuploads.s3.amazonaws.com/fileuploads/101590/6047425/115-cc095c57745d9786ad7193ebc1acb1ad_93e23f90-c08c-4fec-80d7-dc6a29416ce5.png"
-      }
-    ],
-    "tags": [
-      "Cool",
-      "Bright",
-      "white",
-      "electric",
-      "giant"
     ]
   },
   {

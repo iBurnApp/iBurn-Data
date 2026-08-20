@@ -1364,37 +1364,6 @@
     "needs_volunteers": true
   },
   {
-    "uid": "a2IVI000002ciN32AI",
-    "name": "#MUXALOVE",
-    "year": 2026,
-    "url": "https://Libertee.art/muxalove",
-    "contact_email": "misha@libertee.art",
-    "hometown": "Yerevan, Armenia",
-    "description": "#MUXALOVE stands as a monumental 25-meter (82-foot) tall Venus Flytrap, reimagining the Axis Mundi as a biological pillar of transformation. This surreal installation features a massive kinetic head with jaws that rhythmically open and close, establishing a living presence against the desert horizon. The entire structure is internally illuminated with vibrant LED systems, casting a striking silhouette across the Playa. Representing a \"Divine Devourer,\" the piece symbolizes a portal connecting the terrestrial and celestial through the process of consumption. It embodies the death of the ego as a prerequisite for spiritual rebirth, exploring the raw power of nature and the cyclic necessity of shedding the old self.",
-    "artist": "Misha Libertee",
-    "category": null,
-    "program": "Self-Funded",
-    "donation_link": null,
-    "location": {
-      "hour": 2,
-      "minute": 9,
-      "distance": 2300,
-      "category": "Open Playa",
-      "gps_latitude": 40.78115386222659,
-      "gps_longitude": -119.20002459793193
-    },
-    "location_string": "2:09 2300', Open Playa",
-    "images": [
-      {
-        "thumbnail_url": "https://burningman.widen.net/content/jmqsr3lntk/jpeg/a2IVI000002ciN32AI-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
-        "gallery_ref": null
-      }
-    ],
-    "guided_tours": false,
-    "self_guided_tour_map": false,
-    "needs_volunteers": false
-  },
-  {
     "uid": "a2IVI000002cklR2AQ",
     "name": "Iron Butterfly of Love",
     "year": 2026,
@@ -2043,37 +2012,6 @@
     ],
     "guided_tours": false,
     "self_guided_tour_map": true,
-    "needs_volunteers": false
-  },
-  {
-    "uid": "a2IVI000002dKTx2AM",
-    "name": "Primitive Obsession",
-    "year": 2026,
-    "url": "http://wakenmake.shop/projects/primitive_obsession",
-    "contact_email": "contact@wakenmake.shop",
-    "hometown": "San Francisco, CA, United States",
-    "description": "Primitive Obsession is a 20×20×22-foot cubic scaffolding structure containing 160 suspended LED curtains that form a walk-through volumetric light field. Within the grid, archetypal geometries emerge and dissolve: expanding spheres, fractal canopies, ascending rings, winding double helices, and shimmering constellations. Light becomes architectural, surrounding the body with shifting columns and planes of color. By transforming simple natural geometries into spatial illumination, the work explores humanity's enduring attraction to elemental forms. The installation functions as both a sculptural light environment and an interactive instrument for new media artworks and audiovisual performance.",
-    "artist": "Squid + wakenmake.shop",
-    "category": "Open Playa",
-    "program": "Self-Funded",
-    "donation_link": "https://www.gofundme.com/f/help-us-create-interactive-art-in-sf",
-    "location": {
-      "hour": 1,
-      "minute": 4,
-      "distance": 2760,
-      "category": "Open Playa",
-      "gps_latitude": 40.78495927744811,
-      "gps_longitude": -119.19815152707965
-    },
-    "location_string": "1:04 2760', Open Playa",
-    "images": [
-      {
-        "thumbnail_url": "https://burningman.widen.net/content/z8wkf2tm9g/jpeg/a2IVI000002dKTx2AM-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
-        "gallery_ref": null
-      }
-    ],
-    "guided_tours": false,
-    "self_guided_tour_map": false,
     "needs_volunteers": false
   },
   {
@@ -5335,7 +5273,7 @@
     "uid": "a2IVI000002hpir2AA",
     "name": "Hero Armor",
     "year": 2026,
-    "url": "https://matobago.github.io/hero-armor/",
+    "url": "https://hero-armor.com/",
     "contact_email": "heroarmor.art@gmail.com",
     "hometown": "Kharkiv, Ukraine | Rotterdam, Netherlands | San Francisco, CA",
     "description": "They chose courage. We carry the memory.\r\nThis art object commemorates those who left civilian life to defend the freedom of Ukraine and its people. It embodies a warrior-defender, originally developed by 3D artist Zakhar Zakharov based on a concept by Thomas Wievegg. In 2022, Zakhar left to defend his homeland and did not return.\r\n\r\nThe installation manifests a futuristic guardian in blue and yellow, symbolizing courage, memory, and resilience. The figure stands on an illuminated octagonal base resembling tree roots, expressing connection to family, community, and homeland. Together, they form an axis mundi—an enduring structure that carries forward memory and the human spirit.",
@@ -8779,7 +8717,7 @@
     "url": "https://faffe.art/",
     "contact_email": "info@faffe.art",
     "hometown": "Incline Village, NV, United States",
-    "description": "The Garden of Impermanence: Axis Mundi is a walkable Tree of Life — 22 physical paths between 10 sephiroth statues, spanning 44' of playa. Balance beam paths of 2x4 timber (set 12\" above ground) represent the stable paths; gold slack lines represent the harder ones. At the heart stands a gold-painted pentagonal lantern (~11' tall) with shade and seating for 8-10. The numbered journey runs from node 1 (Kingdom, south entrance) to node 10 (Crown, north apex). Some paths are firm. Some are not. At the center, the Peacock waits.",
+    "description": "The Garden of Impermanence: Axis Mundi is a walkable Tree of Life —Choose your path and walk the Tree of Life. Lose your way — that's allowed. Dawdle at the sephiroth. Hide from the sun in the golden lantern at Beauty, where a Peacock with excellent posture has saved you a seat. Ponder your journey as the sun sets behind the Temple. Enlightenment optional. Sitting down highly encouraged. The tree isn't going anywhere. (Well. Until it is.)",
     "artist": "FAFFE cult",
     "category": "Open Playa",
     "program": "Self-Funded",
