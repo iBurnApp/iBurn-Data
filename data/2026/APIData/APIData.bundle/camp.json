@@ -8551,7 +8551,9 @@
       "intersection": null,
       "intersection_type": null,
       "dimensions": "137+ x 211-",
-      "exact_location": null
+      "exact_location": null,
+      "gps_latitude": 40.761461,
+      "gps_longitude": -119.212645
     },
     "location_string": "Airport Road",
     "images": [
@@ -18381,7 +18383,9 @@
       "intersection": null,
       "intersection_type": null,
       "dimensions": "522+ x 346+",
-      "exact_location": null
+      "exact_location": null,
+      "gps_latitude": 40.761461,
+      "gps_longitude": -119.212645
     },
     "location_string": "Airport Road",
     "images": [

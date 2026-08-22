@@ -17,6 +17,12 @@
     "K": "Kundalini"
   },
   "retired_streets": ["Rods Road", "Route 66"],
+  "extra_landmarks": {
+    "Airport Road": {
+      "coordinates": [-119.212645, 40.761461],
+      "note": "Not a CPN and not in the GIS drop: the airport-village camps address themselves to 'Airport Road'. This is a point on data/2026/geo/airport_road.geojson, 75 m up the road from its trash-fence end toward the city, where the camps sit (the 'Airport' CPN itself is ~210 m east, past the fence corner)."
+    }
+  },
   "gap_landmark_cpn": "Center Camp",
   "gap_landmark_radius_ft": 1200,
   "default_plaza_radius_ft": 175

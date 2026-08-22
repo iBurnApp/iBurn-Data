@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Airport Road",
+                "source": "hand-authored",
+                "note": "Not published in BMorg's 2026 GIS drop; traced from the 2026 BRC Public Map. One straight segment from the 5:00 & Kundalini (K) intersection - the outermost vertex of the official 5:00 radial in street_lines.geojson - southeast to the trash fence corner at the airport (trash_fence.geojson / the 'Point 5' CPN)."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [-119.213261369, 40.767989688],
+                    [-119.212581530, 40.760788246]
+                ]
+            }
+        }
+    ]
+}
