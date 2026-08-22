@@ -1,5 +1,28 @@
 [
   {
+    "uid": "a6BVI000000Gent2AC",
+    "name": "TEST Hilary's MV 2026 #1",
+    "year": 2026,
+    "url": "https://google.com",
+    "donation_link": "https://www.wordplaycafe.orf",
+    "contact_email": "hilary.somers@gmail.com",
+    "hometown": "Palo Alto, CA",
+    "description": "Avoid using special characters and symbols or URL links.",
+    "artist": "Hilary Somers and the Pencil Team",
+    "images": [
+      {
+        "thumbnail_url": "https://burningman.widen.net/content/3mvqcji2tx/jpeg/a3OVI00000CQfv32AD.jpeg?w=328&keep=c&crop=yes&color=cccccc&quality=100&u=r3rtjx"
+      }
+    ],
+    "tags": [
+      "yellow",
+      "pink",
+      "pointy",
+      "Words",
+      "tea"
+    ]
+  },
+  {
     "uid": "a6BVI000000Le0r2AC",
     "name": "Moebius Omnibus",
     "year": 2026,
@@ -5872,7 +5895,7 @@
   },
   {
     "uid": "a6BVI000000ROXh2AO",
-    "name": "HERMES (Was Robot Warrior)",
+    "name": "Hermes",
     "year": 2026,
     "url": null,
     "donation_link": null,

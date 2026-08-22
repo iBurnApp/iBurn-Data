@@ -716,7 +716,7 @@
     "uid": "a2IVI000002asbp2AA",
     "name": "Moth",
     "year": 2026,
-    "url": null,
+    "url": "https://moth.42storm.com",
     "contact_email": "artstrm@pm.me",
     "hometown": "Noginsk, Russia",
     "description": "This statue captures the tension between Western trinity and Eastern duality. Three arms represent facets of human striving: will (weapon), understanding (knowledge), and exploration (lantern). These are expressions of the self shaping reality through action, thought, and intuition. Yet the two legs ground the figure in duality — yin and yang, light and shadow, life and death. The insect-like form hints at a post-human archetype, a being not choosing between opposites but holding them both at once. It invites reflection on the paradox of unity through contradiction.",
@@ -5243,7 +5243,7 @@
     "name": "Right Ear, Right Now",
     "year": 2026,
     "url": "https://instagram.com/right.ear.right.now",
-    "contact_email": "neil@neilmendoza.com",
+    "contact_email": "worrycreatures@gmail.com",
     "hometown": "London, UK, & Albuquerque, NM",
     "description": "Right Ear Right Now invites burners to embark on a Q Tip guided spiritual quest, be vulnerable and open their inner worlds to the ear. The Q Tip channels participant's negative energies into the ear relieving them of their f-ears through the act of cleaning the ear.",
     "artist": "Enginears Collective",
@@ -8717,7 +8717,7 @@
     "url": "https://faffe.art/",
     "contact_email": "info@faffe.art",
     "hometown": "Incline Village, NV, United States",
-    "description": "The Garden of Impermanence: Axis Mundi is a walkable Tree of Life —Choose your path and walk the Tree of Life. Lose your way — that's allowed. Dawdle at the sephiroth. Hide from the sun in the golden lantern at Beauty, where a Peacock with excellent posture has saved you a seat. Ponder your journey as the sun sets behind the Temple. Enlightenment optional. Sitting down highly encouraged. The tree isn't going anywhere. (Well. Until it is.)",
+    "description": "Choose your path and walk the Tree of Life. Lose your way — that's allowed. Dawdle at the sephiroth. Hide from the sun in the golden lantern at Beauty, where a Peacock with excellent posture has saved you a seat. Ponder your journey as the sun sets behind the Temple. Enlightenment optional. Sitting down highly encouraged. The tree isn't going anywhere. (Well. Until it is.)",
     "artist": "FAFFE cult",
     "category": "Open Playa",
     "program": "Self-Funded",
@@ -8734,37 +8734,6 @@
     "images": [
       {
         "thumbnail_url": "https://burningman.widen.net/content/93ue8vouqj/jpeg/a2IVI000002uKkT2AU-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
-        "gallery_ref": null
-      }
-    ],
-    "guided_tours": false,
-    "self_guided_tour_map": false,
-    "needs_volunteers": false
-  },
-  {
-    "uid": "a2IVI000002uKm52AE",
-    "name": "Everywhere Nowhere Express",
-    "year": 2026,
-    "url": null,
-    "contact_email": null,
-    "hometown": "El Cerrito, CA, United States",
-    "description": "Everywhere Nowhere Express is a large, 3-D train ticket that participants can enter. From the outside, the towering ticket structure signals both departure and arrival, stamped with destinations that are paradoxes: Everywhere. Nowhere. Now.\n\nStep onboard and the experience transforms. The platform becomes a whimsical invitation for participants to settle in and feel the particular magic of being in transit. Not yet there. No longer here. Just the ride itself.",
-    "artist": "Gabe Kim & Kristle Henry",
-    "category": "Open Playa",
-    "program": "Self-Funded",
-    "donation_link": null,
-    "location": {
-      "hour": 3,
-      "minute": 57,
-      "distance": 1980,
-      "category": "Open Playa",
-      "gps_latitude": 40.778047587321666,
-      "gps_longitude": -119.20582112557244
-    },
-    "location_string": "3:57 1980', Open Playa",
-    "images": [
-      {
-        "thumbnail_url": "https://burningman.widen.net/content/2sdbs4frsf/jpeg/a2IVI000002uKm52AE-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
         "gallery_ref": null
       }
     ],
@@ -8966,7 +8935,7 @@
     "contact_email": "posner.david@gmail.com",
     "hometown": "Charlottesville, VA, United States",
     "description": "It looks like a tandem bicycle, weeeeeeee!",
-    "artist": "David & Jenni",
+    "artist": "David Posner, Jennifer Owens, and Ryan Blake",
     "category": "Open Playa",
     "program": "Self-Funded",
     "donation_link": null,
@@ -9560,8 +9529,8 @@
     "url": null,
     "contact_email": null,
     "hometown": "Dallas and Austin, TX; Joshua Tree, CA",
-    "description": "A tunnel of seven nested rainbow arches with a circular mirror at its center. Crystal prisms hang from each arch, scattering light across the playa. Seven questions of self-reflection are mounted inside, asking visitors to look\r\ninward and consider their past year, its storms and its rainbows. At night, the LED-lit arches glow across the open playa. It is a meditation on transition: a reminder that every storm passes, and that it is our strife that makes the rainbow possible.",
-    "artist": "Richard Card",
+    "description": "A tunnel of 21 nested rainbow arches. Crystal prisms hang from each arch, scattering light across the playa. The passage allows participants to reflect on their past year, its storms and its rainbows. At night, the LED-lit arches glow across the open playa. It is a meditation on transition: a reminder that every storm passes, and that it is our strife that makes the rainbow possible.",
+    "artist": "Richard Card and Rae Gross",
     "category": "Open Playa",
     "program": "Self-Funded",
     "donation_link": null,
