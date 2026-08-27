@@ -9802,15 +9802,15 @@
     "landmark": "Large U Shaped Bar with a Light Canopy",
     "accepting_campers": false,
     "location": {
-      "frontage": "3:00",
-      "intersection": "I",
+      "frontage": "I",
+      "intersection": "3:15",
       "intersection_type": "&",
-      "dimensions": "150 x 200",
-      "exact_location": "Corner - facing mountain & 2:00",
+      "dimensions": "200 x 150",
+      "exact_location": "Mid-block facing man",
       "gps_latitude": 40.772725,
       "gps_longitude": -119.194701
     },
-    "location_string": "3:00 & I",
+    "location_string": "I & 3:15",
     "images": [
       {
         "thumbnail_url": "https://burningman.widen.net/content/milsnvpjlc/jpeg/a1XVI00000FLBvt2AH-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx"
@@ -20698,6 +20698,7 @@
     "year": 2026,
     "url": "http://pdacamp.com",
     "contact_email": "partner.dance.adventures@gmail.com",
+    "description": "Discover the joy of connecting with other burners through dance. Take a break from Boots'N'Cats and spin, glide, and sway in our beautiful ballroom. Partner Dance Adventures (PDA) offers all-level partner dance classes and nightly dances all week. No partner required! Classes happen three times daily, and nightly dances feature jazz, blues, Latin, tango, and fusion on a shaded, sprung wooden floor: kind to your knees, indifferent to your skill level, and unforgiving of your dignity. Come dance the dust off your feet, find human connection, and remember that your body has more settings than “bike” and “horizontal.”",
     "landmark": "Partner Dance Adventures sign",
     "accepting_campers": false,
     "location": {
@@ -23686,7 +23687,7 @@
       "frontage": "3:00",
       "intersection": "J",
       "intersection_type": "&",
-      "dimensions": "150 x 200",
+      "dimensions": "150 x 250",
       "exact_location": "Corner - facing man & 2:00",
       "gps_latitude": 40.772026,
       "gps_longitude": -119.193777
@@ -27061,14 +27062,14 @@
     "accepting_campers": false,
     "location": {
       "frontage": "C",
-      "intersection": "4:45",
+      "intersection": "5:15",
       "intersection_type": "&",
-      "dimensions": "50 x 50",
-      "exact_location": "Mid-block facing man",
+      "dimensions": "50 x 100",
+      "exact_location": "Mid-block facing mountain",
       "gps_latitude": 40.773669,
       "gps_longitude": -119.209922
     },
-    "location_string": "C & 4:45",
+    "location_string": "C & 5:15",
     "images": [
       {
         "thumbnail_url": "https://burningman.widen.net/content/yinwk1zdki/jpeg/a1XVI00000FedQD2AZ-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx"

@@ -248,37 +248,6 @@
     "needs_volunteers": false
   },
   {
-    "uid": "a2IVI000002X4q52AC",
-    "name": "SHADOW PLAY",
-    "year": 2026,
-    "url": "https://shadowplay-burn-bliss.lovable.app",
-    "contact_email": "hankwill1820@outlook.com",
-    "hometown": "North Bethesda, MD, United States",
-    "description": "A large, immersive installation honoring ancient shadow puppetry and theatre. Twenty‑four aluminum arches—each 100 feet long and rising 15 feet at the apex—symbolize the hours of the day and form an expanding circular layout. Three‑foot canvas bands stretch over the arcs, creating shifting shadow patterns across a 175‑by‑175‑foot footprint. The open structure allows wind and visitors to flow through freely inviting self-expression. At night, backlit shadow panels and vibrant lighting transform the space into a dynamic arena for performances, including fire spinning, \"Shadow Play\" and music.",
-    "artist": "James A Brown",
-    "category": "Open Playa",
-    "program": "Self-Funded",
-    "donation_link": "https://www.gofundme.com/f/shadow-play-bringing-art-to-burning-man",
-    "location": {
-      "hour": 10,
-      "minute": 3,
-      "distance": 1710,
-      "category": "Open Playa",
-      "gps_latitude": 40.78779207170561,
-      "gps_longitude": -119.20932908547384
-    },
-    "location_string": "10:03 1710', Open Playa",
-    "images": [
-      {
-        "thumbnail_url": "https://burningman.widen.net/content/mz8grdvwzf/jpeg/a2IVI000002X4q52AC-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
-        "gallery_ref": null
-      }
-    ],
-    "guided_tours": false,
-    "self_guided_tour_map": false,
-    "needs_volunteers": false
-  },
-  {
     "uid": "a2IVI000002XLvl2AG",
     "name": "Hug Cabana",
     "year": 2026,
@@ -1364,6 +1333,37 @@
     "needs_volunteers": true
   },
   {
+    "uid": "a2IVI000002ciN32AI",
+    "name": "#MUXALOVE",
+    "year": 2026,
+    "url": "https://Libertee.art/muxalove",
+    "contact_email": "misha@libertee.art",
+    "hometown": "Yerevan, Armenia",
+    "description": "#MUXALOVE stands as a monumental 25-meter (82-foot) tall Venus Flytrap, reimagining the Axis Mundi as a biological pillar of transformation. This surreal installation features a massive kinetic head with jaws that rhythmically open and close, establishing a living presence against the desert horizon. The entire structure is internally illuminated with vibrant LED systems, casting a striking silhouette across the Playa. Representing a \"Divine Devourer,\" the piece symbolizes a portal connecting the terrestrial and celestial through the process of consumption. It embodies the death of the ego as a prerequisite for spiritual rebirth, exploring the raw power of nature and the cyclic necessity of shedding the old self.",
+    "artist": "Misha Libertee",
+    "category": null,
+    "program": "Self-Funded",
+    "donation_link": null,
+    "location": {
+      "hour": 2,
+      "minute": 9,
+      "distance": 2300,
+      "category": "Open Playa",
+      "gps_latitude": 40.78115386222659,
+      "gps_longitude": -119.20002459793193
+    },
+    "location_string": "2:09 2300', Open Playa",
+    "images": [
+      {
+        "thumbnail_url": "https://burningman.widen.net/content/jmqsr3lntk/jpeg/a2IVI000002ciN32AI-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
+        "gallery_ref": null
+      }
+    ],
+    "guided_tours": false,
+    "self_guided_tour_map": false,
+    "needs_volunteers": false
+  },
+  {
     "uid": "a2IVI000002cklR2AQ",
     "name": "Iron Butterfly of Love",
     "year": 2026,
@@ -2276,13 +2276,13 @@
     "donation_link": "https://nangdu.info/",
     "location": {
       "hour": 5,
-      "minute": 26,
-      "distance": 2300,
+      "minute": 20,
+      "distance": 2050,
       "category": "Open Playa",
-      "gps_latitude": 40.7776744291436,
-      "gps_longitude": -119.21175760420664
+      "gps_latitude": 40.77814912785562,
+      "gps_longitude": -119.21098745858662
     },
-    "location_string": "5:26 2300', Open Playa",
+    "location_string": "5:20 2050', Open Playa",
     "images": [
       {
         "thumbnail_url": "https://burningman.widen.net/content/gjaqhju8vn/jpeg/a2IVI000002dbPx2AI-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
@@ -5735,37 +5735,6 @@
     "needs_volunteers": false
   },
   {
-    "uid": "a2IVI000002iNKj2AM",
-    "name": "OptimeyeZ",
-    "year": 2026,
-    "url": "https://www.instagram.com/nuclearflowerplantfactory/",
-    "contact_email": null,
-    "hometown": "Indianapolis, IN, United States",
-    "description": "OptimeyeZ takes its name from the idea of optimizing one's experience at Burning Man. A pair of comically large, seven-inch googly eyes placed on a first timer's tent, capturing the playful absurdity of the playa, sparking inspiration to build them bigger. The installation reflects fleeting moments of joy—distant smiles, radiant lights, and unbridled bliss across Black Rock. Beneath its humor lies the enduring symbolism of the eye in art history, representing perception and awareness. The piece embodies core principles of the burn, especially radical inclusivity, expressing that all are seen, all are welcome, and all belong.",
-    "artist": "Anthony (Dancy) Chabenne",
-    "category": "Open Playa",
-    "program": "Self-Funded",
-    "donation_link": null,
-    "location": {
-      "hour": 10,
-      "minute": 49,
-      "distance": 5400,
-      "category": "Open Playa",
-      "gps_latitude": 40.797830563591795,
-      "gps_longitude": -119.20469378320868
-    },
-    "location_string": "10:49 5400', Open Playa",
-    "images": [
-      {
-        "thumbnail_url": "https://burningman.widen.net/content/rh2gfyihwy/jpeg/a2IVI000002iNKj2AM-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
-        "gallery_ref": null
-      }
-    ],
-    "guided_tours": false,
-    "self_guided_tour_map": false,
-    "needs_volunteers": false
-  },
-  {
     "uid": "a2IVI000002iSST2A2",
     "name": "Piko",
     "year": 2026,
@@ -6290,37 +6259,6 @@
     ],
     "guided_tours": false,
     "self_guided_tour_map": false,
-    "needs_volunteers": false
-  },
-  {
-    "uid": "a2IVI000002kh0n2AA",
-    "name": "THE TEAR OF MIDAS",
-    "year": 2026,
-    "url": "https://the-tears-of-midas.pro",
-    "contact_email": "feneux.pro@gmail.com",
-    "hometown": "Egletons and Betchat, France",
-    "description": "Confronted with the excesses of our contemporary lifestyle, the Tear of Midas serves as both an ecological warning and a symbolic call for collective awareness.\r\n\r\nCrafted from wood, this \"tear\" represents a drop of oxygen—decarbonizing the future while reawakening our imagination. It invites us to reflect on new ways of living and designing, through architecture that harmonizes with and draws inspiration from the natural world.",
-    "artist": "Michaël FENEUX",
-    "category": "Open Playa",
-    "program": "Self-Funded",
-    "donation_link": "https://the-tears-of-midas.pro/",
-    "location": {
-      "hour": 6,
-      "minute": 10,
-      "distance": 1600,
-      "category": "Open Playa",
-      "gps_latitude": 40.78041785599013,
-      "gps_longitude": -119.21229400459758
-    },
-    "location_string": "6:10 1600', Open Playa",
-    "images": [
-      {
-        "thumbnail_url": "https://burningman.widen.net/content/iu0cejmztt/jpeg/a2IVI000002kh0n2AA-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
-        "gallery_ref": null
-      }
-    ],
-    "guided_tours": false,
-    "self_guided_tour_map": true,
     "needs_volunteers": false
   },
   {
@@ -9236,7 +9174,7 @@
     "uid": "a2IVI0000031PkD2AU",
     "name": "The Last Shore",
     "year": 2026,
-    "url": null,
+    "url": "https://www.instagram.com/stihiafestival",
     "contact_email": "suleimanov@unknownprojects.org",
     "hometown": "Tashkent, Uzbekistan",
     "description": "The Last Shore is an interactive portal inspired by the disappearance of the Aral Sea, once the fourth-largest inland lake on Earth.\nA freestanding frame filled with suspended reflective elements and transparent droplets creates the illusion of shimmering water suspended in space. As participants pass through the portal, a hidden soundscape evokes waves, wind, seabirds, and voices from the Aral Sea region.\nCreated by Stihia community from Muynak, a former fishing town on the Aral Sea, the work explores memory, loss, and transformation. It creates a symbolic connection between two former seabeds: the Aral Sea and Black Rock Desert, inviting reflection on what remains after landscapes change.",
@@ -9659,14 +9597,14 @@
     "program": "ManPavGrant",
     "donation_link": null,
     "location": {
-      "hour": null,
-      "minute": null,
-      "distance": null,
-      "category": null,
-      "gps_latitude": 0,
-      "gps_longitude": 0
+      "hour": 7,
+      "minute": 30,
+      "distance": 10,
+      "category": "Man Pavilion",
+      "gps_latitude": 40.78324193409669,
+      "gps_longitude": -119.2079071609512
     },
-    "location_string": null,
+    "location_string": "7:30 10', Man Pavilion",
     "images": [
       {
         "thumbnail_url": "https://burningman.widen.net/content/d5frybstqj/jpeg/a2IVI0000037FF72AM-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
@@ -9690,14 +9628,14 @@
     "program": "ManPavGrant",
     "donation_link": null,
     "location": {
-      "hour": null,
-      "minute": null,
-      "distance": null,
-      "category": null,
-      "gps_latitude": 0,
-      "gps_longitude": 0
+      "hour": 10,
+      "minute": 30,
+      "distance": 10,
+      "category": "Man Pavilion",
+      "gps_latitude": 40.78326938057099,
+      "gps_longitude": -119.20787108702972
     },
-    "location_string": null,
+    "location_string": "10:30 10', Man Pavilion",
     "images": [
       {
         "thumbnail_url": "https://burningman.widen.net/content/oekpxaji39/jpeg/a2IVI0000037TDF2A2-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
@@ -9721,14 +9659,14 @@
     "program": "ManPavGrant",
     "donation_link": null,
     "location": {
-      "hour": null,
-      "minute": null,
-      "distance": null,
-      "category": null,
-      "gps_latitude": 0,
-      "gps_longitude": 0
+      "hour": 6,
+      "minute": 0,
+      "distance": 10,
+      "category": "Man Pavilion",
+      "gps_latitude": 40.78322259241309,
+      "gps_longitude": -119.2078965081071
     },
-    "location_string": null,
+    "location_string": "6:00 10', Man Pavilion",
     "images": [
       {
         "thumbnail_url": "https://burningman.widen.net/content/0jnk4hszet/jpeg/a2IVI0000037U9J2AU-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
@@ -9752,14 +9690,14 @@
     "program": "ManPavGrant",
     "donation_link": null,
     "location": {
-      "hour": null,
-      "minute": null,
-      "distance": null,
-      "category": null,
-      "gps_latitude": 0,
-      "gps_longitude": 0
+      "hour": 6,
+      "minute": 0,
+      "distance": 20,
+      "category": "Man Pavilion",
+      "gps_latitude": 40.78320318482056,
+      "gps_longitude": -119.20792201619929
     },
-    "location_string": null,
+    "location_string": "6:00 20', Man Pavilion",
     "images": [
       {
         "thumbnail_url": "https://burningman.widen.net/content/atbxcwpwfw/jpeg/a2IVI0000037WSr2AM-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
@@ -10031,14 +9969,14 @@
     "program": "ManPavGrant",
     "donation_link": null,
     "location": {
-      "hour": null,
-      "minute": null,
-      "distance": null,
-      "category": null,
-      "gps_latitude": 0,
-      "gps_longitude": 0
+      "hour": 1,
+      "minute": 30,
+      "distance": 10,
+      "category": "Man Pavilion",
+      "gps_latitude": 40.783242065892026,
+      "gps_longitude": -119.20783483904872
     },
-    "location_string": null,
+    "location_string": "1:30 10', Man Pavilion",
     "images": [
       {
         "thumbnail_url": "https://burningman.widen.net/content/tckadoyyjc/jpeg/a2IVI000003CVG12AO-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
@@ -10231,6 +10169,89 @@
         "gallery_ref": null
       }
     ],
+    "guided_tours": false,
+    "self_guided_tour_map": false,
+    "needs_volunteers": false
+  },
+  {
+    "uid": "a2IVI000003H0wP2AS",
+    "name": "Buho",
+    "year": 2026,
+    "url": null,
+    "contact_email": "npalmer240@gmail.com",
+    "hometown": "South Lake Tahoe, CA, United States",
+    "description": "Buho is a mixed metal, 8 foot tall owl created out of a used, deconstructed trailer axle. Effectively, its head and body can rotate a full 360 degrees in either direction, mimicking an owl in the wild. The feet are made of rebar, connected to old flywheels and brake rotors, which gives stability and support to the piece.  Body and head are comprised of copper and steel with the eyes being from old bike gear and dyed acrylic. Owls represent wisdom and inner knowing in ancient cultures. Buho, with its ever spinning gaze, encourages us to use our intuition to bring light to some situation in our lives that may need guidance.",
+    "artist": "Nicholas Palmer",
+    "category": "Open Playa",
+    "program": "Self-Funded",
+    "donation_link": null,
+    "location": {
+      "hour": 6,
+      "minute": 5,
+      "distance": 1600,
+      "category": "Open Playa",
+      "gps_latitude": 40.780274460934095,
+      "gps_longitude": -119.21212710638883
+    },
+    "location_string": "6:05 1600', Open Playa",
+    "images": [
+      {
+        "thumbnail_url": "https://burningman.widen.net/content/o2fcwfnmov/jpeg/a2IVI000003H0wP2AS-1.jpeg?w=640&keep=c&crop=yes&color=cccccc&quality=80&u=r3rtjx",
+        "gallery_ref": null
+      }
+    ],
+    "guided_tours": false,
+    "self_guided_tour_map": false,
+    "needs_volunteers": false
+  },
+  {
+    "uid": "a2IVI000003HaVB2A0",
+    "name": "Tree of Light",
+    "year": 2026,
+    "url": "http://www.astrothebaptist.space",
+    "contact_email": "studio@astrothebaptist.space",
+    "hometown": "Los Angeles, CA, United States",
+    "description": "Tree of Light is a sculputre of a tree made of dichroic glass. astrothebaptist puppets a single source of light to create a live light show to music.",
+    "artist": "astrothebaptist",
+    "category": null,
+    "program": "Self-Funded",
+    "donation_link": null,
+    "location": {
+      "hour": null,
+      "minute": null,
+      "distance": null,
+      "category": null,
+      "gps_latitude": 0,
+      "gps_longitude": 0
+    },
+    "location_string": null,
+    "images": [],
+    "guided_tours": false,
+    "self_guided_tour_map": false,
+    "needs_volunteers": false
+  },
+  {
+    "uid": "a2IVI000003HcYb2AK",
+    "name": "holding it down",
+    "year": 2026,
+    "url": "http://stephandouglasduval.com",
+    "contact_email": "holdingitdown@mail.stephandouglasduval.com",
+    "hometown": "Edmonton, Canada",
+    "description": "August 23, 20205 Burning Man a wind storm tears through a perfectly set up camp, in a perfectly set up city.  Fifteen minutes of panic, fear and resilience as shelter, art and equipment were taken by a fierce and unyielding wind. Holding it down is this moment in time- frozen- where we stood firm against a force of nature.  Standing solid on shaking ground, in a hard minute, a hard year, a small fraction of a wonderful shared life.",
+    "artist": "Stephan DuVal",
+    "category": null,
+    "program": "Self-Funded",
+    "donation_link": null,
+    "location": {
+      "hour": 11,
+      "minute": 22,
+      "distance": 3400,
+      "category": "ARTery",
+      "gps_latitude": 40.79161892565528,
+      "gps_longitude": -119.20250726684513
+    },
+    "location_string": "11:22 3400', ARTery",
+    "images": [],
     "guided_tours": false,
     "self_guided_tour_map": false,
     "needs_volunteers": false

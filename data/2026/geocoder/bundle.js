@@ -312,6 +312,18 @@ OrgForwardGeocoder.prototype.geocode = function(locationString1, locationString2
         return portal.geometry.type === 'Point' ? portal : turf.centroid(portal);
       }
     }
+    // "10:00 & 10:00 B Plaza" — the API writes the radial and then repeats it
+    // inside the plaza's own name. splitAddress keeps only the first clock
+    // token, so the remainder ("B Plaza") names no ring and the whole string is
+    // too far from "10:00 b plaza" for the fuzzy landmark match. Re-attach the
+    // time to the plaza name, which is how plazas are keyed. Also resolves the
+    // plain "<time> & <letter> Plaza" spelling.
+    if (/plaza/i.test(parts.feature)) {
+      var plaza = this.matchLandmark(parts.time + ' ' + parts.feature);
+      if (plaza) {
+        return plaza.geometry.type === 'Point' ? plaza : turf.centroid(plaza);
+      }
+    }
   }
 
   // A bare landmark name ("Center Camp Plaza", "Playa Info", "1200 Promenade")
